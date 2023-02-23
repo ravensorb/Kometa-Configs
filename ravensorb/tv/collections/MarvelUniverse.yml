@@ -15,6 +15,7 @@ collections:
   "Marvel Universe":
     template: { name: set, poster: https://theposterdb.com/api/assets/19724 }
     summary: Marvel Universe Collection
+    collection_mode: show_items
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/marvel-collection?sort=released,desc
 
@@ -27,6 +28,7 @@ collections:
   "Marvel: Daredevil":
     template: { name: set, poster: https://theposterdb.com/api/assets/181083 }
     summary: "Daredevil follows Matt Murdock, attorney by day and vigilante by night. Blinded in an accident as a child, Murdock uses his heightened senses as Daredevil, fighting crime on the streets of New York after the sun goes down. His efforts are not welcomed by Wilson Fisk -- aka Kingpin -- and others whose interests collide with those of Daredevil. Though Murdock's day job portrays a man who believes in the criminal justice system, his alter ego suggests otherwise, as he takes the law into his own hands to protect his neighborhood."
+    collection_mode: hide
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/marvel-daredevil-24744265?sort=released,desc
 
