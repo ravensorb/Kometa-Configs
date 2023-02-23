@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Dirty Jobs":
+    template: { name: set, show: "78904, 384563, 284791", poster: https://theposterdb.com/api/assets/205997 }
+    summary: DIRTY JOBS profiles the unsung American laborers who make their living in the most unthinkable -- yet vital -- ways. Our brave host and apprentice Mike Rowe will introduce you to a hardworking group of men and women who overcome fear, danger and sometimes stench and overall ickiness to accomplish their daily tasks.

@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+    url_background: <<background>>
+
+collections:
+ "CSI":
+    template: { name: set, show: "72546, 78310, 73696, 281551, 400248", poster: https://theposterdb.com/api/assets/102143, background: https://i.imgur.com/E3ibZh1.jpg }
+    summary: CSI Collection

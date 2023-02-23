@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "FBI":
+    template: { name: set, show: "350071, 364088, 399863", poster: https://theposterdb.com/api/assets/36472 }
+    summary: FBI Collection

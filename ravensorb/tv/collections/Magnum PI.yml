@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Magnum P.I.":
+    template: { name: set, show: "74380, 350068", poster: https://theposterdb.com/api/assets/21473 }
+    summary: Magnum P.I. Collection

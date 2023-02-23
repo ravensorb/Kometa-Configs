@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+    url_background: <<background>>
+
+collections:
+ "Bosch":
+    template: { name: set, show: "277928, 414553", poster: https://theposterdb.com/api/assets/17510, background: https://i.imgur.com/A7K1z3H.jpg }
+    summary: Bosch Collection

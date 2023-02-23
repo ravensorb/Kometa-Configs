@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+    url_background: <<background>>
+
+collections:
+ "Dallas":
+    template: { name: set, show: "77092, 242521", poster: https://theposterdb.com/api/assets/251684, background: https://i.imgur.com/imqkBbP.jpg }
+    summary: Dallas Collection

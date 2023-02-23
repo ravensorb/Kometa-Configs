@@ -1,0 +1,18 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    url_poster: <<poster>>
+    url_background: <<background>>
+
+collections:
+ "The Hardy Boys":
+    template: { name: set, show: "71183, 72996, 391628", poster: https://theposterdb.com/api/assets/113941 }
+    sort_title: Hardy Boys
+    summary: The Hardy Boys Collection

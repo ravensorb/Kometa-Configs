@@ -1,0 +1,25 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+ "Battlestar Galactica (Original)":
+    template: { name: set, movie: "148980, 401033, 705926, 968708, 9640, 65288", poster: https://theposterdb.com/api/assets/160915, background: https://i.imgur.com/L1tkAgC.jpg, collection_mode: hide }
+    summary:  Battlestar Galactica (Original) Collection
+
+ "Battlestar Galactica (Reboot)":
+    template: { name: set, movie: "69315, 105077, 853248, 968709, 257368", poster: https://theposterdb.com/api/assets/65953, background: https://i.imgur.com/WjG6XFi.jpg }
+    summary:  Battlestar Galactica (Reboot) Collection

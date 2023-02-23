@@ -1,0 +1,22 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Buck Rogers":
+    template: {name: Set, movie: "40926, 117849", poster: https://theposterdb.com/api/assets/30255 }
+    summary: In the year 1987, Air Force captain William "Buck" Rogers tests the Ranger 3 spacecraft. His flight was to last only 5 months, but a meteor storm damages his life-support systems, freezing him solid, and casts Ranger 3 into an orbit which returns it to Earth--over 500 years later. Soon after Buck departs, Earth is devastated by a nuclear war caused by a renegade group of U.S. military officers. In 2491, Buck, who has survived due to the freezing, is revived and tries to adjust to life on 25th-century post-nuclear Earth. In the second season, Buck joins the crew of the Searcher, a starship dispatched to locate former Earth colonies in deep space.
+

@@ -1,0 +1,22 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Dead Zone":
+    template: {name: set, movie: "4960, 81635", poster: https://theposterdb.com/api/assets/128358 }
+    summary: Johnny had the perfect life until he was in coma for six years. When he awoke, he found his fiancee married to another man. His son doesn't know him. Everything's changed, including Johnny. With one touch, he can see things.
+    collection_mode: hide

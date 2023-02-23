@@ -1,0 +1,34 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+  "Marvel Universe":
+    template: { name: set, poster: https://theposterdb.com/api/assets/19724 }
+    summary: Marvel Universe Collection
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/marvel-collection?sort=released,desc
+
+  "Marvel: Defenders":
+    template: { name: set, poster: https://theposterdb.com/api/assets/239488 }
+    summary: "Some heroes protect the world, other protect their homes. In Hell’s Kitchen, one of New York’s roughest neighborhoods, unlikely heroes will rise to clean up the mean streets. Bringing notice to all criminals — if you can’t take the heat, stay out of Hell’s Kitchen!"
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/marvel-defenders?sort=released,desc
+
+  "Marvel: Daredevil":
+    template: { name: set, poster: https://theposterdb.com/api/assets/181083 }
+    summary: "Daredevil follows Matt Murdock, attorney by day and vigilante by night. Blinded in an accident as a child, Murdock uses his heightened senses as Daredevil, fighting crime on the streets of New York after the sun goes down. His efforts are not welcomed by Wilson Fisk -- aka Kingpin -- and others whose interests collide with those of Daredevil. Though Murdock's day job portrays a man who believes in the criminal justice system, his alter ego suggests otherwise, as he takes the law into his own hands to protect his neighborhood."
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/marvel-daredevil-24744265?sort=released,desc
+
+  "Marvel: Agent's of S.H.I.E.L.D":
+    template: { name: set, show: "263365, 281485", poster: https://theposterdb.com/api/assets/4328 }

@@ -1,0 +1,27 @@
+metadata:               #Posters found here: https://theposterdb.com/posters/41068
+
+  "Babylon 5":
+    year: 1994
+    title: "Babylon 5"
+    url_poster: https://theposterdb.com/api/assets/295296
+    seasons:
+      Specials:
+        url_poster: https://theposterdb.com/api/assets/186231
+      1:
+        url_poster: https://theposterdb.com/api/assets/186232
+      2:
+        url_poster: https://theposterdb.com/api/assets/186233
+      3:
+        url_poster: https://theposterdb.com/api/assets/186234
+      4:
+        url_poster: https://theposterdb.com/api/assets/186235
+      5:
+        url_poster: https://theposterdb.com/api/assets/186236
+
+  "Crusade":
+    year: 1999
+    title: "Crusades"
+    url_poster: https://theposterdb.com/api/assets/225092
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/225092

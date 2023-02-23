@@ -1,0 +1,22 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+
+collections:
+  "Bionic":
+    template: {name: Set, movie: "39829, 82805, 164691, 97262, 247269, 164693", poster: https://theposterdb.com/api/assets/164010 }
+

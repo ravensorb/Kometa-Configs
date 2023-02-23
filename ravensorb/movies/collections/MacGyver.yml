@@ -1,0 +1,22 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "MacGyver":
+    template: {name: Set, movie: "28235, 15518", poster: https://theposterdb.com/api/assets/11519 }
+    summary: MacGyver follows the adventures of the laid-back, extremely resourceful secret agent Angus MacGyver. He prefers non-violent conflict resolution whenever possible and refuses to carry or use a gun.
+

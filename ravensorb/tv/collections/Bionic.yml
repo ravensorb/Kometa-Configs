@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Bionic":
+    template: { name: set, show: "2275, 1246, 1663", poster: https://theposterdb.com/api/assets/164010 }
+    summary: Bionic Man & Woman Collection

@@ -1,0 +1,28 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+
+collections:
+  "Stargate":
+    template: {name: set, poster: https://theposterdb.com/api/assets/76842 }
+    summary: A team of explorers made up of soldiers and scientists travels through a Stargate, an ancient portal to other planets. They use the Stargate to explore new worlds, forge ties with friendly civilizations and protect Earth from hostile forces.
+    trakt_list:
+    - https://trakt.tv/users/ravensorb/lists/stargate-collection?sort=released,desc
+
+

@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Leverage":
+    template: { name: set, show: "82339, 402166", poster: https://theposterdb.com/api/assets/316675 }
+    summary: "Leverage follows a five-person team: a thief, a grifter, a hacker, and a retrieval specialist, led by former insurance investigator Nathan Ford, who use their skills to carry out heists to fight corporate and governmental injustices inflicted on ordinary citizens."

@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Holmes":
+    template: { name: set, poster: https://theposterdb.com/api/assets/33297 }
+    trakt_list: 
+      - https://trakt.tv/users/ravensorb/lists/hulk-collection?sort=released,desc

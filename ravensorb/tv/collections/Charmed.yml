@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+    url_background: <<background>>
+
+collections:
+ "Charmed":
+    template: { name: set, show: "349317, 70626", poster: https://theposterdb.com/api/assets/163157, background: https://i.imgur.com/Z2MyOHe.jpg }
+    summary: Charmed Collection

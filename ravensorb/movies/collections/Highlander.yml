@@ -1,0 +1,24 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+
+collections:
+  "Highlander":
+    template: {name: set, poster: https://theposterdb.com/api/assets/9430 }
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/highlander?sort=released,desc
+

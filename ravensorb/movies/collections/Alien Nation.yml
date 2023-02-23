@@ -1,0 +1,23 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Alien Nation":
+    template: {name: set, movie: 5375, poster: https://theposterdb.com/api/assets/234611 }
+    summary: The year is 1991; three years since an unidentified flying object bearing 300,000 enslaved aliens, the Tectonese, landed in the Mojave Desert on planet Earth. Los Angeles later becomes their new home.
+    collection_mode: show_items
+

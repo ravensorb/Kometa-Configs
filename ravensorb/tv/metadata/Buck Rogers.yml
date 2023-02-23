@@ -1,0 +1,25 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/242993
+
+  "Buck Rogers in the 25th Centry":
+    year: 2018
+    title: "Buck Rogers in the 25th Centry"
+    summary: 20th-century astronaut Buck Rogers awakens in the 25th century after a freak accident puts him in suspended animation for 500 years. Upon returning to Earth and discovering the planet is recovering from a nuclear war, Buck uses his combat skills and ingenuity to protect Earth and fight evil throughout the galaxy alongside starfighter pilot Colonel Wilma Deering and robot companion Twiki.
+    url_poster: https://theposterdb.com/api/assets/278341
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/278342
+      1:
+        url_poster: https://theposterdb.com/api/assets/278343
+      2:
+        url_poster: https://theposterdb.com/api/assets/278344
+
+  "Buck Rodgers":
+    year: 1939
+    title: Buck Rogers
+    summary: In the year 2430 in a secret lab in a cave behind Niagara Falls, Buck Rogers battles intergalactic troublemakers.
+    url_poster: https://theposterdb.com/api/assets/
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/
+      1:
+        url_poster: https://theposterdb.com/api/assets/
