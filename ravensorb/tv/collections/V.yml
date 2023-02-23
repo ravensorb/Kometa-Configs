@@ -5,8 +5,6 @@ templates:
       - list
     tvdb_show: <<show>>
     tvdb_show_details: <<show>>
-    trakt_list: <<list>>
-    trakt_list_details: <<list>>
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
@@ -16,5 +14,3 @@ collections:
  "V":
     template: { name: set, show: "76354, 94971", poster: https://theposterdb.com/api/assets/296546 }
     summary: Planet Earth is visited by an alien race. Initially, they seem friendly and kind, but over time, their intentions become quite clear. Their peaceful facade quickly turns, also showing their true colors and their real intentions...
-    trakt_list:
-      - https://trakt.tv/users/ravensorb/lists/v?sort=released,desc
