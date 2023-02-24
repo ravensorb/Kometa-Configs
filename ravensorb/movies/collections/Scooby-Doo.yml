@@ -19,7 +19,7 @@ templates:
 
 collections:
   "Scooby-Doo":
-    template: {name: set, poster: https://theposterdb.com/api/assets/248722 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/161874 }
     summary: Scooby-Doo is an American media franchise based on an animated television series launched in 1969 and continued through several derivative media. Writers Joe Ruby and Ken Spears created the original series, Scooby-Doo, Where Are You!, for Hanna-Barbera Productions
     trakt_list:
     - https://trakt.tv/users/ravensorb/lists/scooby-doo-collection?sort=released,desc

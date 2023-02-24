@@ -12,5 +12,7 @@ templates:
 
 collections:
  "Babylon 5":
-    template: { name: set, show: "70726, 71790", poster: https://theposterdb.com/api/assets/125075 }
+    template: { name: set, poster: https://theposterdb.com/api/assets/295296 }
     summary: Creator J. Michael Straczynski's ambitious and complex futuristic space opera charts five years in the lives of those aboard the titular five-mile-long space station, where personal drama plays out against a tense political backdrop of looming war between bitter enemies the Centauri and the Narn.
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/babylon-5?sort=released,desc

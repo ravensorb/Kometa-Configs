@@ -2,8 +2,22 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2532
 
   "Battlestar Galactica (1978)":
     year: 1978
-    title: "Battlestar Galactica"
-    url_poster: https://theposterdb.com/api/assets/253230
+    alt_title: "Battlestar Galactica (Original)"
+    orig_title: "Battlestar Galactica"
+    sort_title: "Battlestar Galactica: 00 - Original"
+    title: "Battlestar Galactica (Original)"
+    url_poster: https://theposterdb.com/api/assets/160915
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/253231
+
+  "Battlestar Galactica (2003)":
+    year: 2003
+    alt_title: "Battlestar Galactica (Reboot)"
+    orig_title: "Battlestar Galactica (2003)"
+    sort_title: "Battlestar Galactica: 01 - Reboot"
+    title: "Battlestar Galactica (Reboot)"
+    url_poster: https://theposterdb.com/api/assets/160915
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253231        

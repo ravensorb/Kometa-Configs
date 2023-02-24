@@ -2,7 +2,7 @@ external_templates:
   pmm: templates
   
 templates:
-  Set:
+  set:
     optional:
       - collection
       - movie
@@ -10,14 +10,16 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movie>>
     tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
     sync_mode: sync
     collection_order: release
     url_poster: <<poster>>
     sort_title: <<collection_name>>
 
-
 collections:
   "Babylon 5":
-    template: {name: Set, collection: 10441, poster: https://theposterdb.com/api/assets/225078 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/295296 }
     summary: Creator J. Michael Straczynski's ambitious and complex futuristic space opera charts five years in the lives of those aboard the titular five-mile-long space station, where personal drama plays out against a tense political backdrop of looming war between bitter enemies the Centauri and the Narn.
-
+    trakt_list:
+        - https://trakt.tv/users/ravensorb/lists/babylon-5?sort=released,desc

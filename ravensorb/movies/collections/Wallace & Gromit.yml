@@ -17,7 +17,7 @@ templates:
 
 collections:
   "Wallace & Gromit":
-    template: {name: set, poster: https://theposterdb.com/api/assets/59778 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/162952 }
     # movie: "981, 105953, 38407, 70811, 4998, 5297, 2434, 2307", 
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/wallace-gromit?sort=released,desc

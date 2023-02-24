@@ -6,12 +6,17 @@ templates:
       - show
     tvdb_list_details: <<list>>
     tvdb_show: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
 
 collections:
  "Alien Nation":
-    template: { name: set, show: "72358", poster: https://theposterdb.com/api/assets/234611 }
+    template: { name: set, poster: https://theposterdb.com/api/assets/234611 }
     summary: The year is 1991; three years since an unidentified flying object bearing 300,000 enslaved aliens, the Tectonese, landed in the Mojave Desert on planet Earth. Los Angeles later becomes their new home.
     collection_mode: show_items
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/alien-nation?sort=released,desc
+

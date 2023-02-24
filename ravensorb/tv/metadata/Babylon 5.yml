@@ -5,18 +5,39 @@ metadata:               #Posters found here: https://theposterdb.com/posters/410
     title: "Babylon 5"
     url_poster: https://theposterdb.com/api/assets/295296
     seasons:
-      Specials:
-        url_poster: https://theposterdb.com/api/assets/186231
+      0:
+        url_poster: https://theposterdb.com/api/assets/295304
       1:
-        url_poster: https://theposterdb.com/api/assets/186232
+        url_poster: https://theposterdb.com/api/assets/295305
       2:
-        url_poster: https://theposterdb.com/api/assets/186233
+        url_poster: https://theposterdb.com/api/assets/295306
       3:
-        url_poster: https://theposterdb.com/api/assets/186234
+        url_poster: https://theposterdb.com/api/assets/295307
       4:
-        url_poster: https://theposterdb.com/api/assets/186235
+        url_poster: https://theposterdb.com/api/assets/295308
       5:
-        url_poster: https://theposterdb.com/api/assets/186236
+        url_poster: https://theposterdb.com/api/assets/295309
+
+  "Babylon 5: A Call to Arms":
+    url_poster: https://theposterdb.com/api/assets/295301
+
+  "Babylon 5: The Legend of The Ranger":
+    url_poster: https://theposterdb.com/api/assets/295302
+
+  "Babylon 5: The River of Souls":
+    url_poster: https://theposterdb.com/api/assets/295300
+
+  "Babylon 5: The Gathering":
+    url_poster: https://theposterdb.com/api/assets/295297
+
+  "Babylon 5: In the Begining":
+    url_poster: https://theposterdb.com/api/assets/295298
+
+  "Babylon 5: Thirdspace":
+    url_poster: https://theposterdb.com/api/assets/295299
+
+  "Babylon 5: The Lost Tales":
+    url_poster: https://theposterdb.com/api/assets/295295
 
   "Crusade":
     year: 1999

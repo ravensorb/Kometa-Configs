@@ -311,3 +311,44 @@ metadata:               #Posters found here https://theposterdb.com/set/143788
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/258765
+
+  "Ironheart (2023)":
+    alt_title: "Ironheart"
+    orig_title: "Ironheart"
+    title: "Marvel's Ironheart"
+    sort_title: "Marvel: 01 - Ironheart"
+    year: 2023
+    url_poster: https://walter.trakt.tv/images/shows/000/170/565/posters/thumb/be3116ae57.jpg.webp
+    seasons:
+      1:
+        url_poster: https://walter.trakt.tv/images/shows/000/170/565/posters/thumb/be3116ae57.jpg.webp
+
+  "Agatha: Coven of Chaos (2023)":
+    alt_title: "Agatha: Coven of Chaos"
+    orig_title: "Agatha: Coven of Chaos"
+    title: "Marvel's Agatha Coven of Chaos"
+    year: 2023
+    url_poster: https://walter.trakt.tv/images/seasons/000/279/651/posters/thumb/1cae4fc8d5.jpg.webp
+    seasons: 
+      1:
+        url_poster: https://walter.trakt.tv/images/seasons/000/279/651/posters/thumb/1cae4fc8d5.jpg.webp
+
+  "Secret Invasions (2023)":
+    alt_title: "Secret Invasions"
+    orig_title: "Secret Invasions"
+    title: "Marvel's Secret Invasions"
+    year: 2023
+    url_poster: https://walter.trakt.tv/images/seasons/000/249/156/posters/thumb/a0056081d9.jpg.webp
+    seasons:
+      1:
+        url_poster: https://walter.trakt.tv/images/seasons/000/249/156/posters/thumb/a0056081d9.jpg.webp
+
+  "Echo (2023)":
+    alt_title: "Echo"
+    orig_title: "Echo"
+    title: "Marvel's Echo"
+    year: 2023
+    url_poster: https://walter.trakt.tv/images/shows/000/179/636/posters/thumb/4bfd1f0cd7.jpg.webp
+    seasons:
+      1:
+        url_poster: https://walter.trakt.tv/images/shows/000/179/636/posters/thumb/4bfd1f0cd7.jpg.webp

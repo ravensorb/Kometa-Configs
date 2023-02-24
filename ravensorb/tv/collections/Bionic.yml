@@ -11,5 +11,5 @@ templates:
 
 collections:
  "Bionic":
-    template: { name: set, show: "2275, 1246, 1663", poster: https://theposterdb.com/api/assets/164010 }
+    template: { name: set, show: "2275, 1246, 1663", poster: https://theposterdb.com/api/assets/261361 }
     summary: Bionic Man & Woman Collection

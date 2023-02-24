@@ -13,18 +13,18 @@ templates:
 
 collections:
   "Star Trek":
-    template: { name: set, sort_order: "00", "sort_title": "All", poster: https://theposterdb.com/api/assets/75794 }
+    template: { name: set, sort_order: "00", "sort_title": "All", poster: https://theposterdb.com/api/assets/52754 }
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/star-trek
 
   "Star Trek: The Original Series":
-    template: { name: set, sort_order: "01", "sort_title": "The Original Series", poster: https://theposterdb.com/api/assets/9698 }
+    template: { name: set, sort_order: "01", "sort_title": "The Original Series", poster: https://theposterdb.com/api/assets/308181 }
     name_mapping: Star Trek The Original Series
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/star-trek-the-original-series
 
   "Star Trek: The Next Generation":
-    template: { name: set, sort_order: "02", "sort_title": "The Next Generation", poster: https://theposterdb.com/api/assets/9699 }
+    template: { name: set, sort_order: "02", "sort_title": "The Next Generation", poster: https://theposterdb.com/api/assets/308180 }
     name_mapping: Star Trek The Next Generation
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/star-trek-the-next-generation

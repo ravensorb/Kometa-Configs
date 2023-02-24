@@ -20,9 +20,10 @@ templates:
 
 collections:
   "Stargate":
-    template: {name: set, poster: https://theposterdb.com/api/assets/76842 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/228932 }
     summary: A team of explorers made up of soldiers and scientists travels through a Stargate, an ancient portal to other planets. They use the Stargate to explore new worlds, forge ties with friendly civilizations and protect Earth from hostile forces.
     trakt_list:
-    - https://trakt.tv/users/ravensorb/lists/stargate-collection?sort=released,desc
+      - https://trakt.tv/users/ravensorb/lists/stargate-collection?sort=released,desc
+    collection_mode: hide
 
 

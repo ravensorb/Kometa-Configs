@@ -13,10 +13,16 @@ templates:
     url_poster: <<poster>>
 
 collections:
- "Battlestar Galactica (Original)":
+  # "Battlestar Galactica":
+  #   template: { name: set, poster: https://theposterdb.com/api/assets/59521 }
+  #   summary: When the 12 Colonies of Man are wiped out by a cybernetic race called the Cylons, Commander Adama and the crew of the Battlestar Galactica lead a ragtag fleet of human survivors in search of a "mythical planet" called Earth.
+  #   trackt_list:
+  #     - https://trakt.tv/users/ravensorb/lists/battlestar-galactica?sort=released,desc
+
+  "Battlestar Galactica (Original)":
     template: { name: set, show: "501, 4621", series: "71173, 71170", poster: https://theposterdb.com/api/assets/160915 }
     summary: Battlestar Galactica (Original) Collection
 
- "Battlestar Galactica (Reboot)":
-    template: { name: set, show: "1972, 129621, 877", series: "73545, 204781, 85040", poster: https://theposterdb.com/api/assets/65953 }
+   "Battlestar Galactica (Reboot)":
+    template: { name: set, show: "1972, 129621, 877", series: "73545, 204781, 85040", poster: https://theposterdb.com/api/assets/186153 }
     summary: Battlestar Galactica (Reboot) Collection

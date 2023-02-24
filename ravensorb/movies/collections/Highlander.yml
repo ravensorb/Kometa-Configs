@@ -2,7 +2,7 @@ external_templates:
   pmm: templates
   
 templates:
-  Set:
+  set:
     optional:
       - collection
       - movie
@@ -10,15 +10,17 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movie>>
     tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
     sync_mode: sync
     collection_order: release
     url_poster: <<poster>>
     sort_title: <<collection_name>>
 
-
 collections:
   "Highlander":
-    template: {name: set, poster: https://theposterdb.com/api/assets/9430 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/162044 }
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/highlander?sort=released,desc
+    collection_mode: hide_items
 

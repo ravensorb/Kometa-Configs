@@ -17,13 +17,13 @@ templates:
 
 collections:
   "Star Trek: The Original Series":
-    template: {name: Set, collection: 151, sort_order: "01", sort_title: "The Original Series", poster: https://theposterdb.com/api/assets/9698 }
+    template: {name: Set, collection: 151, sort_order: "01", sort_title: "The Original Series", poster: https://theposterdb.com/api/assets/308181 }
     name_mapping: Star Trek The Original Series
     
   "Star Trek: The Next Generation":
-    template: {name: Set, collection: 115570, sort_order: "02", sort_title: "The Next Generation", poster: https://theposterdb.com/api/assets/9699 }
+    template: {name: Set, collection: 115570, sort_order: "02", sort_title: "The Next Generation", poster: https://theposterdb.com/api/assets/308180 }
     name_mapping: Star Trek The Next Generation
 
   "Star Trek: Alternate Universe":
-    template: {name: Set, collection: 115575, sort_order: "03", sort_title: "The Alternate Universe", poster: https://theposterdb.com/api/assets/9700 }
+    template: {name: Set, collection: 115575, sort_order: "03", sort_title: "The Alternate Universe", poster: https://theposterdb.com/api/assets/308179 }
     name_mapping: Star Trek Alternate Reality

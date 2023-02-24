@@ -16,7 +16,7 @@ templates:
 
 collections:
   "The Twilight Zone":
-    template: {name: set, poster: https://theposterdb.com/api/assets/256439 }
+    template: {name: set, poster: https://theposterdb.com/api/assets/179766 }
     sort_title: Twilight Zone
     summary: The Twilight Zone was a popular American anthology series. The series was a collection of various tales that range from the tragic to the comedic. They may be scary or just thought-provoking. Most episodes have unexpected endings and a moral lesson. But, no matter what, it's "a journey into a wondrous land, whose boundaries are that of the imagination."
     trakt_list:

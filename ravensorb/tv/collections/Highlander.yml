@@ -12,5 +12,5 @@ templates:
 
 collections:
  "Highlander":
-    template: { name: set, show: "75160, 75021", poster: https://theposterdb.com/api/assets/9430 }
+    template: { name: set, show: "75160, 75021", poster: https://theposterdb.com/api/assets/162044 }
     summary: An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize."

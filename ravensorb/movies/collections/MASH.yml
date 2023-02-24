@@ -17,7 +17,7 @@ templates:
 
 collections:
   "MASH":
-    template: {name: set, movie: "3723, 150324, 119030", poster: https://theposterdb.com/api/assets/29428 }
+    template: {name: set, movie: "651", poster: https://theposterdb.com/api/assets/29428 }
     summary: The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.
-    collection_mode: show_items
+    collection_mode: hide
 

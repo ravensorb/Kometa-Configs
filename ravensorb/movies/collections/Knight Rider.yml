@@ -17,6 +17,6 @@ templates:
 
 collections:
   "Knight Rider":
-    template: {name: set, movie: "43350", poster: https://theposterdb.com/api/assets/128358 }
+    template: {name: set, movie: "209379, 10969", poster: https://theposterdb.com/api/assets/322634 }
     collection_mode: hide
 

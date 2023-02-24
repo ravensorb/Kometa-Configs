@@ -17,8 +17,8 @@ templates:
 
 
 collections:
-  "Bionic":
-    template: {name: set, poster: https://theposterdb.com/api/assets/33297 }
+  "Hulk":
+    template: {name: set, poster: https://theposterdb.com/api/assets/235341 }
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/hulk-collection?sort=released,desc
 
