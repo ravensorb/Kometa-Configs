@@ -19,5 +19,5 @@ collections:
   "Airwolf":
     template: {name: set, movie: 18684, poster: https://theposterdb.com/api/assets/32185 }
     summary: "'Airwolf' followed the adventures of a hi-tech helicopter and its reclusive pilot, Stringfellow Hawke. Airwolf itself was a hi-tech attack helicopter, equipped with cutting-edge on-board computer, surveillance and radar systems."
-    collection_mode: show_items
+    collection_mode: hide
 

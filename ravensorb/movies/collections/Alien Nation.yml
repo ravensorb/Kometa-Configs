@@ -21,7 +21,7 @@ collections:
   "Alien Nation":
     template: {name: set, poster: https://theposterdb.com/api/assets/234611 }
     summary: The year is 1991; three years since an unidentified flying object bearing 300,000 enslaved aliens, the Tectonese, landed in the Mojave Desert on planet Earth. Los Angeles later becomes their new home.
-    collection_mode: show_items
+    collection_mode: hide
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/alien-nation?sort=released,desc
 
