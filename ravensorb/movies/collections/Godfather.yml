@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Godfather":
+    template: {name: set, collection: 230, poster: https://theposterdb.com/api/assets/97959 }
+    summary: "Francis Ford Coppola’s trilogy films about the everyday life of a New York mafia family. With its star-studded cast these films would go down in history as some of the greatest Hollywood has ever produced."
+    # collection_mode: hide
+

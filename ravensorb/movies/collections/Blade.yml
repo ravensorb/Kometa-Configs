@@ -1,0 +1,25 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Blade":
+    template: {name: set, collection: 735, poster: https://theposterdb.com/api/assets/171125 }
+    summary: Blade is a film franchise based on the Marvel Comics character of the same name, starring Wesley Snipes as Blade, the half-human/half-vampire who is possessed with the same powers as his bloodsucking brethren, but without the weaknesses that can destroy them. Acting as a modern day Van Helsing, Blade sets out to foil plans by a legion of the undead to wipe out mankind.
+    # collection_mode: hide
+

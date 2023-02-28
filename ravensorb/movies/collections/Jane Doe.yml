@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Jane Doe":
+    template: {name: set, collection: 68687, poster: https://artworks.thetvdb.com/banners/posters/259155-1.jpg }
+    summary: ""
+    # collection_mode: hide
+

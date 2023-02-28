@@ -8,9 +8,8 @@ templates:
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
-    url_background: <<background>>
 
 collections:
  "Charmed":
-    template: { name: set, show: "349317, 70626", poster: https://theposterdb.com/api/assets/163157, background: https://i.imgur.com/Z2MyOHe.jpg }
+    template: { name: set, show: "349317, 70626", poster: https://theposterdb.com/api/assets/163157 }
     summary: Charmed Collection

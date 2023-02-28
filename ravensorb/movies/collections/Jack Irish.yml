@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Jack Irish":
+    template: {name: set, collection: 155044, poster:https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f66kq0vLHztRL44FcGCqyaqUJo.jpg }
+    summary: "Jack Irish is a series of Australian television movies adapted from the detective novels by Peter Temple."
+    # collection_mode: hide
+

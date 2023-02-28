@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Matrix":
+    template: {name: set, collection: 2344, poster: https://theposterdb.com/api/assets/52761 }
+    summary: "The Matrix collection depicts a complex science fiction story incorporating many philosophical elements. Written and directed by the Wachowskis and produced by Joel Silver."
+    # collection_mode: hide
+

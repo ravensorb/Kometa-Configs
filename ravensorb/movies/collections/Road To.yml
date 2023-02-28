@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Road To...":
+    template: {name: set, collection: 135441, poster: https://theposterdb.com/api/assets/168374 }
+    summary: "Road to ... refers to a series of seven comedy films starring Bing Crosby, Bob Hope, and Dorothy Lamour. They are also often referred to as the 'Road; pictures or the 'Road' series. The movies were a combination of adventure, comedy, romance, and music. The minimal plot often took a back seat to gags, many of them supposedly ad-libed by Crosby and Hope during filming."
+    # collection_mode: hide
+

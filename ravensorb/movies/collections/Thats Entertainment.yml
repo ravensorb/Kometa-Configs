@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "That's Entertainment":
+    template: {name: set, colection: 208602, poster: https://theposterdb.com/api/assets/273117 }
+    summary: "MGM musical numbers from the introduction of sound in the late 1920s through to the 1950s."
+    # collection_mode: hide
+

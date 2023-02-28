@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Robert Langdon":
+    template: {name: set, collection: 115776, poster: https://theposterdb.com/api/assets/164823 }
+    summary: "The Robert Langdon films are a series of American action-adventure mystery-thriller movies based on the novels written by Dan Brown. They center around the fictional character of Robert Langdon. Though based on the book series, the films have a different chronological order."
+    # collection_mode: hide
+

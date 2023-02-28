@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Jesse Stone":
+    template: {name: set, collection: 59235, poster: https://theposterdb.com/api/assets/68930 }
+    summary: "Series of movies based on detective novels written by Robert B. Parker. The movies begin out of sequence with the original books but stay relatively true to storylines and character with exceptions made mostly for network viewing palatability."
+    # collection_mode: hide
+

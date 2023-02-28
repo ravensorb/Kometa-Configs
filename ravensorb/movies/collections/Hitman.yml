@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Hitman":
+    template: {name: set, collection: 737031, poster: https://theposterdb.com/api/assets/164792 }
+    summary: "At an unknown location, near a remote asylum, a group of young bald boys are receiving tattoos of bar codes on the back of their heads as well as men observing, directing, and coordinating the training of these young boys in firearms and hand-to-hand combat, as well as stamina and strength. In these scenes, it is shown that these young boys are trained from an early age to be professional, international hitmen-for-hire that these films are based around."
+    # collection_mode: hide
+

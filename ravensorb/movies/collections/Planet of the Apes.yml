@@ -1,0 +1,30 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Planet of the Apes (Original)":
+    template: {name: set, collection: 1709, poster: https://theposterdb.com/api/assets/76945 }
+    summary: "The original 5 classic films collection."
+    # collection_mode: hide
+
+  "Planet of the Apes (Reboot)":
+    template: {name: set, collection: 173710, poster: https://theposterdb.com/api/assets/184312 }
+    summary: "Rick Jaffa & Amanda Silver's reboot/remake of the Planet of the Apes inspired by news articles on apes raised as humans and advances in genetics. Jaffa conceived an idea for a film about a genetically enhanced chimp raised in a human household. The film series focuses on a chimpanzee, Caesar who when given a substance designed to help the brain repair itself, gains advanced intelligence which leads to an ape uprising."
+    # collection_mode: hide
+

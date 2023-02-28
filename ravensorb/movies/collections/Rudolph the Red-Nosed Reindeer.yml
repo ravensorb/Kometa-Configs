@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Rudolph the Red-Nosed Reindeer":
+    template: {name: set, collection: 242587, poster: https://theposterdb.com/api/assets/313834 }
+    summary: "The collection of Christmas classic movies featuring everyone's favorite one of Santa's reindeer."
+    # collection_mode: hide
+

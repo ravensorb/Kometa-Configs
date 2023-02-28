@@ -1,0 +1,23 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Prison Break":
+    template: { name: set, poster: https://theposterdb.com/api/assets/263873 }
+    summary: "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out."
+    collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/allindo/lists/prison-break?sort=rank,asc

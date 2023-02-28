@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Mythica":
+    template: {name: set, collection: 363092, poster: https://theposterdb.com/api/assets/234559 }
+    summary: "Mythica: A Quest for Heroes is a 2014 Arrowstorm Entertainment fantasy film written and directed by Anne K. Black and starring Kevin Sorbo and Melanie Stone. The movie was partly funded by a Kickstarter campaign that collected $94,294. The first two sequels, Mythica: The Darkspore and Mythica: The Necromancer, were released in 2015. Mythica: The Iron Crown was released in 2016 to be followed by a fifth and final film, Mythica: The Godslayer."
+    # collection_mode: hide
+

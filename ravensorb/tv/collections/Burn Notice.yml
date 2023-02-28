@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Burn Notice":
+    template: { name: set, show: "80270", poster: https://theposterdb.com/api/assets/104133 }
+    summary: Covert intelligence operative Michael Westen has been punched, kicked, choked and shot. And now he's received a "burn notice", blacklisting him from the intelligence community and compromising his very identity. He must track down a faceless nemesis without getting himself killed while doubling as a private investigator on the dangerous streets of Miami in order to survive.
+    collection_mode: hide

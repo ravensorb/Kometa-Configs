@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Terminator":
+    template: {name: set, collection: 528, poster: https://theposterdb.com/api/assets/164119 }
+    summary: "A series of science-fiction films about the futuristic conflict between the humans led by John Connor and the Terminators that are made and controlled by Skynet, a self-aware super computer that started Armageddon and may indeed end humanity for good. Skynet's most well-known products in its genocidal goals are the various terminator models, such as the T-800 (Model 101)."
+    # collection_mode: hide
+

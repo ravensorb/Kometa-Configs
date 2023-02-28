@@ -1,0 +1,25 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Blade Runner":
+    template: {name: set, collection: 422837, poster: https://theposterdb.com/api/assets/163611 }
+    summary: An American neo-noir science-fiction film series set in a dystopian Los Angeles, depicting a future in which synthetic humans known as "replicants" are bio-engineered by the powerful Tyrell Corporation, to work on off-world colonies. Based on the novel ‘Do Androids Dream of Electric Sheep?’
+    # collection_mode: hide
+

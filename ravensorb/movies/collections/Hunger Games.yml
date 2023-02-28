@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Hunger Games":
+    template: {name: set, collection: 131635, poster: https://theposterdb.com/api/assets/163851 }
+    summary: "A science fiction film series based on the novel of the same name by Suzanne Collins. The film series takes place in a dystopian post-apocalyptic future in the nation of Panem, featuring the protagonist, Katniss Everdeen."
+    # collection_mode: hide
+

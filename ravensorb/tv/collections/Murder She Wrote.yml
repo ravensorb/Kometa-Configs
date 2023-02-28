@@ -1,0 +1,17 @@
+templates:
+  set:
+    optional:
+      - network
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Murder, She Wrote":
+    template: { name: set, show: "78049", poster: https://theposterdb.com/api/assets/172446 }
+    summary: An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.
+    collection_mode: hide

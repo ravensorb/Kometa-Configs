@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Marshal Samuel Gerard":
+    template: {name: set, collection: 721111, poster: https://theposterdb.com/api/assets/94573 }
+    summary: "Tommy Lee Jones as Senior Deputy U.S. Marshal Samual Gerard"
+    # collection_mode: hide
+

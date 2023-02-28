@@ -1,0 +1,27 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "X-Files":
+    template: {name: set, collection: 19387,  poster: https://theposterdb.com/api/assets/162229 }
+    summary: "The X-Files (also known as The X-Files: Fight the Future) is a 1998 American science fiction thriller film directed by Rob Bowman. Chris Carter wrote the screenplay. The story is by Carter and Frank Spotnitz. It is the first feature film based on Carter's television series The X-Files that revolves around fictional unsolved cases called the X-Files and the characters solving them. The X-Files has spawned one sequel, a 2008 film entitled The X-Files: I Want to Believe released six years after the series ended."
+    # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/coldkeys/lists/x-files?sort=released,desc
+

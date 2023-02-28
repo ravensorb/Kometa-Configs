@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+
+collections:
+  "The Mummy":
+    template: {name: set, collection: 1733, poster: https://theposterdb.com/api/assets/93442 }
+    sort_title: Mummy
+    summary: "The Mummy film series is a remake of The Mummy, loosely based on the original 1932 film. The first two films in the series were written and directed by Stephen Sommers."
+    # collection_mode: hide
+

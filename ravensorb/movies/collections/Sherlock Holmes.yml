@@ -1,0 +1,59 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Sherlock Holmes":
+    template: {name: set, collection: 102322, poster: https://theposterdb.com/api/assets/191404 }
+    summary: "The Adventures of Sherlock Holmes"
+    # collection_mode: hide
+
+  "Sherlock Holmes (Basil Rathbone)":
+    template: {name: set, collection: 478628, poster: https://theposterdb.com/api/assets/232773 }
+    summary: "A series of fourteen films based on Sir Arthur Conan Doyle's Sherlock Holmes stories was released between 1939 and 1946; the British actors Basil Rathbone and Nigel Bruce played Holmes and Dr. John Watson, respectively. The first two films in the series were produced by 20th Century Fox and released in 1939. The studio stopped making the films after these, but Universal Pictures acquired the rights from the Doyle estate and produced a further twelve films. Although the films from 20th Century Fox had large budgets, high production values, and were set in the Victorian era, Universal updated the films to the contemporary era of the Second World War, and produced them as B pictures with lower budgets. Both Rathbone and Bruce continued their roles when the series changed studios, as did Mary Gordon, who played the recurring character, Mrs. Hudson."
+    # collection_mode: hide
+
+  "Sherlock Holmes (Matt Fewer)":
+    template: {name: set, collection: 522048, poster: https://theposterdb.com/api/assets/232945 }
+    summary: "We don't have an overview translated in English. Help us expand our database by adding one."
+    # collection_mode: hide
+
+  "Sherlock Holmes (Ian Richardson)":
+    template: {name: set, collection: 522043, poster: https://theposterdb.com/api/assets/232945 }
+    summary: "We don't have an overview translated in English. Help us expand our database by adding one."
+    # collection_mode: hide
+
+  "Sherlock Holmes (Jeremy Brett)":
+    template: {name: set, collection: 815282, poster: https://theposterdb.com/api/assets/191401 }
+    summary: "Sherlock Holmes with Jeremy Brett in the titular role."
+    # collection_mode: hide    
+
+  "Sherlock Holmes (Arthur Wonter)":
+    template: {name: set, collection: 1058360, poster: https://theposterdb.com/api/assets/232945 }
+    summary: "herlock Holmes films starring Arthur Wontner in the role."
+    # collection_mode: hide
+
+  "Sherlock Holmes (Vasiliy Livanov)":
+    template: {name: set, collection: 931568, poster: https://theposterdb.com/api/assets/232945 }
+    summary: "The highly-regarded Soviet adaptation of Arthur Conan Doyle's Sherlock Holmes mysteries starring Vasiliy Livanov as the famed detective and Vitali Solomin as his chronicler, confidant, and flatmate, Dr. Watson."
+    # collection_mode: hide
+
+  "Sherlock Holmes (Peter O'Toole)":
+    template: {name: set, collection: 925107, poster: https://theposterdb.com/api/assets/232945 }
+    summary: "Animated movies based on each of the full length Sherlock Holmes novels. Starrig Peter O'Toole as Sherlock Holmes"
+    # collection_mode: hide    

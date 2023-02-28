@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Sabrina":
+    template: {name: set, movie: "6620, 11860", poster: https://theposterdb.com/api/assets/207797 }
+    summary: "inus and David Larrabee are the two sons of a very wealthy family. Linus is all work – busily running the family corporate empire, he has no time for a wife and family. David is all play – technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus."
+    # collection_mode: hide
+

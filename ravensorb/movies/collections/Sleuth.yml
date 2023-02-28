@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Sleuth":
+    template: {name: set, movie: "993, 4520", poster: https://theposterdb.com/api/assets/266788 }
+    summary: "A mystery novelist devises an insurance scam with his wife's lover – but things aren't exactly as they seem."
+    # collection_mode: hide
+

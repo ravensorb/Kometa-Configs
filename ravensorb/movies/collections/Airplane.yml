@@ -1,0 +1,25 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Airplane":
+    template: {name: set, collection: 91663, poster: https://theposterdb.com/api/assets/166223 }
+    summary: Get your boarding passes ready, you may not survive the flight but you'll have fun getting there
+    # collection_mode: hide
+

@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Men In Black":
+    template: {name: set, collection: 86055, poster: https://theposterdb.com/api/assets/163929 }
+    summary: "A series of American science fiction action comedy films based on Malibu / Marvel comic book series The Men in Black by Lowell Cunningham. Stylized MIB and spawned 2 numbered sequels as well as a spin-off."
+    # collection_mode: hide
+

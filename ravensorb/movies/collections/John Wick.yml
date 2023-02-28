@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "John Wick":
+    template: {name: set, collection: 404609, poster: https://theposterdb.com/api/assets/164798 }
+    summary: "A neo-noir action thriller film series that follows Jonathan 'John' Wick, a former assassin, who comes out of retirement seeking vengeance for the theft of his vintage car and the murder of the puppy his deceased wife left to him."
+    # collection_mode: hide
+

@@ -8,9 +8,8 @@ templates:
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
-    url_background: <<background>>
 
 collections:
  "CSI":
-    template: { name: set, show: "72546, 78310, 73696, 281551, 400248", poster: https://theposterdb.com/api/assets/102143, background: https://i.imgur.com/E3ibZh1.jpg }
+    template: { name: set, show: "72546, 78310, 73696, 281551, 400248", poster: https://theposterdb.com/api/assets/102143 }
     summary: CSI Collection

@@ -1,0 +1,17 @@
+templates:
+  set:
+    optional:
+      - network
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Pink Panther (Original)":
+    template: { name: set, show: "71554", poster: https://theposterdb.com/api/assets/164817 }
+    summary: "The Pink Panther is a heroic, moral cartoon cat with pink fur and the manners of an English aristocrat. He only becomes flustered or angry at obtuse or offensive humans who try to disrupt his existence, or at troublesome gadgets, rodents, or insects. In most of his cartoons, he stumbles into a difficult situation and stoically endeavors to make the best of it. Episodes of this series feature three theatrical cartoons, two with the Pink Panther, and one featuring the Inspector, a cartoon version of the accident-prone, bumbling French detective, Inspector Clouseau, played in movies by Peter Sellers. The Inspector is often assisted by a Spanish gendarme, Sergeant Deux-Deux, and together they fallibly battle villains of all shapes and sizes in various parts of the world, always on the orders of the long-suffering Surete Commissioner."
+    collection_mode: hide

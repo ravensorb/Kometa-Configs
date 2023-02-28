@@ -1,0 +1,15 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Mission Impossible":
+    template: { name: set, show: "77231, 72762", poster: https://theposterdb.com/api/assets/164810 }
+    summary: "lite special agents undertook top-secret assignments in crackerjack episodes, which kicked off with the team leader receiving instructions via a tape-recorded message that self-destructed in five seconds. What followed were usually breakneck spyjinks set to a pulsating Lalo Schifrin score. Martin Landau turned down the Spock role in 'Star Trek' to play IMFer Rollin Hand. When Landau left the series in 1969, his replacement was the man who built a career on Spock, Leonard Nimoy."

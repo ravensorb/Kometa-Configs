@@ -1,0 +1,30 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Lord Of The Rings":
+    template: {name: set, collection: 119, poster: https://theposterdb.com/api/assets/52722 }
+    summary: "The Lord of the Rings trilogy consists of three epic fantasy films, based on the influential novels written by J. R. R. Tolkien, directed by Peter Jackson."
+    # collection_mode: hide
+
+  "Lord Of The Rings (Animated)":
+    template: {name: set, collection: 141290, poster: https://theposterdb.com/api/assets/187490 }
+    summary: "A collection of the animated The Lord of the Rings movies."
+    # collection_mode: hide
+

@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Resident Evil":
+    template: {name: set, collection: 17255, poster: https://theposterdb.com/api/assets/161290 }
+    summary: "Loosely based upon the Capcom video games of the same name, the Resident Evil film series follows the protagonist Alice, a character created for the films. The Umbrella Corporation acts as the main antagonist, a bio-engineering pharmaceutical company responsible for formulating the T-virus, which results in a zombie infection outbreak."
+    # collection_mode: hide
+

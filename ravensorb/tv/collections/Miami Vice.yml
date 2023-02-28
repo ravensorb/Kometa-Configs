@@ -1,0 +1,17 @@
+templates:
+  set:
+    optional:
+      - network
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Miami Vice":
+    template: { name: set, show: "77098", poster: https://theposterdb.com/api/assets/216493 }
+    summary: Miami Vice centers around the unlikely partnership of Sonny Crockett (Don Johnson) and Ricardo Tubbs (Philip Michael Thomas), two undercover detectives from the Miami Police Department’s vice squad battling against drug trafficking and prostitution in the city’s seamy underworld. Its use of New Wave music and colorful Italian men’s fashion was groundbreaking and the series had a defining influence on the popular culture of the 1980s.
+    collection_mode: hide

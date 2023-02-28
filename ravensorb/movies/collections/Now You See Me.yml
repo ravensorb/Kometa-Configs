@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Now You See Me":
+    template: {name: set, collection: 382685, poster: https://theposterdb.com/api/assets/164813 }
+    summary: "Now You See Me is a series of heist thriller films that focus on the actions of a team of illusionists named "The Four Horsemen" who pull off near impossible heists."
+    # collection_mode: hide
+

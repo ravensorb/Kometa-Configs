@@ -1,0 +1,25 @@
+aexternal_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "TekWar":
+    template: {name: set, collection: 175763, poster: https://theposterdb.com/api/assets/234707 }
+    summary: "A television movie based on the futurist story by William Shatner. After four years, Jake Cardigan is prematurely awoken from his fifteen year cryogenic punishment to a world very different than the one he knew. Much more than before 'Tek', the highly-addictive electronic designer narcotic of the 21st century, seems to be prevalent. His wife has divorced him and disappeared together with their son."
+    # collection_mode: hide
+
