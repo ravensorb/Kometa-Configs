@@ -23,9 +23,9 @@ collections:
   #     - https://trakt.tv/users/ravensorb/lists/battlestar-galactica?sort=released,desc
 
   "Battlestar Galactica (Original)":
-    template: { name: set, movie: "148980, 401033, 705926, 968708, 9640, 65288", poster: https://theposterdb.com/api/assets/160915, background: https://i.imgur.com/L1tkAgC.jpg, collection_mode: hide }
+    template: { name: set, collection: 284151, movie: "148980, 401033, 705926, 968708, 9640, 65288", poster: https://theposterdb.com/api/assets/160915, background: https://i.imgur.com/L1tkAgC.jpg, collection_mode: hide }
     summary:  Battlestar Galactica (Original) Collection
 
   "Battlestar Galactica (Reboot)":
-    template: { name: set, movie: "69315, 105077, 853248, 968709, 257368", poster: https://theposterdb.com/api/assets/186153, background: https://i.imgur.com/WjG6XFi.jpg }
+    template: { name: set, collection: 91697, movie: "69315, 105077, 853248, 968709, 257368", poster: https://theposterdb.com/api/assets/186153, background: https://i.imgur.com/WjG6XFi.jpg }
     summary:  Battlestar Galactica (Reboot) Collection

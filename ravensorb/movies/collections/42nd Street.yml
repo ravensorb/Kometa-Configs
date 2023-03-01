@@ -19,7 +19,7 @@ templates:
 
 collections:
   "42nd Street":
-    template: {name: set, movie: "12772 264289, 266411, 272370, 27285", poster: https://theposterdb.com/api/assets/200267 }
-    summary: 
+    template: {name: set, poster: https://theposterdb.com/api/assets/200267 }
     # collection_mode: hide
-
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/42nd-street?sort=released,desc

@@ -18,8 +18,9 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  "Count of Monte Cristo":
-    template: {name: set, poster: https://theposterdb.com/api/assets/ }
+  "The Count of Monte Cristo":
+    template: {name: set, poster: https://theposterdb.com/api/assets/194009 }
+    sort_title: Count of Monte Cristo
     summary: Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.
     # collection_mode: hide
     trakt_list:

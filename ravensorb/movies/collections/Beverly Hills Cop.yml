@@ -19,7 +19,6 @@ templates:
 
 collections:
   "Bevery Hills Cop":
-    template: {name: set, collection: 85861, poster: https://theposterdb.com/api/assets/ }
-    summary: 
+    template: {name: set, collection: 85861, poster: https://theposterdb.com/api/assets/163980 }
     # collection_mode: hide
 

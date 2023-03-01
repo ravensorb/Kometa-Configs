@@ -12,8 +12,33 @@ templates:
     url_poster: <<poster>>
 
 collections:
- "Doctor Who":
-    template: { name: set, poster: https://theposterdb.com/api/assets/163698 }
-    summary: Doctor Who Collection
+  "Dr. Who":
+    template: {name: set, poster: https://theposterdb.com/api/assets/163698 }
+    summary: 
+    # collection_mode: hide
     trakt_list:
-      - https://trakt.tv/users/ravensorb/lists/doctor-who-copy?sort=released,desc
+      - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc
+      - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc
+      - https://trakt.tv/users/ravensorb/lists/dr-who-spin-offs?sort=released,desc
+
+  "Dr. Who (Classic)":
+    template: {name: set, poster: https://theposterdb.com/api/assets/53252 }
+    summary: 
+    # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc
+
+  "Dr. Who (2005)":
+    template: {name: set, poster: https://theposterdb.com/api/assets/254616 }
+    summary: 
+    # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc
+
+  "Dr. Who (Spin Offs)":
+    template: {name: set,  poster: https://theposterdb.com/api/assets/146985 }
+    summary: 
+    # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/dr-who-spin-offs?sort=released,desc
+

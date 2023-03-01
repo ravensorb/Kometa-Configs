@@ -2,7 +2,7 @@ external_templates:
   pmm: templates
   
 templates:
-  Set:
+  set:
     optional:
       - collection
       - movie
@@ -17,5 +17,5 @@ templates:
 
 collections:
   "Bionic":
-    template: {name: Set, movie: "39829, 82805, 164691, 97262, 247269, 164693", poster: https://theposterdb.com/api/assets/261361 }
+    template: {name: set, collection: "384040", movie: "82085, 97262", poster: https://theposterdb.com/api/assets/261361 }
 

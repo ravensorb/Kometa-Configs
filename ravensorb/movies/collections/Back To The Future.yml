@@ -19,7 +19,7 @@ templates:
 
 collections:
   "Back To The Future":
-    template: {name: set, collection: 264, poster: https://theposterdb.com/api/assets/163128 }
+    template: {name: set, collection: 264, movie: 330127, poster: https://theposterdb.com/api/assets/163128 }
     summary: "An American science fiction–comedy film series that follows the adventures of a high school student, Marty McFly and an eccentric scientist, Dr Emmett L. Brown as they use a DeLorean time machine to time travel to different periods in the history of Hill Valley, California."
     # collection_mode: hide
 

@@ -15,11 +15,11 @@ templates:
     sync_mode: sync
     collection_order: release
     url_poster: <<poster>>
-    sort_title: <<collection_name>>
 
 collections:
   "The Chronicles of Narnia":
     template: {name: set, collection: 420, poster: https://theposterdb.com/api/assets/162017 }
+    sort_title: Chronicles of Narnia
     summary: Modern theatrical film productions based on the book series «The Chronicles of Narnia» by C. S. Lewis.
     # collection_mode: hide
 
