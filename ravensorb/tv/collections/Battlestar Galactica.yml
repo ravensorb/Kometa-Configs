@@ -23,6 +23,6 @@ collections:
     template: { name: set, show: "501, 4621", series: "71173, 71170", poster: https://theposterdb.com/api/assets/160915 }
     summary: Battlestar Galactica (Original) Collection
 
-   "Battlestar Galactica (Reboot)":
+  "Battlestar Galactica (Reboot)":
     template: { name: set, show: "1972, 129621, 877", series: "73545, 204781, 85040", poster: https://theposterdb.com/api/assets/186153 }
     summary: Battlestar Galactica (Reboot) Collection
