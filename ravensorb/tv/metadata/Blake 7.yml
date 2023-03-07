@@ -1,0 +1,15 @@
+metadata:               #Posters found here: https://theposterdb.com/user/bjbeard
+
+  "Blake 7 (1978)":
+    year: 1978
+    title: "Blake 7"
+    url_poster: https://theposterdb.com/api/assets/288250
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/288251
+      2:
+        url_poster: https://theposterdb.com/api/assets/288252
+      3:
+        url_poster: https://theposterdb.com/api/assets/288253
+      4:
+        url_poster: https://theposterdb.com/api/assets/288254

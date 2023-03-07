@@ -12,7 +12,7 @@ templates:
 
 collections:
   "Marvel Universe":
-    template: { name: set, poster: https://theposterdb.com/api/assets/19724 }
+    template: { name: set, poster: https://theposterdb.com/api/assets/201425 }
     sort_title: "Marvel: 00 - Universe"
     summary: Marvel Universe Collection
     collection_mode: show_items

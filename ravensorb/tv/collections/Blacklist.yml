@@ -10,6 +10,6 @@ templates:
 
 collections:
  "The Blacklist":
-    template: { name: set, show: "46952, 68018", poster: https://theposterdb.com/api/assets/86276 }
+    template: { name: set, show: "46952, 68018", poster: https://theposterdb.com/api/assets/325811 }
     sort_title: Blacklist
     summary: "Raymond 'Red' Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this 'The Blacklist'. Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler."

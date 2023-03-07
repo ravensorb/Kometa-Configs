@@ -1,7 +1,27 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/261637
+metadata:               #Posters found here: https://theposterdb.com/poster/261637 and 261356
+
+  "Bionic Woman (1976)":
+    year: 1976
+    alt_tile: "Bionic Woman"
+    orig_title: "Bionic Woman"
+    sort_title: "Bionic Woman 1976"
+    title: "Bionic Woman"
+    url_poster: https://theposterdb.com/api/assets/261356
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/261357
+      1:
+        url_poster: https://theposterdb.com/api/assets/261358
+      2:
+        url_poster: https://theposterdb.com/api/assets/261359
+      3:
+        url_poster: https://theposterdb.com/api/assets/261360
 
   "Bionic Woman (2007)":
     year: 2007
+    alt_tile: "Bionic Woman"
+    orig_title: "Bionic Woman"
+    sort_title: "Bionic Woman 2007"
     title: "Bionic Woman"
     url_poster: https://theposterdb.com/api/assets/261637
     seasons:

@@ -10,14 +10,38 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movie>>
     tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
     sync_mode: sync
     collection_order: release
     url_poster: <<poster>>
+    sort_title: DCU_<<sort_order>>_<<collection_name>>
 
 collections:
   "DC Universe":
-    template: {name: set, poster: https://theposterdb.com/api/assets/163306 }
+    template: {name: set, sort_order: "00", poster: https://theposterdb.com/api/assets/239356 }
     summary: 
+    collection_mode: show_items
     trakt_list:
       - https://trakt.tv/users/docishoon/lists/dc?sort=released,desc
       - https://trakt.tv/users/asmobarki/lists/dc-universe?sort=released,asc
+
+  "Batman":
+    template: {name: set, sort_order: "01", collection: 120794, poster: https://theposterdb.com/api/assets/162377 }
+    collection_mode: hide_items
+  
+  "Batman: Dark Knight":
+    template: {name: set, sort_order: "01", collection: 263, poster: https://theposterdb.com/api/assets/263847 }
+    collection_mode: hide_items
+
+  "Super-Man":
+    template: {name: set, sort_order: "01", collection: 8537, poster: https://theposterdb.com/api/assets/162402 }
+    collection_mode: hide_items
+
+  "Super-Man: Man of Steel":
+    template: {name: set, sort_order: "01", collection: 209131, poster: https://theposterdb.com/api/assets/197563 }
+    collection_mode: hide_items
+
+  "Wonder Woman":
+    template: {name: set, sort_order: "01", collection: 468552, poster: https://theposterdb.com/api/assets/162410 }
+    collection_mode: hide_items

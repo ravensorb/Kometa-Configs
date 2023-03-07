@@ -12,6 +12,6 @@ templates:
 
 collections:
  "The Witcher":
-    template: { name: set, show: "362696, 399987", poster: https://theposterdb.com/api/assets/36354 }
+    template: { name: set, show: "362696, 399987", poster: https://theposterdb.com/api/assets/236507 }
     sort_title: Witcher
     summary: Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.

@@ -19,7 +19,7 @@ templates:
 
 collections:
   "A Wrinkle in Time":
-    template: {name: set, movie: "407451, 27874", poster: https://theposterdb.com/api/assets/173406 }
+    template: {name: set, movie: "27874, 407451", poster: https://theposterdb.com/api/assets/173406 }
     summary: "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him."
     # collection_mode: hide
 

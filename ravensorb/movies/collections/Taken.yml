@@ -19,7 +19,7 @@ templates:
 
 collections:
   "Taken":
-    template: {name: set, collection: 135483, poster: https://theposterdb.com/api/assets/3373 }
+    template: {name: set, collection: 135483, poster: https://theposterdb.com/api/assets/52750 }
     summary: "A French action thriller film series based upon fictional former CIA operative Bryan Mills who is abroad in Europe."
     # collection_mode: hide
 

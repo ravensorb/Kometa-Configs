@@ -18,7 +18,7 @@ templates:
 
 collections:
   "The Producers":
-    template: {name: set, movie: "9899, 30197", poster: https://theposterdb.com/api/assets/ }
+    template: {name: set, movie: "9899, 30197", poster: https://theposterdb.com/api/assets/216879 }
     sort_title: Producers
     summary: "Broadway producer, Max Bialystock and his accountant, Leo Bloom plan to make money by charming little old ladies to invest in a production many times over what it will actually cost, and then put on a sure-fire flop, so nobody will ask for their money back – and what can be a more certain flop than a tasteless musical celebrating Hitler."
     # collection_mode: hide

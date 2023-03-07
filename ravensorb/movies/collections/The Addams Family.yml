@@ -1,4 +1,4 @@
-aexternal_templates:
+external_templates:
   pmm: templates
   
 templates:
@@ -18,8 +18,9 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  "Jack Irish":
-    template: {name: set, collection: 155044, poster: https://i.imgur.com/ZqOa3NF.jpg }
-    summary: "Jack Irish is a series of Australian television movies adapted from the detective novels by Peter Temple."
+  "Addams Family":
+    template: {name: set, poster: https://theposterdb.com/api/assets/160785 }
     # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/addams-family?sort=released,desc
 

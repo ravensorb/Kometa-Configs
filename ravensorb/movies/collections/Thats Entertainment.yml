@@ -19,7 +19,7 @@ templates:
 
 collections:
   "That's Entertainment":
-    template: {name: set, colection: 208602, poster: https://theposterdb.com/api/assets/273117 }
+    template: {name: set, collection: 208602, poster: https://theposterdb.com/api/assets/273117 }
     summary: "MGM musical numbers from the introduction of sound in the late 1920s through to the 1950s."
     # collection_mode: hide
 

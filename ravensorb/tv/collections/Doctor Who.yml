@@ -15,7 +15,7 @@ collections:
   "Dr. Who":
     template: {name: set, poster: https://theposterdb.com/api/assets/163698 }
     summary: 
-    # collection_mode: hide
+    collection_mode: hide
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc
       - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc

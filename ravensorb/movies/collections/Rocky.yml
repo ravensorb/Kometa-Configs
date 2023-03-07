@@ -19,12 +19,12 @@ templates:
 
 collections:
   "Rocky":
-    template: {name: set, <sort_order: "00", collection: 1575, poster: https://theposterdb.com/api/assets/318796 }
+    template: {name: set, sort_order: "00", collection: 1575, poster: https://theposterdb.com/api/assets/318796 }
     summary: "These sport drama films begin by telling the rags to riches American Dream story of Rocky Balboa, an uneducated but kind-hearted working class Italian-American boxer working as a debt collector for a loan shark in the slums of Philadelphia."
     # collection_mode: hide
 
-  "Creed":
-    template: {name: set, <sort_order: "01", collection: 553717, poster: https://theposterdb.com/api/assets/307792 }
+  "Rocky/Creed":
+    template: {name: set, sort_order: "01", collection: 553717, poster: https://theposterdb.com/api/assets/307792 }
     summary: "Former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Apollo Creed's son, Adonis. These films are both spin-offs and sequels to the Rocky film series."
     # collection_mode: hide
     

@@ -19,9 +19,9 @@ templates:
 
 collections:
   "Star is Born":
-    template: {name: set, poster: https://theposterdb.com/api/assets/ }
+    template: {name: set, poster: https://theposterdb.com/api/assets/201059 }
     summary: "easoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons."
     # collection_mode: hide
     trakt_list:
-      - https://trakt.tv/lists/official/a-star-is-born-collection?sort=release,desc
+      - https://trakt.tv/users/ravensorb/lists/a-star-is-born?sort=released,desc
 

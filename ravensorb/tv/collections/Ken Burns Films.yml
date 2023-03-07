@@ -11,7 +11,7 @@ templates:
 
 collections:
  "Ken Burns Films":
-    template: { name: set, poster: https://theposterdb.com/api/assets/282563 }
+    template: { name: set, poster: https://theposterdb.com/api/assets/57727 }
     summary: For the past twenty-five years, the Ken Burns name has symbolized a trusted resource for classroom use. The films are memorable, spark dialog, and provide an engaging way to understand history. Educational materials and activities created in conjunction with the films offer themes for discussion and use a storytelling approach to engage students in multimedia classroom projects
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/ken-burns-documentaries?sort=released,desc
