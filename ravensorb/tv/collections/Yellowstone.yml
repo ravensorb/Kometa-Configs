@@ -4,13 +4,13 @@ templates:
       - network
       - list
       - show
-    tvdb_list_details: <<list>>
-    tvdb_show: <<show>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
 
 collections:
- "Airwolf":
+ "Yellowstone":
     template: { name: set, show: "73586, 118357, 157744", poster: https://theposterdb.com/api/assets/302800 }
     summary: "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."

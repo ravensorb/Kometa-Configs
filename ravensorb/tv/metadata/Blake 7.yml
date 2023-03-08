@@ -2,6 +2,8 @@ metadata:               #Posters found here: https://theposterdb.com/user/bjbear
 
   "Blake 7 (1978)":
     year: 1978
+    alt_title: "Blake 7"
+    orig_title: "Blake 7 (1978)"
     title: "Blake 7"
     url_poster: https://theposterdb.com/api/assets/288250
     seasons:

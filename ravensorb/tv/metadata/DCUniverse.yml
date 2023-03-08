@@ -1,8 +1,10 @@
 metadata:               #Posters found here https://theposterdb.com/poster/239364
 
   "Batman (1966)":
-    title: "Batman"
     year: 1966
+    orig_tite: "Batan (1966)"
+    alt_title: "Batman"
+    title: "Batman"
     url_poster: https://theposterdb.com/api/assets/242928
     seasons:
       0:
@@ -122,6 +124,8 @@ metadata:               #Posters found here https://theposterdb.com/poster/23936
 
   "The Flash (2014)":
     year: 2014
+    alt_title: "The Flash"
+    orig_title: "The Flash (2014)"
     title: "The Flash"
     url_poster: https://theposterdb.com/api/assets/262432
     seasons:
@@ -194,6 +198,8 @@ metadata:               #Posters found here https://theposterdb.com/poster/23936
 
   "DC's Legends of Tomorrow (2016)":
     year: 2016
+    alt_title: "Legends of Tomorrow"
+    orig_title: "Legends of Tomorrow (2016)"
     title: "DC's Legends of Tomorrow"
     url_poster: https://theposterdb.com/api/assets/262392
     seasons:

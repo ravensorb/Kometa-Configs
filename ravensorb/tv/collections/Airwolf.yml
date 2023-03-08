@@ -1,17 +1,15 @@
 templates:
   set:
     optional:
-      - network
-      - list
       - show
-    tvdb_list_details: <<list>>
-    tvdb_show: <<show>>
-    sort_title: <<collection_name>>
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
     sync_mode: sync
     url_poster: <<poster>>
 
 collections:
  "Airwolf":
-    template: { name: set, show: "73200", poster: https://theposterdb.com/api/assets/203183 }
+    template: { name: set, show: "2119", poster: https://theposterdb.com/api/assets/203183 }
     summary: "'Airwolf' followed the adventures of a hi-tech helicopter and its reclusive pilot, Stringfellow Hawke. Airwolf itself was a hi-tech attack helicopter, equipped with cutting-edge on-board computer, surveillance and radar systems."
     collection_mode: hide

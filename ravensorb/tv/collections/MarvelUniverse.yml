@@ -27,7 +27,7 @@ collections:
       - https://trakt.tv/users/ravensorb/lists/marvel-defenders?sort=released,desc
 
   "Marvel's Daredevil":
-    template: { name: set, poster: https://theposterdb.com/api/assets/181083 }
+    template: { name: set, poster: https://theposterdb.com/api/assets/239468 }
     sort_title: "Marvel: 01 - Daredevil"
     summary: "Daredevil follows Matt Murdock, attorney by day and vigilante by night. Blinded in an accident as a child, Murdock uses his heightened senses as Daredevil, fighting crime on the streets of New York after the sun goes down. His efforts are not welcomed by Wilson Fisk -- aka Kingpin -- and others whose interests collide with those of Daredevil. Though Murdock's day job portrays a man who believes in the criminal justice system, his alter ego suggests otherwise, as he takes the law into his own hands to protect his neighborhood."
     collection_mode: hide

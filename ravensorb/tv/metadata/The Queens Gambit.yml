@@ -2,6 +2,8 @@ metadata:
 
   "The Queen's Gambit (2020)":
     year: 2020
+    orig_title: "The Queen's Gambit (2020)"
+    alt_title: "The Queen's Gambit"
     title: "The Queen's Gambit"
     url_poster: https://theposterdb.com/api/assets/287701
     seasons:
