@@ -3,8 +3,6 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2289
    "Stargate SG-1 (1997)":
     year: 1997
     alt_title: "Stargate SG-1"
-    orig_title: "Stargate SG-1 (1997)"
-    title: "Stargate SG-11"
     url_poster: https://theposterdb.com/api/assets/228947
     seasons:
       0:
@@ -32,7 +30,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2289
 
    "Stargate Infinity (2002)":
     year: 2002
-    title: "Stargate Infinity"
+    alt_title: "Stargate Infinity"
     url_poster: https://theposterdb.com/api/assets/228942
     seasons:
       1:
@@ -40,7 +38,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2289
 
    "Stargate Atlantis (2004)":
     year: 2004
-    title: "Stargate Atlantis"
+    alt_title: "Stargate Atlantis"
     url_poster: https://theposterdb.com/api/assets/228935
     seasons:
       0:
@@ -58,7 +56,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2289
 
    "Stargate Universe (2009)":
     year: 2009
-    title: "Stargate Universe"
+    alt_title: "Stargate Universe"
     url_poster: https://theposterdb.com/api/assets/228959
     seasons:
       0:
@@ -70,7 +68,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2289
 
    "Stargate Origins (2018)":
     year: 2018
-    title: "Stargate Origins"
+    alt_title: "Stargate Origins"
     url_poster: https://theposterdb.com/api/assets/228944
     seasons:
       0:

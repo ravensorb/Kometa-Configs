@@ -2,7 +2,7 @@ metadata:               #Posters found here: https://theposterdb.com/user/musikm
 
   "The Addams Family (1964)":
     year: 1964
-    title: "The Addams Famiy"
+    alt_title: "The Addams Family"
     url_poster: https://theposterdb.com/api/assets/173458
     seasons:
       0:
