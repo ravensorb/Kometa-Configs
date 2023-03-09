@@ -20,7 +20,7 @@ templates:
 collections:
   "Highlander":
     template: {name: set, poster: https://theposterdb.com/api/assets/162044 }
+    collection_mode: hide_items
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/highlander?sort=released,desc
-    collection_mode: hide_items
 

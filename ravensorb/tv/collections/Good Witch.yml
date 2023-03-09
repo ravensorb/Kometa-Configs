@@ -1,0 +1,20 @@
+templates:
+  set:
+    optional:
+      - network
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Good Witch":
+    template: { name: set, poster: https://theposterdb.com/api/assets/159954 }
+    # collection_mode: hide
+    trakt_list:
+      - https://trakt.tv/users/ravensorb/lists/the-good-witch?sort=released,desc

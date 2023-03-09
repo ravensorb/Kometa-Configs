@@ -8,9 +8,8 @@ templates:
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
-    url_background: <<background>>
 
 collections:
  "Bosch":
-    template: { name: set, show: "277928, 414553", poster: https://theposterdb.com/api/assets/17510, background: https://i.imgur.com/A7K1z3H.jpg }
+    template: { name: set, show: "277928, 414553", poster: https://theposterdb.com/api/assets/156232 }
     summary: Bosch Collection

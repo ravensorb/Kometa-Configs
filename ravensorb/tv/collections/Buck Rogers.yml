@@ -5,8 +5,7 @@ templates:
       - list
     tvdb_show: <<show>>
     tvdb_show_details: <<show>>
-    imdb_show: <<imdb>>
-    imdb_show_details: <<imdb>>
+    imdb_id: <<imdb>>
     sort_title: <<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>

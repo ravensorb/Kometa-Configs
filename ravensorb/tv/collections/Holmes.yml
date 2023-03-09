@@ -13,5 +13,6 @@ collections:
  "Holmes":
     template: { name: set, poster: https://theposterdb.com/api/assets/183489 }
     summary: Michael James Holmes (born August 3, 1963) is a Canadian builder/contractor, businessman, investor, television host, and philanthropist. In his first television series, Holmes on Homes, he rescues homeowners from renovations gone wrong.
+    # collection_mode: hide
     trakt_list: 
       - https://trakt.tv/users/ravensorb/lists/holmes?sort=released,desc

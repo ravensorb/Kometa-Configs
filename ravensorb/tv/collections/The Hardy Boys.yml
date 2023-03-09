@@ -9,7 +9,6 @@ templates:
     trakt_list_details: <<list>>
     sync_mode: sync
     url_poster: <<poster>>
-    url_background: <<background>>
 
 collections:
  "The Hardy Boys":
