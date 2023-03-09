@@ -7,34 +7,32 @@ templates:
     tvdb_show_details: <<show>>
     trakt_list: <<list>>
     trakt_list_details: <<list>>
+    sort_title: "MCU - <<sort_order>> - <<collection_name>>"
     sync_mode: sync
     url_poster: <<poster>>
 
 collections:
   "Marvel Universe":
-    template: { name: set, poster: https://theposterdb.com/api/assets/201425 }
-    sort_title: "Marvel: 00 - Universe"
+    template: { name: set, sort_order: "00", poster: https://theposterdb.com/api/assets/201425 }
     summary: Marvel Universe Collection
     collection_mode: show_items
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/marvel-collection?sort=released,desc
 
   "Marvel's Defenders":
-    template: { name: set, poster: https://theposterdb.com/api/assets/239488 }
-    sort_title: "Marvel: 01 - Defenders"
+    template: { name: set, sort_order: "01", poster: https://theposterdb.com/api/assets/239488 }
     summary: "Some heroes protect the world, other protect their homes. In Hell’s Kitchen, one of New York’s roughest neighborhoods, unlikely heroes will rise to clean up the mean streets. Bringing notice to all criminals — if you can’t take the heat, stay out of Hell’s Kitchen!"
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/marvel-defenders?sort=released,desc
 
   "Marvel's Daredevil":
-    template: { name: set, poster: https://theposterdb.com/api/assets/239468 }
-    sort_title: "Marvel: 01 - Daredevil"
+    template: { name: set, sort_order: "01", poster: https://theposterdb.com/api/assets/239468 }
     summary: "Daredevil follows Matt Murdock, attorney by day and vigilante by night. Blinded in an accident as a child, Murdock uses his heightened senses as Daredevil, fighting crime on the streets of New York after the sun goes down. His efforts are not welcomed by Wilson Fisk -- aka Kingpin -- and others whose interests collide with those of Daredevil. Though Murdock's day job portrays a man who believes in the criminal justice system, his alter ego suggests otherwise, as he takes the law into his own hands to protect his neighborhood."
     collection_mode: hide
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/marvel-daredevil-24744265?sort=released,desc
 
   "Marvel: Agent's of S.H.I.E.L.D":
-    template: { name: set, show: "263365, 281485", poster: https://theposterdb.com/api/assets/4328 }
+    template: { name: set, sort_order: "01", show: "263365, 281485", poster: https://theposterdb.com/api/assets/4328 }
     title: "Marve's Agent's of S.H.I.E.L.D"
     sort_title: "Marvel: 01 - Agen'ts of S.H.I.E.L.D"

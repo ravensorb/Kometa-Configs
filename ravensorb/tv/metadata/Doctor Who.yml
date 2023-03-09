@@ -1,8 +1,67 @@
 metadata:               #Posters found here: https://theposterdb.com/poster/254616
 
+  # "Doctor Who (1963)":
+  #   year: 
+  #   alt_title: "Doctor Who"
+  #   url_poster: https://theposterdb.com/api/assets/
+  #   seasons:
+  #     0:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     1:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     2:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     3:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     4:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     5:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     6:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     7:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     8:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     9:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     10:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     11:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     12:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     13:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     14:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     15:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     16:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     17:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     18:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     19:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     20:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     21:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     22:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     23:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     24:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     25:
+  #       url_poster: https://theposterdb.com/api/assets/
+  #     26:
+  #       url_poster: https://theposterdb.com/api/assets/
+
   "Doctor Who (2005)":
     year: 2005
-    title: "Doctor Who"
     url_poster: https://theposterdb.com/api/assets/254616
     seasons:
       0:
@@ -40,7 +99,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2546
     url_poster: https://theposterdb.com/api/assets/254646
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/254647
+        url_poster: https://theposterdb.com/api/assets/254647 
       1:
         url_poster: https://theposterdb.com/api/assets/254648
       2:

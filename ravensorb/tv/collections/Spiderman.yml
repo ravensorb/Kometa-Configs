@@ -12,6 +12,6 @@ templates:
 
 collections:
  "Spiderman":
-    template: { name: set, poster: https://theposterdb.com/api/assets/162401 }   
+    template: { name: set, poster: https://theposterdb.com/api/assets/264000 }   
     trakt_list: 
       - https://trakt.tv/users/ravensorb/lists/spiderman-multi-universe?sort=released,desc
