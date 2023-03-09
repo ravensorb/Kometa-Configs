@@ -2,22 +2,54 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2532
 
   "Battlestar Galactica (1978)":
     year: 1978
-    alt_title: "Battlestar Galactica (Original)"
+    alt_title: "Battlestar Galactica"
     orig_title: "Battlestar Galactica (1978)"
     sort_title: "Battlestar Galactica (1978)"
     title: "Battlestar Galactica (Original)"
-    url_poster: https://theposterdb.com/api/assets/160915
+    url_poster: https://theposterdb.com/api/assets/253230
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/253231
 
-  "Battlestar Galactica (2004)":
-    year: 2003
-    alt_title: "Battlestar Galactica (Reboot)"
-    orig_title: "Battlestar Galactica (2004)"
-    sort_title: "Battlestar Galactica (2004)"
-    title: "Battlestar Galactica (Reboot)"
-    url_poster: https://theposterdb.com/api/assets/160915
+  "Galactica 1980":
+    year: 1978
+    alt_title: "Battlestar Galactica (1980)"
+    orig_title: "Battlestar Galactica (1980)"
+    sort_title: "Battlestar Galactica (1980)"
+    title: "Battlestar Galactica (1980)"
+    url_poster: https://theposterdb.com/api/assets/186160
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/253231        
+        url_poster: https://theposterdb.com/api/assets/285128
+
+  "Battlestar Galactica (2003)":
+    year: 2003
+    alt_title: "Battlestar Galactica (Reboot)"
+    orig_title: "Battlestar Galactica (2003)"
+    sort_title: "Battlestar Galactica (2003)"
+    title: "Battlestar Galactica (Reboot)"
+    url_poster: https://theposterdb.com/api/assets/186159
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/253248        
+      1:
+        url_poster: https://theposterdb.com/api/assets/253249 
+      2:
+        url_poster: https://theposterdb.com/api/assets/253250
+      3:
+        url_poster: https://theposterdb.com/api/assets/253251
+      4:
+        url_poster: https://theposterdb.com/api/assets/253252        
+
+  "Caprica (2010)":
+    year: 2010
+    alt_title: "Caprica"
+    orig_title: "Caprica (2010)"
+    sort_title: "Caprica"
+    title: "Caprica"
+    url_poster: https://theposterdb.com/api/assets/327343
+    seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/327344
+      1:
+        url_poster: https://theposterdb.com/api/assets/327345

@@ -124,9 +124,6 @@ metadata:               #Posters found here https://theposterdb.com/poster/23936
 
   "The Flash (2014)":
     year: 2014
-    alt_title: "The Flash"
-    orig_title: "The Flash (2014)"
-    title: "The Flash"
     url_poster: https://theposterdb.com/api/assets/262432
     seasons:
       0:
@@ -333,3 +330,12 @@ metadata:               #Posters found here https://theposterdb.com/poster/23936
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/207482
+
+  "Watchmen (2019)":
+    year: 2019
+    alt_title: Watchmen
+    title: Watchmen
+    url_poster: https://theposterdb.com/api/assets/258845
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/258846

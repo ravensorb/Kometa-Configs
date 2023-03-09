@@ -10,6 +10,6 @@ templates:
     url_poster: <<poster>>
 
 collections:
- "Bionic":
+ "Bionic Man/Woman":
     template: { name: set, show: "2275, 1246, 1663", poster: https://theposterdb.com/api/assets/261361 }
     summary: Bionic Man & Woman Collection
