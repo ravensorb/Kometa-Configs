@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "Penny Dreadful":
+    template: { name: set, show: "54671, 83685", poster: https://theposterdb.com/api/assets/309275 }
+    summary: Some of literature's most terrifying characters, including Dr. Frankenstein, Dorian Gray, and iconic figures from the novel Dracula are lurking in the darkest corners of Victorian London. Penny Dreadful is a frightening psychological thriller that weaves together these classic horror origin stories into a new adult drama.

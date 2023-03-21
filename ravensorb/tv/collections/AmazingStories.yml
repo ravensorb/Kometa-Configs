@@ -1,0 +1,16 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+  "Amazing Stories":
+    template: {name: set, show: "1026, 98178", poster: https://theposterdb.com/api/assets/333608 }
+    summary: "Each episode transports the audience to worlds of wonder through the lens of today’s most imaginative filmmakers, directors and writers. A reimagining of the original anthology series by Steven Spielberg"
+    #collection_mode: hide
+

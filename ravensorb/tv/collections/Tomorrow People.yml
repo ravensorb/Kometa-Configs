@@ -1,0 +1,17 @@
+templates:
+  set:
+    optional:
+      - show
+      - list
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    url_poster: <<poster>>
+
+collections:
+ "The Tomorrow People":
+    template: { name: set, show: "1550, 114251, 48860", poster: https://theposterdb.com/api/assets/32297 }
+    sort_title: Tomorrow People
+    summary: Born to human parents, an apparently normal child might at some point between childhood and late adolescence experience a process called 'breaking out' and develop special paranormal abilities. These abilities include psychic powers such as telepathy, telekinesis, and teleportation. However, their psychological make-up prevents them from intentionally killing others.
