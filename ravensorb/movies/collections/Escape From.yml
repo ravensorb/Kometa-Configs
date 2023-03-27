@@ -1,0 +1,25 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    trakt_list: <<list>>
+    trakt_list_details: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+
+collections:
+  "Escape From...":
+    template: {name: set, "movie": "10061, 1103", poster: https://theposterdb.com/api/assets/164118 }
+    # collection_mode: hide
+    # trakt_list:
+    #   - https://trakt.tv/users/ravensorb/lists/

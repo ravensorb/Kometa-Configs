@@ -158,7 +158,7 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
   "Black Panther: Wakanda Forever (2022)":
     title: "Black Panther: Wakanda Forever"
     year: 2022
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/279102
 
   "The Marvels (2023)":
     title: "The Marvels"
