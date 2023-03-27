@@ -18,8 +18,7 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  "Enola Holmes":
-    template: {name: set, collection: 829314, poster: https://theposterdb.com/api/assets/283512 }
-    summary: "The untold adventures of Sherlock Holmes' sister, Enola."
-    # collection_mode: hide
+  "Luther":
+    template: {name: set, collection: "1100067", poster: https://theposterdb.com/api/assets/236693 }
+    collection_mode: hide
 
