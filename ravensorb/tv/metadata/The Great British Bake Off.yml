@@ -1,0 +1,37 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/261830
+
+  "The Great British Bakeoff (2010)":
+    year: 2010
+    title: "The Great British Bakeoff"
+    url_poster: https://theposterdb.com/api/assets/293230
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/293222
+      1: # 2010
+        url_poster: https://theposterdb.com/api/assets/293223
+      2:
+        url_poster: https://theposterdb.com/api/assets/293224
+      3:
+        url_poster: https://theposterdb.com/api/assets/293225
+      4:
+        url_poster: https://theposterdb.com/api/assets/293226
+      5:
+        url_poster: https://theposterdb.com/api/assets/293227
+      6:
+        url_poster: https://theposterdb.com/api/assets/293228
+      7:
+        url_poster: https://theposterdb.com/api/assets/293229
+      8: # 2017
+        url_poster: https://theposterdb.com/api/assets/293231
+      9:
+        url_poster: https://theposterdb.com/api/assets/293232
+      10:
+        url_poster: https://theposterdb.com/api/assets/293233
+      11:
+        url_poster: https://theposterdb.com/api/assets/293234
+      12:
+        url_poster: https://theposterdb.com/api/assets/293235
+      13:
+        url_poster: https://theposterdb.com/api/assets/293236
+      # 14:
+      #   url_poster: https://theposterdb.com/api/assets/

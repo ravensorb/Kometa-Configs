@@ -14,7 +14,7 @@ templates:
 collections:
  "The Great Bake Off":
     sort_title: "Great Bake Off"    
-    template: { name: set, sort_order: "00", show: "184871, 372076, 266103, 372076, 303773, 359572, 357728, 284546, 343710", poster: https://theposterdb.com/api/assets/7176 }
+    template: { name: set, sort_order: "00", show: "184871, 372076, 266103, 372076, 303773, 359572, 357728, 284546, 343710", poster: https://theposterdb.com/api/assets/293221 }
     summary: Bakers attempt three challenges each week trying to impress the judges enough to go through to the next round and eventually are crowned Britain's best amateur baker.
     collection_mode: default
     # trakt_list: 

@@ -1,0 +1,10 @@
+metadata:               #Posters found here: https://theposterdb.com/user/musikmann2000
+
+  "Hawkeye (2021)":
+    year: 2021
+    title: "Hawkeye"
+    url_poster: https://theposterdb.com/api/assets/192798
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/192799
+
