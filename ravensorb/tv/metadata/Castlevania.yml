@@ -1,0 +1,15 @@
+metadata:               #Posters found here: https://theposterdb.com/users/
+
+  "Castlevania (2017)":
+    year: 2017
+    title: "Castlevania"
+    url_poster: https://theposterdb.com/api/assets/216624
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/216625
+      2:
+        url_poster: https://theposterdb.com/api/assets/216626
+      3:
+        url_poster: https://theposterdb.com/api/assets/216627
+      4:
+        url_poster: https://theposterdb.com/api/assets/216628

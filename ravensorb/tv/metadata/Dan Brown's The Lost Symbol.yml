@@ -1,0 +1,10 @@
+metadata:               #Posters found here: https://theposterdb.com/user/musikmann2000
+
+  "Dan Brown's The Lost Symbol (2021)":
+    year: 2021
+    title: "Dan Brown's The Lost Symbol"
+    url_poster: https://theposterdb.com/api/assets/294180
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/294181
+

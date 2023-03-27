@@ -3,10 +3,19 @@ metadata:               #Posters found here: https://theposterdb.com/user/musikm
   "Charlie's Angels (1976)":
     year: 1976
     title: "Charlie's Angels"
-    # url_poster: https://theposterdb.com/api/assets/
-    # seasons:
-    #   0:
-    #     url_poster: https://theposterdb.com/api/assets/
-    #   1: 
-    #     url_poster: https://theposterdb.com/api/assets/
+    url_poster: https://theposterdb.com/api/assets/307370
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/307371
+      1: 
+        url_poster: https://theposterdb.com/api/assets/307372
+      2: 
+        url_poster: https://theposterdb.com/api/assets/307373
+      3: 
+        url_poster: https://theposterdb.com/api/assets/307374
+      4: 
+        url_poster: https://theposterdb.com/api/assets/307375
+      5: 
+        url_poster: https://theposterdb.com/api/assets/307376
+
 
