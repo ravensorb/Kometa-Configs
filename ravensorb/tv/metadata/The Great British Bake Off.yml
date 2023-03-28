@@ -1,8 +1,8 @@
 metadata:               #Posters found here: https://theposterdb.com/poster/261830
 
-  "The Great British Bakeoff (2010)":
+  "The Great British Bake Off (2010)":
     year: 2010
-    title: "The Great British Bakeoff"
+    title: "The Great British Bake Off"
     url_poster: https://theposterdb.com/api/assets/293230
     seasons:
       0: 
@@ -35,3 +35,45 @@ metadata:               #Posters found here: https://theposterdb.com/poster/2618
         url_poster: https://theposterdb.com/api/assets/293236
       # 14:
       #   url_poster: https://theposterdb.com/api/assets/
+
+  "The Great Comic Relief Bake Off (2013)":
+    year: 2013
+    title: "The Great Comic Relief Bake Off"
+    # url_poster: https://theposterdb.com/api/assets/
+    # seasons:
+    #   1: 
+    #     url_poster: https://theposterdb.com/api/assets/
+
+  "The Great British Baking Show Masterclass (2013)":
+    year: 2013
+    title: "The Great British Baking Show Masterclass"
+    # url_poster: https://theposterdb.com/api/assets/
+    # seasons:
+    #   1: 
+    #     url_poster: https://theposterdb.com/api/assets/
+
+  "The Great British Bake Off: An Extra Slice (2014)":
+    year: 2014
+    title: "The Great British Bake Off: An Extra Slice"
+    # url_poster: https://theposterdb.com/api/assets/
+    # seasons:
+    #   1: 
+    #     url_poster: https://theposterdb.com/api/assets/
+    
+
+  "The Great American Baking Show (2015)":
+    year: 2015
+    title: "The Great American Baking Show"
+    # url_poster: https://theposterdb.com/api/assets/
+    # seasons:
+    #   1: 
+    #     url_poster: https://theposterdb.com/api/assets/
+    
+  "The Great Celebrity Bake Off for SU2C (2018)":
+    year: 2018
+    title: "The Great Celebrity Bake Off for SU2C"
+    # url_poster: https://theposterdb.com/api/assets/
+    # seasons:
+    #   1: 
+    #     url_poster: https://theposterdb.com/api/assets/
+    
