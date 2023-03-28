@@ -1,4 +1,4 @@
-aexternal_templates:
+external_templates:
   pmm: templates
   
 templates:
@@ -18,8 +18,8 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  "Westworld":
-    template: {name: set, collection: "166698", movie: "2362, 10640", poster: https://theposterdb.com/api/assets/161001 }
-    summary: "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park."
+  "The Transporter":
+    template: {name: set, collection: "9518", poster: https://theposterdb.com/api/assets/93441 }
     # collection_mode: hide
+    # trakt_list:
 

@@ -1,0 +1,22 @@
+external_templates:
+  pmm: templates
+  
+templates:
+  set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>s
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: Star Wars - <<sort_order>> - <<sort_title>>
+
+collections:
+  "Scorpiom King":
+    template: {name: set, collection: "", poster: https://theposterdb.com/api/assets/116669 }
+    # trakt_list:
+    #   - https://trakt.tv/users/ravensorb/lists/

@@ -18,8 +18,8 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  "Westworld":
-    template: {name: set, collection: "166698", movie: "2362, 10640", poster: https://theposterdb.com/api/assets/161001 }
-    summary: "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park."
+  "Jack Ryan":
+    template: {name: set, collection: 192492, movie: "4614",  poster: https://theposterdb.com/api/assets/162057 }
+    summary: "John Patrick 'Jack' Ryan, Sr. is a fictional character created by Tom Clancy who appears in many of his novels and their respective film adaptations."
     # collection_mode: hide
 

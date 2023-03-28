@@ -13,5 +13,5 @@ templates:
 
 collections:
  "Westworld":
-    template: { name: set, show: "296762", poster: https://theposterdb.com/api/assets/161001 }
+    template: { name: set, show: "296762", poster: https://theposterdb.com/api/assets/258847 }
     collection_mode: hide
