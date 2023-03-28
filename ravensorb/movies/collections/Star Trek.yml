@@ -29,6 +29,6 @@ collections:
     name_mapping: Star Trek Alternate Reality
 
   "Star Trek: Extras":
-    template: {name: Set, sort_order: "04", sort_title: "Extras", poster: https://theposterdb.com/api/assets/308181 }
+    template: {name: Set, sort_order: "04", sort_title: "Extras", poster: https://theposterdb.com/api/assets/222279 }
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/star-trek-extras?sort=released,desc

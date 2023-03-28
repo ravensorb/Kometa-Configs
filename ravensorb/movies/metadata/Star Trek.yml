@@ -6,6 +6,12 @@ metadata:               #Posters found here: https://theposterdb.com/user/musikm
     title: "Star Trek: The Motion Picture"
     url_poster: https://theposterdb.com/api/assets/175956
 
+  "Star Trek: The Motion Picture (1979) Extended":
+    year: 1979
+    title: "Star Trek: The Motion Picture"
+    edition_filter: Original Release
+    url_poster: https://theposterdb.com/api/assets/175956
+
   "Star Trek II: The Wrath of Khan (1982)":
     year: 1982
     title: "Star Trek II: The Wrath of Khan"
