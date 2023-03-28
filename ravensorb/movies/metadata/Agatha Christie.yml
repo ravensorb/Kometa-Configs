@@ -1,5 +1,15 @@
 metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
 
+  "The 39 Steps (1935)":
+    year: 1935
+    title: "The 39 Steps"
+    url_poster: https://theposterdb.com/api/assets/207743
+
+  "Murder on the Orient Express (1974)":
+    year: 1974
+    title: "Murder on the Orient Express"
+    url_poster: https://theposterdb.com/api/assets/207785
+
   "Death on the Nile (1978)":
     year: 1978
     title: "Death on the Nile"
