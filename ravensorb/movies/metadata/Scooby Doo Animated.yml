@@ -67,6 +67,7 @@ metadata:               #Posters found here https://theposterdb.com/poster/24117
 
   "Scooby-Doo Meets Batman (2002)":
     title: "Scooby-Doo Meets Batman"
+    alt_title: "Scooby-Doo Meets Batman"
     year: 2002
     url_poster: https://theposterdb.com/api/assets/241192
 
@@ -228,6 +229,7 @@ metadata:               #Posters found here https://theposterdb.com/poster/24117
 
   "Scooby-Doo! Return to Zombie Island (2019)":
     title: "Scooby-Doo! Return to Zombie Island"
+    alt_title: "Scooby Doo and The Zombies"
     year: 2019
     url_poster: https://theposterdb.com/api/assets/241222
 
