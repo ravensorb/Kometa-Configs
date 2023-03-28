@@ -1,0 +1,111 @@
+metadata:               #Posters found here: https://theposterdb.com/user/musikmann2000
+
+  "Star Wars (1977)":
+    year: 1977
+    title: "Star Wars"
+    sort_title: "Star Wars - 04"
+    url_poster: https://theposterdb.com/api/assets/174457
+
+  "The Empire Strikes Back (1980)":
+    year: 1980
+    title: "The Empire Strikes Back"
+    sort_title: "Star Wars - 05"
+    url_poster: https://theposterdb.com/api/assets/174459
+
+  "Return of the Jedi (1983)":
+    year: 1983
+    title: "Return of the Jedi"
+    sort_title: "Star Wars - 06"
+    url_poster: https://theposterdb.com/api/assets/174460
+
+  "Star Wars: Episode I - The Phantom Menace (1999)":
+    year: 1999
+    title: "Star Wars: Episode I - The Phantom Menace"
+    sort_title: "Star Wars - 01"
+    url_poster: https://theposterdb.com/api/assets/244738
+
+  "Star Wars: Episode II - Attack of the Clones (2002)":
+    year: 2002
+    title: "Star Wars: Episode II - Attack of the Clones"
+    sort_title: "Star Wars - 02"
+    url_poster: https://theposterdb.com/api/assets/174464
+
+  "Star Wars: Episode III - Revenge of the Sith (2005)":
+    year: 2005
+    title: "Star Wars: Episode III - Revenge of the Sith"
+    sort_title: "Star Wars - 03"
+    url_poster: https://theposterdb.com/api/assets/174465
+
+  "Star Wars: The Force Awakens (2015)":
+    year: 2015
+    title: "Star Wars: The Force Awakens"
+    sort_title: "Star Wars - 07"
+    url_poster: https://theposterdb.com/api/assets/174467
+
+  "Star Wars: The Last Jedi (2017)":
+    year: 2017
+    title: "Star Wars: The Last Jedi"
+    sort_title: "Star Wars - 08"
+    url_poster: https://theposterdb.com/api/assets/174469
+
+  # Side Stories 
+  "Rogue One: A Star Wars Story (2016)":
+    year: 2016
+    title: "Rogue One: A Star Wars Story"
+    sort_title: "Star Wars - 11"
+    url_poster: https://theposterdb.com/api/assets/174468
+
+  "Solo: A Star Wars Story (2018)":
+    year: 2018
+    title: "Solo: A Star Wars Story"
+    sort_title: "Star Wars - 12"
+    url_poster: https://theposterdb.com/api/assets/174470
+
+  "Star Wars: The Rise of Skywalker (2019)":
+    year: 2018
+    title: "Star Wars: The Rise of Skywalker"
+    sort_title: "Star Wars - 13"
+    url_poster: https://theposterdb.com/api/assets/174471
+
+  # Other
+  "The Star Wars Holiday Special (1978)":
+    year: 1978
+    title: "The Star Wars Holiday Special"
+    sort_title: "Star Wars - 20"
+    url_poster: https://theposterdb.com/api/assets/174458
+
+  "The Ewok Adventure (1985)":
+    year: 11985
+    title: "The Ewok Adventure"
+    sort_title: "Star Wars - 21"
+    url_poster: https://theposterdb.com/api/assets/174461
+
+  "Ewoks: The Battle for Endor (1985)":
+    year: 1985
+    title: "Ewoks: The Battle for Endor"
+    sort_title: "Star Wars - 22"
+    url_poster: https://theposterdb.com/api/assets/
+
+  "Star Wars: The Clone Wars (2008)":
+    year: 2008
+    title: "Star Wars: The Clone Wars"
+    sort_title: "Star Wars - 10"
+    url_poster: https://theposterdb.com/api/assets/174473
+
+  "LEGO Star Wars Holiday Special (2020)":
+    year: 2020
+    title: "LEGO Star Wars Holiday Special"
+    sort_title: "Star Wars - 23"
+    url_poster: https://theposterdb.com/api/assets/174472
+
+  "Star Wars: The Bad Batch (2021)":
+    year: 2021
+    title: "Star Wars: The Bad Batch"
+    sort_title: "Star Wars - 24"
+    url_poster: https://theposterdb.com/api/assets/174478
+
+  "":
+    year: 
+    title: ""
+    sort_title: "Star Wars - 0"
+    url_poster: https://theposterdb.com/api/assets/
