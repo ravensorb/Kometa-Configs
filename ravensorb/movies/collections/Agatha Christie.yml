@@ -27,3 +27,6 @@ collections:
 
   "Hercule Poirot (Peter Ustinov)":
     template: {name: set, collection: 752992, poster: https://theposterdb.com/api/assets/311203 }
+
+  # "Hercule Poirot":
+  #   template: {name: set, collection: , poster: https://theposterdb.com/api/assets/226035 }

@@ -418,3 +418,9 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     title: "Director by Night"
     year: 2022
     url_poster: https://theposterdb.com/api/assets/288110
+
+# General
+  "Marvel Studios: Expanding the Universe (2019)":
+    year: 2019
+    title: "Marvel Studios: Expanding the Universe"
+    url_poster: https://theposterdb.com/api/assets/138309

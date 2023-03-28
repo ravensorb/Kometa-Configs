@@ -6,6 +6,11 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     sort_title: "Death on the Nile"
     url_poster: https://theposterdb.com/api/assets/311204
 
+  "The Mirror Crack'd (1980)":
+    year: 1980
+    title: "The Mirror Crack'd"
+    url_poster: https://theposterdb.com/api/assets/234966
+    
   "Evil Under the Sun (1982)":
     year: 1982
     title: "Evil Under the Sun"
@@ -35,3 +40,13 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     title: "Appointment with Death"
     sort_title: "Appointment with Death"
     url_poster: https://theposterdb.com/api/assets/311209
+
+  "Murder on the Orient Express (2017)":
+    year: 2017
+    title: "Murder on the Orient Express"
+    url_poster: https://theposterdb.com/api/assets/201481
+
+  "Death on the Nile (2022)":
+    year: 2022
+    title: "Death on the Nile"
+    url_poster: https://theposterdb.com/api/assets/226036

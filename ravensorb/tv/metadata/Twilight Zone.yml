@@ -1,0 +1,12 @@
+metadata:               #Posters found here: https://theposterdb.com/user/musikmann2000
+
+  "Twilight Zone (2019)":
+    year: 2019
+    title: "Twilight Zone"
+    url_poster: https://theposterdb.com/api/assets/179767
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/260852
+      2: 
+        url_poster: https://theposterdb.com/api/assets/260853
+
