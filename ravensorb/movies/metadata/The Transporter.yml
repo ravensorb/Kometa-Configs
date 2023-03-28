@@ -3,6 +3,7 @@ metadata:               #Posters found here: https://theposterdb.com/user/musikm
   "The Transporter (2002)":
     year: 2002
     title: "Transporter"
+    alt_title: "The Transporter"
     url_poster: https://theposterdb.com/api/assets/204875
 
   "Transporter 2 (2005)":

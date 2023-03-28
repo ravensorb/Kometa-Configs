@@ -25,3 +25,5 @@ collections:
     trakt_list:
       - https://trakt.tv/users/ravensorb/lists/agatha-christie-copy?sort=released,asc
 
+  "Hercule Poirot (Peter Ustinov)":
+    template: {name: set, collection: 752992, poster: https://theposterdb.com/api/assets/311203 }
