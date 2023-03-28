@@ -17,6 +17,6 @@ templates:
 
 collections:
   "Scorpiom King":
-    template: {name: set, collection: "", poster: https://theposterdb.com/api/assets/116669 }
+    template: {name: set, collection: "116669", poster: https://theposterdb.com/api/assets/116669 }
     # trakt_list:
     #   - https://trakt.tv/users/ravensorb/lists/
