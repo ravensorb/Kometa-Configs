@@ -26,12 +26,24 @@ collections:
       - https://trakt.tv/users/docishoon/lists/dc?sort=released,desc
       - https://trakt.tv/users/asmobarki/lists/dc-universe?sort=released,asc
 
+  "Aquaman":
+    template: {name: Set, collection: 573693, poster: https://theposterdb.com/api/assets/162375 }
+    collection_mode: hide_items
+
   "Batman":
     template: {name: set, sort_order: "01", collection: 120794, poster: https://theposterdb.com/api/assets/162377 }
     collection_mode: hide_items
   
   "Batman: Dark Knight":
     template: {name: set, sort_order: "01", collection: 263, poster: https://theposterdb.com/api/assets/263847 }
+    collection_mode: hide_items
+
+  "Red":
+    template: {name: Set, collection: 163902, poster: https://theposterdb.com/api/assets/162399 }
+    collection_mode: hide_items
+
+  "Suicide Squad":
+    template: {name: Set, collection: 531242, poster: https://theposterdb.com/api/assets/174225 }
     collection_mode: hide_items
 
   "Super-Man":
@@ -44,4 +56,12 @@ collections:
 
   "Wonder Woman":
     template: {name: set, sort_order: "01", collection: 468552, poster: https://theposterdb.com/api/assets/162410 }
+    collection_mode: hide_items
+
+  "Swamp Thing":
+    template: {name: Set, collection: 87228, poster: https://theposterdb.com/api/assets/162403 }
+    collection_mode: hide_items
+
+  "Watchmen":
+    template: {name: Set, list: 8196349, poster: https://theposterdb.com/api/assets/162408 }
     collection_mode: hide_items

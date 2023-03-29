@@ -1,15 +1,5 @@
 metadata:               #Posters found here hhttps://theposterdb.com/user/musikmann2000
 
-  "Reign of the Supermen (2019)":
-    title: "Reign of the Supermen"
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/193372
-
-  "The Death of Superman (2019)":
-    title: "The Death of Superman"
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/193370
-
   # "":
   #   title: ""
   #   year: 
@@ -291,3 +281,14 @@ metadata:               #Posters found here hhttps://theposterdb.com/user/musikm
     title: "Tales of the Black Freighter"
     year: 2009
     url_poster: https://theposterdb.com/api/assets/171565
+
+  "Reign of the Supermen (2019)":
+    title: "Reign of the Supermen"
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/193372
+
+  "The Death of Superman (2019)":
+    title: "The Death of Superman"
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/193370
+
