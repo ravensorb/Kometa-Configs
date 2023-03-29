@@ -19,7 +19,7 @@ templates:
 
 collections:
   "Planet of the Apes (Original)":
-    template: {name: set, collection: 1709, poster: https://theposterdb.com/api/assets/76945 }
+    template: {name: set, movie: "17244", collection: 1709, poster: https://theposterdb.com/api/assets/76945 }
     summary: "The original 5 classic films collection."
     # collection_mode: hide
 
