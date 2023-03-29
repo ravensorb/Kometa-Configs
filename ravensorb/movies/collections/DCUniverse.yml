@@ -21,7 +21,7 @@ collections:
   "DC Universe":
     template: {name: set, sort_order: "00", poster: https://theposterdb.com/api/assets/239356 }
     summary: 
-    collection_mode: show_items
+    #collection_mode: show_items
     trakt_list:
       - https://trakt.tv/users/docishoon/lists/dc?sort=released,desc
       - https://trakt.tv/users/asmobarki/lists/dc-universe?sort=released,asc

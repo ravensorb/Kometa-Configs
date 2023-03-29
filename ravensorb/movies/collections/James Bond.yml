@@ -22,4 +22,6 @@ collections:
     template: {name: set, collection: 645, poster: https://theposterdb.com/api/assets/164797 }
     summary: "The James Bond film series is a British series of spy films based on the fictional character of MI6 agent James Bond, codename '007'. With all of the action, adventure, gadgetry & film scores that Bond is famous for."
     # collection_mode: hide
+    trakt_list: 
+      - https://trakt.tv/users/ravensorb/lists/james-bond?sort=released,desc
 

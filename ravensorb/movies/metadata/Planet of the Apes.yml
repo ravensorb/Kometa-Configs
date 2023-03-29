@@ -1,0 +1,35 @@
+metadata:               #Posters found here: https://theposterdb.com/user/musikmann2000
+
+  # Planet of the Apes (Original)
+  "Planet of the Apes (1968)":
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/187337
+
+  "Beneath the Planet of the Apes (1970)":
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/187338
+
+  "Escape from the Planet of the Apes (1971)":
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/187339
+
+  "Conquest of the Planet of the Apes (1972)":
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/187340
+
+  "Battle for the Planet of the Apes (1973)":
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/187341
+
+  # Planet of the Apes (Reboot)
+  "Rise of the Planet of the Apes (2011)":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/184313
+  
+  "Dawn of the Planet of the Apes (2014)":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/184314
+  
+  "War for the Planet of the Apes (2017)":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/184315
