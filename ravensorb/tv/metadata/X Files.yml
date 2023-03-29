@@ -2,7 +2,9 @@ metadata:
 
   "The X-Files (1993)":
     year: 1993
-    title: "X-Files"
+    title: "The X-Files"
+    sort_title: "X-Files"
+    alt_titles: "X-Files"
     url_poster: https://theposterdb.com/api/assets/327076
     seasons:
       0:
