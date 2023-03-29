@@ -3,14 +3,17 @@ metadata:               #Posters found here: https://theposterdb.com/user/musikm
   "The Art of War (2000)":
     year: 2000
     title: "The Art of War"
+    sort_title: "Art of War 1"
     url_poster: https://theposterdb.com/api/assets/203980
 
   "The Art of War II: Betrayal (2008)":
     year: 2008
     title: "The Art of War II: Betrayal"
+    sort_title: "Art of War 2"
     url_poster: https://theposterdb.com/api/assets/203981
-    
+
   "The Art of War III: Retribution (2009)":
     year: 2009
     title: "The Art of War III: Retribution"
+    sort_title: "Art of War 3"
     url_poster: https://theposterdb.com/api/assets/289528

@@ -287,8 +287,19 @@ metadata:               #Posters found here hhttps://theposterdb.com/user/musikm
     year: 2019
     url_poster: https://theposterdb.com/api/assets/193372
 
-  "The Death of Superman (2019)":
+  "The Death of Superman (2018)":
     title: "The Death of Superman"
-    year: 2019
+    year: 2018
     url_poster: https://theposterdb.com/api/assets/193370
+
+  "Justice Society: World War II (2021)":
+    year: 2021
+    title: "Justice Society: World War II"
+    url_poster: https://theposterdb.com/api/assets/193382
+
+  "Professor Marston & the Wonder Women (2017)":
+    year: 2017
+    title: "Professor Marston & the Wonder Women"
+    alt_title: "Professor Marston and the Wonder Women"
+    url_poster: https://theposterdb.com/api/assets/201497
 
