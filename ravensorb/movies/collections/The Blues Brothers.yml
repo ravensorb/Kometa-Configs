@@ -19,6 +19,7 @@ templates:
 
 collections:
   "The Blues Brothers":
+    sort_title: 'Blues Brothers'
     template: {name: set, collection: "112636", poster: https://theposterdb.com/api/assets/166229 }
     # collection_mode: hide
 
