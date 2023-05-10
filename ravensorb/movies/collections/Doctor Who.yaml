@@ -1,6 +1,6 @@
 collections:
   "Doctor Who":
-    variables: { label: "Doctor Who", collection: "275873", movie: "15691, 491940, 282963, 210024, 313106", poster: https://theposterdb.com/api/assets/163698 }
+    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "00", sort_separator: " - ", collection: "275873", movie: "15691, 491940, 282963, 210024, 313106", poster: https://theposterdb.com/api/assets/163698 }
     template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
     summary: |
       Dr. Who is a character based on the BBC science-fiction television series Doctor Who. Although based on the Doctor who appears in the TV series, the film version of the character is fundamentally different.  The character, portrayed by the actor Peter Cushing, appeared in two films made by AARU Productions: Dr. Who and the Daleks (1965), which was based on the televised serial The Daleks (1963), and Daleks – Invasion Earth: 2150 A.D. (1966), based on The Dalek Invasion of Earth (1964). Plans for a third film, to be based on the serial The Chase (1965), were abandoned following the poor box office reception of the second film.

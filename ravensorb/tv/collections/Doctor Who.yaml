@@ -1,6 +1,6 @@
 collections:
   "Doctor Who":
-    variables: { label: "Doctor Who", collection: "275873", show: "64073, 454, 57243, 424, 121, 1056, 203", poster: https://theposterdb.com/api/assets/163698 }
+    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", collection: "275873", show: "64073, 454, 57243, 424, 121, 1056, 203", poster: https://theposterdb.com/api/assets/163698 }
     template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%22

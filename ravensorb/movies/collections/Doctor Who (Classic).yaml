@@ -1,6 +1,6 @@
 collections:
   "Doctor Who (Classic)":
-    variables: { label: "Doctor Who", movie: "15691, 491940, 210024", poster: https://theposterdb.com/api/assets/53252 }
+    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", movie: "15691, 491940, 210024", poster: https://theposterdb.com/api/assets/53252 }
     template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
     summary: |
       The Doctor visits his old Time Lord friend Chronotis in Cambridge, 1979. But the ruthless Skagra has also arrived to retrieve a book that will help unlock one of the Time Lords' greatest secrets: what is Shada? Filming for this story was never finished, and in this version the unfilmed material is completed via animation.
