@@ -1,0 +1,85 @@
+metadata:
+    "The Terminator (1984)":
+        year: 1984
+        title: "The Terminator"
+        alt_title: "The Terminator (1984)"
+        orig_title: "The Terminator"
+        sort_title: "Terminator"
+        
+        url_poster: https://theposterdb.com/api/assets/183836
+        # IDs: imdb://tt0088247, tmdb://218, tvdb://470
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Terminator&category=Movies&year_filter=equals&yone=1984&tmdb_id=218&imdb_id=tt0088247&tvdb_id=470
+        # tmdb: https://www.themoviedb.org/movie/218
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=470
+        # imdb: https://www.imdb.com/title/tt0088247
+    
+    "Terminator 2: Judgment Day (1991)":
+        year: 1991
+        title: "Terminator 2: Judgment Day"
+        alt_title: "Terminator 2: Judgment Day (1991)"
+        orig_title: "Terminator 2: Judgment Day"
+        sort_title: "Terminator 2: Judgment Day"
+        
+        url_poster: https://theposterdb.com/api/assets/183837
+        # IDs: imdb://tt0103064, tmdb://280, tvdb://412
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Terminator+2%3A+Judgment+Day&category=Movies&year_filter=equals&yone=1991&tmdb_id=280&imdb_id=tt0103064&tvdb_id=412
+        # tmdb: https://www.themoviedb.org/movie/280
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=412
+        # imdb: https://www.imdb.com/title/tt0103064
+    
+    "Terminator 3: Rise of the Machines (2003)":
+        year: 2003
+        title: "Terminator 3: Rise of the Machines"
+        alt_title: "Terminator 3: Rise of the Machines (2003)"
+        orig_title: "Terminator 3: Rise of the Machines"
+        sort_title: "Terminator 3: Rise of the Machines"
+        
+        url_poster: https://theposterdb.com/api/assets/183838
+        # IDs: imdb://tt0181852, tmdb://296, tvdb://663
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Terminator+3%3A+Rise+of+the+Machines&category=Movies&year_filter=equals&yone=2003&tmdb_id=296&imdb_id=tt0181852&tvdb_id=663
+        # tmdb: https://www.themoviedb.org/movie/296
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=663
+        # imdb: https://www.imdb.com/title/tt0181852
+    
+    "Terminator Salvation (2009)":
+        year: 2009
+        title: "Terminator Salvation"
+        alt_title: "Terminator Salvation (2009)"
+        orig_title: "Terminator Salvation"
+        sort_title: "Terminator Salvation"
+        
+        url_poster: https://theposterdb.com/api/assets/183839
+        # IDs: imdb://tt0438488, tmdb://534, tvdb://861
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Terminator+Salvation&category=Movies&year_filter=equals&yone=2009&tmdb_id=534&imdb_id=tt0438488&tvdb_id=861
+        # tmdb: https://www.themoviedb.org/movie/534
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=861
+        # imdb: https://www.imdb.com/title/tt0438488
+    
+    "Terminator Genisys (2015)":
+        year: 2015
+        title: "Terminator Genisys"
+        alt_title: "Terminator Genisys (2015)"
+        orig_title: "Terminator Genisys"
+        sort_title: "Terminator Genisys"
+        
+        url_poster: https://theposterdb.com/api/assets/183840
+        # IDs: imdb://tt1340138, tmdb://87101, tvdb://208
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Terminator+Genisys&category=Movies&year_filter=equals&yone=2015&tmdb_id=87101&imdb_id=tt1340138&tvdb_id=208
+        # tmdb: https://www.themoviedb.org/movie/87101
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=208
+        # imdb: https://www.imdb.com/title/tt1340138
+    
+    "Terminator: Dark Fate (2019)":
+        year: 2019
+        title: "Terminator: Dark Fate"
+        alt_title: "Terminator: Dark Fate (2019)"
+        orig_title: "Terminator: Dark Fate"
+        sort_title: "Terminator: Dark Fate"
+        
+        url_poster: https://theposterdb.com/api/assets/183841
+        # IDs: imdb://tt6450804, tmdb://290859, tvdb://8725
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Terminator%3A+Dark+Fate&category=Movies&year_filter=equals&yone=2019&tmdb_id=290859&imdb_id=tt6450804&tvdb_id=8725
+        # tmdb: https://www.themoviedb.org/movie/290859
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=8725
+        # imdb: https://www.imdb.com/title/tt6450804
+    

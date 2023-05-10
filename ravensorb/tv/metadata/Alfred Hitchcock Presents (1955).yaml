@@ -1,0 +1,42 @@
+metadata:
+    "Alfred Hitchcock Presents (1955)":
+        year: 1955
+        title: "Alfred Hitchcock Presents"
+        alt_title: "Alfred Hitchcock Presents (1955)"
+        orig_title: "Alfred Hitchcock Presents"
+        sort_title: "Alfred Hitchcock Presents"
+        url_poster: https://theposterdb.com/api/assets/207876
+        # IDs: imdb://tt0047708, tmdb://5273, tvdb://73614
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents&category=Shows&year_filter=equals&yone=1955&tmdb_id=5273&imdb_id=tt0047708&tvdb_id=73614
+        # tmdb: https://www.themoviedb.org/tv/5273
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1955&query=73614
+        # imdb: https://www.imdb.com/title/tt0047708
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/207878
+                # IDs: tmdb://15241, tvdb://6102
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+1&category=Shows&tmdb_id=15241&tvdb_id=6102
+            2:
+                url_poster: https://theposterdb.com/api/assets/207879
+                # IDs: tmdb://15242, tvdb://6103
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+2&category=Shows&tmdb_id=15242&tvdb_id=6103
+            3:
+                url_poster: https://theposterdb.com/api/assets/207880
+                # IDs: tmdb://15240, tvdb://6104
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+3&category=Shows&tmdb_id=15240&tvdb_id=6104
+            4:
+                url_poster: https://theposterdb.com/api/assets/207881
+                # IDs: tmdb://15243, tvdb://6105
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+4&category=Shows&tmdb_id=15243&tvdb_id=6105
+            5:
+                url_poster: https://theposterdb.com/api/assets/207882
+                # IDs: tmdb://15245, tvdb://6106
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+5&category=Shows&tmdb_id=15245&tvdb_id=6106
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://15244, tvdb://6107
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+6&category=Shows&tmdb_id=15244&tvdb_id=6107
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://15246, tvdb://6108
+                # https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents+Season+7&category=Shows&tmdb_id=15246&tvdb_id=6108        

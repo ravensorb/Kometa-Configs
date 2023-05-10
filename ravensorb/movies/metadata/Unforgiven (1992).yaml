@@ -1,0 +1,15 @@
+metadata:
+    "Unforgiven (1992)":
+        year: 1992
+        title: "Unforgiven"
+        alt_title: "Unforgiven (1992)"
+        orig_title: "Unforgiven"
+        sort_title: "Unforgiven"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0105695, tmdb://33, tvdb://1504
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Unforgiven&category=Movies&year_filter=equals&yone=1992&tmdb_id=33&imdb_id=tt0105695&tvdb_id=1504
+        # tmdb: https://www.themoviedb.org/movie/33
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1992&query=1504
+        # imdb: https://www.imdb.com/title/tt0105695
+    

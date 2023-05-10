@@ -1,0 +1,18 @@
+metadata:
+    "Obi-Wan Kenobi (2022)":
+        year: 2022
+        title: "Obi-Wan Kenobi"
+        alt_title: "Obi-Wan Kenobi (2022)"
+        orig_title: "Obi-Wan Kenobi"
+        sort_title: "Obi-Wan Kenobi"
+        url_poster: https://theposterdb.com/api/assets/238547
+        # IDs: imdb://tt8466564, tmdb://92830, tvdb://393199
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Obi-Wan+Kenobi&category=Shows&year_filter=equals&yone=2022&tmdb_id=92830&imdb_id=tt8466564&tvdb_id=393199
+        # tmdb: https://www.themoviedb.org/tv/92830
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=393199
+        # imdb: https://www.imdb.com/title/tt8466564
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238548
+                # IDs: tmdb://130857, tvdb://1940418
+                # https://theposterdb.com/search/advanced/results?term=Obi-Wan+Kenobi+Season+1&category=Shows&tmdb_id=130857&tvdb_id=1940418        

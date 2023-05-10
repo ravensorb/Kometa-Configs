@@ -1,0 +1,26 @@
+metadata:
+    "The Hardy Boys Nancy Drew Mysteries (1977)":
+        year: 1977
+        title: "The Hardy Boys Nancy Drew Mysteries"
+        alt_title: "The Hardy Boys Nancy Drew Mysteries (1977)"
+        orig_title: "The Hardy Boys Nancy Drew Mysteries"
+        sort_title: "Hardy Boys Nancy Drew Mysteries"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0075513, tmdb://2928, tvdb://71183
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries&category=Shows&year_filter=equals&yone=1977&tmdb_id=2928&imdb_id=tt0075513&tvdb_id=71183
+        # tmdb: https://www.themoviedb.org/tv/2928
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1977&query=71183
+        # imdb: https://www.imdb.com/title/tt0075513
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9461
+                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+1&category=Shows&tmdb_id=9461
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9462
+                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+2&category=Shows&tmdb_id=9462
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9463
+                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+3&category=Shows&tmdb_id=9463        

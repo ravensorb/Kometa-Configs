@@ -1,0 +1,29 @@
+metadata:
+    "Mission Galactica: The Cylon Attack (1979)":
+        year: 1979
+        title: "Mission Galactica: The Cylon Attack"
+        alt_title: "Mission Galactica: The Cylon Attack (1979)"
+        orig_title: "Mission Galactica: The Cylon Attack"
+        sort_title: "Mission Galactica: The Cylon Attack"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0077937, tmdb://9640, tvdb://61788
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mission+Galactica%3A+The+Cylon+Attack&category=Movies&year_filter=equals&yone=1979&tmdb_id=9640&imdb_id=tt0077937&tvdb_id=61788
+        # tmdb: https://www.themoviedb.org/movie/9640
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1979&query=61788
+        # imdb: https://www.imdb.com/title/tt0077937
+    
+    "Conquest of the Earth (1981)":
+        year: 1981
+        title: "Conquest of the Earth"
+        alt_title: "Conquest of the Earth (1981)"
+        orig_title: "Conquest of the Earth"
+        sort_title: "Conquest of the Earth"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0080559, tmdb://65288, tvdb://81263
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Conquest+of+the+Earth&category=Movies&year_filter=equals&yone=1981&tmdb_id=65288&imdb_id=tt0080559&tvdb_id=81263
+        # tmdb: https://www.themoviedb.org/movie/65288
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1981&query=81263
+        # imdb: https://www.imdb.com/title/tt0080559
+    

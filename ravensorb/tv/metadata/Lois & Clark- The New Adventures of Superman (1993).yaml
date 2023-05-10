@@ -1,0 +1,30 @@
+metadata:
+    "Lois & Clark: The New Adventures of Superman (1993)":
+        year: 1993
+        title: "Lois & Clark: The New Adventures of Superman"
+        alt_title: "Lois & Clark: The New Adventures of Superman (1993)"
+        orig_title: "Lois & Clark: The New Adventures of Superman"
+        sort_title: "Lois & Clark: The New Adventures of Superman"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0106057, tmdb://4515, tvdb://72468
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman&category=Shows&year_filter=equals&yone=1993&tmdb_id=4515&imdb_id=tt0106057&tvdb_id=72468
+        # tmdb: https://www.themoviedb.org/tv/4515
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1993&query=72468
+        # imdb: https://www.imdb.com/title/tt0106057
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13597
+                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+1&category=Shows&tmdb_id=13597
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13598
+                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+2&category=Shows&tmdb_id=13598
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13599
+                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+3&category=Shows&tmdb_id=13599
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13600
+                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+4&category=Shows&tmdb_id=13600        

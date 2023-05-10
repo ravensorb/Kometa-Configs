@@ -1,0 +1,18 @@
+metadata:
+    "Bret Maverick (1981)":
+        year: 1981
+        title: "Bret Maverick"
+        alt_title: "Bret Maverick (1981)"
+        orig_title: "Bret Maverick"
+        sort_title: "Bret Maverick"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0081837, tmdb://11989, tvdb://71304
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bret+Maverick&category=Shows&year_filter=equals&yone=1981&tmdb_id=11989&imdb_id=tt0081837&tvdb_id=71304
+        # tmdb: https://www.themoviedb.org/tv/11989
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=71304
+        # imdb: https://www.imdb.com/title/tt0081837
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://22672
+                # https://theposterdb.com/search/advanced/results?term=Bret+Maverick+Season+1&category=Shows&tmdb_id=22672        

@@ -1,0 +1,22 @@
+metadata:
+    "The Twilight Zone (2019)":
+        year: 2019
+        title: "The Twilight Zone (2019)"
+        alt_title: "The Twilight Zone (2019)"
+        orig_title: "The Twilight Zone (2019)"
+        sort_title: "Twilight Zone (2019)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2583620, tmdb://83135, tvdb://358915
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=83135&imdb_id=tt2583620&tvdb_id=358915
+        # tmdb: https://www.themoviedb.org/tv/83135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=358915
+        # imdb: https://www.imdb.com/title/tt2583620
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://110914
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29+Season+1&category=Shows&tmdb_id=110914
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://150619
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29+Season+2&category=Shows&tmdb_id=150619        

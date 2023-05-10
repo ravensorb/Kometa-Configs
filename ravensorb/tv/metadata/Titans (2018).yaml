@@ -1,0 +1,30 @@
+metadata:
+    "Titans (2018)":
+        year: 2018
+        title: "Titans (2018)"
+        alt_title: "Titans (2018)"
+        orig_title: "Titans (2018)"
+        sort_title: "Titans (2018)"
+        url_poster: https://theposterdb.com/api/assets/239370
+        # IDs: imdb://tt1043813, tmdb://75450, tvdb://341663
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Titans+%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=75450&imdb_id=tt1043813&tvdb_id=341663
+        # tmdb: https://www.themoviedb.org/tv/75450
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=341663
+        # imdb: https://www.imdb.com/title/tt1043813
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239371
+                # IDs: tmdb://95973, tvdb://756327
+                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+1&category=Shows&tmdb_id=95973&tvdb_id=756327
+            2:
+                url_poster: https://theposterdb.com/api/assets/239372
+                # IDs: tmdb://128460, tvdb://819410
+                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+2&category=Shows&tmdb_id=128460&tvdb_id=819410
+            3:
+                url_poster: https://theposterdb.com/api/assets/239373
+                # IDs: tmdb://199501, tvdb://1923124
+                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+3&category=Shows&tmdb_id=199501&tvdb_id=1923124
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://311993, tvdb://1999214
+                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+4&category=Shows&tmdb_id=311993&tvdb_id=1999214        

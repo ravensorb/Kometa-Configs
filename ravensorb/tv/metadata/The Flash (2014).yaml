@@ -1,0 +1,50 @@
+metadata:
+    "The Flash (2014)":
+        year: 2014
+        title: "The Flash (2014)"
+        alt_title: "The Flash (2014)"
+        orig_title: "The Flash (2014)"
+        sort_title: "Flash (2014)"
+        url_poster: https://theposterdb.com/api/assets/262432
+        # IDs: imdb://tt3107288, tmdb://60735, tvdb://279121
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29&category=Shows&year_filter=equals&yone=2014&tmdb_id=60735&imdb_id=tt3107288&tvdb_id=279121
+        # tmdb: https://www.themoviedb.org/tv/60735
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=279121
+        # imdb: https://www.imdb.com/title/tt3107288
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/262434
+                # IDs: tmdb://60523, tvdb://578373
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+1&category=Shows&tmdb_id=60523&tvdb_id=578373
+            2:
+                url_poster: https://theposterdb.com/api/assets/262435
+                # IDs: tmdb://66922, tvdb://626964
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+2&category=Shows&tmdb_id=66922&tvdb_id=626964
+            3:
+                url_poster: https://theposterdb.com/api/assets/262436
+                # IDs: tmdb://77888, tvdb://671084
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+3&category=Shows&tmdb_id=77888&tvdb_id=671084
+            4:
+                url_poster: https://theposterdb.com/api/assets/262437
+                # IDs: tmdb://90247, tvdb://715402
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+4&category=Shows&tmdb_id=90247&tvdb_id=715402
+            5:
+                url_poster: https://theposterdb.com/api/assets/262438
+                # IDs: tmdb://104777, tvdb://769141
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+5&category=Shows&tmdb_id=104777&tvdb_id=769141
+            6:
+                url_poster: https://theposterdb.com/api/assets/262439
+                # IDs: tmdb://126171, tvdb://815982
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+6&category=Shows&tmdb_id=126171&tvdb_id=815982
+            7:
+                url_poster: https://theposterdb.com/api/assets/262440
+                # IDs: tmdb://159996, tvdb://1877755
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+7&category=Shows&tmdb_id=159996&tvdb_id=1877755
+            8:
+                url_poster: https://theposterdb.com/api/assets/262441
+                # IDs: tmdb://199286, tvdb://1934886
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+8&category=Shows&tmdb_id=199286&tvdb_id=1934886
+            # 9:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://318884, tvdb://2033329
+                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+9&category=Shows&tmdb_id=318884&tvdb_id=2033329        

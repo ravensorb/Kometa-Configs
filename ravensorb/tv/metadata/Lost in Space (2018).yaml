@@ -1,0 +1,26 @@
+metadata:
+    "Lost in Space (2018)":
+        year: 2018
+        title: "Lost in Space (2018)"
+        alt_title: "Lost in Space (2018)"
+        orig_title: "Lost in Space (2018)"
+        sort_title: "Lost in Space (2018)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5232792, tmdb://75758, tvdb://343253
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=75758&imdb_id=tt5232792&tvdb_id=343253
+        # tmdb: https://www.themoviedb.org/tv/75758
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=343253
+        # imdb: https://www.imdb.com/title/tt5232792
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://96659, tvdb://752850
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+1&category=Shows&tmdb_id=96659&tvdb_id=752850
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://133661, tvdb://828816
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+2&category=Shows&tmdb_id=133661&tvdb_id=828816
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://214737, tvdb://1961264
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+3&category=Shows&tmdb_id=214737&tvdb_id=1961264        

@@ -1,0 +1,29 @@
+metadata:
+    "Going My Way (1944)":
+        year: 1944
+        title: "Going My Way"
+        alt_title: "Going My Way (1944)"
+        orig_title: "Going My Way"
+        sort_title: "Going My Way"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0036872, tmdb://17661, tvdb://16195
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Going+My+Way&category=Movies&year_filter=equals&yone=1944&tmdb_id=17661&imdb_id=tt0036872&tvdb_id=16195
+        # tmdb: https://www.themoviedb.org/movie/17661
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1944&query=16195
+        # imdb: https://www.imdb.com/title/tt0036872
+    
+    "The Bells of St. Mary's (1946)":
+        year: 1946
+        title: "The Bells of St. Mary's"
+        alt_title: "The Bells of St. Mary's (1946)"
+        orig_title: "The Bells of St. Mary's"
+        sort_title: "Bells of St. Mary's"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0037536, tmdb://32430, tvdb://24466
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bells+of+St.+Mary%27s&category=Movies&year_filter=equals&yone=1946&tmdb_id=32430&imdb_id=tt0037536&tvdb_id=24466
+        # tmdb: https://www.themoviedb.org/movie/32430
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1946&query=24466
+        # imdb: https://www.imdb.com/title/tt0037536
+    

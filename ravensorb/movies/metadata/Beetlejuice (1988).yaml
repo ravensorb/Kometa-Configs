@@ -1,0 +1,15 @@
+metadata:
+    "Beetlejuice (1988)":
+        year: 1988
+        title: "Beetlejuice"
+        alt_title: "Beetlejuice (1988)"
+        orig_title: "Beetlejuice"
+        sort_title: "Beetlejuice"
+        
+        url_poster: https://theposterdb.com/api/assets/180590
+        # IDs: imdb://tt0094721, tmdb://4011, tvdb://344
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Beetlejuice&category=Movies&year_filter=equals&yone=1988&tmdb_id=4011&imdb_id=tt0094721&tvdb_id=344
+        # tmdb: https://www.themoviedb.org/movie/4011
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=344
+        # imdb: https://www.imdb.com/title/tt0094721
+    

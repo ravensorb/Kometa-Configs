@@ -1,0 +1,58 @@
+metadata:
+    "Murphy Brown (1988)":
+        year: 1988
+        title: "Murphy Brown"
+        alt_title: "Murphy Brown (1988)"
+        orig_title: "Murphy Brown"
+        sort_title: "Murphy Brown"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0094514, tmdb://3219, tvdb://78166
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murphy+Brown&category=Shows&year_filter=equals&yone=1988&tmdb_id=3219&imdb_id=tt0094514&tvdb_id=78166
+        # tmdb: https://www.themoviedb.org/tv/3219
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=78166
+        # imdb: https://www.imdb.com/title/tt0094514
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10098, tvdb://14418
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+1&category=Shows&tmdb_id=10098&tvdb_id=14418
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10099, tvdb://14420
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+2&category=Shows&tmdb_id=10099&tvdb_id=14420
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10100, tvdb://14421
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+3&category=Shows&tmdb_id=10100&tvdb_id=14421
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10103, tvdb://14422
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+4&category=Shows&tmdb_id=10103&tvdb_id=14422
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10104, tvdb://14423
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+5&category=Shows&tmdb_id=10104&tvdb_id=14423
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10105, tvdb://14424
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+6&category=Shows&tmdb_id=10105&tvdb_id=14424
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10107, tvdb://14425
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+7&category=Shows&tmdb_id=10107&tvdb_id=14425
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10102, tvdb://14426
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+8&category=Shows&tmdb_id=10102&tvdb_id=14426
+            # 9:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10106, tvdb://14427
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+9&category=Shows&tmdb_id=10106&tvdb_id=14427
+            # 10:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://10101, tvdb://14419
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+10&category=Shows&tmdb_id=10101&tvdb_id=14419
+            # 11:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Murphy+Brown+Season+11&category=Shows        

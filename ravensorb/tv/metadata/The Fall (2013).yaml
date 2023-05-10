@@ -1,0 +1,26 @@
+metadata:
+    "The Fall (2013)":
+        year: 2013
+        title: "The Fall"
+        alt_title: "The Fall (2013)"
+        orig_title: "The Fall"
+        sort_title: "Fall"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2294189, tmdb://49010, tvdb://258107
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fall&category=Shows&year_filter=equals&yone=2013&tmdb_id=49010&imdb_id=tt2294189&tvdb_id=258107
+        # tmdb: https://www.themoviedb.org/tv/49010
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=258107
+        # imdb: https://www.imdb.com/title/tt2294189
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59522, tvdb://490027
+                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+1&category=Shows&tmdb_id=59522&tvdb_id=490027
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://63284, tvdb://598098
+                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+2&category=Shows&tmdb_id=63284&tvdb_id=598098
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://72714, tvdb://667879
+                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+3&category=Shows&tmdb_id=72714&tvdb_id=667879        

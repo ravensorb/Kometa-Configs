@@ -1,0 +1,26 @@
+metadata:
+    "The Mandalorian (2019)":
+        year: 2019
+        title: "The Mandalorian"
+        alt_title: "The Mandalorian (2019)"
+        orig_title: "The Mandalorian"
+        sort_title: "Mandalorian"
+        url_poster: https://theposterdb.com/api/assets/174476
+        # IDs: imdb://tt8111088, tmdb://82856, tvdb://361753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mandalorian&category=Shows&year_filter=equals&yone=2019&tmdb_id=82856&imdb_id=tt8111088&tvdb_id=361753
+        # tmdb: https://www.themoviedb.org/tv/82856
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361753
+        # imdb: https://www.imdb.com/title/tt8111088
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/200215
+                # IDs: tmdb://110346, tvdb://806365
+                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+1&category=Shows&tmdb_id=110346&tvdb_id=806365
+            2:
+                url_poster: https://theposterdb.com/api/assets/200216
+                # IDs: tmdb://153254, tvdb://1864668
+                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+2&category=Shows&tmdb_id=153254&tvdb_id=1864668
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://308088, tvdb://2032829
+                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+3&category=Shows&tmdb_id=308088&tvdb_id=2032829        

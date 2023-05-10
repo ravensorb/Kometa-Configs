@@ -1,0 +1,26 @@
+metadata:
+    "Max Headroom (1987)":
+        year: 1987
+        title: "Max Headroom"
+        alt_title: "Max Headroom (1987)"
+        orig_title: "Max Headroom"
+        sort_title: "Max Headroom"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0092402, tmdb://4617, tvdb://75361
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Max+Headroom&category=Shows&year_filter=equals&yone=1987&tmdb_id=4617&imdb_id=tt0092402&tvdb_id=75361
+        # tmdb: https://www.themoviedb.org/tv/4617
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1987&query=75361
+        # imdb: https://www.imdb.com/title/tt0092402
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14101
+                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Specials&category=Shows&tmdb_id=14101
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14099, tvdb://8787
+                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Season+1&category=Shows&tmdb_id=14099&tvdb_id=8787
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14100, tvdb://8788
+                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Season+2&category=Shows&tmdb_id=14100&tvdb_id=8788        

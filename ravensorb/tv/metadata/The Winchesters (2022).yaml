@@ -1,0 +1,18 @@
+metadata:
+    "The Winchesters (2022)":
+        year: 2022
+        title: "The Winchesters"
+        alt_title: "The Winchesters (2022)"
+        orig_title: "The Winchesters"
+        sort_title: "Winchesters"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt14923244, tmdb://128113, tvdb://420059
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Winchesters&category=Shows&year_filter=equals&yone=2022&tmdb_id=128113&imdb_id=tt14923244&tvdb_id=420059
+        # tmdb: https://www.themoviedb.org/tv/128113
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=420059
+        # imdb: https://www.imdb.com/title/tt14923244
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://200260, tvdb://2000254
+                # https://theposterdb.com/search/advanced/results?term=The+Winchesters+Season+1&category=Shows&tmdb_id=200260&tvdb_id=2000254        

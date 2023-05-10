@@ -1,0 +1,15 @@
+metadata:
+    "Race (2016)":
+        year: 2016
+        title: "Race"
+        alt_title: "Race (2016)"
+        orig_title: "Race"
+        sort_title: "Race"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3499096, tmdb://323677, tvdb://4679
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Race&category=Movies&year_filter=equals&yone=2016&tmdb_id=323677&imdb_id=tt3499096&tvdb_id=4679
+        # tmdb: https://www.themoviedb.org/movie/323677
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=4679
+        # imdb: https://www.imdb.com/title/tt3499096
+    

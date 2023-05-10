@@ -1,0 +1,38 @@
+metadata:
+    "McMillan and Wife (1971)":
+        year: 1971
+        title: "McMillan and Wife"
+        alt_title: "McMillan and Wife (1971)"
+        orig_title: "McMillan and Wife"
+        sort_title: "McMillan and Wife"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0066685, tmdb://10848, tvdb://78625
+        # tpdb: https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife&category=Shows&year_filter=equals&yone=1971&tmdb_id=10848&imdb_id=tt0066685&tvdb_id=78625
+        # tmdb: https://www.themoviedb.org/tv/10848
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1971&query=78625
+        # imdb: https://www.imdb.com/title/tt0066685
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21192, tvdb://15340
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+1&category=Shows&tmdb_id=21192&tvdb_id=15340
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21191, tvdb://15341
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+2&category=Shows&tmdb_id=21191&tvdb_id=15341
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21195, tvdb://15342
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+3&category=Shows&tmdb_id=21195&tvdb_id=15342
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21194, tvdb://15343
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+4&category=Shows&tmdb_id=21194&tvdb_id=15343
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21193, tvdb://15344
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+5&category=Shows&tmdb_id=21193&tvdb_id=15344
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://21189, tvdb://15345
+                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+6&category=Shows&tmdb_id=21189&tvdb_id=15345        

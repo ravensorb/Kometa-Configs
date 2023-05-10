@@ -1,0 +1,43 @@
+metadata:
+    "BloodRayne (2006)":
+        year: 2006
+        title: "BloodRayne"
+        alt_title: "BloodRayne (2006)"
+        orig_title: "BloodRayne"
+        sort_title: "BloodRayne"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0383222, tmdb://168705, tvdb://2888
+        # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne&category=Movies&year_filter=equals&yone=2006&tmdb_id=168705&imdb_id=tt0383222&tvdb_id=2888
+        # tmdb: https://www.themoviedb.org/movie/168705
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=2888
+        # imdb: https://www.imdb.com/title/tt0383222
+    
+    "BloodRayne: Deliverance (2008)":
+        year: 2008
+        title: "BloodRayne: Deliverance"
+        alt_title: "BloodRayne: Deliverance (2008)"
+        orig_title: "BloodRayne II: Deliverance"
+        sort_title: "BloodRayne: Deliverance"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0896036, tmdb://17456, tvdb://4633
+        # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne%3A+Deliverance&category=Movies&year_filter=equals&yone=2008&tmdb_id=17456&imdb_id=tt0896036&tvdb_id=4633
+        # tmdb: https://www.themoviedb.org/movie/17456
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=4633
+        # imdb: https://www.imdb.com/title/tt0896036
+    
+    "BloodRayne: The Third Reich (2012)":
+        year: 2012
+        title: "BloodRayne: The Third Reich"
+        alt_title: "BloodRayne: The Third Reich (2012)"
+        orig_title: "BloodRayne: The Third Reich"
+        sort_title: "BloodRayne: The Third Reich"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1153546, tmdb://12685, tvdb://3966
+        # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne%3A+The+Third+Reich&category=Movies&year_filter=equals&yone=2012&tmdb_id=12685&imdb_id=tt1153546&tvdb_id=3966
+        # tmdb: https://www.themoviedb.org/movie/12685
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=3966
+        # imdb: https://www.imdb.com/title/tt1153546
+    

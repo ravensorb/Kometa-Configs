@@ -1,0 +1,15 @@
+metadata:
+    "Theater of Blood (1973)":
+        year: 1973
+        title: "Theater of Blood"
+        alt_title: "Theater of Blood (1973)"
+        orig_title: "Theater of Blood"
+        sort_title: "Theater of Blood"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0070791, tmdb://28498, tvdb://14832
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Theater+of+Blood&category=Movies&year_filter=equals&yone=1973&tmdb_id=28498&imdb_id=tt0070791&tvdb_id=14832
+        # tmdb: https://www.themoviedb.org/movie/28498
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=14832
+        # imdb: https://www.imdb.com/title/tt0070791
+    

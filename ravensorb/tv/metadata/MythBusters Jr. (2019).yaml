@@ -1,0 +1,18 @@
+metadata:
+    "MythBusters Jr. (2019)":
+        year: 2019
+        title: "MythBusters Jr."
+        alt_title: "MythBusters Jr. (2019)"
+        orig_title: "MythBusters Jr."
+        sort_title: "MythBusters Jr."
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8265286, tmdb://85200, tvdb://350679
+        # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters+Jr.&category=Shows&year_filter=equals&yone=2019&tmdb_id=85200&imdb_id=tt8265286&tvdb_id=350679
+        # tmdb: https://www.themoviedb.org/tv/85200
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=350679
+        # imdb: https://www.imdb.com/title/tt8265286
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://114860
+                # https://theposterdb.com/search/advanced/results?term=MythBusters+Jr.+Season+1&category=Shows&tmdb_id=114860        

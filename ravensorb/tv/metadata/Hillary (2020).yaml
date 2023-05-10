@@ -1,0 +1,18 @@
+metadata:
+    "Hillary (2020)":
+        year: 2020
+        title: "Hillary (2020)"
+        alt_title: "Hillary (2020)"
+        orig_title: "Hillary (2020)"
+        sort_title: "Hillary (2020)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt11558924, tmdb://96391, tvdb://375373
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hillary+%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=96391&imdb_id=tt11558924&tvdb_id=375373
+        # tmdb: https://www.themoviedb.org/tv/96391
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=375373
+        # imdb: https://www.imdb.com/title/tt11558924
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://137939
+                # https://theposterdb.com/search/advanced/results?term=Hillary+%282020%29+Season+1&category=Shows&tmdb_id=137939        

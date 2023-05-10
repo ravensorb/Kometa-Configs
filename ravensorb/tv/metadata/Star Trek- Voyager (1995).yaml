@@ -1,0 +1,42 @@
+metadata:
+    "Star Trek: Voyager (1995)":
+        year: 1995
+        title: "Star Trek: Voyager"
+        alt_title: "Star Trek: Voyager (1995)"
+        orig_title: "Star Trek: Voyager"
+        sort_title: "Star Trek: Voyager"
+        url_poster: https://theposterdb.com/api/assets/175972
+        # IDs: imdb://tt0112178, tmdb://1855, tvdb://74550
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager&category=Shows&year_filter=equals&yone=1995&tmdb_id=1855&imdb_id=tt0112178&tvdb_id=74550
+        # tmdb: https://www.themoviedb.org/tv/1855
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1995&query=74550
+        # imdb: https://www.imdb.com/title/tt0112178
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222267
+                # IDs: tmdb://5307, tvdb://7625
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+1&category=Shows&tmdb_id=5307&tvdb_id=7625
+            2:
+                url_poster: https://theposterdb.com/api/assets/222268
+                # IDs: tmdb://5308, tvdb://7626
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+2&category=Shows&tmdb_id=5308&tvdb_id=7626
+            3:
+                url_poster: https://theposterdb.com/api/assets/222269
+                # IDs: tmdb://5309, tvdb://7627
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+3&category=Shows&tmdb_id=5309&tvdb_id=7627
+            4:
+                url_poster: https://theposterdb.com/api/assets/222270
+                # IDs: tmdb://5310, tvdb://7628
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+4&category=Shows&tmdb_id=5310&tvdb_id=7628
+            5:
+                url_poster: https://theposterdb.com/api/assets/222271
+                # IDs: tmdb://5311, tvdb://7629
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+5&category=Shows&tmdb_id=5311&tvdb_id=7629
+            6:
+                url_poster: https://theposterdb.com/api/assets/222272
+                # IDs: tmdb://5312, tvdb://7630
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+6&category=Shows&tmdb_id=5312&tvdb_id=7630
+            7:
+                url_poster: https://theposterdb.com/api/assets/222273
+                # IDs: tmdb://5313, tvdb://7631
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Voyager+Season+7&category=Shows&tmdb_id=5313&tvdb_id=7631        

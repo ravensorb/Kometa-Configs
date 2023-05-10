@@ -1,0 +1,26 @@
+metadata:
+    "A Discovery of Witches (2018)":
+        year: 2018
+        title: "A Discovery of Witches"
+        alt_title: "A Discovery of Witches (2018)"
+        orig_title: "A Discovery of Witches"
+        sort_title: "Discovery of Witches"
+        url_poster: https://theposterdb.com/api/assets/295234
+        # IDs: imdb://tt2177461, tmdb://77236, tvdb://351291
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches&category=Shows&year_filter=equals&yone=2018&tmdb_id=77236&imdb_id=tt2177461&tvdb_id=351291
+        # tmdb: https://www.themoviedb.org/tv/77236
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=351291
+        # imdb: https://www.imdb.com/title/tt2177461
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/295236
+                # IDs: tmdb://99549
+                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+1&category=Shows&tmdb_id=99549
+            2:
+                url_poster: https://theposterdb.com/api/assets/295237
+                # IDs: tmdb://168930
+                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+2&category=Shows&tmdb_id=168930
+            3:
+                url_poster: https://theposterdb.com/api/assets/295238
+                # IDs: tmdb://234172
+                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+3&category=Shows&tmdb_id=234172        

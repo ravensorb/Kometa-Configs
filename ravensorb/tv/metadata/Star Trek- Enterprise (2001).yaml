@@ -1,0 +1,30 @@
+metadata:
+    "Star Trek: Enterprise (2001)":
+        year: 2001
+        title: "Star Trek: Enterprise"
+        alt_title: "Star Trek: Enterprise (2001)"
+        orig_title: "Star Trek: Enterprise"
+        sort_title: "Star Trek: Enterprise"
+        url_poster: https://theposterdb.com/api/assets/175973
+        # IDs: imdb://tt0244365, tmdb://314, tvdb://73893
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise&category=Shows&year_filter=equals&yone=2001&tmdb_id=314&imdb_id=tt0244365&tvdb_id=73893
+        # tmdb: https://www.themoviedb.org/tv/314
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=73893
+        # imdb: https://www.imdb.com/title/tt0244365
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222275
+                # IDs: tmdb://925, tvdb://6617
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+1&category=Shows&tmdb_id=925&tvdb_id=6617
+            2:
+                url_poster: https://theposterdb.com/api/assets/222276
+                # IDs: tmdb://926, tvdb://6618
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+2&category=Shows&tmdb_id=926&tvdb_id=6618
+            3:
+                url_poster: https://theposterdb.com/api/assets/222277
+                # IDs: tmdb://927, tvdb://6619
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+3&category=Shows&tmdb_id=927&tvdb_id=6619
+            4:
+                url_poster: https://theposterdb.com/api/assets/222278
+                # IDs: tmdb://928, tvdb://6620
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+4&category=Shows&tmdb_id=928&tvdb_id=6620        

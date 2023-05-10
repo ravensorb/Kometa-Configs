@@ -1,0 +1,64 @@
+collections:
+  "Mission Impossible":
+    variables: { collection: "645502, 87359", show: "4357", poster: https://theposterdb.com/api/assets/164810 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      Elite special agents undertook top-secret assignments in crackerjack episodes, which kicked off with the team leader receiving instructions via a tape-recorded message that self-destructed in five seconds. What followed were usually breakneck spyjinks set to a pulsating Lalo Schifrin score. Martin Landau turned down the Spock role in 'Star Trek' to play IMFer Rollin Hand. When Landau left the series in 1969, his replacement was the man who built a career on Spock, Leonard Nimoy.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Mission+Impossible&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Mission%20Impossible%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Mission%20Impossible
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Mission%20Impossible
+    # trakt: https://trakt.tv/search/lists?query=Mission%20Impossible
+    collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

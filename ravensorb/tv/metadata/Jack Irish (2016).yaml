@@ -1,0 +1,34 @@
+metadata:
+    "Jack Irish (2016)":
+        year: 2016
+        title: "Jack Irish"
+        alt_title: "Jack Irish (2016)"
+        orig_title: "Jack Irish"
+        sort_title: "Jack Irish"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4905554, tmdb://58057, tvdb://263283
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jack+Irish&category=Shows&year_filter=equals&yone=2016&tmdb_id=58057&imdb_id=tt4905554&tvdb_id=263283
+        # tmdb: https://www.themoviedb.org/tv/58057
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=263283
+        # imdb: https://www.imdb.com/title/tt4905554
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://74499
+                # https://theposterdb.com/search/advanced/results?term=Jack+Irish+Season+1&category=Shows&tmdb_id=74499
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://106058
+                # https://theposterdb.com/search/advanced/results?term=Jack+Irish+Season+2&category=Shows&tmdb_id=106058
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://199050
+                # https://theposterdb.com/search/advanced/results?term=Jack+Irish+Series+3&category=Shows&tmdb_id=199050
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Jack+Irish+Season+4&category=Shows
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Jack+Irish+Season+5&category=Shows        

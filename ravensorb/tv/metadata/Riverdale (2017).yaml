@@ -1,0 +1,42 @@
+metadata:
+    "Riverdale (2017)":
+        year: 2017
+        title: "Riverdale"
+        alt_title: "Riverdale (2017)"
+        orig_title: "Riverdale"
+        sort_title: "Riverdale"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5420376, tmdb://69050, tvdb://311954
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Riverdale&category=Shows&year_filter=equals&yone=2017&tmdb_id=69050&imdb_id=tt5420376&tvdb_id=311954
+        # tmdb: https://www.themoviedb.org/tv/69050
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=311954
+        # imdb: https://www.imdb.com/title/tt5420376
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://82752, tvdb://667563
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+1&category=Shows&tmdb_id=82752&tvdb_id=667563
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://91793, tvdb://712806
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+2&category=Shows&tmdb_id=91793&tvdb_id=712806
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://105507, tvdb://769144
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+3&category=Shows&tmdb_id=105507&tvdb_id=769144
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://129417, tvdb://815366
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+4&category=Shows&tmdb_id=129417&tvdb_id=815366
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://167134, tvdb://1877746
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+5&category=Shows&tmdb_id=167134&tvdb_id=1877746
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://199280, tvdb://1934887
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+6&category=Shows&tmdb_id=199280&tvdb_id=1934887
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://313797
+                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+7&category=Shows&tmdb_id=313797        

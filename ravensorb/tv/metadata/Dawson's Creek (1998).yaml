@@ -1,0 +1,38 @@
+metadata:
+    "Dawson's Creek (1998)":
+        year: 1998
+        title: "Dawson's Creek"
+        alt_title: "Dawson's Creek (1998)"
+        orig_title: "Dawson's Creek"
+        sort_title: "Dawson's Creek"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0118300, tmdb://2327, tvdb://72584
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek&category=Shows&year_filter=equals&yone=1998&tmdb_id=2327&imdb_id=tt0118300&tvdb_id=72584
+        # tmdb: https://www.themoviedb.org/tv/2327
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=72584
+        # imdb: https://www.imdb.com/title/tt0118300
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7272, tvdb://4451
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+1&category=Shows&tmdb_id=7272&tvdb_id=4451
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7273, tvdb://4452
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+2&category=Shows&tmdb_id=7273&tvdb_id=4452
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7274, tvdb://4453
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+3&category=Shows&tmdb_id=7274&tvdb_id=4453
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7275, tvdb://4454
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+4&category=Shows&tmdb_id=7275&tvdb_id=4454
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7276, tvdb://4455
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+5&category=Shows&tmdb_id=7276&tvdb_id=4455
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://7277, tvdb://4456
+                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+6&category=Shows&tmdb_id=7277&tvdb_id=4456        

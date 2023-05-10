@@ -1,0 +1,29 @@
+metadata:
+    "Mary Poppins (1964)":
+        year: 1964
+        title: "Mary Poppins"
+        alt_title: "Mary Poppins (1964)"
+        orig_title: "Mary Poppins"
+        sort_title: "Mary Poppins"
+        
+        url_poster: https://theposterdb.com/api/assets/200931
+        # IDs: imdb://tt0058331, tmdb://433, tvdb://762
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mary+Poppins&category=Movies&year_filter=equals&yone=1964&tmdb_id=433&imdb_id=tt0058331&tvdb_id=762
+        # tmdb: https://www.themoviedb.org/movie/433
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1964&query=762
+        # imdb: https://www.imdb.com/title/tt0058331
+    
+    "Mary Poppins Returns (2018)":
+        year: 2018
+        title: "Mary Poppins Returns"
+        alt_title: "Mary Poppins Returns (2018)"
+        orig_title: "Mary Poppins Returns"
+        sort_title: "Mary Poppins Returns"
+        
+        url_poster: https://theposterdb.com/api/assets/200932
+        # IDs: imdb://tt5028340, tmdb://400650, tvdb://51
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mary+Poppins+Returns&category=Movies&year_filter=equals&yone=2018&tmdb_id=400650&imdb_id=tt5028340&tvdb_id=51
+        # tmdb: https://www.themoviedb.org/movie/400650
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=51
+        # imdb: https://www.imdb.com/title/tt5028340
+    

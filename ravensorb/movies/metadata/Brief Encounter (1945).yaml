@@ -1,0 +1,15 @@
+metadata:
+    "Brief Encounter (1945)":
+        year: 1945
+        title: "Brief Encounter"
+        alt_title: "Brief Encounter (1945)"
+        orig_title: "Brief Encounter"
+        sort_title: "Brief Encounter"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0037558, tmdb://851, tvdb://4754
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Brief+Encounter&category=Movies&year_filter=equals&yone=1945&tmdb_id=851&imdb_id=tt0037558&tvdb_id=4754
+        # tmdb: https://www.themoviedb.org/movie/851
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1945&query=4754
+        # imdb: https://www.imdb.com/title/tt0037558
+    

@@ -1,0 +1,29 @@
+metadata:
+    "Airplane! (1980)":
+        year: 1980
+        title: "Airplane!"
+        alt_title: "Airplane! (1980)"
+        orig_title: "Airplane!"
+        sort_title: "Airplane!"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0080339, tmdb://813, tvdb://406
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Airplane%21&category=Movies&year_filter=equals&yone=1980&tmdb_id=813&imdb_id=tt0080339&tvdb_id=406
+        # tmdb: https://www.themoviedb.org/movie/813
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1980&query=406
+        # imdb: https://www.imdb.com/title/tt0080339
+    
+    "Airplane II: The Sequel (1982)":
+        year: 1982
+        title: "Airplane II: The Sequel"
+        alt_title: "Airplane II: The Sequel (1982)"
+        orig_title: "Airplane II: The Sequel"
+        sort_title: "Airplane II: The Sequel"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0083530, tmdb://2665, tvdb://4040
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Airplane+II%3A+The+Sequel&category=Movies&year_filter=equals&yone=1982&tmdb_id=2665&imdb_id=tt0083530&tvdb_id=4040
+        # tmdb: https://www.themoviedb.org/movie/2665
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=4040
+        # imdb: https://www.imdb.com/title/tt0083530
+    

@@ -1,0 +1,30 @@
+metadata:
+    "Castlevania (2017)":
+        year: 2017
+        title: "Castlevania"
+        alt_title: "Castlevania (2017)"
+        orig_title: "Castlevania"
+        sort_title: "Castlevania"
+        url_poster: https://theposterdb.com/api/assets/216624
+        # IDs: imdb://tt6517102, tmdb://71024, tvdb://329065
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Castlevania&category=Shows&year_filter=equals&yone=2017&tmdb_id=71024&imdb_id=tt6517102&tvdb_id=329065
+        # tmdb: https://www.themoviedb.org/tv/71024
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=329065
+        # imdb: https://www.imdb.com/title/tt6517102
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/216625
+                # IDs: tmdb://86847, tvdb://713454
+                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+1&category=Shows&tmdb_id=86847&tvdb_id=713454
+            2:
+                url_poster: https://theposterdb.com/api/assets/216626
+                # IDs: tmdb://107076, tvdb://770855
+                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+2&category=Shows&tmdb_id=107076&tvdb_id=770855
+            3:
+                url_poster: https://theposterdb.com/api/assets/216627
+                # IDs: tmdb://142858, tvdb://1821236
+                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+3&category=Shows&tmdb_id=142858&tvdb_id=1821236
+            4:
+                url_poster: https://theposterdb.com/api/assets/216628
+                # IDs: tmdb://190844
+                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+4&category=Shows&tmdb_id=190844        

@@ -1,0 +1,15 @@
+metadata:
+    "Another Earth (2011)":
+        year: 2011
+        title: "Another Earth"
+        alt_title: "Another Earth (2011)"
+        orig_title: "Another Earth"
+        sort_title: "Another Earth"
+        
+        url_poster: https://theposterdb.com/api/assets/185129
+        # IDs: imdb://tt1549572, tmdb://55420, tvdb://7273
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Another+Earth&category=Movies&year_filter=equals&yone=2011&tmdb_id=55420&imdb_id=tt1549572&tvdb_id=7273
+        # tmdb: https://www.themoviedb.org/movie/55420
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=7273
+        # imdb: https://www.imdb.com/title/tt1549572
+    

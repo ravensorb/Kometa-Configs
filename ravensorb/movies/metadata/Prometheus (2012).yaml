@@ -1,0 +1,15 @@
+metadata:
+    "Prometheus (2012)":
+        year: 2012
+        title: "Prometheus"
+        alt_title: "Prometheus (2012)"
+        orig_title: "Prometheus"
+        sort_title: "Prometheus"
+        
+        url_poster: https://theposterdb.com/api/assets/176126
+        # IDs: imdb://tt1446714, tmdb://70981, tvdb://527
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Prometheus&category=Movies&year_filter=equals&yone=2012&tmdb_id=70981&imdb_id=tt1446714&tvdb_id=527
+        # tmdb: https://www.themoviedb.org/movie/70981
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=527
+        # imdb: https://www.imdb.com/title/tt1446714
+    

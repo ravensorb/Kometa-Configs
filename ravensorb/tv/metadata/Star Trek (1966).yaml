@@ -1,0 +1,26 @@
+metadata:
+    "Star Trek (1966)":
+        year: 1966
+        title: "Star Trek"
+        alt_title: "Star Trek (1966)"
+        orig_title: "Star Trek"
+        sort_title: "Star Trek"
+        url_poster: https://theposterdb.com/api/assets/175969
+        # IDs: imdb://tt0060028, tmdb://253, tvdb://77526
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek&category=Shows&year_filter=equals&yone=1966&tmdb_id=253&imdb_id=tt0060028&tvdb_id=77526
+        # tmdb: https://www.themoviedb.org/tv/253
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1966&query=77526
+        # imdb: https://www.imdb.com/title/tt0060028
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222244
+                # IDs: tmdb://813, tvdb://13044
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+1&category=Shows&tmdb_id=813&tvdb_id=13044
+            2:
+                url_poster: https://theposterdb.com/api/assets/222245
+                # IDs: tmdb://814, tvdb://13045
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+2&category=Shows&tmdb_id=814&tvdb_id=13045
+            3:
+                url_poster: https://theposterdb.com/api/assets/222246
+                # IDs: tmdb://815, tvdb://13046
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+3&category=Shows&tmdb_id=815&tvdb_id=13046        

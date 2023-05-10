@@ -1,0 +1,29 @@
+metadata:
+    "Sabrina (1954)":
+        year: 1954
+        title: "Sabrina"
+        alt_title: "Sabrina (1954)"
+        orig_title: "Sabrina"
+        sort_title: "Sabrina"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0047437, tmdb://6620, tvdb://1729
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sabrina&category=Movies&year_filter=equals&yone=1954&tmdb_id=6620&imdb_id=tt0047437&tvdb_id=1729
+        # tmdb: https://www.themoviedb.org/movie/6620
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1954&query=1729
+        # imdb: https://www.imdb.com/title/tt0047437
+    
+    "Sabrina (1995)":
+        year: 1995
+        title: "Sabrina"
+        alt_title: "Sabrina (1995)"
+        orig_title: "Sabrina"
+        sort_title: "Sabrina"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0114319, tmdb://11860, tvdb://8667
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sabrina&category=Movies&year_filter=equals&yone=1995&tmdb_id=11860&imdb_id=tt0114319&tvdb_id=8667
+        # tmdb: https://www.themoviedb.org/movie/11860
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=8667
+        # imdb: https://www.imdb.com/title/tt0114319
+    

@@ -1,0 +1,46 @@
+metadata:
+    "Simon & Simon (1981)":
+        year: 1981
+        title: "Simon & Simon"
+        alt_title: "Simon & Simon (1981)"
+        orig_title: "Simon & Simon"
+        sort_title: "Simon & Simon"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0081930, tmdb://2102, tvdb://77244
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon&category=Shows&year_filter=equals&yone=1981&tmdb_id=2102&imdb_id=tt0081930&tvdb_id=77244
+        # tmdb: https://www.themoviedb.org/tv/2102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=77244
+        # imdb: https://www.imdb.com/title/tt0081930
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6396
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+1&category=Shows&tmdb_id=6396
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6397
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+2&category=Shows&tmdb_id=6397
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6398
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+3&category=Shows&tmdb_id=6398
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6399
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+4&category=Shows&tmdb_id=6399
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6400
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+5&category=Shows&tmdb_id=6400
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6401
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+6&category=Shows&tmdb_id=6401
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6402
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+7&category=Shows&tmdb_id=6402
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://6403
+                # https://theposterdb.com/search/advanced/results?term=Simon+%26+Simon+Season+8&category=Shows&tmdb_id=6403        

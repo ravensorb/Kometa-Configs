@@ -1,0 +1,22 @@
+metadata:
+    "Fate: The Winx Saga (2021)":
+        year: 2021
+        title: "Fate: The Winx Saga"
+        alt_title: "Fate: The Winx Saga (2021)"
+        orig_title: "Fate: The Winx Saga"
+        sort_title: "Fate: The Winx Saga"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8179402, tmdb://97175, tvdb://368185
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Fate%3A+The+Winx+Saga&category=Shows&year_filter=equals&yone=2021&tmdb_id=97175&imdb_id=tt8179402&tvdb_id=368185
+        # tmdb: https://www.themoviedb.org/tv/97175
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=368185
+        # imdb: https://www.imdb.com/title/tt8179402
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://139705, tvdb://822181
+                # https://theposterdb.com/search/advanced/results?term=Fate%3A+The+Winx+Saga+Season+1&category=Shows&tmdb_id=139705&tvdb_id=822181
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://184958
+                # https://theposterdb.com/search/advanced/results?term=Fate%3A+The+Winx+Saga+Season+2&category=Shows&tmdb_id=184958        

@@ -1,0 +1,18 @@
+metadata:
+    "Marvel's Inhumans (2017)":
+        year: 2017
+        title: "Marvel's Inhumans"
+        alt_title: "Marvel's Inhumans (2017)"
+        orig_title: "Marvel's Inhumans"
+        sort_title: "MCU: 03 - Inhuman"
+        url_poster: https://theposterdb.com/api/assets/239472
+        # IDs: imdb://tt4154858, tmdb://68716, tvdb://320558
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Inhumans&category=Shows&year_filter=equals&yone=2017&tmdb_id=68716&imdb_id=tt4154858&tvdb_id=320558
+        # tmdb: https://www.themoviedb.org/tv/68716
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=320558
+        # imdb: https://www.imdb.com/title/tt4154858
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239473
+                # IDs: tmdb://82048
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Inhumans+Season+1&category=Shows&tmdb_id=82048        

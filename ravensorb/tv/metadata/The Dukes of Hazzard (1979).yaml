@@ -1,0 +1,42 @@
+metadata:
+    "The Dukes of Hazzard (1979)":
+        year: 1979
+        title: "The Dukes of Hazzard"
+        alt_title: "The Dukes of Hazzard (1979)"
+        orig_title: "The Dukes of Hazzard"
+        sort_title: "Dukes of Hazzard"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0078607, tmdb://397, tvdb://77748
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard&category=Shows&year_filter=equals&yone=1979&tmdb_id=397&imdb_id=tt0078607&tvdb_id=77748
+        # tmdb: https://www.themoviedb.org/tv/397
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1979&query=77748
+        # imdb: https://www.imdb.com/title/tt0078607
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62599
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+1&category=Shows&tmdb_id=62599
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62600
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+2&category=Shows&tmdb_id=62600
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62606
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+3&category=Shows&tmdb_id=62606
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62607
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+4&category=Shows&tmdb_id=62607
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62608
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+5&category=Shows&tmdb_id=62608
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62609
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+6&category=Shows&tmdb_id=62609
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62610
+                # https://theposterdb.com/search/advanced/results?term=The+Dukes+of+Hazzard+Season+7&category=Shows&tmdb_id=62610        

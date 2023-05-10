@@ -1,0 +1,15 @@
+metadata:
+    "The Untouchables (1987)":
+        year: 1987
+        title: "The Untouchables"
+        alt_title: "The Untouchables (1987)"
+        orig_title: "The Untouchables"
+        sort_title: "Untouchables"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0094226, tmdb://117, tvdb://1013
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Untouchables&category=Movies&year_filter=equals&yone=1987&tmdb_id=117&imdb_id=tt0094226&tvdb_id=1013
+        # tmdb: https://www.themoviedb.org/movie/117
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=1013
+        # imdb: https://www.imdb.com/title/tt0094226
+    

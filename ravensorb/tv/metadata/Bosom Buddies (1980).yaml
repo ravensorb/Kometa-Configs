@@ -1,0 +1,22 @@
+metadata:
+    "Bosom Buddies (1980)":
+        year: 1980
+        title: "Bosom Buddies"
+        alt_title: "Bosom Buddies (1980)"
+        orig_title: "Bosom Buddies"
+        sort_title: "Bosom Buddies"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0080202, tmdb://2574, tvdb://77683
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bosom+Buddies&category=Shows&year_filter=equals&yone=1980&tmdb_id=2574&imdb_id=tt0080202&tvdb_id=77683
+        # tmdb: https://www.themoviedb.org/tv/2574
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1980&query=77683
+        # imdb: https://www.imdb.com/title/tt0080202
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://8236, tvdb://13364
+                # https://theposterdb.com/search/advanced/results?term=Bosom+Buddies+Season+1&category=Shows&tmdb_id=8236&tvdb_id=13364
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://8237, tvdb://13365
+                # https://theposterdb.com/search/advanced/results?term=Bosom+Buddies+Season+2&category=Shows&tmdb_id=8237&tvdb_id=13365        

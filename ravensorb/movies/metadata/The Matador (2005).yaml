@@ -1,0 +1,15 @@
+metadata:
+    "The Matador (2005)":
+        year: 2005
+        title: "The Matador"
+        alt_title: "The Matador (2005)"
+        orig_title: "The Matador"
+        sort_title: "Matador"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0365485, tmdb://9515, tvdb://5471
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Matador&category=Movies&year_filter=equals&yone=2005&tmdb_id=9515&imdb_id=tt0365485&tvdb_id=5471
+        # tmdb: https://www.themoviedb.org/movie/9515
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=5471
+        # imdb: https://www.imdb.com/title/tt0365485
+    

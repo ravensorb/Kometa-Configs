@@ -1,0 +1,64 @@
+collections:
+  "RED":
+    variables: { collection: "163902", movie: "39514, 146216", poster: https://theposterdb.com/api/assets/162399 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      RED is a 2010 American action-comedy film inspired by the limited comic book series of the same name created by Warren Ellis and Cully Hamner, and published by the DC Comics imprint Homage. In the film version, the title is derived from the designation of the status of agent Frank Moses, meaning 'Retired, Extremely Dangerous'. A sequel, RED 2, was released on July 19, 2013.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=RED&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=RED
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=RED
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=RED
+    # trakt: https://trakt.tv/search/lists?query=RED
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

@@ -1,0 +1,18 @@
+metadata:
+    "Emerald City (2017)":
+        year: 2017
+        title: "Emerald City"
+        alt_title: "Emerald City (2017)"
+        orig_title: "Emerald City"
+        sort_title: "Emerald City"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3579018, tmdb://62417, tvdb://295779
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Emerald+City&category=Shows&year_filter=equals&yone=2017&tmdb_id=62417&imdb_id=tt3579018&tvdb_id=295779
+        # tmdb: https://www.themoviedb.org/tv/62417
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=295779
+        # imdb: https://www.imdb.com/title/tt3579018
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://65984, tvdb://294559
+                # https://theposterdb.com/search/advanced/results?term=Emerald+City+Season+1&category=Shows&tmdb_id=65984&tvdb_id=294559        

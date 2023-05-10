@@ -1,0 +1,29 @@
+metadata:
+    "Footloose (1984)":
+        year: 1984
+        title: "Footloose"
+        alt_title: "Footloose (1984)"
+        orig_title: "Footloose"
+        sort_title: "Footloose"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0087277, tmdb://1788, tvdb://2571
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Footloose&category=Movies&year_filter=equals&yone=1984&tmdb_id=1788&imdb_id=tt0087277&tvdb_id=2571
+        # tmdb: https://www.themoviedb.org/movie/1788
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=2571
+        # imdb: https://www.imdb.com/title/tt0087277
+    
+    "Footloose (2011)":
+        year: 2011
+        title: "Footloose"
+        alt_title: "Footloose (2011)"
+        orig_title: "Footloose"
+        sort_title: "Footloose"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1068242, tmdb://68817, tvdb://2501
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Footloose&category=Movies&year_filter=equals&yone=2011&tmdb_id=68817&imdb_id=tt1068242&tvdb_id=2501
+        # tmdb: https://www.themoviedb.org/movie/68817
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=2501
+        # imdb: https://www.imdb.com/title/tt1068242
+    

@@ -1,0 +1,15 @@
+metadata:
+    "Project X (1987)":
+        year: 1987
+        title: "Project X"
+        alt_title: "Project X (1987)"
+        orig_title: "Project X"
+        sort_title: "Project X"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0093793, tmdb://18410, tvdb://5784
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Project+X&category=Movies&year_filter=equals&yone=1987&tmdb_id=18410&imdb_id=tt0093793&tvdb_id=5784
+        # tmdb: https://www.themoviedb.org/movie/18410
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=5784
+        # imdb: https://www.imdb.com/title/tt0093793
+    

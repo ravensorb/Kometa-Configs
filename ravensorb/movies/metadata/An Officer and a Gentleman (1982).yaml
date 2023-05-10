@@ -1,0 +1,15 @@
+metadata:
+    "An Officer and a Gentleman (1982)":
+        year: 1982
+        title: "An Officer and a Gentleman"
+        alt_title: "An Officer and a Gentleman (1982)"
+        orig_title: "An Officer and a Gentleman"
+        sort_title: "Officer and a Gentleman"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0084434, tmdb://2623, tvdb://5131
+        # tpdb: https://theposterdb.com/search/advanced/results?term=An+Officer+and+a+Gentleman&category=Movies&year_filter=equals&yone=1982&tmdb_id=2623&imdb_id=tt0084434&tvdb_id=5131
+        # tmdb: https://www.themoviedb.org/movie/2623
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=5131
+        # imdb: https://www.imdb.com/title/tt0084434
+    

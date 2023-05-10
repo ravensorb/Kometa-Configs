@@ -1,0 +1,43 @@
+metadata:
+    "The Da Vinci Code (2006)":
+        year: 2006
+        title: "The Da Vinci Code"
+        alt_title: "The Da Vinci Code (2006)"
+        orig_title: "The Da Vinci Code"
+        sort_title: "Da Vinci Code"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0382625, tmdb://591, tvdb://992
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Da+Vinci+Code&category=Movies&year_filter=equals&yone=2006&tmdb_id=591&imdb_id=tt0382625&tvdb_id=992
+        # tmdb: https://www.themoviedb.org/movie/591
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=992
+        # imdb: https://www.imdb.com/title/tt0382625
+    
+    "Angels & Demons (2009)":
+        year: 2009
+        title: "Angels & Demons"
+        alt_title: "Angels & Demons (2009)"
+        orig_title: "Angels & Demons"
+        sort_title: "Angels & Demons"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0808151, tmdb://13448, tvdb://682
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Angels+%26+Demons&category=Movies&year_filter=equals&yone=2009&tmdb_id=13448&imdb_id=tt0808151&tvdb_id=682
+        # tmdb: https://www.themoviedb.org/movie/13448
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=682
+        # imdb: https://www.imdb.com/title/tt0808151
+    
+    "Inferno (2016)":
+        year: 2016
+        title: "Inferno"
+        alt_title: "Inferno (2016)"
+        orig_title: "Inferno"
+        sort_title: "Inferno"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3062096, tmdb://207932, tvdb://975
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Inferno&category=Movies&year_filter=equals&yone=2016&tmdb_id=207932&imdb_id=tt3062096&tvdb_id=975
+        # tmdb: https://www.themoviedb.org/movie/207932
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=975
+        # imdb: https://www.imdb.com/title/tt3062096
+    

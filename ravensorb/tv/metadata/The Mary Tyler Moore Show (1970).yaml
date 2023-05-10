@@ -1,0 +1,42 @@
+metadata:
+    "The Mary Tyler Moore Show (1970)":
+        year: 1970
+        title: "The Mary Tyler Moore Show"
+        alt_title: "The Mary Tyler Moore Show (1970)"
+        orig_title: "The Mary Tyler Moore Show"
+        sort_title: "Mary Tyler Moore Show"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0065314, tmdb://2962, tvdb://77051
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show&category=Shows&year_filter=equals&yone=1970&tmdb_id=2962&imdb_id=tt0065314&tvdb_id=77051
+        # tmdb: https://www.themoviedb.org/tv/2962
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1970&query=77051
+        # imdb: https://www.imdb.com/title/tt0065314
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9551, tvdb://12002
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+1&category=Shows&tmdb_id=9551&tvdb_id=12002
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9550, tvdb://12003
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+2&category=Shows&tmdb_id=9550&tvdb_id=12003
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9552, tvdb://12004
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+3&category=Shows&tmdb_id=9552&tvdb_id=12004
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9553, tvdb://12005
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+4&category=Shows&tmdb_id=9553&tvdb_id=12005
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9556, tvdb://12006
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+5&category=Shows&tmdb_id=9556&tvdb_id=12006
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9554, tvdb://12007
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+6&category=Shows&tmdb_id=9554&tvdb_id=12007
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9555, tvdb://12008
+                # https://theposterdb.com/search/advanced/results?term=The+Mary+Tyler+Moore+Show+Season+7&category=Shows&tmdb_id=9555&tvdb_id=12008        

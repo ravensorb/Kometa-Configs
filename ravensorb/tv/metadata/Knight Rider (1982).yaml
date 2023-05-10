@@ -1,0 +1,30 @@
+metadata:
+    "Knight Rider (1982)":
+        year: 1982
+        title: "Knight Rider"
+        alt_title: "Knight Rider (1982)"
+        orig_title: "Knight Rider"
+        sort_title: "Knight Rider"
+        url_poster: https://theposterdb.com/api/assets/322634
+        # IDs: imdb://tt0083437, tmdb://2384, tvdb://77216
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Knight+Rider&category=Shows&year_filter=equals&yone=1982&tmdb_id=2384&imdb_id=tt0083437&tvdb_id=77216
+        # tmdb: https://www.themoviedb.org/tv/2384
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1982&query=77216
+        # imdb: https://www.imdb.com/title/tt0083437
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/322636
+                # IDs: tmdb://7431, tvdb://12377
+                # https://theposterdb.com/search/advanced/results?term=Knight+Rider+Season+1&category=Shows&tmdb_id=7431&tvdb_id=12377
+            2:
+                url_poster: https://theposterdb.com/api/assets/322637
+                # IDs: tmdb://7430, tvdb://12378
+                # https://theposterdb.com/search/advanced/results?term=Knight+Rider+Season+2&category=Shows&tmdb_id=7430&tvdb_id=12378
+            3:
+                url_poster: https://theposterdb.com/api/assets/322638
+                # IDs: tmdb://7432, tvdb://12379
+                # https://theposterdb.com/search/advanced/results?term=Knight+Rider+Season+3&category=Shows&tmdb_id=7432&tvdb_id=12379
+            4:
+                url_poster: https://theposterdb.com/api/assets/322639
+                # IDs: tmdb://7429, tvdb://12380
+                # https://theposterdb.com/search/advanced/results?term=Knight+Rider+Season+4&category=Shows&tmdb_id=7429&tvdb_id=12380        

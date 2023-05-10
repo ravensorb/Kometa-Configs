@@ -1,0 +1,38 @@
+metadata:
+    "Hercules: The Legendary Journeys (1995)":
+        year: 1995
+        title: "Hercules: The Legendary Journeys"
+        alt_title: "Hercules: The Legendary Journeys (1995)"
+        orig_title: "Hercules: The Legendary Journeys"
+        sort_title: "Hercules: The Legendary Journeys"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0111999, tmdb://4615, tvdb://72497
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys&category=Shows&year_filter=equals&yone=1995&tmdb_id=4615&imdb_id=tt0111999&tvdb_id=72497
+        # tmdb: https://www.themoviedb.org/tv/4615
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1995&query=72497
+        # imdb: https://www.imdb.com/title/tt0111999
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14085
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+1&category=Shows&tmdb_id=14085
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14086
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+2&category=Shows&tmdb_id=14086
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14087
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+3&category=Shows&tmdb_id=14087
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14088
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+4&category=Shows&tmdb_id=14088
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14089
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+5&category=Shows&tmdb_id=14089
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14090
+                # https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+Season+6&category=Shows&tmdb_id=14090        

@@ -1,0 +1,30 @@
+metadata:
+    "The Good Place (2016)":
+        year: 2016
+        title: "The Good Place"
+        alt_title: "The Good Place (2016)"
+        orig_title: "The Good Place"
+        sort_title: "Good Place"
+        url_poster: https://theposterdb.com/api/assets/261830
+        # IDs: imdb://tt4955642, tmdb://66573, tvdb://311711
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Good+Place&category=Shows&year_filter=equals&yone=2016&tmdb_id=66573&imdb_id=tt4955642&tvdb_id=311711
+        # tmdb: https://www.themoviedb.org/tv/66573
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=311711
+        # imdb: https://www.imdb.com/title/tt4955642
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/261831
+                # IDs: tmdb://77323
+                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+1&category=Shows&tmdb_id=77323
+            2:
+                url_poster: https://theposterdb.com/api/assets/261832
+                # IDs: tmdb://90945
+                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+2&category=Shows&tmdb_id=90945
+            3:
+                url_poster: https://theposterdb.com/api/assets/261833
+                # IDs: tmdb://105508
+                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+3&category=Shows&tmdb_id=105508
+            4:
+                url_poster: https://theposterdb.com/api/assets/261834
+                # IDs: tmdb://125516
+                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+4&category=Shows&tmdb_id=125516        

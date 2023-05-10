@@ -1,0 +1,18 @@
+metadata:
+    "Class (2016)":
+        year: 2016
+        title: "Class"
+        alt_title: "Class (2016)"
+        orig_title: "Class"
+        sort_title: "Class"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5079788, tmdb://64073, tvdb://309893
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Class&category=Shows&year_filter=equals&yone=2016&tmdb_id=64073&imdb_id=tt5079788&tvdb_id=309893
+        # tmdb: https://www.themoviedb.org/tv/64073
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=309893
+        # imdb: https://www.imdb.com/title/tt5079788
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://71124
+                # https://theposterdb.com/search/advanced/results?term=Class+Season+1&category=Shows&tmdb_id=71124        

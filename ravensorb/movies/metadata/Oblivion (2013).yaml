@@ -1,0 +1,15 @@
+metadata:
+    "Oblivion (2013)":
+        year: 2013
+        title: "Oblivion"
+        alt_title: "Oblivion (2013)"
+        orig_title: "Oblivion"
+        sort_title: "Oblivion"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1483013, tmdb://75612, tvdb://1196
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Oblivion&category=Movies&year_filter=equals&yone=2013&tmdb_id=75612&imdb_id=tt1483013&tvdb_id=1196
+        # tmdb: https://www.themoviedb.org/movie/75612
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1196
+        # imdb: https://www.imdb.com/title/tt1483013
+    

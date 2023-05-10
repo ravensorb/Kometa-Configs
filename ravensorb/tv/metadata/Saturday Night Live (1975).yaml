@@ -1,0 +1,106 @@
+metadata:
+    "Saturday Night Live (1975)":
+        year: 1975
+        title: "Saturday Night Live"
+        alt_title: "Saturday Night Live (1975)"
+        orig_title: "Saturday Night Live"
+        sort_title: "Saturday Night Live"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0072562, tmdb://1667, tvdb://76177
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live&category=Shows&year_filter=equals&yone=1975&tmdb_id=1667&imdb_id=tt0072562&tvdb_id=76177
+        # tmdb: https://www.themoviedb.org/tv/1667
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1975&query=76177
+        # imdb: https://www.imdb.com/title/tt0072562
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59588, tvdb://9814
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+1&category=Shows&tmdb_id=59588&tvdb_id=9814
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59589, tvdb://9825
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+2&category=Shows&tmdb_id=59589&tvdb_id=9825
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59590, tvdb://9836
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+3&category=Shows&tmdb_id=59590&tvdb_id=9836
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59591, tvdb://9839
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+4&category=Shows&tmdb_id=59591&tvdb_id=9839
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59592, tvdb://9840
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+5&category=Shows&tmdb_id=59592&tvdb_id=9840
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59593, tvdb://9841
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+6&category=Shows&tmdb_id=59593&tvdb_id=9841
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59594, tvdb://9842
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+7&category=Shows&tmdb_id=59594&tvdb_id=9842
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59595, tvdb://9843
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+8&category=Shows&tmdb_id=59595&tvdb_id=9843
+            # 9:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59596, tvdb://9844
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+9&category=Shows&tmdb_id=59596&tvdb_id=9844
+            # 10:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59597, tvdb://9815
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+10&category=Shows&tmdb_id=59597&tvdb_id=9815
+            # 13:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59600, tvdb://9818
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+13&category=Shows&tmdb_id=59600&tvdb_id=9818
+            # 14:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59601, tvdb://9819
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+14&category=Shows&tmdb_id=59601&tvdb_id=9819
+            # 16:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59603, tvdb://9821
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+16&category=Shows&tmdb_id=59603&tvdb_id=9821
+            # 17:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59604, tvdb://9822
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+17&category=Shows&tmdb_id=59604&tvdb_id=9822
+            # 18:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59605, tvdb://9823
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+18&category=Shows&tmdb_id=59605&tvdb_id=9823
+            # 19:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59606, tvdb://9824
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+19&category=Shows&tmdb_id=59606&tvdb_id=9824
+            # 20:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59607, tvdb://9826
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+20&category=Shows&tmdb_id=59607&tvdb_id=9826
+            # 22:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59609, tvdb://9828
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+22&category=Shows&tmdb_id=59609&tvdb_id=9828
+            # 24:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59611, tvdb://9830
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+24&category=Shows&tmdb_id=59611&tvdb_id=9830
+            # 25:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59612, tvdb://9831
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+25&category=Shows&tmdb_id=59612&tvdb_id=9831
+            # 28:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59615, tvdb://9834
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+28&category=Shows&tmdb_id=59615&tvdb_id=9834
+            # 38:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59626, tvdb://499922
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+38&category=Shows&tmdb_id=59626&tvdb_id=499922
+            # 48:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://304448, tvdb://2020542
+                # https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live+Season+48&category=Shows&tmdb_id=304448&tvdb_id=2020542        

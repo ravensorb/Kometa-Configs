@@ -1,0 +1,38 @@
+metadata:
+    "Justified (2010)":
+        year: 2010
+        title: "Justified"
+        alt_title: "Justified (2010)"
+        orig_title: "Justified"
+        sort_title: "Justified"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1489428, tmdb://1436, tvdb://134241
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justified&category=Shows&year_filter=equals&yone=2010&tmdb_id=1436&imdb_id=tt1489428&tvdb_id=134241
+        # tmdb: https://www.themoviedb.org/tv/1436
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=134241
+        # imdb: https://www.imdb.com/title/tt1489428
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3840, tvdb://171191
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+1&category=Shows&tmdb_id=3840&tvdb_id=171191
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3841, tvdb://341341
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+2&category=Shows&tmdb_id=3841&tvdb_id=341341
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3843, tvdb://468474
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+3&category=Shows&tmdb_id=3843&tvdb_id=468474
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3844, tvdb://500644
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+4&category=Shows&tmdb_id=3844&tvdb_id=500644
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3845, tvdb://529762
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+5&category=Shows&tmdb_id=3845&tvdb_id=529762
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://63322, tvdb://604039
+                # https://theposterdb.com/search/advanced/results?term=Justified+Season+6&category=Shows&tmdb_id=63322&tvdb_id=604039        

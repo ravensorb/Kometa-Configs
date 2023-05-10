@@ -1,0 +1,38 @@
+metadata:
+    "Nash Bridges (1996)":
+        year: 1996
+        title: "Nash Bridges"
+        alt_title: "Nash Bridges (1996)"
+        orig_title: "Nash Bridges"
+        sort_title: "Nash Bridges"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0115285, tmdb://474, tvdb://70845
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Nash+Bridges&category=Shows&year_filter=equals&yone=1996&tmdb_id=474&imdb_id=tt0115285&tvdb_id=70845
+        # tmdb: https://www.themoviedb.org/tv/474
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1996&query=70845
+        # imdb: https://www.imdb.com/title/tt0115285
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1345, tvdb://1180
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+1&category=Shows&tmdb_id=1345&tvdb_id=1180
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1349, tvdb://1181
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+2&category=Shows&tmdb_id=1349&tvdb_id=1181
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1348, tvdb://1182
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+3&category=Shows&tmdb_id=1348&tvdb_id=1182
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1350, tvdb://1183
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+4&category=Shows&tmdb_id=1350&tvdb_id=1183
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1346, tvdb://1184
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+5&category=Shows&tmdb_id=1346&tvdb_id=1184
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1347, tvdb://1185
+                # https://theposterdb.com/search/advanced/results?term=Nash+Bridges+Season+6&category=Shows&tmdb_id=1347&tvdb_id=1185        

@@ -1,0 +1,74 @@
+metadata:
+    "CSI: Crime Scene Investigation (2000)":
+        year: 2000
+        title: "CSI: Crime Scene Investigation"
+        alt_title: "CSI: Crime Scene Investigation (2000)"
+        orig_title: "CSI: Crime Scene Investigation"
+        sort_title: "CSI: Crime Scene Investigation"
+        url_poster: https://theposterdb.com/api/assets/102144
+        # IDs: imdb://tt0247082, tmdb://1431, tvdb://72546
+        # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation&category=Shows&year_filter=equals&yone=2000&tmdb_id=1431&imdb_id=tt0247082&tvdb_id=72546
+        # tmdb: https://www.themoviedb.org/tv/1431
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2000&query=72546
+        # imdb: https://www.imdb.com/title/tt0247082
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/102146
+                # IDs: tmdb://3792, tvdb://4382
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+1&category=Shows&tmdb_id=3792&tvdb_id=4382
+            2:
+                url_poster: https://theposterdb.com/api/assets/102147
+                # IDs: tmdb://3793, tvdb://4383
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+2&category=Shows&tmdb_id=3793&tvdb_id=4383
+            3:
+                url_poster: https://theposterdb.com/api/assets/102148
+                # IDs: tmdb://3794, tvdb://4384
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+3&category=Shows&tmdb_id=3794&tvdb_id=4384
+            4:
+                url_poster: https://theposterdb.com/api/assets/102149
+                # IDs: tmdb://3795, tvdb://4385
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+4&category=Shows&tmdb_id=3795&tvdb_id=4385
+            5:
+                url_poster: https://theposterdb.com/api/assets/102150
+                # IDs: tmdb://3796, tvdb://4386
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+5&category=Shows&tmdb_id=3796&tvdb_id=4386
+            6:
+                url_poster: https://theposterdb.com/api/assets/102151
+                # IDs: tmdb://3797, tvdb://4387
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+6&category=Shows&tmdb_id=3797&tvdb_id=4387
+            7:
+                url_poster: https://theposterdb.com/api/assets/102152
+                # IDs: tmdb://3798, tvdb://16361
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+7&category=Shows&tmdb_id=3798&tvdb_id=16361
+            8:
+                url_poster: https://theposterdb.com/api/assets/102153
+                # IDs: tmdb://3799, tvdb://28641
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+8&category=Shows&tmdb_id=3799&tvdb_id=28641
+            9:
+                url_poster: https://theposterdb.com/api/assets/102154
+                # IDs: tmdb://3800, tvdb://35488
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+9&category=Shows&tmdb_id=3800&tvdb_id=35488
+            10:
+                url_poster: https://theposterdb.com/api/assets/102155
+                # IDs: tmdb://3801, tvdb://67191
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+10&category=Shows&tmdb_id=3801&tvdb_id=67191
+            11:
+                url_poster: https://theposterdb.com/api/assets/102156
+                # IDs: tmdb://3802, tvdb://285391
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+11&category=Shows&tmdb_id=3802&tvdb_id=285391
+            12:
+                url_poster: https://theposterdb.com/api/assets/102157
+                # IDs: tmdb://3804, tvdb://468786
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+12&category=Shows&tmdb_id=3804&tvdb_id=468786
+            13:
+                url_poster: https://theposterdb.com/api/assets/102158
+                # IDs: tmdb://3805, tvdb://488428
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+13&category=Shows&tmdb_id=3805&tvdb_id=488428
+            14:
+                url_poster: https://theposterdb.com/api/assets/102159
+                # IDs: tmdb://3806, tvdb://522928
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+14&category=Shows&tmdb_id=3806&tvdb_id=522928
+            15:
+                url_poster: https://theposterdb.com/api/assets/102160
+                # IDs: tmdb://62053, tvdb://590604
+                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Crime+Scene+Investigation+Season+15&category=Shows&tmdb_id=62053&tvdb_id=590604        

@@ -1,0 +1,22 @@
+metadata:
+    "Ms Fisher's Modern Murder Mysteries (2019)":
+        year: 2019
+        title: "Ms Fisher's Modern Murder Mysteries"
+        alt_title: "Ms Fisher's Modern Murder Mysteries (2019)"
+        orig_title: "Ms Fisher's Modern Murder Mysteries"
+        sort_title: "Ms Fisher's Modern Murder Mysteries"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9224216, tmdb://86847, tvdb://356221
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ms+Fisher%27s+Modern+Murder+Mysteries&category=Shows&year_filter=equals&yone=2019&tmdb_id=86847&imdb_id=tt9224216&tvdb_id=356221
+        # tmdb: https://www.themoviedb.org/tv/86847
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=356221
+        # imdb: https://www.imdb.com/title/tt9224216
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://118898, tvdb://356221
+                # https://theposterdb.com/search/advanced/results?term=Ms+Fisher%27s+Modern+Murder+Mysteries+Season+1&category=Shows&tmdb_id=118898&tvdb_id=356221
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://198078
+                # https://theposterdb.com/search/advanced/results?term=Ms+Fisher%27s+Modern+Murder+Mysteries+Season+2&category=Shows&tmdb_id=198078        

@@ -1,0 +1,64 @@
+collections:
+  "Back To The Future":
+    variables: { collection: "264", movie: "105, 330127, 196", poster: https://theposterdb.com/api/assets/163128 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      An American science fiction–comedy film series that follows the adventures of a high school student, Marty McFly and an eccentric scientist, Dr Emmett L. Brown as they use a DeLorean time machine to time travel to different periods in the history of Hill Valley, California.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Back+To+The+Future&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Back%20To%20The%20Future%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Back%20To%20The%20Future
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Back%20To%20The%20Future
+    # trakt: https://trakt.tv/search/lists?query=Back%20To%20The%20Future
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

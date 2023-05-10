@@ -1,0 +1,309 @@
+metadata:
+    "A Charlie Brown Christmas (1965)":
+        year: 1965
+        title: "A Charlie Brown Christmas"
+        alt_title: "A Charlie Brown Christmas (1965)"
+        orig_title: "A Charlie Brown Christmas"
+        sort_title: "Charlie Brown Christmas"
+        
+        url_poster: https://theposterdb.com/api/assets/180925
+        # IDs: imdb://tt0059026, tmdb://13187, tvdb://5722
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Charlie+Brown+Christmas&category=Movies&year_filter=equals&yone=1965&tmdb_id=13187&imdb_id=tt0059026&tvdb_id=5722
+        # tmdb: https://www.themoviedb.org/movie/13187
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1965&query=5722
+        # imdb: https://www.imdb.com/title/tt0059026
+    
+    "Charlie Brown's All Stars! (1966)":
+        year: 1966
+        title: "Charlie Brown's All Stars!"
+        alt_title: "Charlie Brown's All Stars! (1966)"
+        orig_title: "Charlie Brown's All Stars!"
+        sort_title: "Charlie Brown's All Stars!"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0060230, tmdb://52952, tvdb://76406
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie+Brown%27s+All+Stars%21&category=Movies&year_filter=equals&yone=1966&tmdb_id=52952&imdb_id=tt0060230&tvdb_id=76406
+        # tmdb: https://www.themoviedb.org/movie/52952
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1966&query=76406
+        # imdb: https://www.imdb.com/title/tt0060230
+    
+    "It's the Great Pumpkin, Charlie Brown (1966)":
+        year: 1966
+        title: "It's the Great Pumpkin, Charlie Brown"
+        alt_title: "It's the Great Pumpkin, Charlie Brown (1966)"
+        orig_title: "It's the Great Pumpkin, Charlie Brown"
+        sort_title: "It's the Great Pumpkin, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180926
+        # IDs: imdb://tt0060550, tmdb://13353, tvdb://8826
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+the+Great+Pumpkin%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1966&tmdb_id=13353&imdb_id=tt0060550&tvdb_id=8826
+        # tmdb: https://www.themoviedb.org/movie/13353
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1966&query=8826
+        # imdb: https://www.imdb.com/title/tt0060550
+    
+    "A Boy Named Charlie Brown (1969)":
+        year: 1969
+        title: "A Boy Named Charlie Brown"
+        alt_title: "A Boy Named Charlie Brown (1969)"
+        orig_title: "A Boy Named Charlie Brown"
+        sort_title: "Boy Named Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180927
+        # IDs: imdb://tt0064107, tmdb://15374, tvdb://15086
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Boy+Named+Charlie+Brown&category=Movies&year_filter=equals&yone=1969&tmdb_id=15374&imdb_id=tt0064107&tvdb_id=15086
+        # tmdb: https://www.themoviedb.org/movie/15374
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1969&query=15086
+        # imdb: https://www.imdb.com/title/tt0064107
+    
+    "Play It Again, Charlie Brown (1971)":
+        year: 1971
+        title: "Play It Again, Charlie Brown"
+        alt_title: "Play It Again, Charlie Brown (1971)"
+        orig_title: "Play It Again, Charlie Brown"
+        sort_title: "Play It Again, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/233705
+        # IDs: imdb://tt0067587, tmdb://55443, tvdb://73604
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Play+It+Again%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1971&tmdb_id=55443&imdb_id=tt0067587&tvdb_id=73604
+        # tmdb: https://www.themoviedb.org/movie/55443
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1971&query=73604
+        # imdb: https://www.imdb.com/title/tt0067587
+    
+    "Snoopy Come Home (1972)":
+        year: 1972
+        title: "Snoopy Come Home"
+        alt_title: "Snoopy Come Home (1972)"
+        orig_title: "Snoopy Come Home"
+        sort_title: "Snoopy Come Home"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0069289, tmdb://15242, tvdb://33936
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy+Come+Home&category=Movies&year_filter=equals&yone=1972&tmdb_id=15242&imdb_id=tt0069289&tvdb_id=33936
+        # tmdb: https://www.themoviedb.org/movie/15242
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=33936
+        # imdb: https://www.imdb.com/title/tt0069289
+    
+    "You're Not Elected, Charlie Brown (1972)":
+        year: 1972
+        title: "You're Not Elected, Charlie Brown"
+        alt_title: "You're Not Elected, Charlie Brown (1972)"
+        orig_title: "You're Not Elected, Charlie Brown"
+        sort_title: "You're Not Elected, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/233713
+        # IDs: imdb://tt0069525, tmdb://31732, tvdb://102753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=You%27re+Not+Elected%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1972&tmdb_id=31732&imdb_id=tt0069525&tvdb_id=102753
+        # tmdb: https://www.themoviedb.org/movie/31732
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=102753
+        # imdb: https://www.imdb.com/title/tt0069525
+    
+    "A Charlie Brown Thanksgiving (1973)":
+        year: 1973
+        title: "A Charlie Brown Thanksgiving"
+        alt_title: "A Charlie Brown Thanksgiving (1973)"
+        orig_title: "A Charlie Brown Thanksgiving"
+        sort_title: "Charlie Brown Thanksgiving"
+        
+        url_poster: https://theposterdb.com/api/assets/180929
+        # IDs: imdb://tt0068359, tmdb://13479, tvdb://14184
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Charlie+Brown+Thanksgiving&category=Movies&year_filter=equals&yone=1973&tmdb_id=13479&imdb_id=tt0068359&tvdb_id=14184
+        # tmdb: https://www.themoviedb.org/movie/13479
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=14184
+        # imdb: https://www.imdb.com/title/tt0068359
+    
+    "It's the Easter Beagle, Charlie Brown! (1974)":
+        year: 1974
+        title: "It's the Easter Beagle, Charlie Brown!"
+        alt_title: "It's the Easter Beagle, Charlie Brown! (1974)"
+        orig_title: "It's the Easter Beagle, Charlie Brown!"
+        sort_title: "It's the Easter Beagle, Charlie Brown!"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0071679, tmdb://28550, tvdb://41264
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+the+Easter+Beagle%2C+Charlie+Brown%21&category=Movies&year_filter=equals&yone=1974&tmdb_id=28550&imdb_id=tt0071679&tvdb_id=41264
+        # tmdb: https://www.themoviedb.org/movie/28550
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1974&query=41264
+        # imdb: https://www.imdb.com/title/tt0071679
+    
+    "Be My Valentine, Charlie Brown (1975)":
+        year: 1975
+        title: "Be My Valentine, Charlie Brown"
+        alt_title: "Be My Valentine, Charlie Brown (1975)"
+        orig_title: "Be My Valentine, Charlie Brown"
+        sort_title: "Be My Valentine, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180930
+        # IDs: imdb://tt0072687, tmdb://31726, tvdb://24811
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Be+My+Valentine%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1975&tmdb_id=31726&imdb_id=tt0072687&tvdb_id=24811
+        # tmdb: https://www.themoviedb.org/movie/31726
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1975&query=24811
+        # imdb: https://www.imdb.com/title/tt0072687
+    
+    "It's Arbor Day, Charlie Brown (1976)":
+        year: 1976
+        title: "It's Arbor Day, Charlie Brown"
+        alt_title: "It's Arbor Day, Charlie Brown (1976)"
+        orig_title: "It's Arbor Day, Charlie Brown"
+        sort_title: "It's Arbor Day, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/233710
+        # IDs: imdb://tt0074697, tmdb://40489, tvdb://67956
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+Arbor+Day%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1976&tmdb_id=40489&imdb_id=tt0074697&tvdb_id=67956
+        # tmdb: https://www.themoviedb.org/movie/40489
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1976&query=67956
+        # imdb: https://www.imdb.com/title/tt0074697
+    
+    "Race for Your Life, Charlie Brown (1977)":
+        year: 1977
+        title: "Race for Your Life, Charlie Brown"
+        alt_title: "Race for Your Life, Charlie Brown (1977)"
+        orig_title: "Race for Your Life, Charlie Brown"
+        sort_title: "Race for Your Life, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180931
+        # IDs: imdb://tt0076591, tmdb://31718, tvdb://26501
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Race+for+Your+Life%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1977&tmdb_id=31718&imdb_id=tt0076591&tvdb_id=26501
+        # tmdb: https://www.themoviedb.org/movie/31718
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1977&query=26501
+        # imdb: https://www.imdb.com/title/tt0076591
+    
+    "Bon Voyage, Charlie Brown (and Don't Come Back!!) (1980)":
+        year: 1980
+        title: "Bon Voyage, Charlie Brown (and Don't Come Back!!)"
+        alt_title: "Bon Voyage, Charlie Brown (and Don't Come Back!!) (1980)"
+        orig_title: "Bon Voyage, Charlie Brown (and Don't Come Back!!)"
+        sort_title: "Bon Voyage, Charlie Brown (and Don't Come Back!!)"
+        
+        url_poster: https://theposterdb.com/api/assets/180932
+        # IDs: imdb://tt0080461, tmdb://31112, tvdb://24649
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bon+Voyage%2C+Charlie+Brown+%28and+Don%27t+Come+Back%21%21%29&category=Movies&year_filter=equals&yone=1980&tmdb_id=31112&imdb_id=tt0080461&tvdb_id=24649
+        # tmdb: https://www.themoviedb.org/movie/31112
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1980&query=24649
+        # imdb: https://www.imdb.com/title/tt0080461
+    
+    "It's Magic, Charlie Brown (1981)":
+        year: 1981
+        title: "It's Magic, Charlie Brown"
+        alt_title: "It's Magic, Charlie Brown (1981)"
+        orig_title: "It's Magic, Charlie Brown"
+        sort_title: "It's Magic, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180933
+        # IDs: imdb://tt0082570, tmdb://37490, tvdb://62054
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+Magic%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1981&tmdb_id=37490&imdb_id=tt0082570&tvdb_id=62054
+        # tmdb: https://www.themoviedb.org/movie/37490
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1981&query=62054
+        # imdb: https://www.imdb.com/title/tt0082570
+    
+    "It's Flashbeagle, Charlie Brown (1984)":
+        year: 1984
+        title: "It's Flashbeagle, Charlie Brown"
+        alt_title: "It's Flashbeagle, Charlie Brown (1984)"
+        orig_title: "It's Flashbeagle, Charlie Brown"
+        sort_title: "It's Flashbeagle, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/233707
+        # IDs: imdb://tt0123122, tmdb://117333, tvdb://74321
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+Flashbeagle%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1984&tmdb_id=117333&imdb_id=tt0123122&tvdb_id=74321
+        # tmdb: https://www.themoviedb.org/movie/117333
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=74321
+        # imdb: https://www.imdb.com/title/tt0123122
+    
+    "Happy New Year, Charlie Brown (1986)":
+        year: 1986
+        title: "Happy New Year, Charlie Brown"
+        alt_title: "Happy New Year, Charlie Brown (1986)"
+        orig_title: "Happy New Year, Charlie Brown"
+        sort_title: "Happy New Year, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/233708
+        # IDs: imdb://tt0123099, tmdb://51940, tvdb://45423
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Happy+New+Year%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1986&tmdb_id=51940&imdb_id=tt0123099&tvdb_id=45423
+        # tmdb: https://www.themoviedb.org/movie/51940
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=45423
+        # imdb: https://www.imdb.com/title/tt0123099
+    
+    "The Mayflower Voyagers (1988)":
+        year: 1988
+        title: "The Mayflower Voyagers"
+        alt_title: "The Mayflower Voyagers (1988)"
+        orig_title: "The Mayflower Voyagers"
+        sort_title: "Mayflower Voyagers"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://429577, tvdb://85623
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mayflower+Voyagers&category=Movies&year_filter=equals&yone=1988&tmdb_id=429577&tvdb_id=85623
+        # tmdb: https://www.themoviedb.org/movie/429577
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=85623
+        # imdb: 
+    
+    "Snoopy's Reunion (1991)":
+        year: 1991
+        title: "Snoopy's Reunion"
+        alt_title: "Snoopy's Reunion (1991)"
+        orig_title: "Snoopy's Reunion"
+        sort_title: "Snoopy's Reunion"
+        
+        url_poster: https://theposterdb.com/api/assets/233711
+        # IDs: imdb://tt0174221, tmdb://69770, tvdb://113508
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%27s+Reunion&category=Movies&year_filter=equals&yone=1991&tmdb_id=69770&imdb_id=tt0174221&tvdb_id=113508
+        # tmdb: https://www.themoviedb.org/movie/69770
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=113508
+        # imdb: https://www.imdb.com/title/tt0174221
+    
+    "It's Christmastime Again, Charlie Brown (1992)":
+        year: 1992
+        title: "It's Christmastime Again, Charlie Brown"
+        alt_title: "It's Christmastime Again, Charlie Brown (1992)"
+        orig_title: "It's Christmastime Again, Charlie Brown"
+        sort_title: "It's Christmastime Again, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180934
+        # IDs: imdb://tt0104534, tmdb://23998, tvdb://19038
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+Christmastime+Again%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=1992&tmdb_id=23998&imdb_id=tt0104534&tvdb_id=19038
+        # tmdb: https://www.themoviedb.org/movie/23998
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1992&query=19038
+        # imdb: https://www.imdb.com/title/tt0104534
+    
+    "Happiness Is a Warm Blanket, Charlie Brown (2011)":
+        year: 2011
+        title: "Happiness Is a Warm Blanket, Charlie Brown"
+        alt_title: "Happiness Is a Warm Blanket, Charlie Brown (2011)"
+        orig_title: "Happiness Is a Warm Blanket, Charlie Brown"
+        sort_title: "Happiness Is a Warm Blanket, Charlie Brown"
+        
+        url_poster: https://theposterdb.com/api/assets/180935
+        # IDs: imdb://tt1810633, tmdb://60897, tvdb://28167
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Happiness+Is+a+Warm+Blanket%2C+Charlie+Brown&category=Movies&year_filter=equals&yone=2011&tmdb_id=60897&imdb_id=tt1810633&tvdb_id=28167
+        # tmdb: https://www.themoviedb.org/movie/60897
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=28167
+        # imdb: https://www.imdb.com/title/tt1810633
+    
+    "Happiness is... Peanuts: Snoopy's Adventures (2011)":
+        year: 2011
+        title: "Happiness is... Peanuts: Snoopy's Adventures"
+        alt_title: "Happiness is... Peanuts: Snoopy's Adventures (2011)"
+        orig_title: "Happiness is... Peanuts: Snoopy's Adventures"
+        sort_title: "Happiness is... Peanuts: Snoopy's Adventures"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://387436
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Happiness+is...+Peanuts%3A+Snoopy%27s+Adventures&category=Movies&year_filter=equals&yone=2011&tmdb_id=387436
+        # tmdb: https://www.themoviedb.org/movie/387436
+        # tvdb: 
+        # imdb: 
+    
+    "Who Are You, Charlie Brown? (2021)":
+        year: 2021
+        title: "Who Are You, Charlie Brown?"
+        alt_title: "Who Are You, Charlie Brown? (2021)"
+        orig_title: "Who Are You, Charlie Brown?"
+        sort_title: "Who Are You, Charlie Brown?"
+        
+        url_poster: https://theposterdb.com/api/assets/180995
+        # IDs: imdb://tt14784858, tmdb://836919, tvdb://177190
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Who+Are+You%2C+Charlie+Brown%3F&category=Movies&year_filter=equals&yone=2021&tmdb_id=836919&imdb_id=tt14784858&tvdb_id=177190
+        # tmdb: https://www.themoviedb.org/movie/836919
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=177190
+        # imdb: https://www.imdb.com/title/tt14784858
+    

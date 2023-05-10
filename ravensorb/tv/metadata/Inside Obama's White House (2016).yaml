@@ -1,0 +1,18 @@
+metadata:
+    "Inside Obama's White House (2016)":
+        year: 2016
+        title: "Inside Obama's White House"
+        alt_title: "Inside Obama's White House (2016)"
+        orig_title: "Inside Obama's White House"
+        sort_title: "Inside Obama's White House"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5579656, tmdb://65975, tvdb://308990
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Inside+Obama%27s+White+House&category=Shows&year_filter=equals&yone=2016&tmdb_id=65975&imdb_id=tt5579656&tvdb_id=308990
+        # tmdb: https://www.themoviedb.org/tv/65975
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=308990
+        # imdb: https://www.imdb.com/title/tt5579656
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://75534
+                # https://theposterdb.com/search/advanced/results?term=Inside+Obama%27s+White+House+Season+1&category=Shows&tmdb_id=75534        

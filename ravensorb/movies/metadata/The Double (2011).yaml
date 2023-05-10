@@ -1,0 +1,15 @@
+metadata:
+    "The Double (2011)":
+        year: 2011
+        title: "The Double"
+        alt_title: "The Double (2011)"
+        orig_title: "The Double"
+        sort_title: "Double"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1646980, tmdb://73499, tvdb://8533
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Double&category=Movies&year_filter=equals&yone=2011&tmdb_id=73499&imdb_id=tt1646980&tvdb_id=8533
+        # tmdb: https://www.themoviedb.org/movie/73499
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=8533
+        # imdb: https://www.imdb.com/title/tt1646980
+    

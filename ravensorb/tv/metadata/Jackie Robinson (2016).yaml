@@ -1,0 +1,18 @@
+metadata:
+    "Jackie Robinson (2016)":
+        year: 2016
+        title: "Jackie Robinson"
+        alt_title: "Jackie Robinson (2016)"
+        orig_title: "Jackie Robinson"
+        sort_title: "Jackie Robinson"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5618356, tmdb://76519, tvdb://310180
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jackie+Robinson&category=Shows&year_filter=equals&yone=2016&tmdb_id=76519&imdb_id=tt5618356&tvdb_id=310180
+        # tmdb: https://www.themoviedb.org/tv/76519
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=310180
+        # imdb: https://www.imdb.com/title/tt5618356
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://98166
+                # https://theposterdb.com/search/advanced/results?term=Jackie+Robinson+Season+1&category=Shows&tmdb_id=98166        

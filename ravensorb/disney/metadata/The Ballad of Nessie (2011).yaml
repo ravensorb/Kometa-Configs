@@ -1,0 +1,15 @@
+metadata:
+    "The Ballad of Nessie (2011)":
+        year: 2011
+        title: "The Ballad of Nessie"
+        alt_title: "The Ballad of Nessie (2011)"
+        orig_title: "The Ballad of Nessie"
+        sort_title: "Ballad of Nessie"
+        
+        url_poster: https://theposterdb.com/api/assets/310448
+        # IDs: imdb://tt1827536, tmdb://76346, tvdb://21864
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Ballad+of+Nessie&category=Movies&year_filter=equals&yone=2011&tmdb_id=76346&imdb_id=tt1827536&tvdb_id=21864
+        # tmdb: https://www.themoviedb.org/movie/76346
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=21864
+        # imdb: https://www.imdb.com/title/tt1827536
+    

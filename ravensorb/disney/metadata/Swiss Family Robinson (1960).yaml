@@ -1,0 +1,15 @@
+metadata:
+    "Swiss Family Robinson (1960)":
+        year: 1960
+        title: "Swiss Family Robinson"
+        alt_title: "Swiss Family Robinson (1960)"
+        orig_title: "Swiss Family Robinson"
+        sort_title: "Swiss Family Robinson"
+        
+        url_poster: https://theposterdb.com/api/assets/173387
+        # IDs: imdb://tt0054357, tmdb://18444, tvdb://7150
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Swiss+Family+Robinson&category=Movies&year_filter=equals&yone=1960&tmdb_id=18444&imdb_id=tt0054357&tvdb_id=7150
+        # tmdb: https://www.themoviedb.org/movie/18444
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1960&query=7150
+        # imdb: https://www.imdb.com/title/tt0054357
+    

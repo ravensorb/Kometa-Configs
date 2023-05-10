@@ -1,0 +1,43 @@
+metadata:
+    "Detective Knight: Rogue (2022)":
+        year: 2022
+        title: "Detective Knight: Rogue"
+        alt_title: "Detective Knight: Rogue (2022)"
+        orig_title: "Detective Knight: Rogue"
+        sort_title: "Detective Knight: Rogue"
+        
+        url_poster: https://theposterdb.com/api/assets/281421
+        # IDs: imdb://tt21435436, tmdb://1024546, tvdb://339914
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Detective+Knight%3A+Rogue&category=Movies&year_filter=equals&yone=2022&tmdb_id=1024546&imdb_id=tt21435436&tvdb_id=339914
+        # tmdb: https://www.themoviedb.org/movie/1024546
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=339914
+        # imdb: https://www.imdb.com/title/tt21435436
+    
+    "Detective Knight: Redemption (2022)":
+        year: 2022
+        title: "Detective Knight: Redemption"
+        alt_title: "Detective Knight: Redemption (2022)"
+        orig_title: "Detective Knight: Redemption"
+        sort_title: "Detective Knight: Redemption"
+        
+        url_poster: https://theposterdb.com/api/assets/296270
+        # IDs: imdb://tt22394694, tmdb://1035803, tvdb://342375
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Detective+Knight%3A+Redemption&category=Movies&year_filter=equals&yone=2022&tmdb_id=1035803&imdb_id=tt22394694&tvdb_id=342375
+        # tmdb: https://www.themoviedb.org/movie/1035803
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=342375
+        # imdb: https://www.imdb.com/title/tt22394694
+    
+    "Detective Knight: Independence (2023)":
+        year: 2023
+        title: "Detective Knight: Independence"
+        alt_title: "Detective Knight: Independence (2023)"
+        orig_title: "Detective Knight: Independence"
+        sort_title: "Detective Knight: Independence"
+        
+        url_poster: https://theposterdb.com/api/assets/311848
+        # IDs: imdb://tt22394702, tmdb://1035806, tvdb://343559
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Detective+Knight%3A+Independence&category=Movies&year_filter=equals&yone=2023&tmdb_id=1035806&imdb_id=tt22394702&tvdb_id=343559
+        # tmdb: https://www.themoviedb.org/movie/1035806
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=343559
+        # imdb: https://www.imdb.com/title/tt22394702
+    

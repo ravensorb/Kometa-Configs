@@ -1,0 +1,15 @@
+metadata:
+    "Cold Fish (2001)":
+        year: 2001
+        title: "Cold Fish"
+        alt_title: "Cold Fish (2001)"
+        orig_title: "Cold Fish"
+        sort_title: "Cold Fish"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0271436, tmdb://654973
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cold+Fish&category=Movies&year_filter=equals&yone=2001&tmdb_id=654973&imdb_id=tt0271436
+        # tmdb: https://www.themoviedb.org/movie/654973
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0271436
+    

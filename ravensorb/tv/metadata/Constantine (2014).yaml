@@ -1,0 +1,18 @@
+metadata:
+    "Constantine (2014)":
+        year: 2014
+        title: "Constantine"
+        alt_title: "Constantine (2014)"
+        orig_title: "Constantine"
+        sort_title: "Constantine"
+        url_poster: https://theposterdb.com/api/assets/262390
+        # IDs: imdb://tt3489184, tmdb://60743, tvdb://273690
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Constantine&category=Shows&year_filter=equals&yone=2014&tmdb_id=60743&imdb_id=tt3489184&tvdb_id=273690
+        # tmdb: https://www.themoviedb.org/tv/60743
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=273690
+        # imdb: https://www.imdb.com/title/tt3489184
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/262391
+                # IDs: tmdb://60549, tvdb://583150
+                # https://theposterdb.com/search/advanced/results?term=Constantine+Season+1&category=Shows&tmdb_id=60549&tvdb_id=583150        

@@ -1,0 +1,18 @@
+metadata:
+    "First Ladies (2020)":
+        year: 2020
+        title: "First Ladies"
+        alt_title: "First Ladies (2020)"
+        orig_title: "First Ladies"
+        sort_title: "First Ladies"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10896026, tmdb://109907, tvdb://389620
+        # tpdb: https://theposterdb.com/search/advanced/results?term=First+Ladies&category=Shows&year_filter=equals&yone=2020&tmdb_id=109907&imdb_id=tt10896026&tvdb_id=389620
+        # tmdb: https://www.themoviedb.org/tv/109907
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=389620
+        # imdb: https://www.imdb.com/title/tt10896026
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://162857
+                # https://theposterdb.com/search/advanced/results?term=First+Ladies+Season+1&category=Shows&tmdb_id=162857        

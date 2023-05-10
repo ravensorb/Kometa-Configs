@@ -1,0 +1,29 @@
+metadata:
+    "Rent (2005)":
+        year: 2005
+        title: "Rent"
+        alt_title: "Rent (2005)"
+        orig_title: "Rent"
+        sort_title: "Rent"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0294870, tmdb://1833, tvdb://5098
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Rent&category=Movies&year_filter=equals&yone=2005&tmdb_id=1833&imdb_id=tt0294870&tvdb_id=5098
+        # tmdb: https://www.themoviedb.org/movie/1833
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=5098
+        # imdb: https://www.imdb.com/title/tt0294870
+    
+    "Rent: Filmed Live on Broadway (2008)":
+        year: 2008
+        title: "Rent: Filmed Live on Broadway"
+        alt_title: "Rent: Filmed Live on Broadway (2008)"
+        orig_title: "Rent: Filmed Live on Broadway"
+        sort_title: "Rent: Filmed Live on Broadway"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1273675, tmdb://15199, tvdb://21293
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Rent%3A+Filmed+Live+on+Broadway&category=Movies&year_filter=equals&yone=2008&tmdb_id=15199&imdb_id=tt1273675&tvdb_id=21293
+        # tmdb: https://www.themoviedb.org/movie/15199
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=21293
+        # imdb: https://www.imdb.com/title/tt1273675
+    

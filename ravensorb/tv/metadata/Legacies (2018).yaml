@@ -1,0 +1,30 @@
+metadata:
+    "Legacies (2018)":
+        year: 2018
+        title: "Legacies"
+        alt_title: "Legacies (2018)"
+        orig_title: "Legacies"
+        sort_title: "Legacies"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8103070, tmdb://79460, tvdb://349309
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Legacies&category=Shows&year_filter=equals&yone=2018&tmdb_id=79460&imdb_id=tt8103070&tvdb_id=349309
+        # tmdb: https://www.themoviedb.org/tv/79460
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=349309
+        # imdb: https://www.imdb.com/title/tt8103070
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://103695
+                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+1&category=Shows&tmdb_id=103695
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://129337
+                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+2&category=Shows&tmdb_id=129337
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://168939
+                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+3&category=Shows&tmdb_id=168939
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://199276
+                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+4&category=Shows&tmdb_id=199276        

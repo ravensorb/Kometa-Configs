@@ -1,0 +1,64 @@
+collections:
+  "Marvel's Defenders":
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "61889, 62127, 67178, 62285, 62126, 38472", poster: https://theposterdb.com/api/assets/239488 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      Some heroes protect the world, other protect their homes. In Hell’s Kitchen, one of New York’s roughest neighborhoods, unlikely heroes will rise to clean up the mean streets. Bringing notice to all criminals — if you can’t take the heat, stay out of Hell’s Kitchen!
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Defenders&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Marvel%27s%20Defenders%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Marvel%27s%20Defenders
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Marvel%27s%20Defenders
+    # trakt: https://trakt.tv/search/lists?query=Marvel%27s%20Defenders
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

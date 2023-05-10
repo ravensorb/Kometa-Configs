@@ -1,0 +1,99 @@
+metadata:
+    "Robin Williams: Off the Wall (1978)":
+        year: 1978
+        title: "Robin Williams: Off the Wall"
+        alt_title: "Robin Williams: Off the Wall (1978)"
+        orig_title: "Robin Williams: Off the Wall"
+        sort_title: "Robin Williams: Off the Wall"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2388730, tmdb://381276
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams%3A+Off+the+Wall&category=Movies&year_filter=equals&yone=1978&tmdb_id=381276&imdb_id=tt2388730
+        # tmdb: https://www.themoviedb.org/movie/381276
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt2388730
+    
+    "An Evening with Robin Williams (1983)":
+        year: 1983
+        title: "An Evening with Robin Williams"
+        alt_title: "An Evening with Robin Williams (1983)"
+        orig_title: "An Evening with Robin Williams"
+        sort_title: "Evening with Robin Williams"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0195691, tmdb://21585, tvdb://60469
+        # tpdb: https://theposterdb.com/search/advanced/results?term=An+Evening+with+Robin+Williams&category=Movies&year_filter=equals&yone=1983&tmdb_id=21585&imdb_id=tt0195691&tvdb_id=60469
+        # tmdb: https://www.themoviedb.org/movie/21585
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=60469
+        # imdb: https://www.imdb.com/title/tt0195691
+    
+    "Robin Williams: An Evening at the Met (1986)":
+        year: 1986
+        title: "Robin Williams: An Evening at the Met"
+        alt_title: "Robin Williams: An Evening at the Met (1986)"
+        orig_title: "Robin Williams: An Evening at the Met"
+        sort_title: "Robin Williams: An Evening at the Met"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0196055, tmdb://21586, tvdb://45280
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams%3A+An+Evening+at+the+Met&category=Movies&year_filter=equals&yone=1986&tmdb_id=21586&imdb_id=tt0196055&tvdb_id=45280
+        # tmdb: https://www.themoviedb.org/movie/21586
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=45280
+        # imdb: https://www.imdb.com/title/tt0196055
+    
+    "Robin Williams Live on Broadway (2002)":
+        year: 2002
+        title: "Robin Williams Live on Broadway"
+        alt_title: "Robin Williams Live on Broadway (2002)"
+        orig_title: "Robin Williams Live on Broadway"
+        sort_title: "Robin Williams Live on Broadway"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0330829, tmdb://20211, tvdb://16696
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams+Live+on+Broadway&category=Movies&year_filter=equals&yone=2002&tmdb_id=20211&imdb_id=tt0330829&tvdb_id=16696
+        # tmdb: https://www.themoviedb.org/movie/20211
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=16696
+        # imdb: https://www.imdb.com/title/tt0330829
+    
+    "Robin Williams: Weapons of Self Destruction (2009)":
+        year: 2009
+        title: "Robin Williams: Weapons of Self Destruction"
+        alt_title: "Robin Williams: Weapons of Self Destruction (2009)"
+        orig_title: "Robin Williams: Weapons of Self Destruction"
+        sort_title: "Robin Williams: Weapons of Self Destruction"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1560169, tmdb://26621, tvdb://46709
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams%3A+Weapons+of+Self+Destruction&category=Movies&year_filter=equals&yone=2009&tmdb_id=26621&imdb_id=tt1560169&tvdb_id=46709
+        # tmdb: https://www.themoviedb.org/movie/26621
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=46709
+        # imdb: https://www.imdb.com/title/tt1560169
+    
+    "Robin Williams Remembered (2014)":
+        year: 2014
+        title: "Robin Williams Remembered"
+        alt_title: "Robin Williams Remembered (2014)"
+        orig_title: "Robin Williams Remembered"
+        sort_title: "Robin Williams Remembered"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://586571
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams+Remembered&category=Movies&year_filter=equals&yone=2014&tmdb_id=586571
+        # tmdb: https://www.themoviedb.org/movie/586571
+        # tvdb: 
+        # imdb: 
+    
+    "Robin Williams: Come Inside My Mind (2018)":
+        year: 2018
+        title: "Robin Williams: Come Inside My Mind"
+        alt_title: "Robin Williams: Come Inside My Mind (2018)"
+        orig_title: "Robin Williams: Come Inside My Mind"
+        sort_title: "Robin Williams: Come Inside My Mind"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7689966, tmdb://493100, tvdb://8270
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams%3A+Come+Inside+My+Mind&category=Movies&year_filter=equals&yone=2018&tmdb_id=493100&imdb_id=tt7689966&tvdb_id=8270
+        # tmdb: https://www.themoviedb.org/movie/493100
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=8270
+        # imdb: https://www.imdb.com/title/tt7689966
+    

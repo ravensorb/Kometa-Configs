@@ -1,0 +1,18 @@
+metadata:
+    "Les Misérables (2018)":
+        year: 2018
+        title: "Les Misérables"
+        alt_title: "Les Misérables (2018)"
+        orig_title: "Les Misérables (2018)"
+        sort_title: "Les Miserables"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5900600, tmdb://81224, tvdb://354256
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Les+Mis%C3%A9rables&category=Shows&year_filter=equals&yone=2018&tmdb_id=81224&imdb_id=tt5900600&tvdb_id=354256
+        # tmdb: https://www.themoviedb.org/tv/81224
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=354256
+        # imdb: https://www.imdb.com/title/tt5900600
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://107020
+                # https://theposterdb.com/search/advanced/results?term=Les+Mis%C3%A9rables+Season+1&category=Shows&tmdb_id=107020        

@@ -1,0 +1,15 @@
+metadata:
+    "Air (2015)":
+        year: 2015
+        title: "Air"
+        alt_title: "Air (2015)"
+        orig_title: "Air"
+        sort_title: "Air"
+        
+        url_poster: https://theposterdb.com/api/assets/225637
+        # IDs: imdb://tt2091478, tmdb://284674, tvdb://8584
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Air&category=Movies&year_filter=equals&yone=2015&tmdb_id=284674&imdb_id=tt2091478&tvdb_id=8584
+        # tmdb: https://www.themoviedb.org/movie/284674
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=8584
+        # imdb: https://www.imdb.com/title/tt2091478
+    

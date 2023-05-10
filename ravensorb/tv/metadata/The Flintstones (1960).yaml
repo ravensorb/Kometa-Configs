@@ -1,0 +1,38 @@
+metadata:
+    "The Flintstones (1960)":
+        year: 1960
+        title: "The Flintstones"
+        alt_title: "The Flintstones (1960)"
+        orig_title: "The Flintstones"
+        sort_title: "Flintstones"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0053502, tmdb://1996, tvdb://76171
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Flintstones&category=Shows&year_filter=equals&yone=1960&tmdb_id=1996&imdb_id=tt0053502&tvdb_id=76171
+        # tmdb: https://www.themoviedb.org/tv/1996
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1960&query=76171
+        # imdb: https://www.imdb.com/title/tt0053502
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5922, tvdb://9804
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+1&category=Shows&tmdb_id=5922&tvdb_id=9804
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5925, tvdb://9805
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+2&category=Shows&tmdb_id=5925&tvdb_id=9805
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5923, tvdb://9806
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+3&category=Shows&tmdb_id=5923&tvdb_id=9806
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5926, tvdb://9807
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+4&category=Shows&tmdb_id=5926&tvdb_id=9807
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5924, tvdb://9808
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+5&category=Shows&tmdb_id=5924&tvdb_id=9808
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5927, tvdb://9809
+                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+6&category=Shows&tmdb_id=5927&tvdb_id=9809        

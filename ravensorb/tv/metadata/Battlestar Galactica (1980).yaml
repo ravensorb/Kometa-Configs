@@ -1,0 +1,18 @@
+metadata:
+    "Battlestar Galactica (1980)":
+        year: 1980
+        title: "Battlestar Galactica (1980)"
+        alt_title: "Battlestar Galactica (1980)"
+        orig_title: "Galactica 1980"
+        sort_title: "Battlestar Galactica (1980)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0080221, tmdb://4621, tvdb://71170
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%281980%29&category=Shows&year_filter=equals&yone=1980&tmdb_id=4621&imdb_id=tt0080221&tvdb_id=71170
+        # tmdb: https://www.themoviedb.org/tv/4621
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1980&query=71170
+        # imdb: https://www.imdb.com/title/tt0080221
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://14111, tvdb://1782
+                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%281980%29+Season+1&category=Shows&tmdb_id=14111&tvdb_id=1782        

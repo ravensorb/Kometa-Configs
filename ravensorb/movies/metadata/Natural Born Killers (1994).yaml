@@ -1,0 +1,15 @@
+metadata:
+    "Natural Born Killers (1994)":
+        year: 1994
+        title: "Natural Born Killers"
+        alt_title: "Natural Born Killers (1994)"
+        orig_title: "Natural Born Killers"
+        sort_title: "Natural Born Killers"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0110632, tmdb://241, tvdb://1897
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Natural+Born+Killers&category=Movies&year_filter=equals&yone=1994&tmdb_id=241&imdb_id=tt0110632&tvdb_id=1897
+        # tmdb: https://www.themoviedb.org/movie/241
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=1897
+        # imdb: https://www.imdb.com/title/tt0110632
+    

@@ -1,0 +1,18 @@
+metadata:
+    "Y: The Last Man (2021)":
+        year: 2021
+        title: "Y: The Last Man"
+        alt_title: "Y: The Last Man (2021)"
+        orig_title: "Y: The Last Man"
+        sort_title: "Y: The Last Man"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8042500, tmdb://86550, tvdb://362250
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Y%3A+The+Last+Man&category=Shows&year_filter=equals&yone=2021&tmdb_id=86550&imdb_id=tt8042500&tvdb_id=362250
+        # tmdb: https://www.themoviedb.org/tv/86550
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362250
+        # imdb: https://www.imdb.com/title/tt8042500
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://118309, tvdb://1932245
+                # https://theposterdb.com/search/advanced/results?term=Y%3A+The+Last+Man+Season+1&category=Shows&tmdb_id=118309&tvdb_id=1932245        

@@ -1,0 +1,15 @@
+metadata:
+    "Buena Vista Social Club (1999)":
+        year: 1999
+        title: "Buena Vista Social Club"
+        alt_title: "Buena Vista Social Club (1999)"
+        orig_title: "Buena Vista Social Club"
+        sort_title: "Buena Vista Social Club"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0186508, tmdb://11779, tvdb://8300
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Buena+Vista+Social+Club&category=Movies&year_filter=equals&yone=1999&tmdb_id=11779&imdb_id=tt0186508&tvdb_id=8300
+        # tmdb: https://www.themoviedb.org/movie/11779
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=8300
+        # imdb: https://www.imdb.com/title/tt0186508
+    

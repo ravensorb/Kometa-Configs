@@ -1,0 +1,30 @@
+metadata:
+    "G.I. Joe: A Real American Hero (1985)":
+        year: 1985
+        title: "G.I. Joe: A Real American Hero"
+        alt_title: "G.I. Joe: A Real American Hero (1985)"
+        orig_title: "G.I. Joe: A Real American Hero"
+        sort_title: "G.I. Joe: A Real American Hero"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0086719, tvdb://77780
+        # tpdb: https://theposterdb.com/search/advanced/results?term=G.I.+Joe%3A+A+Real+American+Hero&category=Shows&year_filter=equals&yone=1985&imdb_id=tt0086719&tvdb_id=77780
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=77780
+        # imdb: https://www.imdb.com/title/tt0086719
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=G.I.+Joe%3A+A+Real+American+Hero+Season+1&category=Shows
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=G.I.+Joe%3A+A+Real+American+Hero+Season+2&category=Shows
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=G.I.+Joe%3A+A+Real+American+Hero+Season+3&category=Shows
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=G.I.+Joe%3A+A+Real+American+Hero+Season+4&category=Shows        

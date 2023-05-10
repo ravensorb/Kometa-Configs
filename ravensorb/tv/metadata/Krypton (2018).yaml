@@ -1,0 +1,22 @@
+metadata:
+    "Krypton (2018)":
+        year: 2018
+        title: "Krypton"
+        alt_title: "Krypton (2018)"
+        orig_title: "Krypton"
+        sort_title: "Krypton"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4276624, tmdb://71340, tvdb://328599
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Krypton&category=Shows&year_filter=equals&yone=2018&tmdb_id=71340&imdb_id=tt4276624&tvdb_id=328599
+        # tmdb: https://www.themoviedb.org/tv/71340
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=328599
+        # imdb: https://www.imdb.com/title/tt4276624
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://87531, tvdb://721828
+                # https://theposterdb.com/search/advanced/results?term=Krypton+Season+1&category=Shows&tmdb_id=87531&tvdb_id=721828
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://122688
+                # https://theposterdb.com/search/advanced/results?term=Krypton+Season+2&category=Shows&tmdb_id=122688        

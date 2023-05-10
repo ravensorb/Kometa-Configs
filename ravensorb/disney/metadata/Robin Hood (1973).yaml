@@ -1,0 +1,15 @@
+metadata:
+    "Robin Hood (1973)":
+        year: 1973
+        title: "Robin Hood"
+        alt_title: "Robin Hood (1973)"
+        orig_title: "Robin Hood"
+        sort_title: "Robin Hood"
+        
+        url_poster: https://theposterdb.com/api/assets/170292
+        # IDs: imdb://tt0070608, tmdb://11886, tvdb://2144
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Hood&category=Movies&year_filter=equals&yone=1973&tmdb_id=11886&imdb_id=tt0070608&tvdb_id=2144
+        # tmdb: https://www.themoviedb.org/movie/11886
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=2144
+        # imdb: https://www.imdb.com/title/tt0070608
+    

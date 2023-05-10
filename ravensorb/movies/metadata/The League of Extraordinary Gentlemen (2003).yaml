@@ -1,0 +1,15 @@
+metadata:
+    "The League of Extraordinary Gentlemen (2003)":
+        year: 2003
+        title: "The League of Extraordinary Gentlemen"
+        alt_title: "The League of Extraordinary Gentlemen (2003)"
+        orig_title: "The League of Extraordinary Gentlemen"
+        sort_title: "League of Extraordinary Gentlemen"
+        
+        url_poster: https://theposterdb.com/api/assets/171574
+        # IDs: imdb://tt0311429, tmdb://8698, tvdb://1533
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+League+of+Extraordinary+Gentlemen&category=Movies&year_filter=equals&yone=2003&tmdb_id=8698&imdb_id=tt0311429&tvdb_id=1533
+        # tmdb: https://www.themoviedb.org/movie/8698
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=1533
+        # imdb: https://www.imdb.com/title/tt0311429
+    

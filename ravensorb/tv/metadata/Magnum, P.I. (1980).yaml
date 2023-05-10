@@ -1,0 +1,46 @@
+metadata:
+    "Magnum, P.I. (1980)":
+        year: 1980
+        title: "Magnum, P.I."
+        alt_title: "Magnum, P.I. (1980)"
+        orig_title: "Magnum, P.I."
+        sort_title: "Magnum, P.I."
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0080240, tmdb://734, tvdb://74380
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.&category=Shows&year_filter=equals&yone=1980&tmdb_id=734&imdb_id=tt0080240&tvdb_id=74380
+        # tmdb: https://www.themoviedb.org/tv/734
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1980&query=74380
+        # imdb: https://www.imdb.com/title/tt0080240
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2156, tvdb://7351
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+1&category=Shows&tmdb_id=2156&tvdb_id=7351
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2157, tvdb://7352
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+2&category=Shows&tmdb_id=2157&tvdb_id=7352
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2158, tvdb://7353
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+3&category=Shows&tmdb_id=2158&tvdb_id=7353
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2161, tvdb://7354
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+4&category=Shows&tmdb_id=2161&tvdb_id=7354
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2163, tvdb://7355
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+5&category=Shows&tmdb_id=2163&tvdb_id=7355
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2162, tvdb://7356
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+6&category=Shows&tmdb_id=2162&tvdb_id=7356
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2159, tvdb://7357
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+7&category=Shows&tmdb_id=2159&tvdb_id=7357
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2160, tvdb://7358
+                # https://theposterdb.com/search/advanced/results?term=Magnum%2C+P.I.+Season+8&category=Shows&tmdb_id=2160&tvdb_id=7358        

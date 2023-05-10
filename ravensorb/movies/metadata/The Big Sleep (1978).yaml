@@ -1,0 +1,15 @@
+metadata:
+    "The Big Sleep (1978)":
+        year: 1978
+        title: "The Big Sleep"
+        alt_title: "The Big Sleep (1978)"
+        orig_title: "The Big Sleep"
+        sort_title: "Big Sleep"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0077234, tmdb://1815, tvdb://62077
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Big+Sleep&category=Movies&year_filter=equals&yone=1978&tmdb_id=1815&imdb_id=tt0077234&tvdb_id=62077
+        # tmdb: https://www.themoviedb.org/movie/1815
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1978&query=62077
+        # imdb: https://www.imdb.com/title/tt0077234
+    

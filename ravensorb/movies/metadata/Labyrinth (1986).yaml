@@ -1,0 +1,15 @@
+metadata:
+    "Labyrinth (1986)":
+        year: 1986
+        title: "Labyrinth"
+        alt_title: "Labyrinth (1986)"
+        orig_title: "Labyrinth"
+        sort_title: "Labyrinth"
+        
+        url_poster: https://theposterdb.com/api/assets/174827
+        # IDs: imdb://tt0091369, tmdb://13597, tvdb://3533
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Labyrinth&category=Movies&year_filter=equals&yone=1986&tmdb_id=13597&imdb_id=tt0091369&tvdb_id=3533
+        # tmdb: https://www.themoviedb.org/movie/13597
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=3533
+        # imdb: https://www.imdb.com/title/tt0091369
+    

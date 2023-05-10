@@ -1,0 +1,15 @@
+metadata:
+    "Family Business (1989)":
+        year: 1989
+        title: "Family Business"
+        alt_title: "Family Business (1989)"
+        orig_title: "Family Business"
+        sort_title: "Family Business"
+        
+        url_poster: https://theposterdb.com/api/assets/211433
+        # IDs: imdb://tt0097328, tmdb://10551, tvdb://5619
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Family+Business&category=Movies&year_filter=equals&yone=1989&tmdb_id=10551&imdb_id=tt0097328&tvdb_id=5619
+        # tmdb: https://www.themoviedb.org/movie/10551
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=5619
+        # imdb: https://www.imdb.com/title/tt0097328
+    

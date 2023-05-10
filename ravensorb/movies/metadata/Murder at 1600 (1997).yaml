@@ -1,0 +1,15 @@
+metadata:
+    "Murder at 1600 (1997)":
+        year: 1997
+        title: "Murder at 1600"
+        alt_title: "Murder at 1600 (1997)"
+        orig_title: "Murder at 1600"
+        sort_title: "Murder at 1600"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0119731, tmdb://9415, tvdb://4278
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder+at+1600&category=Movies&year_filter=equals&yone=1997&tmdb_id=9415&imdb_id=tt0119731&tvdb_id=4278
+        # tmdb: https://www.themoviedb.org/movie/9415
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=4278
+        # imdb: https://www.imdb.com/title/tt0119731
+    

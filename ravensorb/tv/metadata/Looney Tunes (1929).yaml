@@ -1,0 +1,250 @@
+metadata:
+    "Looney Tunes (1929)":
+        year: 1929
+        title: "Looney Tunes"
+        alt_title: "Looney Tunes (1929)"
+        orig_title: "Looney Tunes"
+        sort_title: "Looney Tunes"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt21241746, tvdb://72514
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Looney+Tunes&category=Shows&year_filter=equals&yone=1929&imdb_id=tt21241746&tvdb_id=72514
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1929&query=72514
+        # imdb: https://www.imdb.com/title/tt21241746
+        seasons:
+            # 1930:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1930&category=Shows
+            # 1931:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1931&category=Shows
+            # 1932:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1932&category=Shows
+            # 1933:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1933&category=Shows
+            # 1934:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1934&category=Shows
+            # 1935:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1935&category=Shows
+            # 1936:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1936&category=Shows
+            # 1937:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1937&category=Shows
+            # 1938:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1938&category=Shows
+            # 1939:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1939&category=Shows
+            # 1940:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1940&category=Shows
+            # 1941:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1941&category=Shows
+            # 1942:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1942&category=Shows
+            # 1943:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1943&category=Shows
+            # 1944:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1944&category=Shows
+            # 1945:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1945&category=Shows
+            # 1946:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1946&category=Shows
+            # 1947:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1947&category=Shows
+            # 1948:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1948&category=Shows
+            # 1949:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1949&category=Shows
+            # 1950:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1950&category=Shows
+            # 1951:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1951&category=Shows
+            # 1952:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1952&category=Shows
+            # 1953:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1953&category=Shows
+            # 1954:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1954&category=Shows
+            # 1955:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1955&category=Shows
+            # 1956:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1956&category=Shows
+            # 1957:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1957&category=Shows
+            # 1958:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1958&category=Shows
+            # 1959:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1959&category=Shows
+            # 1960:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1960&category=Shows
+            # 1961:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1961&category=Shows
+            # 1962:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1962&category=Shows
+            # 1963:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1963&category=Shows
+            # 1964:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1964&category=Shows
+            # 1965:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1965&category=Shows
+            # 1966:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1966&category=Shows
+            # 1967:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1967&category=Shows
+            # 1968:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1968&category=Shows
+            # 1969:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1969&category=Shows
+            # 1972:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1972&category=Shows
+            # 1975:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1975&category=Shows
+            # 1976:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1976&category=Shows
+            # 1977:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1977&category=Shows
+            # 1978:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1978&category=Shows
+            # 1979:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1979&category=Shows
+            # 1980:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1980&category=Shows
+            # 1986:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1986&category=Shows
+            # 1987:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1987&category=Shows
+            # 1988:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1988&category=Shows
+            # 1994:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1994&category=Shows
+            # 1995:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1995&category=Shows
+            # 1996:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1996&category=Shows
+            # 1997:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+1997&category=Shows
+            # 2000:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+2000&category=Shows
+            # 2003:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+2003&category=Shows
+            # 2005:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+2005&category=Shows
+            # 2006:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+2006&category=Shows
+            # 2010:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=Looney+Tunes+Season+2010&category=Shows        

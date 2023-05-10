@@ -1,0 +1,22 @@
+metadata:
+    "FBI: International (2021)":
+        year: 2021
+        title: "FBI: International"
+        alt_title: "FBI: International (2021)"
+        orig_title: "FBI: International"
+        sort_title: "FBI: International"
+        url_poster: https://theposterdb.com/api/assets/211134
+        # IDs: imdb://tt14449470, tmdb://121658, tvdb://399863
+        # tpdb: https://theposterdb.com/search/advanced/results?term=FBI%3A+International&category=Shows&year_filter=equals&yone=2021&tmdb_id=121658&imdb_id=tt14449470&tvdb_id=399863
+        # tmdb: https://www.themoviedb.org/tv/121658
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=399863
+        # imdb: https://www.imdb.com/title/tt14449470
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/211135
+                # IDs: tmdb://187629, tvdb://1913411
+                # https://theposterdb.com/search/advanced/results?term=FBI%3A+International+Season+1&category=Shows&tmdb_id=187629&tvdb_id=1913411
+            2:
+                url_poster: https://theposterdb.com/api/assets/354208
+                # IDs: tmdb://298429, tvdb://2006872
+                # https://theposterdb.com/search/advanced/results?term=FBI%3A+International+Season+2&category=Shows&tmdb_id=298429&tvdb_id=2006872        

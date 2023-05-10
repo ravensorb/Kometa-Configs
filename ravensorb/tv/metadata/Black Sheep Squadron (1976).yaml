@@ -1,0 +1,22 @@
+metadata:
+    "Black Sheep Squadron (1976)":
+        year: 1976
+        title: "Black Sheep Squadron"
+        alt_title: "Black Sheep Squadron (1976)"
+        orig_title: "Black Sheep Squadron"
+        sort_title: "Black Sheep Squadron"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0073961, tmdb://5027, tvdb://77912
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black+Sheep+Squadron&category=Shows&year_filter=equals&yone=1976&tmdb_id=5027&imdb_id=tt0073961&tvdb_id=77912
+        # tmdb: https://www.themoviedb.org/tv/5027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1976&query=77912
+        # imdb: https://www.imdb.com/title/tt0073961
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://63523
+                # https://theposterdb.com/search/advanced/results?term=Black+Sheep+Squadron+Season+1&category=Shows&tmdb_id=63523
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://63524
+                # https://theposterdb.com/search/advanced/results?term=Black+Sheep+Squadron+Season+2&category=Shows&tmdb_id=63524        

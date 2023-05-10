@@ -1,0 +1,64 @@
+collections:
+  "Has Fallen":
+    variables: { collection: "386534", movie: "423204, 117263, 267860", poster: https://theposterdb.com/api/assets/164782 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      'Has Fallen' is a series of action-thriller films following the adventures of Secret Service Agent Mike Banning, President of the United States Benjamin Asher, and Vice President of the United States Allan Trumbull.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Has+Fallen&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Has%20Fallen%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Has%20Fallen
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Has%20Fallen
+    # trakt: https://trakt.tv/search/lists?query=Has%20Fallen
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

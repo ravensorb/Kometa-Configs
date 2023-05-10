@@ -1,0 +1,38 @@
+metadata:
+    "Doctor Who Confidential (2005)":
+        year: 2005
+        title: "Doctor Who Confidential"
+        alt_title: "Doctor Who Confidential (2005)"
+        orig_title: "Doctor Who Confidential"
+        sort_title: "Doctor Who Confidential"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0453422, tmdb://1056, tvdb://79298
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential&category=Shows&year_filter=equals&yone=2005&tmdb_id=1056&imdb_id=tt0453422&tvdb_id=79298
+        # tmdb: https://www.themoviedb.org/tv/1056
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=79298
+        # imdb: https://www.imdb.com/title/tt0453422
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2993, tvdb://16586
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+1&category=Shows&tmdb_id=2993&tvdb_id=16586
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2994, tvdb://16587
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+2&category=Shows&tmdb_id=2994&tvdb_id=16587
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2995, tvdb://17621
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+3&category=Shows&tmdb_id=2995&tvdb_id=17621
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2996, tvdb://31565
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+4&category=Shows&tmdb_id=2996&tvdb_id=31565
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2997
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+5&category=Shows&tmdb_id=2997
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2999
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+6&category=Shows&tmdb_id=2999        

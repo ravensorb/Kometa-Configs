@@ -1,0 +1,15 @@
+metadata:
+    "Snow White and the Seven Dwarfs (1938)":
+        year: 1938
+        title: "Snow White and the Seven Dwarfs"
+        alt_title: "Snow White and the Seven Dwarfs (1938)"
+        orig_title: "Snow White and the Seven Dwarfs"
+        sort_title: "Snow White and the Seven Dwarfs"
+        
+        url_poster: https://theposterdb.com/api/assets/191972
+        # IDs: imdb://tt0029583, tmdb://408, tvdb://269
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snow+White+and+the+Seven+Dwarfs&category=Movies&year_filter=equals&yone=1938&tmdb_id=408&imdb_id=tt0029583&tvdb_id=269
+        # tmdb: https://www.themoviedb.org/movie/408
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1938&query=269
+        # imdb: https://www.imdb.com/title/tt0029583
+    

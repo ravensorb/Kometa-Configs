@@ -1,0 +1,15 @@
+metadata:
+    "Beautiful Creatures (2013)":
+        year: 2013
+        title: "Beautiful Creatures"
+        alt_title: "Beautiful Creatures (2013)"
+        orig_title: "Beautiful Creatures"
+        sort_title: "Beautiful Creatures"
+        
+        url_poster: https://theposterdb.com/api/assets/187520
+        # IDs: imdb://tt1559547, tmdb://109491, tvdb://1742
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Beautiful+Creatures&category=Movies&year_filter=equals&yone=2013&tmdb_id=109491&imdb_id=tt1559547&tvdb_id=1742
+        # tmdb: https://www.themoviedb.org/movie/109491
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1742
+        # imdb: https://www.imdb.com/title/tt1559547
+    

@@ -1,0 +1,30 @@
+metadata:
+    "Star Trek: Discovery (2017)":
+        year: 2017
+        title: "Star Trek: Discovery"
+        alt_title: "Star Trek: Discovery (2017)"
+        orig_title: "Star Trek: Discovery"
+        sort_title: "Star Trek: Discovery"
+        url_poster: https://theposterdb.com/api/assets/175974
+        # IDs: imdb://tt5171438, tmdb://67198, tvdb://328711
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery&category=Shows&year_filter=equals&yone=2017&tmdb_id=67198&imdb_id=tt5171438&tvdb_id=328711
+        # tmdb: https://www.themoviedb.org/tv/67198
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328711
+        # imdb: https://www.imdb.com/title/tt5171438
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222157
+                # IDs: tmdb://78745, tvdb://716913
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+1&category=Shows&tmdb_id=78745&tvdb_id=716913
+            2:
+                url_poster: https://theposterdb.com/api/assets/222158
+                # IDs: tmdb://110143, tvdb://781584
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+2&category=Shows&tmdb_id=110143&tvdb_id=781584
+            3:
+                url_poster: https://theposterdb.com/api/assets/222159
+                # IDs: tmdb://157442, tvdb://1857399
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+3&category=Shows&tmdb_id=157442&tvdb_id=1857399
+            4:
+                url_poster: https://theposterdb.com/api/assets/222160
+                # IDs: tmdb://204068, tvdb://1954901
+                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+4&category=Shows&tmdb_id=204068&tvdb_id=1954901        

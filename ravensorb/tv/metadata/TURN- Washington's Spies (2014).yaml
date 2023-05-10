@@ -1,0 +1,30 @@
+metadata:
+    "TURN: Washington's Spies (2014)":
+        year: 2014
+        title: "TURN: Washington's Spies"
+        alt_title: "TURN: Washington's Spies (2014)"
+        orig_title: "TURN: Washington's Spies"
+        sort_title: "TURN: Washington's Spies"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2543328, tmdb://57276, tvdb://272135
+        # tpdb: https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies&category=Shows&year_filter=equals&yone=2014&tmdb_id=57276&imdb_id=tt2543328&tvdb_id=272135
+        # tmdb: https://www.themoviedb.org/tv/57276
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=272135
+        # imdb: https://www.imdb.com/title/tt2543328
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://60722
+                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+1&category=Shows&tmdb_id=60722
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://65205
+                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+2&category=Shows&tmdb_id=65205
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://76491
+                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+3&category=Shows&tmdb_id=76491
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://89554
+                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+4&category=Shows&tmdb_id=89554        

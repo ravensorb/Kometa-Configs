@@ -1,0 +1,15 @@
+metadata:
+    "Destry Rides Again (1939)":
+        year: 1939
+        title: "Destry Rides Again"
+        alt_title: "Destry Rides Again (1939)"
+        orig_title: "Destry Rides Again"
+        sort_title: "Destry Rides Again"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0031225, tmdb://43828, tvdb://15168
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Destry+Rides+Again&category=Movies&year_filter=equals&yone=1939&tmdb_id=43828&imdb_id=tt0031225&tvdb_id=15168
+        # tmdb: https://www.themoviedb.org/movie/43828
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1939&query=15168
+        # imdb: https://www.imdb.com/title/tt0031225
+    

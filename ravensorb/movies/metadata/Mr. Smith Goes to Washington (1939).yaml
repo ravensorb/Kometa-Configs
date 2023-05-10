@@ -1,0 +1,15 @@
+metadata:
+    "Mr. Smith Goes to Washington (1939)":
+        year: 1939
+        title: "Mr. Smith Goes to Washington"
+        alt_title: "Mr. Smith Goes to Washington (1939)"
+        orig_title: "Mr. Smith Goes to Washington"
+        sort_title: "Mr. Smith Goes to Washington"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0031679, tmdb://3083, tvdb://3121
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.+Smith+Goes+to+Washington&category=Movies&year_filter=equals&yone=1939&tmdb_id=3083&imdb_id=tt0031679&tvdb_id=3121
+        # tmdb: https://www.themoviedb.org/movie/3083
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1939&query=3121
+        # imdb: https://www.imdb.com/title/tt0031679
+    

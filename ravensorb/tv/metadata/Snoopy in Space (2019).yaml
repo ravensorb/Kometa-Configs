@@ -1,0 +1,22 @@
+metadata:
+    "Snoopy in Space (2019)":
+        year: 2019
+        title: "Snoopy in Space"
+        alt_title: "Snoopy in Space (2019)"
+        orig_title: "Snoopy in Space"
+        sort_title: "Snoopy in Space"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10659366, tmdb://91249, tvdb://367015
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy+in+Space&category=Shows&year_filter=equals&yone=2019&tmdb_id=91249&imdb_id=tt10659366&tvdb_id=367015
+        # tmdb: https://www.themoviedb.org/tv/91249
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=367015
+        # imdb: https://www.imdb.com/title/tt10659366
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://127933, tvdb://826537
+                # https://theposterdb.com/search/advanced/results?term=Snoopy+in+Space+Season+1&category=Shows&tmdb_id=127933&tvdb_id=826537
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://216265, tvdb://1963494
+                # https://theposterdb.com/search/advanced/results?term=Snoopy+in+Space+Season+2&category=Shows&tmdb_id=216265&tvdb_id=1963494        

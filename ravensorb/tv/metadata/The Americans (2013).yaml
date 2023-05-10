@@ -1,0 +1,38 @@
+metadata:
+    "The Americans (2013)":
+        year: 2013
+        title: "The Americans (2013)"
+        alt_title: "The Americans (2013)"
+        orig_title: "The Americans (2013)"
+        sort_title: "Americans (2013)"
+        url_poster: https://theposterdb.com/api/assets/325787
+        # IDs: imdb://tt2149175, tmdb://46533, tvdb://261690
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29&category=Shows&year_filter=equals&yone=2013&tmdb_id=46533&imdb_id=tt2149175&tvdb_id=261690
+        # tmdb: https://www.themoviedb.org/tv/46533
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=261690
+        # imdb: https://www.imdb.com/title/tt2149175
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/325788
+                # IDs: tmdb://54715, tvdb://498971
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+1&category=Shows&tmdb_id=54715&tvdb_id=498971
+            2:
+                url_poster: https://theposterdb.com/api/assets/325789
+                # IDs: tmdb://59985, tvdb://567361
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+2&category=Shows&tmdb_id=59985&tvdb_id=567361
+            3:
+                url_poster: https://theposterdb.com/api/assets/325790
+                # IDs: tmdb://63508, tvdb://602737
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+3&category=Shows&tmdb_id=63508&tvdb_id=602737
+            4:
+                url_poster: https://theposterdb.com/api/assets/325791
+                # IDs: tmdb://74178, tvdb://647085
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+4&category=Shows&tmdb_id=74178&tvdb_id=647085
+            5:
+                url_poster: https://theposterdb.com/api/assets/325792
+                # IDs: tmdb://83842
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+5&category=Shows&tmdb_id=83842
+            6:
+                url_poster: https://theposterdb.com/api/assets/325793
+                # IDs: tmdb://97534, tvdb://737998
+                # https://theposterdb.com/search/advanced/results?term=The+Americans+%282013%29+Season+6&category=Shows&tmdb_id=97534&tvdb_id=737998        

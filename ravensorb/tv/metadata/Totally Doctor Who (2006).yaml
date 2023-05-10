@@ -1,0 +1,22 @@
+metadata:
+    "Totally Doctor Who (2006)":
+        year: 2006
+        title: "Totally Doctor Who"
+        alt_title: "Totally Doctor Who (2006)"
+        orig_title: "Totally Doctor Who"
+        sort_title: "Totally Doctor Who"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0795296, tmdb://454, tvdb://80160
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Totally+Doctor+Who&category=Shows&year_filter=equals&yone=2006&tmdb_id=454&imdb_id=tt0795296&tvdb_id=80160
+        # tmdb: https://www.themoviedb.org/tv/454
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2006&query=80160
+        # imdb: https://www.imdb.com/title/tt0795296
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1322, tvdb://27501
+                # https://theposterdb.com/search/advanced/results?term=Totally+Doctor+Who+Season+1&category=Shows&tmdb_id=1322&tvdb_id=27501
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://1321, tvdb://27502
+                # https://theposterdb.com/search/advanced/results?term=Totally+Doctor+Who+Season+2&category=Shows&tmdb_id=1321&tvdb_id=27502        

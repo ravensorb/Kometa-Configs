@@ -1,0 +1,57 @@
+metadata:
+    "The Saint Takes Over (1940)":
+        year: 1940
+        title: "The Saint Takes Over"
+        alt_title: "The Saint Takes Over (1940)"
+        orig_title: "The Saint Takes Over"
+        sort_title: "Saint Takes Over"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0033013, tmdb://54756, tvdb://78149
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Saint+Takes+Over&category=Movies&year_filter=equals&yone=1940&tmdb_id=54756&imdb_id=tt0033013&tvdb_id=78149
+        # tmdb: https://www.themoviedb.org/movie/54756
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1940&query=78149
+        # imdb: https://www.imdb.com/title/tt0033013
+    
+    "The Saint's Vacation (1941)":
+        year: 1941
+        title: "The Saint's Vacation"
+        alt_title: "The Saint's Vacation (1941)"
+        orig_title: "The Saint's Vacation"
+        sort_title: "Saint's Vacation"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034146, tmdb://88955, tvdb://91436
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Saint%27s+Vacation&category=Movies&year_filter=equals&yone=1941&tmdb_id=88955&imdb_id=tt0034146&tvdb_id=91436
+        # tmdb: https://www.themoviedb.org/movie/88955
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1941&query=91436
+        # imdb: https://www.imdb.com/title/tt0034146
+    
+    "The Saint (1997)":
+        year: 1997
+        title: "The Saint"
+        alt_title: "The Saint (1997)"
+        orig_title: "The Saint"
+        sort_title: "Saint"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0120053, tmdb://10003, tvdb://4684
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Saint&category=Movies&year_filter=equals&yone=1997&tmdb_id=10003&imdb_id=tt0120053&tvdb_id=4684
+        # tmdb: https://www.themoviedb.org/movie/10003
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=4684
+        # imdb: https://www.imdb.com/title/tt0120053
+    
+    "The Saint (2017)":
+        year: 2017
+        title: "The Saint"
+        alt_title: "The Saint (2017)"
+        orig_title: "The Saint"
+        sort_title: "Saint"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2569088, tmdb://463906, tvdb://7027
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Saint&category=Movies&year_filter=equals&yone=2017&tmdb_id=463906&imdb_id=tt2569088&tvdb_id=7027
+        # tmdb: https://www.themoviedb.org/movie/463906
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=7027
+        # imdb: https://www.imdb.com/title/tt2569088
+    

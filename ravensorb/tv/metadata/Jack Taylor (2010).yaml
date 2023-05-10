@@ -1,0 +1,26 @@
+metadata:
+    "Jack Taylor (2010)":
+        year: 2010
+        title: "Jack Taylor"
+        alt_title: "Jack Taylor (2010)"
+        orig_title: "Jack Taylor"
+        sort_title: "Jack Taylor"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6954652, tmdb://46705, tvdb://265081
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jack+Taylor&category=Shows&year_filter=equals&yone=2010&tmdb_id=46705&imdb_id=tt6954652&tvdb_id=265081
+        # tmdb: https://www.themoviedb.org/tv/46705
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=265081
+        # imdb: https://www.imdb.com/title/tt6954652
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://54832
+                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+1&category=Shows&tmdb_id=54832
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://82248
+                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+2&category=Shows&tmdb_id=82248
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://82266
+                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+3&category=Shows&tmdb_id=82266        

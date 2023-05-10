@@ -1,0 +1,15 @@
+metadata:
+    "The Fly (1958)":
+        year: 1958
+        title: "The Fly"
+        alt_title: "The Fly (1958)"
+        orig_title: "The Fly"
+        sort_title: "Fly"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0051622, tmdb://11815, tvdb://6240
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fly&category=Movies&year_filter=equals&yone=1958&tmdb_id=11815&imdb_id=tt0051622&tvdb_id=6240
+        # tmdb: https://www.themoviedb.org/movie/11815
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1958&query=6240
+        # imdb: https://www.imdb.com/title/tt0051622
+    

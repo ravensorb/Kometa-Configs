@@ -1,0 +1,15 @@
+metadata:
+    "After the Thin Man (1936)":
+        year: 1936
+        title: "After the Thin Man"
+        alt_title: "After the Thin Man (1936)"
+        orig_title: "After the Thin Man"
+        sort_title: "After the Thin Man"
+        
+        url_poster: https://theposterdb.com/api/assets/234989
+        # IDs: imdb://tt0027260, tmdb://14588, tvdb://20478
+        # tpdb: https://theposterdb.com/search/advanced/results?term=After+the+Thin+Man&category=Movies&year_filter=equals&yone=1936&tmdb_id=14588&imdb_id=tt0027260&tvdb_id=20478
+        # tmdb: https://www.themoviedb.org/movie/14588
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1936&query=20478
+        # imdb: https://www.imdb.com/title/tt0027260
+    

@@ -1,0 +1,15 @@
+metadata:
+    "Survivor (2014)":
+        year: 2014
+        title: "Survivor"
+        alt_title: "Survivor (2014)"
+        orig_title: "Survivor"
+        sort_title: "Survivor"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3297792, tmdb://281778, tvdb://21076
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Survivor&category=Movies&year_filter=equals&yone=2014&tmdb_id=281778&imdb_id=tt3297792&tvdb_id=21076
+        # tmdb: https://www.themoviedb.org/movie/281778
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=21076
+        # imdb: https://www.imdb.com/title/tt3297792
+    

@@ -1,0 +1,58 @@
+metadata:
+    "Stargate SG-1 (1997)":
+        year: 1997
+        title: "Stargate SG-1 (1997)"
+        alt_title: "Stargate SG-1 (1997)"
+        orig_title: "Stargate SG-1 (1997)"
+        sort_title: "Stargate SG-1 (1997)"
+        url_poster: https://theposterdb.com/api/assets/228947
+        # IDs: imdb://tt0118480, tmdb://4629, tvdb://72449
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29&category=Shows&year_filter=equals&yone=1997&tmdb_id=4629&imdb_id=tt0118480&tvdb_id=72449
+        # tmdb: https://www.themoviedb.org/tv/4629
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1997&query=72449
+        # imdb: https://www.imdb.com/title/tt0118480
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/228948
+                # IDs: tmdb://14150, tvdb://19916
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Specials&category=Shows&tmdb_id=14150&tvdb_id=19916
+            1:
+                url_poster: https://theposterdb.com/api/assets/228949
+                # IDs: tmdb://14151, tvdb://4147
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+1&category=Shows&tmdb_id=14151&tvdb_id=4147
+            2:
+                url_poster: https://theposterdb.com/api/assets/228950
+                # IDs: tmdb://14141, tvdb://4149
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+2&category=Shows&tmdb_id=14141&tvdb_id=4149
+            3:
+                url_poster: https://theposterdb.com/api/assets/228951
+                # IDs: tmdb://14142, tvdb://4150
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+3&category=Shows&tmdb_id=14142&tvdb_id=4150
+            4:
+                url_poster: https://theposterdb.com/api/assets/228952
+                # IDs: tmdb://14143, tvdb://4151
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+4&category=Shows&tmdb_id=14143&tvdb_id=4151
+            5:
+                url_poster: https://theposterdb.com/api/assets/228953
+                # IDs: tmdb://14144, tvdb://4152
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+5&category=Shows&tmdb_id=14144&tvdb_id=4152
+            6:
+                url_poster: https://theposterdb.com/api/assets/228954
+                # IDs: tmdb://14145, tvdb://4153
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+6&category=Shows&tmdb_id=14145&tvdb_id=4153
+            7:
+                url_poster: https://theposterdb.com/api/assets/228955
+                # IDs: tmdb://14146, tvdb://4154
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+7&category=Shows&tmdb_id=14146&tvdb_id=4154
+            8:
+                url_poster: https://theposterdb.com/api/assets/228956
+                # IDs: tmdb://14147, tvdb://4155
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+8&category=Shows&tmdb_id=14147&tvdb_id=4155
+            9:
+                url_poster: https://theposterdb.com/api/assets/228957
+                # IDs: tmdb://14148, tvdb://4156
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+9&category=Shows&tmdb_id=14148&tvdb_id=4156
+            10:
+                url_poster: https://theposterdb.com/api/assets/228958
+                # IDs: tmdb://14149, tvdb://4148
+                # https://theposterdb.com/search/advanced/results?term=Stargate+SG-1+%281997%29+Season+10&category=Shows&tmdb_id=14149&tvdb_id=4148        

@@ -1,0 +1,26 @@
+metadata:
+    "Snowpiercer (2020)":
+        year: 2020
+        title: "Snowpiercer"
+        alt_title: "Snowpiercer (2020)"
+        orig_title: "Snowpiercer"
+        sort_title: "Snowpiercer"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6156584, tmdb://79680, tvdb://364928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snowpiercer&category=Shows&year_filter=equals&yone=2020&tmdb_id=79680&imdb_id=tt6156584&tvdb_id=364928
+        # tmdb: https://www.themoviedb.org/tv/79680
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364928
+        # imdb: https://www.imdb.com/title/tt6156584
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://104013, tvdb://1815108
+                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+1&category=Shows&tmdb_id=104013&tvdb_id=1815108
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://165233
+                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+2&category=Shows&tmdb_id=165233
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://218243
+                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+3&category=Shows&tmdb_id=218243        

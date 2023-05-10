@@ -1,0 +1,34 @@
+metadata:
+    "Get Smart (1965)":
+        year: 1965
+        title: "Get Smart"
+        alt_title: "Get Smart (1965)"
+        orig_title: "Get Smart"
+        sort_title: "Get Smart"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0058805, tmdb://4455, tvdb://70386
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Get+Smart&category=Shows&year_filter=equals&yone=1965&tmdb_id=4455&imdb_id=tt0058805&tvdb_id=70386
+        # tmdb: https://www.themoviedb.org/tv/4455
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1965&query=70386
+        # imdb: https://www.imdb.com/title/tt0058805
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13322, tvdb://187
+                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+1&category=Shows&tmdb_id=13322&tvdb_id=187
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13323, tvdb://188
+                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+2&category=Shows&tmdb_id=13323&tvdb_id=188
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13324, tvdb://189
+                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+3&category=Shows&tmdb_id=13324&tvdb_id=189
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13326, tvdb://190
+                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+4&category=Shows&tmdb_id=13326&tvdb_id=190
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://13325, tvdb://191
+                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+5&category=Shows&tmdb_id=13325&tvdb_id=191        

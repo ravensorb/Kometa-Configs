@@ -1,0 +1,29 @@
+metadata:
+    "The Fugitive (1993)":
+        year: 1993
+        title: "The Fugitive"
+        alt_title: "The Fugitive (1993)"
+        orig_title: "The Fugitive"
+        sort_title: "Fugitive"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0106977, tmdb://5503, tvdb://1054
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fugitive&category=Movies&year_filter=equals&yone=1993&tmdb_id=5503&imdb_id=tt0106977&tvdb_id=1054
+        # tmdb: https://www.themoviedb.org/movie/5503
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1993&query=1054
+        # imdb: https://www.imdb.com/title/tt0106977
+    
+    "U.S. Marshals (1998)":
+        year: 1998
+        title: "U.S. Marshals"
+        alt_title: "U.S. Marshals (1998)"
+        orig_title: "U.S. Marshals"
+        sort_title: "U.S. Marshals"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0120873, tmdb://11808, tvdb://2157
+        # tpdb: https://theposterdb.com/search/advanced/results?term=U.S.+Marshals&category=Movies&year_filter=equals&yone=1998&tmdb_id=11808&imdb_id=tt0120873&tvdb_id=2157
+        # tmdb: https://www.themoviedb.org/movie/11808
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=2157
+        # imdb: https://www.imdb.com/title/tt0120873
+    

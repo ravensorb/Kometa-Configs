@@ -1,0 +1,15 @@
+metadata:
+    "The Lion in Winter (1968)":
+        year: 1968
+        title: "The Lion in Winter"
+        alt_title: "The Lion in Winter (1968)"
+        orig_title: "The Lion in Winter"
+        sort_title: "Lion in Winter"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0063227, tmdb://18988, tvdb://7459
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Lion+in+Winter&category=Movies&year_filter=equals&yone=1968&tmdb_id=18988&imdb_id=tt0063227&tvdb_id=7459
+        # tmdb: https://www.themoviedb.org/movie/18988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1968&query=7459
+        # imdb: https://www.imdb.com/title/tt0063227
+    

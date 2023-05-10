@@ -1,0 +1,64 @@
+collections:
+  "Highlander":
+    variables: { collection: "8050", movie: "8011, 8009, 12211, 13360, 8010", poster: https://theposterdb.com/api/assets/162044 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      Following the exploits of two immortal Scottish highlanders Conner and Duncan Macleod. Born of different times and fighting throughout the centuries to gain the mystical prize. Spanning history friendship, devastating relationships and legendary battles each immortal learns that there seemingly never ending life is more of a curse than a gift. But for the sake of mankind they must go on fighting to survive until only one remains
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Highlander
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Highlander
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Highlander
+    # trakt: https://trakt.tv/search/lists?query=Highlander
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

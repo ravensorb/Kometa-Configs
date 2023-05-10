@@ -1,0 +1,42 @@
+metadata:
+    "Mad Men (2007)":
+        year: 2007
+        title: "Mad Men"
+        alt_title: "Mad Men (2007)"
+        orig_title: "Mad Men"
+        sort_title: "Mad Men"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0804503, tmdb://1104, tvdb://80337
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mad+Men&category=Shows&year_filter=equals&yone=2007&tmdb_id=1104&imdb_id=tt0804503&tvdb_id=80337
+        # tmdb: https://www.themoviedb.org/tv/1104
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80337
+        # imdb: https://www.imdb.com/title/tt0804503
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3566, tvdb://28156
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+1&category=Shows&tmdb_id=3566&tvdb_id=28156
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3567, tvdb://33800
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+2&category=Shows&tmdb_id=3567&tvdb_id=33800
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3568, tvdb://106221
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+3&category=Shows&tmdb_id=3568&tvdb_id=106221
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3569, tvdb://233601
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+4&category=Shows&tmdb_id=3569&tvdb_id=233601
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3570, tvdb://474048
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+5&category=Shows&tmdb_id=3570&tvdb_id=474048
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3571, tvdb://507584
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+6&category=Shows&tmdb_id=3571&tvdb_id=507584
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3565
+                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+7&category=Shows&tmdb_id=3565        

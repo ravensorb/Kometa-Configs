@@ -1,0 +1,18 @@
+metadata:
+    "Wallace & Gromit (1989)":
+        year: 1989
+        title: "Wallace & Gromit"
+        alt_title: "Wallace & Gromit (1989)"
+        orig_title: "Wallace & Gromit"
+        sort_title: "Wallace & Gromit"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://87023, tvdb://78996
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace+%26+Gromit&category=Shows&year_filter=equals&yone=1989&tmdb_id=87023&tvdb_id=78996
+        # tmdb: https://www.themoviedb.org/tv/87023
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1989&query=78996
+        # imdb: 
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://119259
+                # https://theposterdb.com/search/advanced/results?term=Wallace+%26+Gromit+Season+1&category=Shows&tmdb_id=119259        

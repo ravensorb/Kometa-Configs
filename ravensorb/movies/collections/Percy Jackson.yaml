@@ -1,0 +1,64 @@
+collections:
+  "Percy Jackson":
+    variables: { collection: "179919", movie: "32657, 76285", poster: https://theposterdb.com/api/assets/163402 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      Percy Jackson &amp; the Olympians: The Lightning Thief (also known as Percy Jackson &amp; The Lightning Thief) is a 2010 fantasy film directed by Chris Columbus. The film is loosely based on The Lightning Thief, the first novel in the Percy Jackson &amp; the Olympians series by Rick Riordan. It stars Logan Lerman as Percy Jackson alongside an ensemble cast that includes Brandon T. Jackson, Alexandra Daddario, Jake Abel, Rosario Dawson, Steve Coogan, Uma Thurman, Catherine Keener, Kevin McKidd, Sean Bean and Pierce Brosnan. It was released to theaters on February 12, 2010. A sequel, Percy Jackson: Sea of Monsters, was released on August 7, 2013.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Percy+Jackson&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Percy%20Jackson%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Percy%20Jackson
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Percy%20Jackson
+    # trakt: https://trakt.tv/search/lists?query=Percy%20Jackson
+    collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

@@ -1,0 +1,30 @@
+metadata:
+    "Black Lightning (2018)":
+        year: 2018
+        title: "Black Lightning"
+        alt_title: "Black Lightning (2018)"
+        orig_title: "Black Lightning"
+        sort_title: "Black Lightning"
+        url_poster: https://theposterdb.com/api/assets/262385
+        # IDs: imdb://tt6045840, tmdb://71663, tvdb://332525
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black+Lightning&category=Shows&year_filter=equals&yone=2018&tmdb_id=71663&imdb_id=tt6045840&tvdb_id=332525
+        # tmdb: https://www.themoviedb.org/tv/71663
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=332525
+        # imdb: https://www.imdb.com/title/tt6045840
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/262386
+                # IDs: tmdb://88260, tvdb://722668
+                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+1&category=Shows&tmdb_id=88260&tvdb_id=722668
+            2:
+                url_poster: https://theposterdb.com/api/assets/262387
+                # IDs: tmdb://108842
+                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+2&category=Shows&tmdb_id=108842
+            3:
+                url_poster: https://theposterdb.com/api/assets/262388
+                # IDs: tmdb://132300
+                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+3&category=Shows&tmdb_id=132300
+            4:
+                url_poster: https://theposterdb.com/api/assets/262389
+                # IDs: tmdb://164618
+                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+4&category=Shows&tmdb_id=164618        

@@ -1,0 +1,43 @@
+metadata:
+    "Creed (2015)":
+        year: 2015
+        title: "Creed"
+        alt_title: "Creed (2015)"
+        orig_title: "Creed"
+        sort_title: "Creed"
+        
+        url_poster: https://theposterdb.com/api/assets/172020
+        # IDs: imdb://tt3076658, tmdb://312221, tvdb://261
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Creed&category=Movies&year_filter=equals&yone=2015&tmdb_id=312221&imdb_id=tt3076658&tvdb_id=261
+        # tmdb: https://www.themoviedb.org/movie/312221
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=261
+        # imdb: https://www.imdb.com/title/tt3076658
+    
+    "Creed II (2018)":
+        year: 2018
+        title: "Creed II"
+        alt_title: "Creed II (2018)"
+        orig_title: "Creed II"
+        sort_title: "Creed II"
+        
+        url_poster: https://theposterdb.com/api/assets/172021
+        # IDs: imdb://tt6343314, tmdb://480530, tvdb://36
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Creed+II&category=Movies&year_filter=equals&yone=2018&tmdb_id=480530&imdb_id=tt6343314&tvdb_id=36
+        # tmdb: https://www.themoviedb.org/movie/480530
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=36
+        # imdb: https://www.imdb.com/title/tt6343314
+    
+    "Creed III (2023)":
+        year: 2023
+        title: "Creed III"
+        alt_title: "Creed III (2023)"
+        orig_title: "Creed III"
+        sort_title: "Creed III"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt11145118, tmdb://677179, tvdb://157601
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Creed+III&category=Movies&year_filter=equals&yone=2023&tmdb_id=677179&imdb_id=tt11145118&tvdb_id=157601
+        # tmdb: https://www.themoviedb.org/movie/677179
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=157601
+        # imdb: https://www.imdb.com/title/tt11145118
+    

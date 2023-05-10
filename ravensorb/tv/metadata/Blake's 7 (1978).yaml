@@ -1,0 +1,30 @@
+metadata:
+    "Blake's 7 (1978)":
+        year: 1978
+        title: "Blake's 7"
+        alt_title: "Blake's 7 (1978)"
+        orig_title: "Blake's 7"
+        sort_title: "Blake's 7"
+        url_poster: https://theposterdb.com/api/assets/288250
+        # IDs: imdb://tt0076987, tmdb://1731, tvdb://75565
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Blake%27s+7&category=Shows&year_filter=equals&yone=1978&tmdb_id=1731&imdb_id=tt0076987&tvdb_id=75565
+        # tmdb: https://www.themoviedb.org/tv/1731
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1978&query=75565
+        # imdb: https://www.imdb.com/title/tt0076987
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/288251
+                # IDs: tmdb://4833, tvdb://9014
+                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+1&category=Shows&tmdb_id=4833&tvdb_id=9014
+            2:
+                url_poster: https://theposterdb.com/api/assets/288252
+                # IDs: tmdb://4836, tvdb://9015
+                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+2&category=Shows&tmdb_id=4836&tvdb_id=9015
+            3:
+                url_poster: https://theposterdb.com/api/assets/288253
+                # IDs: tmdb://4835, tvdb://9016
+                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+3&category=Shows&tmdb_id=4835&tvdb_id=9016
+            4:
+                url_poster: https://theposterdb.com/api/assets/288254
+                # IDs: tmdb://4834, tvdb://9017
+                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+4&category=Shows&tmdb_id=4834&tvdb_id=9017        

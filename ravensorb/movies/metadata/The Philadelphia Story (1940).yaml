@@ -1,0 +1,15 @@
+metadata:
+    "The Philadelphia Story (1940)":
+        year: 1940
+        title: "The Philadelphia Story"
+        alt_title: "The Philadelphia Story (1940)"
+        orig_title: "The Philadelphia Story"
+        sort_title: "Philadelphia Story"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0032904, tmdb://981, tvdb://4820
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Philadelphia+Story&category=Movies&year_filter=equals&yone=1940&tmdb_id=981&imdb_id=tt0032904&tvdb_id=4820
+        # tmdb: https://www.themoviedb.org/movie/981
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1940&query=4820
+        # imdb: https://www.imdb.com/title/tt0032904
+    

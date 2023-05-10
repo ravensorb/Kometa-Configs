@@ -1,0 +1,15 @@
+metadata:
+    "Strange Days (1995)":
+        year: 1995
+        title: "Strange Days"
+        alt_title: "Strange Days (1995)"
+        orig_title: "Strange Days"
+        sort_title: "Strange Days"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0114558, tmdb://281, tvdb://3320
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Strange+Days&category=Movies&year_filter=equals&yone=1995&tmdb_id=281&imdb_id=tt0114558&tvdb_id=3320
+        # tmdb: https://www.themoviedb.org/movie/281
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=3320
+        # imdb: https://www.imdb.com/title/tt0114558
+    

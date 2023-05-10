@@ -1,0 +1,29 @@
+metadata:
+    "Sherlock Holmes (2009)":
+        year: 2009
+        title: "Sherlock Holmes"
+        alt_title: "Sherlock Holmes (2009)"
+        orig_title: "Sherlock Holmes"
+        sort_title: "Sherlock Holmes"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0988045, tmdb://10528, tvdb://718
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes&category=Movies&year_filter=equals&yone=2009&tmdb_id=10528&imdb_id=tt0988045&tvdb_id=718
+        # tmdb: https://www.themoviedb.org/movie/10528
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=718
+        # imdb: https://www.imdb.com/title/tt0988045
+    
+    "Sherlock Holmes: A Game of Shadows (2011)":
+        year: 2011
+        title: "Sherlock Holmes: A Game of Shadows"
+        alt_title: "Sherlock Holmes: A Game of Shadows (2011)"
+        orig_title: "Sherlock Holmes: A Game of Shadows"
+        sort_title: "Sherlock Holmes: A Game of Shadows"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1515091, tmdb://58574, tvdb://980
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes%3A+A+Game+of+Shadows&category=Movies&year_filter=equals&yone=2011&tmdb_id=58574&imdb_id=tt1515091&tvdb_id=980
+        # tmdb: https://www.themoviedb.org/movie/58574
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=980
+        # imdb: https://www.imdb.com/title/tt1515091
+    

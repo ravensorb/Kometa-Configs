@@ -1,0 +1,26 @@
+metadata:
+    "Vienna Blood (2019)":
+        year: 2019
+        title: "Vienna Blood"
+        alt_title: "Vienna Blood (2019)"
+        orig_title: "Vienna Blood"
+        sort_title: "Vienna Blood"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9179616, tmdb://94000, tvdb://372031
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vienna+Blood&category=Shows&year_filter=equals&yone=2019&tmdb_id=94000&imdb_id=tt9179616&tvdb_id=372031
+        # tmdb: https://www.themoviedb.org/tv/94000
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=372031
+        # imdb: https://www.imdb.com/title/tt9179616
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://133080
+                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Season+1&category=Shows&tmdb_id=133080
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://185911
+                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Season+2&category=Shows&tmdb_id=185911
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://317352
+                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Series+3&category=Shows&tmdb_id=317352        

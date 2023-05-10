@@ -1,0 +1,15 @@
+metadata:
+    "Bottle Shock (2008)":
+        year: 2008
+        title: "Bottle Shock"
+        alt_title: "Bottle Shock (2008)"
+        orig_title: "Bottle Shock"
+        sort_title: "Bottle Shock"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0914797, tmdb://13996, tvdb://11473
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bottle+Shock&category=Movies&year_filter=equals&yone=2008&tmdb_id=13996&imdb_id=tt0914797&tvdb_id=11473
+        # tmdb: https://www.themoviedb.org/movie/13996
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=11473
+        # imdb: https://www.imdb.com/title/tt0914797
+    

@@ -1,0 +1,26 @@
+metadata:
+    "Shooter (2016)":
+        year: 2016
+        title: "Shooter"
+        alt_title: "Shooter (2016)"
+        orig_title: "Shooter"
+        sort_title: "Shooter"
+        url_poster: https://theposterdb.com/api/assets/243444
+        # IDs: imdb://tt4181172, tmdb://66857, tvdb://311900
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shooter&category=Shows&year_filter=equals&yone=2016&tmdb_id=66857&imdb_id=tt4181172&tvdb_id=311900
+        # tmdb: https://www.themoviedb.org/tv/66857
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=311900
+        # imdb: https://www.imdb.com/title/tt4181172
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/243445
+                # IDs: tmdb://77963
+                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+1&category=Shows&tmdb_id=77963
+            2:
+                url_poster: https://theposterdb.com/api/assets/243446
+                # IDs: tmdb://89556
+                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+2&category=Shows&tmdb_id=89556
+            3:
+                url_poster: https://theposterdb.com/api/assets/243447
+                # IDs: tmdb://101233
+                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+3&category=Shows&tmdb_id=101233        

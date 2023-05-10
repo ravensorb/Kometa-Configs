@@ -1,0 +1,15 @@
+metadata:
+    "The Monuments Men (2014)":
+        year: 2014
+        title: "The Monuments Men"
+        alt_title: "The Monuments Men (2014)"
+        orig_title: "The Monuments Men"
+        sort_title: "Monuments Men"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2177771, tmdb://152760, tvdb://1335
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Monuments+Men&category=Movies&year_filter=equals&yone=2014&tmdb_id=152760&imdb_id=tt2177771&tvdb_id=1335
+        # tmdb: https://www.themoviedb.org/movie/152760
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=1335
+        # imdb: https://www.imdb.com/title/tt2177771
+    

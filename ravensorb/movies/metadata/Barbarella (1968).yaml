@@ -1,0 +1,15 @@
+metadata:
+    "Barbarella (1968)":
+        year: 1968
+        title: "Barbarella"
+        alt_title: "Barbarella (1968)"
+        orig_title: "Barbarella"
+        sort_title: "Barbarella"
+        
+        url_poster: https://theposterdb.com/api/assets/187261
+        # IDs: imdb://tt0062711, tmdb://8069, tvdb://4505
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Barbarella&category=Movies&year_filter=equals&yone=1968&tmdb_id=8069&imdb_id=tt0062711&tvdb_id=4505
+        # tmdb: https://www.themoviedb.org/movie/8069
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1968&query=4505
+        # imdb: https://www.imdb.com/title/tt0062711
+    

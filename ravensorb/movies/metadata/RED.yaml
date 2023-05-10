@@ -1,0 +1,29 @@
+metadata:
+    "RED (2010)":
+        year: 2010
+        title: "RED"
+        alt_title: "RED (2010)"
+        orig_title: "RED"
+        sort_title: "RED"
+        
+        url_poster: https://theposterdb.com/api/assets/171562
+        # IDs: imdb://tt1245526, tmdb://39514, tvdb://1780
+        # tpdb: https://theposterdb.com/search/advanced/results?term=RED&category=Movies&year_filter=equals&yone=2010&tmdb_id=39514&imdb_id=tt1245526&tvdb_id=1780
+        # tmdb: https://www.themoviedb.org/movie/39514
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=1780
+        # imdb: https://www.imdb.com/title/tt1245526
+    
+    "RED 2 (2013)":
+        year: 2013
+        title: "RED 2"
+        alt_title: "RED 2 (2013)"
+        orig_title: "RED 2"
+        sort_title: "RED 2"
+        
+        url_poster: https://theposterdb.com/api/assets/171563
+        # IDs: imdb://tt1821694, tmdb://146216, tvdb://1873
+        # tpdb: https://theposterdb.com/search/advanced/results?term=RED+2&category=Movies&year_filter=equals&yone=2013&tmdb_id=146216&imdb_id=tt1821694&tvdb_id=1873
+        # tmdb: https://www.themoviedb.org/movie/146216
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1873
+        # imdb: https://www.imdb.com/title/tt1821694
+    

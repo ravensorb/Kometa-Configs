@@ -1,0 +1,18 @@
+metadata:
+    "Jonathan Strange & Mr Norrell (2015)":
+        year: 2015
+        title: "Jonathan Strange & Mr Norrell"
+        alt_title: "Jonathan Strange & Mr Norrell (2015)"
+        orig_title: "Jonathan Strange & Mr Norrell"
+        sort_title: "Jonathan Strange & Mr Norrell"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2548418, tmdb://62717, tvdb://268581
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jonathan+Strange+%26+Mr+Norrell&category=Shows&year_filter=equals&yone=2015&tmdb_id=62717&imdb_id=tt2548418&tvdb_id=268581
+        # tmdb: https://www.themoviedb.org/tv/62717
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=268581
+        # imdb: https://www.imdb.com/title/tt2548418
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://66893, tvdb://517049
+                # https://theposterdb.com/search/advanced/results?term=Jonathan+Strange+%26+Mr+Norrell+Season+1&category=Shows&tmdb_id=66893&tvdb_id=517049        

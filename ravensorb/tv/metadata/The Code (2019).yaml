@@ -1,0 +1,18 @@
+metadata:
+    "The Code (2019)":
+        year: 2019
+        title: "The Code"
+        alt_title: "The Code (2019)"
+        orig_title: "The Code"
+        sort_title: "Code"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8888168, tmdb://86136, tvdb://353391
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Code&category=Shows&year_filter=equals&yone=2019&tmdb_id=86136&imdb_id=tt8888168&tvdb_id=353391
+        # tmdb: https://www.themoviedb.org/tv/86136
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=353391
+        # imdb: https://www.imdb.com/title/tt8888168
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://117491
+                # https://theposterdb.com/search/advanced/results?term=The+Code+Season+1&category=Shows&tmdb_id=117491        

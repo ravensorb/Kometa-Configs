@@ -1,0 +1,30 @@
+metadata:
+    "Sanctuary (2008)":
+        year: 2008
+        title: "Sanctuary"
+        alt_title: "Sanctuary (2008)"
+        orig_title: "Sanctuary"
+        sort_title: "Sanctuary"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0965394, tmdb://1310, tvdb://80159
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sanctuary&category=Shows&year_filter=equals&yone=2008&tmdb_id=1310&imdb_id=tt0965394&tvdb_id=80159
+        # tmdb: https://www.themoviedb.org/tv/1310
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=80159
+        # imdb: https://www.imdb.com/title/tt0965394
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3398, tvdb://27499
+                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+1&category=Shows&tmdb_id=3398&tvdb_id=27499
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3399
+                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+2&category=Shows&tmdb_id=3399
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3400
+                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+3&category=Shows&tmdb_id=3400
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3402
+                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+4&category=Shows&tmdb_id=3402        

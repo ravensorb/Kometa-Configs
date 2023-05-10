@@ -1,0 +1,15 @@
+metadata:
+    "Son of Paleface (1952)":
+        year: 1952
+        title: "Son of Paleface"
+        alt_title: "Son of Paleface (1952)"
+        orig_title: "Son of Paleface"
+        sort_title: "Son of Paleface"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0045177, tmdb://30801, tvdb://34388
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Son+of+Paleface&category=Movies&year_filter=equals&yone=1952&tmdb_id=30801&imdb_id=tt0045177&tvdb_id=34388
+        # tmdb: https://www.themoviedb.org/movie/30801
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1952&query=34388
+        # imdb: https://www.imdb.com/title/tt0045177
+    

@@ -1,0 +1,42 @@
+metadata:
+    "Bosch (2014)":
+        year: 2014
+        title: "Bosch"
+        alt_title: "Bosch (2014)"
+        orig_title: "Bosch"
+        sort_title: "Bosch"
+        url_poster: https://theposterdb.com/api/assets/335424
+        # IDs: imdb://tt3502248, tmdb://60585, tvdb://277928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch&category=Shows&year_filter=equals&yone=2014&tmdb_id=60585&imdb_id=tt3502248&tvdb_id=277928
+        # tmdb: https://www.themoviedb.org/tv/60585
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=277928
+        # imdb: https://www.imdb.com/title/tt3502248
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335426
+                # IDs: tmdb://59929
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+1&category=Shows&tmdb_id=59929
+            2:
+                url_poster: https://theposterdb.com/api/assets/335427
+                # IDs: tmdb://75214, tvdb://645575
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+2&category=Shows&tmdb_id=75214&tvdb_id=645575
+            3:
+                url_poster: https://theposterdb.com/api/assets/335428
+                # IDs: tmdb://85539
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+3&category=Shows&tmdb_id=85539
+            4:
+                url_poster: https://theposterdb.com/api/assets/335429
+                # IDs: tmdb://99322
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+4&category=Shows&tmdb_id=99322
+            5:
+                url_poster: https://theposterdb.com/api/assets/335430
+                # IDs: tmdb://119684
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+5&category=Shows&tmdb_id=119684
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://145454
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+6&category=Shows&tmdb_id=145454
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://194886
+                # https://theposterdb.com/search/advanced/results?term=Bosch+Season+7&category=Shows&tmdb_id=194886        

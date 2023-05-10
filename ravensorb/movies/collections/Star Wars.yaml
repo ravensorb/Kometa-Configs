@@ -1,0 +1,64 @@
+collections:
+  "Star Wars":
+    variables: { collection: "10", movie: "140607, 680382, 181808, 12180, 1892, 74849, 1893, 348350, 1894, 1891, 181812, 1895, 76180, 11, 330459", poster: https://theposterdb.com/api/assets/244730 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      An epic space-opera theatrical film series, which depicts the adventures of various characters "a long time ago in a galaxy far, far away…."
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Wars&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Wars%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Wars
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Star%20Wars
+    # trakt: https://trakt.tv/search/lists?query=Star%20Wars
+    # collection_mode: hide
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/star-wars?sort=released,desc 
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

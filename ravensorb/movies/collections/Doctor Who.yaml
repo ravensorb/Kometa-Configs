@@ -1,0 +1,64 @@
+collections:
+  "Doctor Who":
+    variables: { label: "Doctor Who", collection: "275873", movie: "15691, 491940, 282963, 210024, 313106", poster: https://theposterdb.com/api/assets/163698 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      Dr. Who is a character based on the BBC science-fiction television series Doctor Who. Although based on the Doctor who appears in the TV series, the film version of the character is fundamentally different.  The character, portrayed by the actor Peter Cushing, appeared in two films made by AARU Productions: Dr. Who and the Daleks (1965), which was based on the televised serial The Daleks (1963), and Daleks – Invasion Earth: 2150 A.D. (1966), based on The Dalek Invasion of Earth (1964). Plans for a third film, to be based on the serial The Chase (1965), were abandoned following the poor box office reception of the second film.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Doctor%20Who
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Doctor%20Who
+    # trakt: https://trakt.tv/search/lists?query=Doctor%20Who
+    # collection_mode: hide
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/doctor-who?sort=released,desc 
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

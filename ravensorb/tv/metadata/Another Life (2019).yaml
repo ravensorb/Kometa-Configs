@@ -1,0 +1,22 @@
+metadata:
+    "Another Life (2019)":
+        year: 2019
+        title: "Another Life (2019)"
+        alt_title: "Another Life (2019)"
+        orig_title: "Another Life (2019)"
+        sort_title: "Another Life (2019)"
+        url_poster: https://theposterdb.com/api/assets/286313
+        # IDs: imdb://tt8369840, tmdb://79130, tvdb://365722
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Another+Life+%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=79130&imdb_id=tt8369840&tvdb_id=365722
+        # tmdb: https://www.themoviedb.org/tv/79130
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=365722
+        # imdb: https://www.imdb.com/title/tt8369840
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://103068, tvdb://365722
+                # https://theposterdb.com/search/advanced/results?term=Another+Life+%282019%29+Season+1&category=Shows&tmdb_id=103068&tvdb_id=365722
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://200160
+                # https://theposterdb.com/search/advanced/results?term=Another+Life+%282019%29+Season+2&category=Shows&tmdb_id=200160        

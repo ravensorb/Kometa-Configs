@@ -1,0 +1,18 @@
+metadata:
+    "First Kill (2022)":
+        year: 2022
+        title: "First Kill"
+        alt_title: "First Kill (2022)"
+        orig_title: "First Kill"
+        sort_title: "First Kill"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt13315156, tmdb://111616, tvdb://390191
+        # tpdb: https://theposterdb.com/search/advanced/results?term=First+Kill&category=Shows&year_filter=equals&yone=2022&tmdb_id=111616&imdb_id=tt13315156&tvdb_id=390191
+        # tmdb: https://www.themoviedb.org/tv/111616
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=390191
+        # imdb: https://www.imdb.com/title/tt13315156
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://165919
+                # https://theposterdb.com/search/advanced/results?term=First+Kill+Season+1&category=Shows&tmdb_id=165919        

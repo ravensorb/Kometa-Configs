@@ -1,0 +1,18 @@
+metadata:
+    "Dan Brown's The Lost Symbol (2021)":
+        year: 2021
+        title: "Dan Brown's The Lost Symbol"
+        alt_title: "Dan Brown's The Lost Symbol (2021)"
+        orig_title: "Dan Brown's The Lost Symbol"
+        sort_title: "Dan Brown's The Lost Symbol"
+        url_poster: https://theposterdb.com/api/assets/294180
+        # IDs: imdb://tt10478054, tmdb://120452, tvdb://365190
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dan+Brown%27s+The+Lost+Symbol&category=Shows&year_filter=equals&yone=2021&tmdb_id=120452&imdb_id=tt10478054&tvdb_id=365190
+        # tmdb: https://www.themoviedb.org/tv/120452
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=365190
+        # imdb: https://www.imdb.com/title/tt10478054
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/294181
+                # IDs: tmdb://185210, tvdb://813807
+                # https://theposterdb.com/search/advanced/results?term=Dan+Brown%27s+The+Lost+Symbol+Season+1&category=Shows&tmdb_id=185210&tvdb_id=813807        

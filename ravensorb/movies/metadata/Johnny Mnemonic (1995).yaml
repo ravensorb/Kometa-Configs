@@ -1,0 +1,15 @@
+metadata:
+    "Johnny Mnemonic (1995)":
+        year: 1995
+        title: "Johnny Mnemonic"
+        alt_title: "Johnny Mnemonic (1995)"
+        orig_title: "Johnny Mnemonic"
+        sort_title: "Johnny Mnemonic"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0113481, tmdb://9886, tvdb://4736
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Johnny+Mnemonic&category=Movies&year_filter=equals&yone=1995&tmdb_id=9886&imdb_id=tt0113481&tvdb_id=4736
+        # tmdb: https://www.themoviedb.org/movie/9886
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=4736
+        # imdb: https://www.imdb.com/title/tt0113481
+    

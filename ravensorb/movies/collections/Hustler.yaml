@@ -1,0 +1,64 @@
+collections:
+  "Hustler":
+    variables: { collection: "387219", movie: "11873, 990", poster: https://theposterdb.com/api/assets/163418 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      The Hustler is a 1961 movie directed by Robert Rossen. It tells the story of a young pool hustler, Edward 'Fast Eddie' Felson, who challenges the legendary Minnesota Fats. The film was a critical and commercial success and was nominated for multiple Academy Awards. The Color of Money is a 1986 film directed by Martin Scorsese. It continues the story of 'Fast Eddie' from the first film, with Newman reprising his role as Fast Eddie. The film begins more than 25 years after the events of the previous film, with Eddie retired from the pool circuit.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Hustler&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Hustler
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Hustler
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Hustler
+    # trakt: https://trakt.tv/search/lists?query=Hustler
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+  
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - movie
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>

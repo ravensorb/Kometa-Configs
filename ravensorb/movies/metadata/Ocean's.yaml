@@ -1,0 +1,57 @@
+metadata:
+    "Ocean's Eleven (1960)":
+        year: 1960
+        title: "Ocean's Eleven"
+        alt_title: "Ocean's Eleven (1960)"
+        orig_title: "Ocean's Eleven"
+        sort_title: "Ocean's Eleven"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0054135, tmdb://299, tvdb://7518
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Eleven&category=Movies&year_filter=equals&yone=1960&tmdb_id=299&imdb_id=tt0054135&tvdb_id=7518
+        # tmdb: https://www.themoviedb.org/movie/299
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1960&query=7518
+        # imdb: https://www.imdb.com/title/tt0054135
+    
+    "Ocean's Eleven (2001)":
+        year: 2001
+        title: "Ocean's Eleven"
+        alt_title: "Ocean's Eleven (2001)"
+        orig_title: "Ocean's Eleven"
+        sort_title: "Ocean's Eleven"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0240772, tmdb://161, tvdb://1011
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Eleven&category=Movies&year_filter=equals&yone=2001&tmdb_id=161&imdb_id=tt0240772&tvdb_id=1011
+        # tmdb: https://www.themoviedb.org/movie/161
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2001&query=1011
+        # imdb: https://www.imdb.com/title/tt0240772
+    
+    "Ocean's Twelve (2004)":
+        year: 2004
+        title: "Ocean's Twelve"
+        alt_title: "Ocean's Twelve (2004)"
+        orig_title: "Ocean's Twelve"
+        sort_title: "Ocean's Twelve"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0349903, tmdb://163, tvdb://1461
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Twelve&category=Movies&year_filter=equals&yone=2004&tmdb_id=163&imdb_id=tt0349903&tvdb_id=1461
+        # tmdb: https://www.themoviedb.org/movie/163
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=1461
+        # imdb: https://www.imdb.com/title/tt0349903
+    
+    "Ocean's Thirteen (2007)":
+        year: 2007
+        title: "Ocean's Thirteen"
+        alt_title: "Ocean's Thirteen (2007)"
+        orig_title: "Ocean's Thirteen"
+        sort_title: "Ocean's Thirteen"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0496806, tmdb://298, tvdb://2114
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Thirteen&category=Movies&year_filter=equals&yone=2007&tmdb_id=298&imdb_id=tt0496806&tvdb_id=2114
+        # tmdb: https://www.themoviedb.org/movie/298
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=2114
+        # imdb: https://www.imdb.com/title/tt0496806
+    

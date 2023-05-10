@@ -1,0 +1,18 @@
+metadata:
+    "Home Movie: The Princess Bride (2020)":
+        year: 2020
+        title: "Home Movie: The Princess Bride"
+        alt_title: "Home Movie: The Princess Bride (2020)"
+        orig_title: "Home Movie: The Princess Bride"
+        sort_title: "Home Movie: The Princess Bride"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt12597800, tmdb://105479, tvdb://384712
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Home+Movie%3A+The+Princess+Bride&category=Shows&year_filter=equals&yone=2020&tmdb_id=105479&imdb_id=tt12597800&tvdb_id=384712
+        # tmdb: https://www.themoviedb.org/tv/105479
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=384712
+        # imdb: https://www.imdb.com/title/tt12597800
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://155122
+                # https://theposterdb.com/search/advanced/results?term=Home+Movie%3A+The+Princess+Bride+Season+1&category=Shows&tmdb_id=155122        

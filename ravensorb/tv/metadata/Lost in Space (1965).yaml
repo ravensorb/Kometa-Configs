@@ -1,0 +1,26 @@
+metadata:
+    "Lost in Space (1965)":
+        year: 1965
+        title: "Lost in Space"
+        alt_title: "Lost in Space (1965)"
+        orig_title: "Lost in Space"
+        sort_title: "Lost in Space"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0058824, tmdb://3051, tvdb://72923
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lost+in+Space&category=Shows&year_filter=equals&yone=1965&tmdb_id=3051&imdb_id=tt0058824&tvdb_id=72923
+        # tmdb: https://www.themoviedb.org/tv/3051
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1965&query=72923
+        # imdb: https://www.imdb.com/title/tt0058824
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9729, tvdb://5002
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+Season+1&category=Shows&tmdb_id=9729&tvdb_id=5002
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9728, tvdb://5003
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+Season+2&category=Shows&tmdb_id=9728&tvdb_id=5003
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://9730, tvdb://5004
+                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+Season+3&category=Shows&tmdb_id=9730&tvdb_id=5004        

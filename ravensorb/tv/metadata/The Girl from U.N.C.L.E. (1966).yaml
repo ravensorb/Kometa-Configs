@@ -1,0 +1,18 @@
+metadata:
+    "The Girl from U.N.C.L.E. (1966)":
+        year: 1966
+        title: "The Girl from U.N.C.L.E."
+        alt_title: "The Girl from U.N.C.L.E. (1966)"
+        orig_title: "The Girl from U.N.C.L.E."
+        sort_title: "Girl from U.N.C.L.E."
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0059988, tmdb://1099, tvdb://77028
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Girl+from+U.N.C.L.E.&category=Shows&year_filter=equals&yone=1966&tmdb_id=1099&imdb_id=tt0059988&tvdb_id=77028
+        # tmdb: https://www.themoviedb.org/tv/1099
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1966&query=77028
+        # imdb: https://www.imdb.com/title/tt0059988
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://3094, tvdb://11944
+                # https://theposterdb.com/search/advanced/results?term=The+Girl+from+U.N.C.L.E.+Season+1&category=Shows&tmdb_id=3094&tvdb_id=11944        

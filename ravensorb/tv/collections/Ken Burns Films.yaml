@@ -1,0 +1,64 @@
+collections:
+  "Ken Burns Films":
+    variables: { show: "9693, 30715, 19215, 102960, 111592, 20861, 56629, 76519, 39983, 46434, 65646, 86558", poster: https://theposterdb.com/api/assets/57727 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      For the past twenty-five years, the Ken Burns name has symbolized a trusted resource for classroom use. The films are memorable, spark dialog, and provide an engaging way to understand history. Educational materials and activities created in conjunction with the films offer themes for discussion and use a storytelling approach to engage students in multimedia classroom projects
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Ken+Burns+Films&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Ken%20Burns%20Films%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Ken%20Burns%20Films
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Ken%20Burns%20Films
+    # trakt: https://trakt.tv/search/lists?query=Ken%20Burns%20Films
+    # collection_mode: hide
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/ken-burns-documentaries?sort=released,desc 
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

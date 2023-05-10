@@ -1,0 +1,15 @@
+metadata:
+    "Mannequin (1987)":
+        year: 1987
+        title: "Mannequin"
+        alt_title: "Mannequin (1987)"
+        orig_title: "Mannequin"
+        sort_title: "Mannequin"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0093493, tmdb://10019, tvdb://2906
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mannequin&category=Movies&year_filter=equals&yone=1987&tmdb_id=10019&imdb_id=tt0093493&tvdb_id=2906
+        # tmdb: https://www.themoviedb.org/movie/10019
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=2906
+        # imdb: https://www.imdb.com/title/tt0093493
+    

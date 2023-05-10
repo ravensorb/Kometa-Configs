@@ -1,0 +1,18 @@
+metadata:
+    "South of Hell (2015)":
+        year: 2015
+        title: "South of Hell"
+        alt_title: "South of Hell (2015)"
+        orig_title: "South of Hell"
+        sort_title: "South of Hell"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4147780, tmdb://64447, tvdb://299614
+        # tpdb: https://theposterdb.com/search/advanced/results?term=South+of+Hell&category=Shows&year_filter=equals&yone=2015&tmdb_id=64447&imdb_id=tt4147780&tvdb_id=299614
+        # tmdb: https://www.themoviedb.org/tv/64447
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=299614
+        # imdb: https://www.imdb.com/title/tt4147780
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://72060, tvdb://643205
+                # https://theposterdb.com/search/advanced/results?term=South+of+Hell+Season+1&category=Shows&tmdb_id=72060&tvdb_id=643205        

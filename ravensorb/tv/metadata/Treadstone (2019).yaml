@@ -1,0 +1,18 @@
+metadata:
+    "Treadstone (2019)":
+        year: 2019
+        title: "Treadstone"
+        alt_title: "Treadstone (2019)"
+        orig_title: "Treadstone"
+        sort_title: "Treadstone"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8289480, tmdb://83949, tvdb://366090
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Treadstone&category=Shows&year_filter=equals&yone=2019&tmdb_id=83949&imdb_id=tt8289480&tvdb_id=366090
+        # tmdb: https://www.themoviedb.org/tv/83949
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=366090
+        # imdb: https://www.imdb.com/title/tt8289480
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://112464
+                # https://theposterdb.com/search/advanced/results?term=Treadstone+Season+1&category=Shows&tmdb_id=112464        

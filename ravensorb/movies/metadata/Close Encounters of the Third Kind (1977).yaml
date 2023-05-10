@@ -1,0 +1,15 @@
+metadata:
+    "Close Encounters of the Third Kind (1977)":
+        year: 1977
+        title: "Close Encounters of the Third Kind"
+        alt_title: "Close Encounters of the Third Kind (1977)"
+        orig_title: "Close Encounters of the Third Kind"
+        sort_title: "Close Encounters of the Third Kind"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0075860, tmdb://840, tvdb://388
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Close+Encounters+of+the+Third+Kind&category=Movies&year_filter=equals&yone=1977&tmdb_id=840&imdb_id=tt0075860&tvdb_id=388
+        # tmdb: https://www.themoviedb.org/movie/840
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1977&query=388
+        # imdb: https://www.imdb.com/title/tt0075860
+    

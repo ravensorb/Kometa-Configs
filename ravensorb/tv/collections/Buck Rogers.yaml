@@ -1,0 +1,64 @@
+collections:
+  "Buck Rogers":
+    variables: { show: "5907, 2443", poster: https://theposterdb.com/api/assets/160918 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      In the year 1987, Air Force captain William "Buck" Rogers tests the Ranger 3 spacecraft. His flight was to last only 5 months, but a meteor storm damages his life-support systems, freezing him solid, and casts Ranger 3 into an orbit which returns it to Earth--over 500 years later. Soon after Buck departs, Earth is devastated by a nuclear war caused by a renegade group of U.S. military officers. In 2491, Buck, who has survived due to the freezing, is revived and tries to adjust to life on 25th-century post-nuclear Earth. In the second season, Buck joins the crew of the Searcher, a starship dispatched to locate former Earth colonies in deep space.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Buck+Rogers&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Buck%20Rogers%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Buck%20Rogers
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Buck%20Rogers
+    # trakt: https://trakt.tv/search/lists?query=Buck%20Rogers
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

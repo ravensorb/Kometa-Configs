@@ -1,0 +1,26 @@
+metadata:
+    "His Dark Materials (2019)":
+        year: 2019
+        title: "His Dark Materials"
+        alt_title: "His Dark Materials (2019)"
+        orig_title: "His Dark Materials"
+        sort_title: "His Dark Materials"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5607976, tmdb://68507, tvdb://360295
+        # tpdb: https://theposterdb.com/search/advanced/results?term=His+Dark+Materials&category=Shows&year_filter=equals&yone=2019&tmdb_id=68507&imdb_id=tt5607976&tvdb_id=360295
+        # tmdb: https://www.themoviedb.org/tv/68507
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=360295
+        # imdb: https://www.imdb.com/title/tt5607976
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://81616, tvdb://824786
+                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Season+1&category=Shows&tmdb_id=81616&tvdb_id=824786
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://157147, tvdb://1820053
+                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Season+2&category=Shows&tmdb_id=157147&tvdb_id=1820053
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://311624, tvdb://1888617
+                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Series+3&category=Shows&tmdb_id=311624&tvdb_id=1888617        

@@ -1,0 +1,30 @@
+metadata:
+    "Black Sails (2014)":
+        year: 2014
+        title: "Black Sails"
+        alt_title: "Black Sails (2014)"
+        orig_title: "Black Sails"
+        sort_title: "Black Sails"
+        url_poster: https://theposterdb.com/api/assets/330933
+        # IDs: imdb://tt2375692, tmdb://47665, tvdb://262407
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black+Sails&category=Shows&year_filter=equals&yone=2014&tmdb_id=47665&imdb_id=tt2375692&tvdb_id=262407
+        # tmdb: https://www.themoviedb.org/tv/47665
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=262407
+        # imdb: https://www.imdb.com/title/tt2375692
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330934
+                # IDs: tmdb://55146, tvdb://500853
+                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+1&category=Shows&tmdb_id=55146&tvdb_id=500853
+            2:
+                url_poster: https://theposterdb.com/api/assets/330935
+                # IDs: tmdb://63281, tvdb://598940
+                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+2&category=Shows&tmdb_id=63281&tvdb_id=598940
+            3:
+                url_poster: https://theposterdb.com/api/assets/330936
+                # IDs: tmdb://68865, tvdb://643716
+                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+3&category=Shows&tmdb_id=68865&tvdb_id=643716
+            4:
+                url_poster: https://theposterdb.com/api/assets/330937
+                # IDs: tmdb://76885, tvdb://683517
+                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+4&category=Shows&tmdb_id=76885&tvdb_id=683517        

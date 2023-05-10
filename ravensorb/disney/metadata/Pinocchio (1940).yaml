@@ -1,0 +1,15 @@
+metadata:
+    "Pinocchio (1940)":
+        year: 1940
+        title: "Pinocchio"
+        alt_title: "Pinocchio (1940)"
+        orig_title: "Pinocchio"
+        sort_title: "Pinocchio"
+        
+        url_poster: https://theposterdb.com/api/assets/191973
+        # IDs: imdb://tt0032910, tmdb://10895, tvdb://1236
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pinocchio&category=Movies&year_filter=equals&yone=1940&tmdb_id=10895&imdb_id=tt0032910&tvdb_id=1236
+        # tmdb: https://www.themoviedb.org/movie/10895
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1940&query=1236
+        # imdb: https://www.imdb.com/title/tt0032910
+    

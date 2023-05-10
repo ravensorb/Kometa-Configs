@@ -1,0 +1,18 @@
+metadata:
+    "Stargate Origins (2018)":
+        year: 2018
+        title: "Stargate Origins (2018)"
+        alt_title: "Stargate Origins (2018)"
+        orig_title: "Stargate Origins (2018)"
+        sort_title: "Stargate Origins (2018)"
+        url_poster: https://theposterdb.com/api/assets/228944
+        # IDs: imdb://tt7161862, tmdb://72925, tvdb://339552
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate+Origins+%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=72925&imdb_id=tt7161862&tvdb_id=339552
+        # tmdb: https://www.themoviedb.org/tv/72925
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=339552
+        # imdb: https://www.imdb.com/title/tt7161862
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/228946
+                # IDs: tmdb://90647
+                # https://theposterdb.com/search/advanced/results?term=Stargate+Origins+%282018%29+Season+1&category=Shows&tmdb_id=90647        

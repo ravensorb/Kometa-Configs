@@ -1,0 +1,18 @@
+metadata:
+    "The Third Day (2020)":
+        year: 2020
+        title: "The Third Day"
+        alt_title: "The Third Day (2020)"
+        orig_title: "The Third Day"
+        sort_title: "Third Day"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10482370, tmdb://90259, tvdb://366477
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Third+Day&category=Shows&year_filter=equals&yone=2020&tmdb_id=90259&imdb_id=tt10482370&tvdb_id=366477
+        # tmdb: https://www.themoviedb.org/tv/90259
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=366477
+        # imdb: https://www.imdb.com/title/tt10482370
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://125783
+                # https://theposterdb.com/search/advanced/results?term=The+Third+Day+Season+1&category=Shows&tmdb_id=125783        

@@ -1,0 +1,22 @@
+metadata:
+    "The OA (2016)":
+        year: 2016
+        title: "The OA"
+        alt_title: "The OA (2016)"
+        orig_title: "The OA"
+        sort_title: "OA"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4635282, tmdb://69061, tvdb://321060
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+OA&category=Shows&year_filter=equals&yone=2016&tmdb_id=69061&imdb_id=tt4635282&tvdb_id=321060
+        # tmdb: https://www.themoviedb.org/tv/69061
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=321060
+        # imdb: https://www.imdb.com/title/tt4635282
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://82773
+                # https://theposterdb.com/search/advanced/results?term=The+OA+Season+1&category=Shows&tmdb_id=82773
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://119554
+                # https://theposterdb.com/search/advanced/results?term=The+OA+Season+2&category=Shows&tmdb_id=119554        

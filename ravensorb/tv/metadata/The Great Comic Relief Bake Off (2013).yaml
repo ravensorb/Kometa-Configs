@@ -1,0 +1,18 @@
+metadata:
+    "The Great Comic Relief Bake Off (2013)":
+        year: 2013
+        title: "The Great Comic Relief Bake Off"
+        alt_title: "The Great Comic Relief Bake Off (2013)"
+        orig_title: "The Great Comic Relief Bake Off"
+        sort_title: "Great Comic Relief Bake Off"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4448752, tmdb://86499, tvdb://266103
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Great+Comic+Relief+Bake+Off&category=Shows&year_filter=equals&yone=2013&tmdb_id=86499&imdb_id=tt4448752&tvdb_id=266103
+        # tmdb: https://www.themoviedb.org/tv/86499
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266103
+        # imdb: https://www.imdb.com/title/tt4448752
+        seasons:
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://118184
+                # https://theposterdb.com/search/advanced/results?term=The+Great+Comic+Relief+Bake+Off+Season+2&category=Shows&tmdb_id=118184        

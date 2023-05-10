@@ -1,0 +1,22 @@
+metadata:
+    "The Bridge (2013)":
+        year: 2013
+        title: "The Bridge (2013)"
+        alt_title: "The Bridge (2013)"
+        orig_title: "The Bridge (2013)"
+        sort_title: "Bridge (2013)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2406376, tmdb://47141, tvdb://264085
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bridge+%282013%29&category=Shows&year_filter=equals&yone=2013&tmdb_id=47141&imdb_id=tt2406376&tvdb_id=264085
+        # tmdb: https://www.themoviedb.org/tv/47141
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264085
+        # imdb: https://www.imdb.com/title/tt2406376
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://59627, tvdb://505358
+                # https://theposterdb.com/search/advanced/results?term=The+Bridge+%282013%29+Season+1&category=Shows&tmdb_id=59627&tvdb_id=505358
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62092, tvdb://578428
+                # https://theposterdb.com/search/advanced/results?term=The+Bridge+%282013%29+Season+2&category=Shows&tmdb_id=62092&tvdb_id=578428        

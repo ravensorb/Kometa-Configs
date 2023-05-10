@@ -1,0 +1,15 @@
+metadata:
+    "His Girl Friday (1940)":
+        year: 1940
+        title: "His Girl Friday"
+        alt_title: "His Girl Friday (1940)"
+        orig_title: "His Girl Friday"
+        sort_title: "His Girl Friday"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0032599, tmdb://3085, tvdb://8213
+        # tpdb: https://theposterdb.com/search/advanced/results?term=His+Girl+Friday&category=Movies&year_filter=equals&yone=1940&tmdb_id=3085&imdb_id=tt0032599&tvdb_id=8213
+        # tmdb: https://www.themoviedb.org/movie/3085
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1940&query=8213
+        # imdb: https://www.imdb.com/title/tt0032599
+    

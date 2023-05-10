@@ -1,0 +1,15 @@
+metadata:
+    "Equals (2016)":
+        year: 2016
+        title: "Equals"
+        alt_title: "Equals (2016)"
+        orig_title: "Equals"
+        sort_title: "Equals"
+        
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3289728, tmdb://301875, tvdb://6267
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Equals&category=Movies&year_filter=equals&yone=2016&tmdb_id=301875&imdb_id=tt3289728&tvdb_id=6267
+        # tmdb: https://www.themoviedb.org/movie/301875
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=6267
+        # imdb: https://www.imdb.com/title/tt3289728
+    

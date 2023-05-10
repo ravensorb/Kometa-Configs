@@ -1,0 +1,22 @@
+metadata:
+    "Carnivàle (2003)":
+        year: 2003
+        title: "Carnivàle"
+        alt_title: "Carnivàle (2003)"
+        orig_title: "Carnivàle"
+        sort_title: "Carnivale"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0319969, tmdb://185, tvdb://70860
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le&category=Shows&year_filter=equals&yone=2003&tmdb_id=185&imdb_id=tt0319969&tvdb_id=70860
+        # tmdb: https://www.themoviedb.org/tv/185
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2003&query=70860
+        # imdb: https://www.imdb.com/title/tt0319969
+        seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://600, tvdb://1206
+                # https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le+Season+1&category=Shows&tmdb_id=600&tvdb_id=1206
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://601, tvdb://1207
+                # https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le+Season+2&category=Shows&tmdb_id=601&tvdb_id=1207        

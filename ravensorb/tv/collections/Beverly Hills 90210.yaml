@@ -1,0 +1,64 @@
+collections:
+  "Beverly Hills 90210":
+    variables: { show: "89235, 2025", poster: https://theposterdb.com/api/assets/351355 }
+    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    summary: |
+      This long-running drama dealt with the experiences of a group of young people in Beverly Hills, CA as they navigated high school, college and ultimately the real world. The series focused on their travails as they tried to maintain their friendship while dealing with romances, family and personal crises, tragedies and countless drug addictions.
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Beverly+Hills+90210&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Beverly%20Hills%2090210%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Beverly%20Hills%2090210
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Beverly%20Hills%2090210
+    # trakt: https://trakt.tv/search/lists?query=Beverly%20Hills%2090210
+    # collection_mode: hide
+    # trakt_list:
+    #   -
+
+########################################################################################################################
+########################################################################################################################
+
+external_templates:
+  pmm: templates
+
+templates:
+  tplCommonBase:
+    optional:
+      - poster
+    move_prefix: The
+    sync_mode: sync
+    url_poster: <<poster>>
+
+  tplCommonCollection:
+    default:
+      sort_prefix: ""
+      sort_order: ""
+      sort_separator: ""
+    optional:
+      - label
+    label: "PMM-U-<<label>>"
+    item_label: "PMM-U-<<label>>"
+    collection_order: release
+    sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
+
+  tplTVDBCollection:
+    optional:
+      - list
+      - show
+      - movie
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
+    tvdb_list: https://www.thetvdb.com/lists/<<list>>
+    tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
+    tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
+
+  tplTMDBCollection:
+    optional:
+      - collection
+      - list
+      - show
+    tmdb_collection: <<collection>>
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_list_details: <<list>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>
