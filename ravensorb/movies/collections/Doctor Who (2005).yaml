@@ -1,7 +1,11 @@
 collections:
   "Doctor Who (2005)":
-    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", movie: "282963, 317182, 315620, 315623, 294999, 282848, 553346, 495151, 369145, 317190, 129387, 335209, 445374, 38425, 666798, 1055306, 1124195, 320535, 282758, 281979, 410714, 371759, 553351, 357118, 313106, 646767, 419786, 712655", poster: https://theposterdb.com/api/assets/254616 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", movie: "320535, 317190, 666798, 281979, 357118, 553346, 294999, 315623, 129387, 369145, 313106, 317182, 1055306, 282758, 38425, 712655, 371759, 495151, 646767, 335209, 315620, 419786, 445374, 410714, 553351, 282848, 1124195, 282963", poster: https://theposterdb.com/api/assets/254616 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who+%282005%29&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

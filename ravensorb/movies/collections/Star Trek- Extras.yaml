@@ -1,7 +1,11 @@
 collections:
   "Star Trek: Extras":
-    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", movie: "933474, 411500, 282759, 972398, 633560, 522055", poster: https://theposterdb.com/api/assets/222279 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", movie: "633560, 522055, 933474, 282759, 972398, 411500", poster: https://theposterdb.com/api/assets/222279 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Ten years after the starship Voyager's return from the Delta Quadrant, the Federation is in a crisis. The Federation's main suppliers of dilithium crystals (the primary catalyst for the fuel used in faster-than-light travel) are disappearing. Space and time have folded around several planets, isolating them from outside contact. The phenomenon is unnatural – someone or something is causing it to happen. The need to stop this necessitates drastic measures, some of which are outside the Federation’s normal jurisdiction.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Extras&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

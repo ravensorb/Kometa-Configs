@@ -1,7 +1,11 @@
 collections:
   "Ghost Rider":
-    variables: { collection: "90306", movie: "71676, 1250", poster: https://theposterdb.com/api/assets/171142 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "1250, 71676", poster: https://theposterdb.com/api/assets/171142 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Ghost Rider is an American superhero horror film series based on the character of the same name which appeared in Marvel Comics, the films star Nicolas Cage as Johnny Blaze, a stunt motorcyclist who sells his soul to the Devil and transforms into the vigilante Ghost Rider.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ghost+Rider&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

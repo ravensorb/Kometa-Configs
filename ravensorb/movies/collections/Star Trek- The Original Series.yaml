@@ -1,7 +1,11 @@
 collections:
   "Star Trek: The Original Series":
-    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", collection: "151", movie: "168, 157, 174, 172, 154, 152", poster: https://theposterdb.com/api/assets/308181 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", movie: "174, 157, 152, 172, 168, 154", poster: https://theposterdb.com/api/assets/308181 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Star Trek: Original Motion Picture Collection contains the first six Original Series films starring the U.S.S. Enterprise's cast and crew from the 1960s TV series of the same name.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+The+Original+Series&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

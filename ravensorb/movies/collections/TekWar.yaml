@@ -1,7 +1,11 @@
 collections:
   "TekWar":
-    variables: { collection: "175763", movie: "113209, 113215, 113219, 113210", poster: https://theposterdb.com/api/assets/234707 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "113215, 113209, 113210, 113219", poster: https://theposterdb.com/api/assets/234707 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A television movie based on the futurist story by William Shatner. After four years, Jake Cardigan is prematurely awoken from his fifteen year cryogenic punishment to a world very different than the one he knew. Much more than before 'Tek', the highly-addictive electronic designer narcotic of the 21st century, seems to be prevalent. His wife has divorced him and disappeared together with their son.
     # tpdb: https://theposterdb.com/search/advanced/results?term=TekWar&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

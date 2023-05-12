@@ -1,7 +1,11 @@
 collections:
   "The Muppets":
-    variables: { collection: "256377", movie: "10208", poster: https://theposterdb.com/api/assets/160974 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "10208", poster: https://theposterdb.com/api/assets/160974 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Muppet Show is a British-American television program produced by puppeteer Jim Henson and featuring Muppets. After two pilot episodes were produced in 1974 and 1975, the show premiered on September 5, 1976, and five series were produced until March 15, 1981, lasting 120 episodes. The program shows a vaudeville- or music hall-style song-and-dance variety show, as well as glimpses behind the scenes of such a show. Kermit the Frog stars as a showrunner who tries to keep control of the antics of the other Muppet characters (and his temper), as well as keep the guest stars happy. The show was known for outrageous physical slapstick, sometimes absurdist comedy, and humorous parodies. Each episode also featured a human guest star. As the show's popularity rose, many celebrities were eager to perform with the Muppets on television and in film.
     # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppets&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

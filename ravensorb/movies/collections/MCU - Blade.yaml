@@ -1,7 +1,11 @@
 collections:
   "Blade":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", collection: "735", movie: "36647, 36648, 36586", poster: https://theposterdb.com/api/assets/171125 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "36586, 36648, 36647", poster: https://theposterdb.com/api/assets/171125 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Blade is a film franchise based on the Marvel Comics character of the same name, starring Wesley Snipes as Blade, the half-human/half-vampire who is possessed with the same powers as his bloodsucking brethren, but without the weaknesses that can destroy them. Acting as a modern day Van Helsing, Blade sets out to foil plans by a legion of the undead to wipe out mankind.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Blade&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

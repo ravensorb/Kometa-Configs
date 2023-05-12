@@ -1,7 +1,11 @@
 collections:
   "Signed, Sealed, Delivered":
-    variables: { collection: "418326", movie: "379992, 361261, 526089, 483180, 231617, 438573, 860271, 355730, 308686, 338485, 414762, 473896, 407171", poster: https://i.imgur.com/5hbuvta.jpg }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "526089, 231617, 483180, 860271, 355730, 338485, 361261, 438573, 407171, 308686, 473896, 414762, 379992", poster: https://i.imgur.com/5hbuvta.jpg }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A group of postal detectives work to solve the mysteries behind undeliverable letters and packages from the past, delivering them when they are needed most.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C+Sealed%2C+Delivered&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

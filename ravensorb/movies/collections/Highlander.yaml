@@ -1,7 +1,11 @@
 collections:
   "Highlander":
-    variables: { collection: "8050", movie: "8011, 8009, 12211, 13360, 8010", poster: https://theposterdb.com/api/assets/162044 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "8009, 8010, 13360, 12211, 8011", poster: https://theposterdb.com/api/assets/162044 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Following the exploits of two immortal Scottish highlanders Conner and Duncan Macleod. Born of different times and fighting throughout the centuries to gain the mystical prize. Spanning history friendship, devastating relationships and legendary battles each immortal learns that there seemingly never ending life is more of a curse than a gift. But for the sake of mankind they must go on fighting to survive until only one remains
     # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

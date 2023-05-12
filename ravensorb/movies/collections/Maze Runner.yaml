@@ -1,7 +1,11 @@
 collections:
   "Maze Runner":
-    variables: { collection: "295130", movie: "198663, 336843, 294254", poster: https://theposterdb.com/api/assets/160968 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "198663, 336843, 294254", poster: https://theposterdb.com/api/assets/160968 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The film series consists of science-fiction dystopian action adventure films based on The Maze Runner novels by the American author James Dashner. They begin with Thomas who wakes up trapped in a maze with a group of other boys, he has no memory of the outside world other than dreams about an organization known as W.C.K.D. Only by piecing together fragments of his past with clues he discovers in the maze can Thomas hope to uncover his purpose and a way to escape.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Maze+Runner&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

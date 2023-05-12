@@ -1,7 +1,11 @@
 collections:
   "Percy Jackson":
-    variables: { collection: "179919", movie: "32657, 76285", poster: https://theposterdb.com/api/assets/163402 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "32657, 76285", poster: https://theposterdb.com/api/assets/163402 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Percy Jackson &amp; the Olympians: The Lightning Thief (also known as Percy Jackson &amp; The Lightning Thief) is a 2010 fantasy film directed by Chris Columbus. The film is loosely based on The Lightning Thief, the first novel in the Percy Jackson &amp; the Olympians series by Rick Riordan. It stars Logan Lerman as Percy Jackson alongside an ensemble cast that includes Brandon T. Jackson, Alexandra Daddario, Jake Abel, Rosario Dawson, Steve Coogan, Uma Thurman, Catherine Keener, Kevin McKidd, Sean Bean and Pierce Brosnan. It was released to theaters on February 12, 2010. A sequel, Percy Jackson: Sea of Monsters, was released on August 7, 2013.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Percy+Jackson&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

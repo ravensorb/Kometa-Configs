@@ -1,7 +1,11 @@
 collections:
   "Night Court":
-    variables: { show: "202101, 162", poster: https://theposterdb.com/api/assets/29019 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { show: "162, 202101", poster: https://theposterdb.com/api/assets/29019 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Honorable Judge Harry T. Stone is a young, hip, jeans-wearing liberal eccentric presiding over the night shift of a Manhattan courtroom -- which means his views on various cases aren't always normal, nor are his judgments. Helping him manage the chaos is not-so-bright yet softhearted courtroom guard Bull and egotistical prosecutor Dan Fielding. Also part of Stone's crew are passionate public defender Christine Sullivan and calm court clerk Mac, who joined the show in its third and second seasons, respectively.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Night+Court&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

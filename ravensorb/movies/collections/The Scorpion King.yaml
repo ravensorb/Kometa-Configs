@@ -1,7 +1,11 @@
 collections:
   "The Scorpion King":
-    variables: { collection: "116669", movie: "78049, 9334, 297291, 522417", poster: https://theposterdb.com/api/assets/162199 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "297291, 522417, 78049, 9334", poster: https://theposterdb.com/api/assets/162199 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Scorpion King collection is a spin-off to The Mummy Returns and follows the story of Mathayus and his rise to become the Scorpion King. The franchise began with the 2002 film The Scorpion King, directed by Chuck Russell and starring Dwayne "The Rock" Johnson, Kelly Hu, Grant Heslov, and Michael Clarke Duncan.
     # tpdb: https://theposterdb.com/search/advanced/results?term=The+Scorpion+King&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

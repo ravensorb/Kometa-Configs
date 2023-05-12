@@ -1,0 +1,70 @@
+metadata:
+    "Yellowstone (2018)":
+        year: 2018
+        title: "Yellowstone (2018)"
+        alt_title: "Yellowstone (2018)"
+        orig_title: "Yellowstone (2018)"
+        sort_title: "Yellowstone (2018)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4236770, tmdb://73586, tvdb://341164
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=73586&imdb_id=tt4236770&tvdb_id=341164
+        # tmdb: https://www.themoviedb.org/tv/73586
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=341164
+        # imdb: https://www.imdb.com/title/tt4236770
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://93559, tvdb://747299
+                # https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29+Season+1&category=Shows&tmdb_id=93559&tvdb_id=747299
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://120916, tvdb://776224
+                # https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29+Season+2&category=Shows&tmdb_id=120916&tvdb_id=776224
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://148960, tvdb://1825204
+                # https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29+Season+3&category=Shows&tmdb_id=148960&tvdb_id=1825204
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://193949, tvdb://1914598
+                # https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29+Season+4&category=Shows&tmdb_id=193949&tvdb_id=1914598
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://294246, tvdb://2001220
+                # https://theposterdb.com/search/advanced/results?term=Yellowstone+%282018%29+Season+5&category=Shows&tmdb_id=294246&tvdb_id=2001220        
+
+    "1883 (2021)":
+        year: 2021
+        title: "1883"
+        alt_title: "1883 (2021)"
+        orig_title: "1883"
+        sort_title: "1883"
+        url_poster: https://theposterdb.com/api/assets/327937
+        # IDs: imdb://tt13991232, tmdb://118357, tvdb://396390
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1883&category=Shows&year_filter=equals&yone=2021&tmdb_id=118357&imdb_id=tt13991232&tvdb_id=396390
+        # tmdb: https://www.themoviedb.org/tv/118357
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=396390
+        # imdb: https://www.imdb.com/title/tt13991232
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/327939
+                # IDs: tmdb://180379, tvdb://1899721
+                # https://theposterdb.com/search/advanced/results?term=1883+Season+1&category=Shows&tmdb_id=180379&tvdb_id=1899721        
+
+    "1923 (2022)":
+        year: 2022
+        title: "1923"
+        alt_title: "1923 (2022)"
+        orig_title: "1923"
+        sort_title: "1923"
+        url_poster: https://theposterdb.com/api/assets/302804
+        # IDs: imdb://tt18335752, tmdb://157744, tvdb://416491
+        # tpdb: https://theposterdb.com/search/advanced/results?term=1923&category=Shows&year_filter=equals&yone=2022&tmdb_id=157744&imdb_id=tt18335752&tvdb_id=416491
+        # tmdb: https://www.themoviedb.org/tv/157744
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=416491
+        # imdb: https://www.imdb.com/title/tt18335752
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/302806
+                # IDs: tmdb://244149, tvdb://1984868
+                # https://theposterdb.com/search/advanced/results?term=1923+Season+1&category=Shows&tmdb_id=244149&tvdb_id=1984868        

@@ -1,7 +1,11 @@
 collections:
   "Marvel Universe":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "84958, 68716, 118924, 61550, 88396, 91363, 85271, 88329, 66190, 92783, 1403, 92782, 114695, 67466", poster: https://theposterdb.com/api/assets/201425 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "67466, 1403, 84958, 88329, 85271, 114695, 88987, 61550, 59427, 66190, 118924, 92783, 92782, 68716, 91363, 88396", poster: https://theposterdb.com/api/assets/201425 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Marvel Universe
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel+Universe&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

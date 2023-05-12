@@ -1,7 +1,11 @@
 collections:
   "Resident Evil":
-    variables: { collection: "17255", movie: "173897, 1576, 35791, 7737, 71679, 460458, 1577", poster: https://theposterdb.com/api/assets/161290 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "460458, 1576, 71679, 1577, 7737, 173897, 35791", poster: https://theposterdb.com/api/assets/161290 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Loosely based upon the Capcom video games of the same name, the Resident Evil film series follows the protagonist Alice, a character created for the films. The Umbrella Corporation acts as the main antagonist, a bio-engineering pharmaceutical company responsible for formulating the T-virus, which results in a zombie infection outbreak.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Resident+Evil&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

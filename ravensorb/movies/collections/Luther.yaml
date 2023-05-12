@@ -1,7 +1,11 @@
 collections:
   "Luther":
-    variables: { collection: "1100067", movie: "722149", poster: https://theposterdb.com/api/assets/236693 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "722149", poster: https://theposterdb.com/api/assets/236693 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Luther is a British psychological crime thriller television series starring Idris Elba as DCI John Luther and Ruth Wilson as Alice Morgan, written by Neil Cross. The detective Luther must make cases against criminals while the murderer Morgan has a complicated relationship with him. The first series is composed of six episodes which ran in May and June 2010. A second series of four episodes aired on BBC One in June and July 2011, and a third was commissioned in 2012 composed of four episodes which aired in July 2013. A two-episode fourth series was broadcast in December 2015, and a fifth series of four episodes premiered on 1 January 2019. BBC Studios handled distribution for the TV series. A feature film continuation, Luther: The Fallen Sun, was released in select cinemas on 24 February 2023, before its streaming release on 10 March 2023, by Netflix.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Luther&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

@@ -1,7 +1,11 @@
 collections:
   "Marvel Universe":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "00", sort_separator: " - ", collection: "225941, 125574", movie: "76170, 9738, 127585, 607, 246655, 36668, 1930, 36647, 566525, 36648, 299537, 263115, 1927, 559, 9947, 608, 102382, 49538, 211387, 1250, 71676, 36586, 1979, 36658, 9480, 2080, 166424, 558, 557, 36657", poster: https://theposterdb.com/api/assets/171152 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "00", sort_separator: " - ", movie: "566525, 558, 36586, 9480, 36647, 557, 2080, 9947, 559, 1930, 1979, 127585, 211387, 36668, 49538, 607, 263115, 299537, 36648, 71676, 36658, 1250, 608, 36657, 1927, 9738, 76170, 246655, 166424, 102382", poster: https://theposterdb.com/api/assets/171152 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A superhero film series based on the Marvel Comics character Spider-Man. The series is centered on Peter Parker, a teenager struggling to find his place in life ever since his parents disappeared when he was a child. A spider bites him on the back of his neck, giving him spider-powers. It is a reboot of Sony's Spider-Man film franchise.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel+Universe&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

@@ -1,7 +1,11 @@
 collections:
   "Burn Notice":
     variables: { movie: "61537", poster: https://theposterdb.com/api/assets/104133 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Set two years before the Pilot (Burn Notice), the film is narrated by Sam Axe (Bruce Campbell), a United States Navy SEALs Commander (United States), who is being questioned by Admiral Lawrence (John Diehl (actor)) about a mission in Colombia. Sam reveals that he had unwittingly had an affair with a superior's wife (Chandra West) and that he was punished with a dangerous mission: to track down a terrorist group known as the Espada Ardiente and assess the need for American support against them.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Burn+Notice&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

@@ -1,7 +1,11 @@
 collections:
   "Ken Burns Films":
-    variables: { show: "9693, 30715, 19215, 102960, 111592, 20861, 56629, 76519, 39983, 46434, 65646, 86558", poster: https://theposterdb.com/api/assets/57727 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { show: "86558, 65646, 46434, 76519, 9693, 39983, 19215, 56629, 20861, 102960, 111592, 30715", poster: https://theposterdb.com/api/assets/57727 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       For the past twenty-five years, the Ken Burns name has symbolized a trusted resource for classroom use. The films are memorable, spark dialog, and provide an engaging way to understand history. Educational materials and activities created in conjunction with the films offer themes for discussion and use a storytelling approach to engage students in multimedia classroom projects
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ken+Burns+Films&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

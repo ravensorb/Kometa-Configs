@@ -11,7 +11,7 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/86848
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=363955
         # imdb: https://www.imdb.com/title/tt9055008
-        seasons:
+        # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
                 # IDs: tmdb://118909, tvdb://814701

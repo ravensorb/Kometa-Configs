@@ -1,7 +1,11 @@
 collections:
   "X-Men":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", collection: "748", movie: "49538, 263115, 76170, 320288, 127585, 36658, 2080, 246655, 36668, 36657", poster: https://theposterdb.com/api/assets/171112 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "36658, 36657, 127585, 49538, 36668, 320288, 2080, 76170, 263115, 246655", poster: https://theposterdb.com/api/assets/171112 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A superhero film series about a team of mutant superheroes based on the Marvel Comics superheroes of the same name.
     # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

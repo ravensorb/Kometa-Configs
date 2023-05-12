@@ -1,7 +1,11 @@
 collections:
   "DragonHeart":
-    variables: { collection: "169452", movie: "8840", poster: https://theposterdb.com/api/assets/162037 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "8840", poster: https://theposterdb.com/api/assets/162037 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Dragonheart Long ago, when majestic fire-breathers soared through the skies, there lived a knight who would come face-to-face and heart-to-heart with the most remarkable creature that ever existed – the dragon. Dennis Quaid stars with the voice of Academy Award winner Sean Connery in the heroic adventure that blazes with fantasy and humor. Dragonheart is an epic adventure that will thrill the entire family.
     # tpdb: https://theposterdb.com/search/advanced/results?term=DragonHeart&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

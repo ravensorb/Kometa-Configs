@@ -1,7 +1,11 @@
 collections:
   "Burn Notice":
     variables: { show: "2919", poster: https://theposterdb.com/api/assets/104133 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Covert intelligence operative Michael Westen has been punched, kicked, choked and shot. And now he's received a "burn notice", blacklisting him from the intelligence community and compromising his very identity. He must track down a faceless nemesis without getting himself killed while doubling as a private investigator on the dangerous streets of Miami in order to survive.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Burn+Notice&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

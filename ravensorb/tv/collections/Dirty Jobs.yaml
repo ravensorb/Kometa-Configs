@@ -1,7 +1,11 @@
 collections:
   "Dirty Jobs":
-    variables: { show: "105977, 2584, 61610", poster: https://theposterdb.com/api/assets/205997 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { show: "61610, 2584, 105977", poster: https://theposterdb.com/api/assets/205997 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       DIRTY JOBS profiles the unsung American laborers who make their living in the most unthinkable -- yet vital -- ways. Our brave host and apprentice Mike Rowe will introduce you to a hardworking group of men and women who overcome fear, danger and sometimes stench and overall ickiness to accomplish their daily tasks.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Dirty+Jobs&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

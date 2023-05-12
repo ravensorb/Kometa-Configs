@@ -1,7 +1,11 @@
 collections:
   "Fantastic Four":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", collection: "9744", movie: "166424, 9738, 617126, 1979", poster: https://theposterdb.com/api/assets/171129 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "617126, 166424, 9738, 1979", poster: https://theposterdb.com/api/assets/171129 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Superhero films based on the Marvel Comics team of the same name. Four individuals gained superpowers after exposure to cosmic rays during a scientific mission to outer space: Mr. Fantastic (Reed Richards), the Invisible Woman (Susan "Sue" Storm), the Human Torch (Johnny Storm), and the monstrous Thing (Ben Grimm).
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Four&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

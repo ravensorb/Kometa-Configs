@@ -1,7 +1,11 @@
 collections:
   "Buck Rogers":
     variables: { show: "5907, 2443", poster: https://theposterdb.com/api/assets/160918 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       In the year 1987, Air Force captain William "Buck" Rogers tests the Ranger 3 spacecraft. His flight was to last only 5 months, but a meteor storm damages his life-support systems, freezing him solid, and casts Ranger 3 into an orbit which returns it to Earth--over 500 years later. Soon after Buck departs, Earth is devastated by a nuclear war caused by a renegade group of U.S. military officers. In 2491, Buck, who has survived due to the freezing, is revived and tries to adjust to life on 25th-century post-nuclear Earth. In the second season, Buck joins the crew of the Searcher, a starship dispatched to locate former Earth colonies in deep space.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Buck+Rogers&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

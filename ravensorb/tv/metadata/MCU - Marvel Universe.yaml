@@ -1,0 +1,348 @@
+metadata:
+    "Marvel's Avengers Assemble (2013)":
+        year: 2013
+        title: "Marvel's Avengers Assemble"
+        alt_title: "Marvel's Avengers Assemble (2013)"
+        orig_title: "Marvel's Avengers Assemble"
+        sort_title: "Marvel's Avengers Assemble"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2455546, tmdb://59427, tvdb://264030
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble&category=Shows&year_filter=equals&yone=2013&tmdb_id=59427&imdb_id=tt2455546&tvdb_id=264030
+        # tmdb: https://www.themoviedb.org/tv/59427
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264030
+        # imdb: https://www.imdb.com/title/tt2455546
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://64183
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Season+1&category=Shows&tmdb_id=64183
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://64184
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Season+2&category=Shows&tmdb_id=64184
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://75230
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Ultron+Revolution&category=Shows&tmdb_id=75230
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://89597
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Secret+Wars&category=Shows&tmdb_id=89597
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://109734
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Black+Panther%27s+Quest&category=Shows&tmdb_id=109734        
+
+    "Marvel's Agents of S.H.I.E.L.D. (2013)":
+        year: 2013
+        title: "Marvel's Agents of S.H.I.E.L.D."
+        alt_title: "Marvel's Agents of S.H.I.E.L.D. (2013)"
+        orig_title: "Marvel's Agents of S.H.I.E.L.D."
+        sort_title: "MCU: 03 - Agents of S.H.I.E.L.D"
+        url_poster: https://theposterdb.com/api/assets/216597
+        # IDs: imdb://tt2364582, tmdb://1403, tvdb://263365
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.&category=Shows&year_filter=equals&yone=2013&tmdb_id=1403&imdb_id=tt2364582&tvdb_id=263365
+        # tmdb: https://www.themoviedb.org/tv/1403
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=263365
+        # imdb: https://www.imdb.com/title/tt2364582
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/216599
+                # IDs: tmdb://3648, tvdb://503426
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+1&category=Shows&tmdb_id=3648&tvdb_id=503426
+            2:
+                url_poster: https://theposterdb.com/api/assets/216600
+                # IDs: tmdb://62022, tvdb://591138
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+2&category=Shows&tmdb_id=62022&tvdb_id=591138
+            3:
+                url_poster: https://theposterdb.com/api/assets/216601
+                # IDs: tmdb://68416, tvdb://625697
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+3&category=Shows&tmdb_id=68416&tvdb_id=625697
+            4:
+                url_poster: https://theposterdb.com/api/assets/216602
+                # IDs: tmdb://78514, tvdb://669888
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+4&category=Shows&tmdb_id=78514&tvdb_id=669888
+            5:
+                url_poster: https://theposterdb.com/api/assets/216603
+                # IDs: tmdb://93742, tvdb://726439
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+5&category=Shows&tmdb_id=93742&tvdb_id=726439
+            6:
+                url_poster: https://theposterdb.com/api/assets/216604
+                # IDs: tmdb://103782
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+6&category=Shows&tmdb_id=103782
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://147976
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+7&category=Shows&tmdb_id=147976        
+
+    "Marvel's Agent Carter (2015)":
+        year: 2015
+        title: "Marvel's Agent Carter"
+        alt_title: "Marvel's Agent Carter (2015)"
+        orig_title: "Marvel's Agent Carter"
+        sort_title: "MCU: 03 - Agent Carter"
+        url_poster: https://theposterdb.com/api/assets/239460
+        # IDs: imdb://tt3475734, tmdb://61550, tvdb://281485
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agent+Carter&category=Shows&year_filter=equals&yone=2015&tmdb_id=61550&imdb_id=tt3475734&tvdb_id=281485
+        # tmdb: https://www.themoviedb.org/tv/61550
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=281485
+        # imdb: https://www.imdb.com/title/tt3475734
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239461
+                # IDs: tmdb://63213, tvdb://585033
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agent+Carter+Season+1&category=Shows&tmdb_id=63213&tvdb_id=585033
+            2:
+                url_poster: https://theposterdb.com/api/assets/239462
+                # IDs: tmdb://71006, tvdb://644969
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agent+Carter+Season+2&category=Shows&tmdb_id=71006&tvdb_id=644969        
+
+    "Marvel's Inhumans (2017)":
+        year: 2017
+        title: "Marvel's Inhumans"
+        alt_title: "Marvel's Inhumans (2017)"
+        orig_title: "Marvel's Inhumans"
+        sort_title: "MCU: 03 - Inhuman"
+        url_poster: https://theposterdb.com/api/assets/239472
+        # IDs: imdb://tt4154858, tmdb://68716, tvdb://320558
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Inhumans&category=Shows&year_filter=equals&yone=2017&tmdb_id=68716&imdb_id=tt4154858&tvdb_id=320558
+        # tmdb: https://www.themoviedb.org/tv/68716
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=320558
+        # imdb: https://www.imdb.com/title/tt4154858
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239473
+                # IDs: tmdb://82048
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Inhumans+Season+1&category=Shows&tmdb_id=82048        
+
+    "Marvel's Runaways (2017)":
+        year: 2017
+        title: "Marvel's Runaways"
+        alt_title: "Marvel's Runaways (2017)"
+        orig_title: "Marvel's Runaways"
+        sort_title: "MCU: 03 - Runaways"
+        url_poster: https://theposterdb.com/api/assets/239484
+        # IDs: imdb://tt1236246, tmdb://67466, tvdb://332027
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways&category=Shows&year_filter=equals&yone=2017&tmdb_id=67466&imdb_id=tt1236246&tvdb_id=332027
+        # tmdb: https://www.themoviedb.org/tv/67466
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=332027
+        # imdb: https://www.imdb.com/title/tt1236246
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239485
+                # IDs: tmdb://79336, tvdb://721318
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+1&category=Shows&tmdb_id=79336&tvdb_id=721318
+            2:
+                url_poster: https://theposterdb.com/api/assets/239486
+                # IDs: tmdb://107889
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+2&category=Shows&tmdb_id=107889
+            3:
+                url_poster: https://theposterdb.com/api/assets/239487
+                # IDs: tmdb://128480
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+3&category=Shows&tmdb_id=128480        
+
+    "Marvel's Cloak & Dagger (2018)":
+        year: 2018
+        title: "Marvel's Cloak & Dagger"
+        alt_title: "Marvel's Cloak & Dagger (2018)"
+        orig_title: "Marvel's Cloak & Dagger"
+        sort_title: "MCU: 03 - Cloak & Dagger"
+        url_poster: https://theposterdb.com/api/assets/239465
+        # IDs: imdb://tt5614844, tmdb://66190, tvdb://341455
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Cloak+%26+Dagger&category=Shows&year_filter=equals&yone=2018&tmdb_id=66190&imdb_id=tt5614844&tvdb_id=341455
+        # tmdb: https://www.themoviedb.org/tv/66190
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=341455
+        # imdb: https://www.imdb.com/title/tt5614844
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239466
+                # IDs: tmdb://84431, tvdb://747899
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Cloak+%26+Dagger+Season+1&category=Shows&tmdb_id=84431&tvdb_id=747899
+            2:
+                url_poster: https://theposterdb.com/api/assets/239467
+                # IDs: tmdb://118377
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Cloak+%26+Dagger+Season+2&category=Shows&tmdb_id=118377        
+
+    "Helstrom (2020)":
+        year: 2020
+        title: "Helstrom"
+        alt_title: "Helstrom (2020)"
+        orig_title: "Helstrom"
+        sort_title: "Helstrom"
+        url_poster: https://theposterdb.com/api/assets/239454
+        # IDs: imdb://tt10266874, tmdb://88987, tvdb://364038
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Helstrom&category=Shows&year_filter=equals&yone=2020&tmdb_id=88987&imdb_id=tt10266874&tvdb_id=364038
+        # tmdb: https://www.themoviedb.org/tv/88987
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364038
+        # imdb: https://www.imdb.com/title/tt10266874
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239455
+                # IDs: tmdb://123465, tvdb://1857006
+                # https://theposterdb.com/search/advanced/results?term=Helstrom+Season+1&category=Shows&tmdb_id=123465&tvdb_id=1857006        
+
+    "Marvel's Legends (2021)":
+        year: 2021
+        title: "Marvel's Legends"
+        alt_title: "Marvel's Legends (2021)"
+        orig_title: "Marvel Studios: Legends"
+        sort_title: "MCU: 03 - Legends"
+        url_poster: https://theposterdb.com/api/assets/287935
+        # IDs: imdb://tt13650480, tmdb://114695, tvdb://393438
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legends&category=Shows&year_filter=equals&yone=2021&tmdb_id=114695&imdb_id=tt13650480&tvdb_id=393438
+        # tmdb: https://www.themoviedb.org/tv/114695
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=393438
+        # imdb: https://www.imdb.com/title/tt13650480
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/287936
+                # IDs: tmdb://172254, tvdb://1887036
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legends+Season+1&category=Shows&tmdb_id=172254&tvdb_id=1887036
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://325885
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legends+Season+2&category=Shows&tmdb_id=325885        
+
+    "Marvel's WandaVision (2021)":
+        year: 2021
+        title: "Marvel's WandaVision"
+        alt_title: "Marvel's WandaVision (2021)"
+        orig_title: "Marvel's WandaVision"
+        sort_title: "MCU: 03 - WandaVision"
+        url_poster: https://theposterdb.com/api/assets/170971
+        # IDs: imdb://tt9140560, tmdb://85271, tvdb://362392
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+WandaVision&category=Shows&year_filter=equals&yone=2021&tmdb_id=85271&imdb_id=tt9140560&tvdb_id=362392
+        # tmdb: https://www.themoviedb.org/tv/85271
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362392
+        # imdb: https://www.imdb.com/title/tt9140560
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192802
+                # IDs: tmdb://114993, tvdb://1868827
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+WandaVision+Season+1&category=Shows&tmdb_id=114993&tvdb_id=1868827        
+
+    "Marvel's Assembled (2021)":
+        year: 2021
+        title: "Marvel's Assembled"
+        alt_title: "Marvel's Assembled (2021)"
+        orig_title: "Marvel Studios: Assembled"
+        sort_title: "MCU: 03 - Assembled"
+        url_poster: https://theposterdb.com/api/assets/287794Wha
+        # IDs: imdb://tt14094206, tmdb://118924, tvdb://396948
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Assembled&category=Shows&year_filter=equals&yone=2021&tmdb_id=118924&imdb_id=tt14094206&tvdb_id=396948
+        # tmdb: https://www.themoviedb.org/tv/118924
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=396948
+        # imdb: https://www.imdb.com/title/tt14094206
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://181890, tvdb://1902223
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Assembled+Season+1&category=Shows&tmdb_id=181890&tvdb_id=1902223        
+
+    "Marvel's The Falcon and the Winter Soldier (2021)":
+        year: 2021
+        title: "Marvel's The Falcon and the Winter Soldier"
+        alt_title: "Marvel's The Falcon and the Winter Soldier (2021)"
+        orig_title: "The Falcon and The Winter Soldier"
+        sort_title: "MCU: 03 - Falcon and the Winder Soldier"
+        url_poster: https://theposterdb.com/api/assets/170970
+        # IDs: imdb://tt9208876, tmdb://88396, tvdb://362496
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Falcon+and+the+Winter+Soldier&category=Shows&year_filter=equals&yone=2021&tmdb_id=88396&imdb_id=tt9208876&tvdb_id=362496
+        # tmdb: https://www.themoviedb.org/tv/88396
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362496
+        # imdb: https://www.imdb.com/title/tt9208876
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192801
+                # IDs: tmdb://156676, tvdb://362496
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Falcon+and+the+Winter+Soldier+Season+1&category=Shows&tmdb_id=156676&tvdb_id=362496        
+
+    "Marvel's Loki (2021)":
+        year: 2021
+        title: "Marvel's Loki"
+        alt_title: "Marvel's Loki (2021)"
+        orig_title: "Marvel's Loki"
+        sort_title: "MCU: 03 - Loki"
+        url_poster: https://theposterdb.com/api/assets/170972
+        # IDs: imdb://tt9140554, tmdb://84958, tvdb://362472
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Loki&category=Shows&year_filter=equals&yone=2021&tmdb_id=84958&imdb_id=tt9140554&tvdb_id=362472
+        # tmdb: https://www.themoviedb.org/tv/84958
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=362472
+        # imdb: https://www.imdb.com/title/tt9140554
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192800
+                # IDs: tmdb://114355, tvdb://1869163
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Loki+Season+1&category=Shows&tmdb_id=114355&tvdb_id=1869163        
+
+    "Marvel's What If...? (2021)":
+        year: 2021
+        title: "Marvel's What If...?"
+        alt_title: "Marvel's What If...? (2021)"
+        orig_title: "Marvel's What If...?"
+        sort_title: "MCU: 03 - What If..."
+        url_poster: https://theposterdb.com/api/assets/170973
+        # IDs: imdb://tt10168312, tmdb://91363, tvdb://367147
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+What+If...%3F&category=Shows&year_filter=equals&yone=2021&tmdb_id=91363&imdb_id=tt10168312&tvdb_id=367147
+        # tmdb: https://www.themoviedb.org/tv/91363
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=367147
+        # imdb: https://www.imdb.com/title/tt10168312
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192803
+                # IDs: tmdb://134723, tvdb://1909715
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+What+If...%3F+Season+1&category=Shows&tmdb_id=134723&tvdb_id=1909715        
+
+    "Marvel's Hawkeye (2021)":
+        year: 2021
+        title: "Marvel's Hawkeye"
+        alt_title: "Marvel's Hawkeye (2021)"
+        orig_title: "Hawkeye"
+        sort_title: "Marvel: 01 - Hawkeye"
+        url_poster: https://theposterdb.com/api/assets/192798
+        # IDs: imdb://tt10160804, tmdb://88329, tvdb://367146
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Hawkeye&category=Shows&year_filter=equals&yone=2021&tmdb_id=88329&imdb_id=tt10160804&tvdb_id=367146
+        # tmdb: https://www.themoviedb.org/tv/88329
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=367146
+        # imdb: https://www.imdb.com/title/tt10160804
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/192799
+                # IDs: tmdb://122165, tvdb://1909722
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Hawkeye+Season+1&category=Shows&tmdb_id=122165&tvdb_id=1909722        
+
+    "Marvel's Ms. Marvel (2022)":
+        year: 2022
+        title: "Marvel's Ms. Marvel"
+        alt_title: "Marvel's Ms. Marvel (2022)"
+        orig_title: "Marvel's Ms. Marvel"
+        sort_title: "MCU: 03 - Ms Marvel"
+        url_poster: https://theposterdb.com/api/assets/241857
+        # IDs: imdb://tt10857164, tmdb://92782, tvdb://368612
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ms.+Marvel&category=Shows&year_filter=equals&yone=2022&tmdb_id=92782&imdb_id=tt10857164&tvdb_id=368612
+        # tmdb: https://www.themoviedb.org/tv/92782
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=368612
+        # imdb: https://www.imdb.com/title/tt10857164
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/241858
+                # IDs: tmdb://130652, tvdb://1909728
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ms.+Marvel+Season+1&category=Shows&tmdb_id=130652&tvdb_id=1909728        
+
+    "She-Hulk: Attorney at Law (2022)":
+        year: 2022
+        title: "She-Hulk: Attorney at Law (2022)"
+        alt_title: "She-Hulk: Attorney at Law (2022)"
+        orig_title: "She-Hulk: Attorney at Law (2022)"
+        sort_title: "MCU: 03 - She-Hulk Attorney at Law"
+        url_poster: https://theposterdb.com/api/assets/258764
+        # IDs: imdb://tt10857160, tmdb://92783, tvdb://368613
+        # tpdb: https://theposterdb.com/search/advanced/results?term=She-Hulk%3A+Attorney+at+Law+%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=92783&imdb_id=tt10857160&tvdb_id=368613
+        # tmdb: https://www.themoviedb.org/tv/92783
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=368613
+        # imdb: https://www.imdb.com/title/tt10857160
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/258765
+                # IDs: tmdb://163259, tvdb://1909724
+                # https://theposterdb.com/search/advanced/results?term=She-Hulk%3A+Attorney+at+Law+%282022%29+Miniseries&category=Shows&tmdb_id=163259&tvdb_id=1909724        

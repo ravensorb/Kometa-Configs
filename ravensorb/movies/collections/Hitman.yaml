@@ -1,7 +1,11 @@
 collections:
   "Hitman":
-    variables: { collection: "737031", movie: "249070, 1620", poster: https://theposterdb.com/api/assets/164792 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "1620, 249070", poster: https://theposterdb.com/api/assets/164792 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       At an unknown location, near a remote asylum, a group of young bald boys are receiving tattoos of bar codes on the back of their heads as well as men observing, directing, and coordinating the training of these young boys in firearms and hand-to-hand combat, as well as stamina and strength. In these scenes, it is shown that these young boys are trained from an early age to be professional, international hitmen-for-hire that these films are based around.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Hitman&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

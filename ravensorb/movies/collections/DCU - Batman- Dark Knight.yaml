@@ -1,7 +1,11 @@
 collections:
   "Batman: Dark Knight":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", collection: "263, 248534", movie: "272, 49026, 155", poster: https://theposterdb.com/api/assets/263847 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "155, 49026, 272", poster: https://theposterdb.com/api/assets/263847 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A superhero film series based on the DC Comics character Batman. Centered on Bruce Wayne, a billionaire dedicating his life to fight crime in his home, Gotham City, as a masked vigilante known as Batman.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A+Dark+Knight&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

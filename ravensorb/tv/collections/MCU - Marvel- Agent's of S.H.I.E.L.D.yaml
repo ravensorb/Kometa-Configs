@@ -1,7 +1,13 @@
 collections:
   "Marvel: Agent's of S.H.I.E.L.D":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "1403, 61550", poster: https://theposterdb.com/api/assets/4328 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "61550, 1403", poster: https://theposterdb.com/api/assets/4328 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
+    summary: |
+      Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%3A+Agent%27s+of+S.H.I.E.L.D&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Marvel%3A%20Agent%27s%20of%20S.H.I.E.L.D%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Marvel%3A%20Agent%27s%20of%20S.H.I.E.L.D
@@ -14,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -42,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

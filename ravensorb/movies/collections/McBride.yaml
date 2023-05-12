@@ -1,7 +1,11 @@
 collections:
   "McBride":
-    variables: { collection: "450345", movie: "133353", poster: https://theposterdb.com/api/assets/256977 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "133353", poster: https://theposterdb.com/api/assets/256977 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       McBride is the name of a series of 10 made-for-television mystery films released by the Hallmark Channel between 2005 and 2008 and stars John Larroquette as a lawyer. Lawyer Mike McBride is a curmudgeon with a heart of gold. He takes cases based on their merit rather than on their monetary value, which often leads to terse notices from bill collectors. A disillusioned member of the LAPD, McBride left the force after 12 years and went back to school to become a lawyer. With the aid of his ever-present sidekick, Phil Newberry, as well as his former girlfriend, Detective Roberta Hansen, McBride and his team solve crimes the old-fashioned way.
     # tpdb: https://theposterdb.com/search/advanced/results?term=McBride&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

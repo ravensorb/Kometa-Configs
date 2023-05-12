@@ -11,7 +11,7 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/14141
         # tvdb: 
         # imdb: https://www.imdb.com/title/tt0085106
-        seasons:
+        # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
                 # IDs: 

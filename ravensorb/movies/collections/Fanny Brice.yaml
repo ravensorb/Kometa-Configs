@@ -1,7 +1,11 @@
 collections:
   "Fanny Brice":
-    variables: { collection: "449750", movie: "16085, 39282", poster: https://theposterdb.com/api/assets/166798 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "16085, 39282", poster: https://theposterdb.com/api/assets/166798 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Funny Girl is a 1968 American biographical musical comedy-drama film directed by William Wyler. The screenplay by Isobel Lennart was adapted from her book for the eponymous stage musical. It is loosely based on the life and career of Broadway and film star and comedian Fanny Brice and her stormy relationship with entrepreneur and gambler Nicky Arnstein. The first film stars Barbra Streisand (in her film debut reprising her Broadway role) as Brice and Omar Sharif as Arnstein. In 1975, Streisand reprised her role of Brice opposite James Caan as Brice's third husband, impresario Billy Rose, in a sequel entitled Funny Lady
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fanny+Brice&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

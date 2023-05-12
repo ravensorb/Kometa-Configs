@@ -1,7 +1,11 @@
 collections:
   "Jane Doe":
-    variables: { collection: "68687", movie: "68676, 68688, 105443, 68678, 105460", poster: https://artworks.thetvdb.com/banners/posters/259155-1.jpg }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "105443, 68688, 105460, 68678, 68676", poster: https://artworks.thetvdb.com/banners/posters/259155-1.jpg }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Jane Doe is the name of a series of nine made-for-television mystery films released by the Hallmark Channel between 2005 and 2008. In the series, created by Dean Hargrove, Lea Thompson stars as Cathy Davis, a soccer mom who is secretly Jane Doe, an agent for the federal "Central Security Agency". The films focus on her efforts to keep her lives separate while solving mysteries.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Jane+Doe&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

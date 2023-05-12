@@ -1,7 +1,11 @@
 collections:
   "War of The Worlds":
-    variables: { collection: "201061, 75014", movie: "74", poster: https://theposterdb.com/api/assets/294686 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "74", poster: https://theposterdb.com/api/assets/294686 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world’s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question – who are these attackers and why are they hell-bent on our destruction?
     # tpdb: https://theposterdb.com/search/advanced/results?term=War+of+The+Worlds&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

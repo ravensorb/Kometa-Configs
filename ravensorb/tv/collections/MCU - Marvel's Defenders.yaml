@@ -1,7 +1,11 @@
 collections:
   "Marvel's Defenders":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "61889, 62127, 67178, 62285, 62126, 38472", poster: https://theposterdb.com/api/assets/239488 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "62285, 67178, 38472, 62127, 62126, 61889", poster: https://theposterdb.com/api/assets/239488 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Some heroes protect the world, other protect their homes. In Hell’s Kitchen, one of New York’s roughest neighborhoods, unlikely heroes will rise to clean up the mean streets. Bringing notice to all criminals — if you can’t take the heat, stay out of Hell’s Kitchen!
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Defenders&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

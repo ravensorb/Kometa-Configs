@@ -1,7 +1,11 @@
 collections:
   "Toy Story Collection":
-    variables: { collection: "10194", movie: "10193, 862, 863, 301528", poster: https://theposterdb.com/api/assets/162955 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "862, 301528, 10193, 863", poster: https://theposterdb.com/api/assets/162955 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Toy Story is a CGI animated media franchise created by Pixar and distributed by Walt Disney Pictures. The franchise is based on the anthropomorphic concept that all toys, unknown to humans, are secretly alive, and the films focus on a diverse group of toys that feature a classic cowboy named Sheriff Woody and a modern spaceman named Buzz Lightyear. The group unexpectedly embark on adventures that challenge and change them.  The collection currently includes Toy Story 1-4.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Toy+Story+Collection&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

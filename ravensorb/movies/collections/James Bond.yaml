@@ -1,7 +1,11 @@
 collections:
   "James Bond":
-    variables: { collection: "645", movie: "10764, 646, 691, 681, 12208, 438493, 37724, 667, 709, 700, 658, 682, 660, 253, 869250, 657, 708, 36669, 36670, 34079, 707, 370172, 206647, 698, 668, 714, 699, 710, 36643, 36557", poster: https://theposterdb.com/api/assets/164797 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "668, 660, 707, 698, 10764, 34079, 691, 714, 36670, 681, 37724, 700, 682, 438493, 710, 646, 253, 709, 667, 370172, 708, 657, 36557, 699, 206647, 36669, 36643, 869250, 12208, 658", poster: https://theposterdb.com/api/assets/164797 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The James Bond film series is a British series of spy films based on the fictional character of MI6 agent James Bond, codename '007'. With all of the action, adventure, gadgetry & film scores that Bond is famous for.
     # tpdb: https://theposterdb.com/search/advanced/results?term=James+Bond&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

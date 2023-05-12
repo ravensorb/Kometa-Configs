@@ -1,0 +1,82 @@
+metadata:
+    "The Twilight Zone (1959)":
+        year: 1959
+        title: "The Twilight Zone"
+        alt_title: "The Twilight Zone (1959)"
+        orig_title: "The Twilight Zone"
+        sort_title: "Twilight Zone"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0052520, tmdb://6357, tvdb://73587
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone&category=Shows&year_filter=equals&yone=1959&tmdb_id=6357&imdb_id=tt0052520&tvdb_id=73587
+        # tmdb: https://www.themoviedb.org/tv/6357
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1959&query=73587
+        # imdb: https://www.imdb.com/title/tt0052520
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://16510, tvdb://6029
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+Season+1&category=Shows&tmdb_id=16510&tvdb_id=6029
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://16513, tvdb://6030
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+Season+2&category=Shows&tmdb_id=16513&tvdb_id=6030
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://16514, tvdb://6031
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+Season+3&category=Shows&tmdb_id=16514&tvdb_id=6031
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://16511, tvdb://6032
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+Season+4&category=Shows&tmdb_id=16511&tvdb_id=6032
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://16512, tvdb://6033
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+Season+5&category=Shows&tmdb_id=16512&tvdb_id=6033        
+
+    "The Twilight Zone (1985)":
+        year: 1985
+        title: "The Twilight Zone (1985)"
+        alt_title: "The Twilight Zone (1985)"
+        orig_title: "The Twilight Zone (1985)"
+        sort_title: "Twilight Zone (1985)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0088634, tmdb://1918, tvdb://72176
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%281985%29&category=Shows&year_filter=equals&yone=1985&tmdb_id=1918&imdb_id=tt0088634&tvdb_id=72176
+        # tmdb: https://www.themoviedb.org/tv/1918
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=72176
+        # imdb: https://www.imdb.com/title/tt0088634
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5550
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%281985%29+Season+1&category=Shows&tmdb_id=5550
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5551
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%281985%29+Season+2&category=Shows&tmdb_id=5551
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://5552
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%281985%29+Season+3&category=Shows&tmdb_id=5552        
+
+    "The Twilight Zone (2019)":
+        year: 2019
+        title: "The Twilight Zone (2019)"
+        alt_title: "The Twilight Zone (2019)"
+        orig_title: "The Twilight Zone (2019)"
+        sort_title: "Twilight Zone (2019)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2583620, tmdb://83135, tvdb://358915
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=83135&imdb_id=tt2583620&tvdb_id=358915
+        # tmdb: https://www.themoviedb.org/tv/83135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=358915
+        # imdb: https://www.imdb.com/title/tt2583620
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://110914
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29+Season+1&category=Shows&tmdb_id=110914
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://150619
+                # https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29+Season+2&category=Shows&tmdb_id=150619        

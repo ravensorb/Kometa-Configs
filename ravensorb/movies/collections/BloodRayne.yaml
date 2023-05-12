@@ -1,7 +1,11 @@
 collections:
   "BloodRayne":
-    variables: { collection: "97307", movie: "17456, 12685, 168705", poster: https://theposterdb.com/api/assets/160786 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "17456, 12685, 168705", poster: https://theposterdb.com/api/assets/160786 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       BloodRayne is a 2005 German-American fantasy action horror film set in 18th-century Romania based on the video game of the same name. The film stars Kristanna Loken, Michael Madsen, Matthew Davis, Will Sanderson, Billy Zane, Udo Kier, Michael Paré, Meat Loaf, Michelle Rodriguez, Ben Kingsley, and Geraldine Chaplin. In 2007, a sequel BloodRayne 2: Deliverance was made. Natassia Malthe replaced Loken in the lead role. Due to the poor box office of the first film, BloodRayne 2: Deliverance went direct-to-video instead. A third film, BloodRayne: The Third Reich was released in 2011. Malthe reprised her role as Rayne. All three films were directed by Uwe Boll. Michael Paré appeared in all three films, but as different characters: Iancu, Pat Garrett, and Commandant Ekart Brand, respectively.
     # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

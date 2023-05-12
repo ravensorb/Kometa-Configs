@@ -1,7 +1,11 @@
 collections:
   "Bourne":
-    variables: { collection: "31562", movie: "2503, 2501, 2502, 49040, 324668", poster: https://theposterdb.com/api/assets/164761 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "2501, 2502, 2503, 49040, 324668", poster: https://theposterdb.com/api/assets/164761 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Bourne films are a series of action thriller movies based on the character Jason Bourne, a CIA assassin suffering from extreme memory loss who must figure out who he is. The character is based on novels by Robert Ludlum. The fourth film in the series introduces Aaron Cross, a Department of Defense operative who runs for his life because of Bourne's actions.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Bourne&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

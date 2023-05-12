@@ -1,7 +1,11 @@
 collections:
   "RED":
-    variables: { collection: "163902", movie: "39514, 146216", poster: https://theposterdb.com/api/assets/162399 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "146216, 39514", poster: https://theposterdb.com/api/assets/162399 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       RED is a 2010 American action-comedy film inspired by the limited comic book series of the same name created by Warren Ellis and Cully Hamner, and published by the DC Comics imprint Homage. In the film version, the title is derived from the designation of the status of agent Frank Moses, meaning 'Retired, Extremely Dangerous'. A sequel, RED 2, was released on July 19, 2013.
     # tpdb: https://theposterdb.com/search/advanced/results?term=RED&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

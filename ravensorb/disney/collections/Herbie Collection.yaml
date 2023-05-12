@@ -1,7 +1,11 @@
 collections:
   "Herbie Collection":
-    variables: { collection: "12087", movie: "14136, 10869", poster: https://theposterdb.com/api/assets/162040 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "10869, 14136", poster: https://theposterdb.com/api/assets/162040 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Herbie is an anthropomorphic 1963 Volkswagen Beetle, a character that is featured in several Disney motion pictures starting with the 1968 feature film The Love Bug. He has a mind of his own and is capable of driving himself, and is a serious contender in auto racing competitions. Throughout most of the franchise, Herbie is distinguished by red, white and blue racing stripes from front to back bumper, a racing-style number "53" on the front trunk lid, doors, and engine lid, and a yellow-on-black '63 California license plate that says, "OFP 857". One exception to this is his introduction in The Love Bug, where he initially appears as a nondescript white vehicle with a gray colored fabric sunroof (a.k.a. "ragtop"), the style of sunroof offered on VW Beetles made through 1963.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Herbie+Collection&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

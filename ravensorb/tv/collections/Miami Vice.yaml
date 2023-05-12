@@ -1,7 +1,11 @@
 collections:
   "Miami Vice":
     variables: { show: "1908", poster: https://theposterdb.com/api/assets/216493 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Miami Vice centers around the unlikely partnership of Sonny Crockett (Don Johnson) and Ricardo Tubbs (Philip Michael Thomas), two undercover detectives from the Miami Police Department’s vice squad battling against drug trafficking and prostitution in the city’s seamy underworld. Its use of New Wave music and colorful Italian men’s fashion was groundbreaking and the series had a defining influence on the popular culture of the 1980s.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Miami+Vice&category=Collections
@@ -16,8 +20,6 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
 
 templates:
   tplCommonBase:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
+      - movie
       - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
+    tmdb_movie: <<movie>>
+    tmdb_movie_details: <<movie>>
     tmdb_show: <<show>>
     tmdb_show_details: <<show>>

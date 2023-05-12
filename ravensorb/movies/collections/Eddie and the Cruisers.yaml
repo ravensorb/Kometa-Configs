@@ -1,7 +1,11 @@
 collections:
   "Eddie and the Cruisers":
-    variables: { collection: "186102", movie: "21721, 25005", poster: https://theposterdb.com/api/assets/166797 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "25005, 21721", poster: https://theposterdb.com/api/assets/166797 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       A television reporter named Maggie Foley (Ellen Barkin) investigates the mysterious disappearance of legendary rock star Eddie Wilson (Michael Paré). Flashbacks dramatize Eddie's life and the rise and fall of his rock and roll band, Eddie and the Cruisers.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Eddie+and+the+Cruisers&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

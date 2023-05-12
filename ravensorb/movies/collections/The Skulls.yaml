@@ -1,7 +1,11 @@
 collections:
   "The Skulls":
-    variables: { collection: "8647", movie: "10594, 11478, 8460", poster: https://theposterdb.com/api/assets/217866 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "8460, 11478, 10594", poster: https://theposterdb.com/api/assets/217866 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Skulls is a 2000 American thriller film directed by Rob Cohen and starring Joshua Jackson, Paul Walker and Leslie Bibb. Its plot is based upon some of the conspiracy theories surrounding Yale University's Skull and Bones student society.  The film was successful enough to spawn two direct-to-video sequels, The Skulls II and The Skulls III, released in 2002 and 2004, respectively.
     # tpdb: https://theposterdb.com/search/advanced/results?term=The+Skulls&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

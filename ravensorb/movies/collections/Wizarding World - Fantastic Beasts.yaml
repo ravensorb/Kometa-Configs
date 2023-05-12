@@ -1,7 +1,11 @@
 collections:
   "Fantastic Beasts":
-    variables: { label: "Wizarding World", collection: "435259", movie: "259316, 338952, 338953", poster: https://theposterdb.com/api/assets/173773 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { label: "Wizarding World", movie: "259316, 338952, 338953", poster: https://theposterdb.com/api/assets/173773 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Fantastic Beasts films are a fantasy series based on and inspired by the textbook mentioned in the Harry Potter novels by British writer J. K. Rowling. Set in the same Wizarding World franchise, they follow the adventures of Newt Scamander, a self-proclaimed magizoologist, along with Porpentina 'Tina' Goldstein, a MACUSA auror.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Beasts&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

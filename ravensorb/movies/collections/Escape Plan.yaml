@@ -1,7 +1,11 @@
 collections:
   "Escape Plan":
-    variables: { collection: "525891", movie: "480042, 440471, 107846", poster: https://theposterdb.com/api/assets/164779 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "480042, 440471, 107846", poster: https://theposterdb.com/api/assets/164779 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       The Escape Plan film series are composed of action-thriller movies based on characters created by Miles Chapman and Arnell Jesko. The films are centered on a businessman and skilled structure engineer name Ray Breslin, who is best known for being the world's greatest escape artist. Breslin also helps design detention centers with the most intense levels of security.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Escape+Plan&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

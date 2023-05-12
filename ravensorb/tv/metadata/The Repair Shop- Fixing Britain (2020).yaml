@@ -11,7 +11,7 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/123460
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=384602
         # imdb: https://www.imdb.com/title/tt12669616
-        seasons:
+        # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
                 # IDs: tmdb://190830, tvdb://384602

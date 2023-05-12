@@ -1,7 +1,11 @@
 collections:
   "Black Panther":
-    variables: { collection: "529892", movie: "505642, 284054", poster: https://theposterdb.com/api/assets/162378 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "505642, 284054", poster: https://theposterdb.com/api/assets/162378 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Wakanda and its metropolis, dominated by modern high-rise buildings, is a technically advanced nation in Africa that is cut off from the outside world and pretends to be a poor third world country. Thanks to a meteorite impact and a resulting source of raw material, the only local metal vibranium, the African country can make itself invisible to the rest of the world under a huge camouflage device. Also, because the source of progress could wreak havoc in the wrong hands, the early leaders of Wakanda opted for isolation, which continues to this day.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Black+Panther&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

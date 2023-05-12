@@ -1,0 +1,60 @@
+metadata:
+    "Vikings (2013)":
+        year: 2013
+        title: "Vikings"
+        alt_title: "Vikings (2013)"
+        orig_title: "Vikings"
+        sort_title: "Vikings"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
+        # tmdb: https://www.themoviedb.org/tv/44217
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=260449
+        # imdb: https://www.imdb.com/title/tt2306299
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://53334, tvdb://498968
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+1&category=Shows&tmdb_id=53334&tvdb_id=498968
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://53336, tvdb://524506
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+2&category=Shows&tmdb_id=53336&tvdb_id=524506
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://64422, tvdb://605819
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+3&category=Shows&tmdb_id=64422&tvdb_id=605819
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://72979, tvdb://648486
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+4&category=Shows&tmdb_id=72979&tvdb_id=648486
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://88459
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+5&category=Shows&tmdb_id=88459
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://133827
+                # https://theposterdb.com/search/advanced/results?term=Vikings+Season+6&category=Shows&tmdb_id=133827        
+
+    "Vikings: Valhalla (2022)":
+        year: 2022
+        title: "Vikings: Valhalla"
+        alt_title: "Vikings: Valhalla (2022)"
+        orig_title: "Vikings: Valhalla"
+        sort_title: "Vikings: Valhalla"
+        url_poster: https://theposterdb.com/api/assets/222388
+        # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A+Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
+        # tmdb: https://www.themoviedb.org/tv/116135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=372700
+        # imdb: https://www.imdb.com/title/tt11311302
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/222389
+                # IDs: tmdb://175400, tvdb://1909727
+                # https://theposterdb.com/search/advanced/results?term=Vikings%3A+Valhalla+Season+1&category=Shows&tmdb_id=175400&tvdb_id=1909727
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://309969
+                # https://theposterdb.com/search/advanced/results?term=Vikings%3A+Valhalla+Season+2&category=Shows&tmdb_id=309969        

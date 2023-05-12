@@ -1,0 +1,60 @@
+metadata:
+    "Gilmore Girls (2000)":
+        year: 2000
+        title: "Gilmore Girls"
+        alt_title: "Gilmore Girls (2000)"
+        orig_title: "Gilmore Girls"
+        sort_title: "Gilmore Girls"
+        url_poster: https://theposterdb.com/api/assets/337285
+        # IDs: imdb://tt0238784, tmdb://4586, tvdb://76568
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Gilmore+Girls&category=Shows&year_filter=equals&yone=2000&tmdb_id=4586&imdb_id=tt0238784&tvdb_id=76568
+        # tmdb: https://www.themoviedb.org/tv/4586
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2000&query=76568
+        # imdb: https://www.imdb.com/title/tt0238784
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/334880
+                # IDs: tmdb://13911, tvdb://10754
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+1&category=Shows&tmdb_id=13911&tvdb_id=10754
+            2:
+                url_poster: https://theposterdb.com/api/assets/334881
+                # IDs: tmdb://13913, tvdb://10755
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+2&category=Shows&tmdb_id=13913&tvdb_id=10755
+            3:
+                url_poster: https://theposterdb.com/api/assets/334882
+                # IDs: tmdb://13915, tvdb://76568
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+3&category=Shows&tmdb_id=13915&tvdb_id=76568
+            4:
+                url_poster: https://theposterdb.com/api/assets/334883
+                # IDs: tmdb://13914, tvdb://10757
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+4&category=Shows&tmdb_id=13914&tvdb_id=10757
+            5:
+                url_poster: https://theposterdb.com/api/assets/334884
+                # IDs: tmdb://13912, tvdb://10758
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+5&category=Shows&tmdb_id=13912&tvdb_id=10758
+            6:
+                url_poster: https://theposterdb.com/api/assets/334885
+                # IDs: tmdb://13916, tvdb://10759
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+6&category=Shows&tmdb_id=13916&tvdb_id=10759
+            7:
+                url_poster: https://theposterdb.com/api/assets/334886
+                # IDs: tmdb://13917, tvdb://16282
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls+Season+7&category=Shows&tmdb_id=13917&tvdb_id=16282        
+
+    "Gilmore Girls: A Year in the Life (2016)":
+        year: 2016
+        title: "Gilmore Girls: A Year in the Life"
+        alt_title: "Gilmore Girls: A Year in the Life (2016)"
+        orig_title: "Gilmore Girls: A Year in the Life"
+        sort_title: "Gilmore Girls: A Year in the Life"
+        url_poster: https://theposterdb.com/api/assets/337284
+        # IDs: imdb://tt5435008, tmdb://68799, tvdb://311987
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Gilmore+Girls%3A+A+Year+in+the+Life&category=Shows&year_filter=equals&yone=2016&tmdb_id=68799&imdb_id=tt5435008&tvdb_id=311987
+        # tmdb: https://www.themoviedb.org/tv/68799
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=311987
+        # imdb: https://www.imdb.com/title/tt5435008
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/337285
+                # IDs: tmdb://82210, tvdb://667600
+                # https://theposterdb.com/search/advanced/results?term=Gilmore+Girls%3A+A+Year+in+the+Life+Season+1&category=Shows&tmdb_id=82210&tvdb_id=667600        

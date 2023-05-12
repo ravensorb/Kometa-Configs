@@ -1,0 +1,40 @@
+metadata:
+    "Amazing Stories (1985)":
+        year: 1985
+        title: "Amazing Stories (1985)"
+        alt_title: "Amazing Stories (1985)"
+        orig_title: "Amazing Stories (1985)"
+        sort_title: "Amazing Stories (1985)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0088478, tmdb://1026, tvdb://76149
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%281985%29&category=Shows&year_filter=equals&yone=1985&tmdb_id=1026&imdb_id=tt0088478&tvdb_id=76149
+        # tmdb: https://www.themoviedb.org/tv/1026
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=76149
+        # imdb: https://www.imdb.com/title/tt0088478
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2924, tvdb://9766
+                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%281985%29+Season+1&category=Shows&tmdb_id=2924&tvdb_id=9766
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://2923, tvdb://9767
+                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%281985%29+Season+2&category=Shows&tmdb_id=2923&tvdb_id=9767        
+
+    "Amazing Stories (2020)":
+        year: 2020
+        title: "Amazing Stories (2020)"
+        alt_title: "Amazing Stories (2020)"
+        orig_title: "Amazing Stories (2020)"
+        sort_title: "Amazing Stories (2020)"
+        url_poster: https://theposterdb.com/api/assets/333608
+        # IDs: imdb://tt5165368, tmdb://98178, tvdb://368120
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=98178&imdb_id=tt5165368&tvdb_id=368120
+        # tmdb: https://www.themoviedb.org/tv/98178
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=368120
+        # imdb: https://www.imdb.com/title/tt5165368
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/333609
+                # IDs: tmdb://141338
+                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%282020%29+Season+1&category=Shows&tmdb_id=141338        

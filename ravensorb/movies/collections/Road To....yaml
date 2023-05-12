@@ -1,7 +1,11 @@
 collections:
   "Road To...":
-    variables: { collection: "135441, 693543, 587281, 1112554", movie: "31805, 31812, 13861, 31980, 34082, 31804, 29021", poster: https://theposterdb.com/api/assets/168374 }
-    template: [ { name: tplCommonBase }, { name: tplCommonCollection }, { name: tplTMDBCollection } ]
+    variables: { movie: "31805, 34082, 29021, 13861, 31812, 31980, 31804", poster: https://theposterdb.com/api/assets/168374 }
+    template: [ 
+      { name: tplCommonBase }, 
+      { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
+    ]
     summary: |
       Road to ... refers to a series of seven comedy films starring Bing Crosby, Bob Hope, and Dorothy Lamour. They are also often referred to as the 'Road; pictures or the 'Road' series. The movies were a combination of adventure, comedy, romance, and music. The minimal plot often took a back seat to gags, many of them supposedly ad-libed by Crosby and Hope during filming.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Road+To...&category=Collections
@@ -16,9 +20,7 @@ collections:
 ########################################################################################################################
 ########################################################################################################################
 
-external_templates:
-  pmm: templates
-  
+
 templates:
   tplCommonBase:
     optional:
@@ -44,21 +46,24 @@ templates:
       - list
       - show
       - movie
-    tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
     tvdb_movie_details: <<movie>>
+    tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:
       - collection
       - list
       - movie
+      - show
     tmdb_collection: <<collection>>
     tmdb_collection_details: <<collection>>
     tmdb_list: <<list>>
     tmdb_list_details: <<list>>
     tmdb_movie: <<movie>>
     tmdb_movie_details: <<movie>>
+    tmdb_show: <<show>>
+    tmdb_show_details: <<show>>

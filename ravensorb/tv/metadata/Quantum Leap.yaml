@@ -1,0 +1,52 @@
+metadata:
+    "Quantum Leap (1989)":
+        year: 1989
+        title: "Quantum Leap"
+        alt_title: "Quantum Leap (1989)"
+        orig_title: "Quantum Leap"
+        sort_title: "Quantum Leap"
+        url_poster: https://theposterdb.com/api/assets/238439
+        # IDs: imdb://tt0096684, tmdb://4018, tvdb://72248
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum+Leap&category=Shows&year_filter=equals&yone=1989&tmdb_id=4018&imdb_id=tt0096684&tvdb_id=72248
+        # tmdb: https://www.themoviedb.org/tv/4018
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1989&query=72248
+        # imdb: https://www.imdb.com/title/tt0096684
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/238440
+                # IDs: tmdb://11884, tvdb://3781
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+Season+1&category=Shows&tmdb_id=11884&tvdb_id=3781
+            2:
+                url_poster: https://theposterdb.com/api/assets/238441
+                # IDs: tmdb://11883, tvdb://3782
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+Season+2&category=Shows&tmdb_id=11883&tvdb_id=3782
+            3:
+                url_poster: https://theposterdb.com/api/assets/238442
+                # IDs: tmdb://11880, tvdb://3783
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+Season+3&category=Shows&tmdb_id=11880&tvdb_id=3783
+            4:
+                url_poster: https://theposterdb.com/api/assets/238443
+                # IDs: tmdb://11882, tvdb://3784
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+Season+4&category=Shows&tmdb_id=11882&tvdb_id=3784
+            5:
+                url_poster: https://theposterdb.com/api/assets/238444
+                # IDs: tmdb://11881, tvdb://3785
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+Season+5&category=Shows&tmdb_id=11881&tvdb_id=3785        
+
+    "Quantum Leap (2022)":
+        year: 2022
+        title: "Quantum Leap (2022)"
+        alt_title: "Quantum Leap (2022)"
+        orig_title: "Quantum Leap (2022)"
+        sort_title: "Quantum Leap (2022)"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt17043230, tmdb://202102, tvdb://419936
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum+Leap+%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=202102&imdb_id=tt17043230&tvdb_id=419936
+        # tmdb: https://www.themoviedb.org/tv/202102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=419936
+        # imdb: https://www.imdb.com/title/tt17043230
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://293955, tvdb://1999689
+                # https://theposterdb.com/search/advanced/results?term=Quantum+Leap+%282022%29+Season+1&category=Shows&tmdb_id=293955&tvdb_id=1999689        
