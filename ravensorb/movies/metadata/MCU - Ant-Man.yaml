@@ -32,9 +32,8 @@ metadata:
         title: "Ant-Man and the Wasp: Quantumania"
         alt_title: "Ant-Man and the Wasp: Quantumania (2023)"
         orig_title: "Ant-Man and the Wasp: Quantumania"
-        sort_title: "Ant-Man and the Wasp: Quantumania"
-        
-        url_poster: None
+        sort_title: "Ant-Man and the Wasp: Quantumania"        
+        url_poster: https://theposterdb.com/api/assets/297409
         # IDs: imdb://tt10954600, tmdb://640146, tvdb://132202
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ant-Man+and+the+Wasp%3A+Quantumania&category=Movies&year_filter=equals&yone=2023&tmdb_id=640146&imdb_id=tt10954600&tvdb_id=132202
         # tmdb: https://www.themoviedb.org/movie/640146

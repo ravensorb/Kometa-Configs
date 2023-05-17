@@ -4,7 +4,7 @@ metadata:
         title: "The Godfather"
         alt_title: "The Godfather (1972)"
         orig_title: "The Godfather"
-        sort_title: "Godfather"
+        sort_title: "Godfather: Part I"
         
         url_poster: https://theposterdb.com/api/assets/184746
         # IDs: imdb://tt0068646, tmdb://238, tvdb://275
@@ -13,7 +13,7 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=275
         # imdb: https://www.imdb.com/title/tt0068646
     
-    "The Godfather: Part II (1974)":
+    "The Godfather Part II (1974)":
         year: 1974
         title: "The Godfather: Part II"
         alt_title: "The Godfather: Part II (1974)"
@@ -32,7 +32,7 @@ metadata:
         title: "The Godfather Part III"
         alt_title: "The Godfather Part III (1990)"
         orig_title: "The Godfather Part III"
-        sort_title: "Godfather Part III"
+        sort_title: "Godfather: Part III"
         
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0099674, tmdb://242, tvdb://2270

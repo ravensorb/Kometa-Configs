@@ -13,11 +13,11 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=1588
         # imdb: https://www.imdb.com/title/tt0091203
     
-    "Highlander: The Quickening (1991)":
+    "Highlander II: The Quickening (1991)":
         year: 1991
         title: "Highlander: The Quickening"
         alt_title: "Highlander: The Quickening (1991)"
-        orig_title: "Highlander: The Quickening"
+        orig_title: "Highlander II: The Quickening"
         sort_title: "Highlander - 02"
         
         url_poster: https://theposterdb.com/api/assets/187665
