@@ -5,30 +5,32 @@ metadata:
         alt_title: "Angel (1999)"
         orig_title: "Angel"
         sort_title: "Angel"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/362932
         # IDs: imdb://tt0162065, tmdb://2426, tvdb://71035
         # tpdb: https://theposterdb.com/search/advanced/results?term=Angel&category=Shows&year_filter=equals&yone=1999&tmdb_id=2426&imdb_id=tt0162065&tvdb_id=71035
         # tmdb: https://www.themoviedb.org/tv/2426
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1999&query=71035
         # imdb: https://www.imdb.com/title/tt0162065
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/362933
+            1:
+                url_poster: https://theposterdb.com/api/assets/362934
                 # IDs: tmdb://7625, tvdb://1545
                 # https://theposterdb.com/search/advanced/results?term=Angel+Season+1&category=Shows&tmdb_id=7625&tvdb_id=1545
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/362935
                 # IDs: tmdb://7623, tvdb://1546
                 # https://theposterdb.com/search/advanced/results?term=Angel+Season+2&category=Shows&tmdb_id=7623&tvdb_id=1546
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/362936
                 # IDs: tmdb://7628, tvdb://1547
                 # https://theposterdb.com/search/advanced/results?term=Angel+Season+3&category=Shows&tmdb_id=7628&tvdb_id=1547
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/362937
                 # IDs: tmdb://7627, tvdb://1548
                 # https://theposterdb.com/search/advanced/results?term=Angel+Season+4&category=Shows&tmdb_id=7627&tvdb_id=1548
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/362938
                 # IDs: tmdb://7626, tvdb://1549
                 # https://theposterdb.com/search/advanced/results?term=Angel+Season+5&category=Shows&tmdb_id=7626&tvdb_id=1549        

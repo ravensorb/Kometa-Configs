@@ -1,9 +1,9 @@
 metadata:
     "Amazing Stories (1985)":
         year: 1985
-        title: "Amazing Stories (1985)"
+        title: "Amazing Stories"
         alt_title: "Amazing Stories (1985)"
-        orig_title: "Amazing Stories (1985)"
+        orig_title: "Amazing Stories"
         sort_title: "Amazing Stories (1985)"
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0088478, tmdb://1026, tvdb://76149
@@ -25,7 +25,7 @@ metadata:
         year: 2020
         title: "Amazing Stories (2020)"
         alt_title: "Amazing Stories (2020)"
-        orig_title: "Amazing Stories (2020)"
+        orig_title: "Amazing Stories"
         sort_title: "Amazing Stories (2020)"
         url_poster: https://theposterdb.com/api/assets/333608
         # IDs: imdb://tt5165368, tmdb://98178, tvdb://368120

@@ -5,30 +5,32 @@ metadata:
         alt_title: "The Originals (2013)"
         orig_title: "The Originals"
         sort_title: "Originals"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/325982
         # IDs: imdb://tt2632424, tmdb://46896, tvdb://266883
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Originals&category=Shows&year_filter=equals&yone=2013&tmdb_id=46896&imdb_id=tt2632424&tvdb_id=266883
         # tmdb: https://www.themoviedb.org/tv/46896
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266883
         # imdb: https://www.imdb.com/title/tt2632424
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/325983
+            1:
+                url_poster: https://theposterdb.com/api/assets/325984
                 # IDs: tmdb://55058, tvdb://516064
                 # https://theposterdb.com/search/advanced/results?term=The+Originals+Season+1&category=Shows&tmdb_id=55058&tvdb_id=516064
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/325985
                 # IDs: tmdb://62091, tvdb://589358
                 # https://theposterdb.com/search/advanced/results?term=The+Originals+Season+2&category=Shows&tmdb_id=62091&tvdb_id=589358
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/325986
                 # IDs: tmdb://67993, tvdb://626970
                 # https://theposterdb.com/search/advanced/results?term=The+Originals+Season+3&category=Shows&tmdb_id=67993&tvdb_id=626970
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/325987
                 # IDs: tmdb://82407
                 # https://theposterdb.com/search/advanced/results?term=The+Originals+Season+4&category=Shows&tmdb_id=82407
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/325988
                 # IDs: tmdb://101550, tvdb://724278
                 # https://theposterdb.com/search/advanced/results?term=The+Originals+Season+5&category=Shows&tmdb_id=101550&tvdb_id=724278        

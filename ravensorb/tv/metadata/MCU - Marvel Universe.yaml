@@ -165,10 +165,10 @@ metadata:
 
     "Helstrom (2020)":
         year: 2020
-        title: "Helstrom"
-        alt_title: "Helstrom (2020)"
+        title: "Marvel's Helstrom"
+        alt_title: "Helstrom"
         orig_title: "Helstrom"
-        sort_title: "Helstrom"
+        sort_title: "MCU: 03 - Helstrom"
         url_poster: https://theposterdb.com/api/assets/239454
         # IDs: imdb://tt10266874, tmdb://88987, tvdb://364038
         # tpdb: https://theposterdb.com/search/advanced/results?term=Helstrom&category=Shows&year_filter=equals&yone=2020&tmdb_id=88987&imdb_id=tt10266874&tvdb_id=364038
@@ -184,8 +184,8 @@ metadata:
     "Marvel's Legends (2021)":
         year: 2021
         title: "Marvel's Legends"
-        alt_title: "Marvel's Legends (2021)"
-        orig_title: "Marvel Studios: Legends"
+        alt_title: "Marvel Studios: Legends"
+        orig_title: "Marvel's Legends (2021)"
         sort_title: "MCU: 03 - Legends"
         url_poster: https://theposterdb.com/api/assets/287935
         # IDs: imdb://tt13650480, tmdb://114695, tvdb://393438
@@ -206,7 +206,7 @@ metadata:
     "Marvel's WandaVision (2021)":
         year: 2021
         title: "Marvel's WandaVision"
-        alt_title: "Marvel's WandaVision (2021)"
+        alt_title: "WandaVision"
         orig_title: "Marvel's WandaVision"
         sort_title: "MCU: 03 - WandaVision"
         url_poster: https://theposterdb.com/api/assets/170971
@@ -224,7 +224,7 @@ metadata:
     "Marvel's Assembled (2021)":
         year: 2021
         title: "Marvel's Assembled"
-        alt_title: "Marvel's Assembled (2021)"
+        alt_title: "Marvel Studios: Assembled"
         orig_title: "Marvel Studios: Assembled"
         sort_title: "MCU: 03 - Assembled"
         url_poster: https://theposterdb.com/api/assets/287794Wha
@@ -242,7 +242,7 @@ metadata:
     "Marvel's The Falcon and the Winter Soldier (2021)":
         year: 2021
         title: "Marvel's The Falcon and the Winter Soldier"
-        alt_title: "Marvel's The Falcon and the Winter Soldier (2021)"
+        alt_title: "The Falcon and The Winter Soldier"
         orig_title: "The Falcon and The Winter Soldier"
         sort_title: "MCU: 03 - Falcon and the Winder Soldier"
         url_poster: https://theposterdb.com/api/assets/170970
@@ -260,7 +260,7 @@ metadata:
     "Marvel's Loki (2021)":
         year: 2021
         title: "Marvel's Loki"
-        alt_title: "Marvel's Loki (2021)"
+        alt_title: "Loki"
         orig_title: "Marvel's Loki"
         sort_title: "MCU: 03 - Loki"
         url_poster: https://theposterdb.com/api/assets/170972
@@ -278,7 +278,7 @@ metadata:
     "Marvel's What If...? (2021)":
         year: 2021
         title: "Marvel's What If...?"
-        alt_title: "Marvel's What If...? (2021)"
+        alt_title: "What If…?"
         orig_title: "Marvel's What If...?"
         sort_title: "MCU: 03 - What If..."
         url_poster: https://theposterdb.com/api/assets/170973
@@ -296,7 +296,7 @@ metadata:
     "Marvel's Hawkeye (2021)":
         year: 2021
         title: "Marvel's Hawkeye"
-        alt_title: "Marvel's Hawkeye (2021)"
+        alt_title: "Hawkeye (2021)"
         orig_title: "Hawkeye"
         sort_title: "Marvel: 01 - Hawkeye"
         url_poster: https://theposterdb.com/api/assets/192798
@@ -314,7 +314,7 @@ metadata:
     "Marvel's Ms. Marvel (2022)":
         year: 2022
         title: "Marvel's Ms. Marvel"
-        alt_title: "Marvel's Ms. Marvel (2022)"
+        alt_title: "Ms. Marvel"
         orig_title: "Marvel's Ms. Marvel"
         sort_title: "MCU: 03 - Ms Marvel"
         url_poster: https://theposterdb.com/api/assets/241857
@@ -331,9 +331,9 @@ metadata:
 
     "She-Hulk: Attorney at Law (2022)":
         year: 2022
-        title: "She-Hulk: Attorney at Law (2022)"
+        title: "She-Hulk: Attorney at Law"
         alt_title: "She-Hulk: Attorney at Law (2022)"
-        orig_title: "She-Hulk: Attorney at Law (2022)"
+        orig_title: "She-Hulk: Attorney at Law"
         sort_title: "MCU: 03 - She-Hulk Attorney at Law"
         url_poster: https://theposterdb.com/api/assets/258764
         # IDs: imdb://tt10857160, tmdb://92783, tvdb://368613
@@ -346,3 +346,103 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/258765
                 # IDs: tmdb://163259, tvdb://1909724
                 # https://theposterdb.com/search/advanced/results?term=She-Hulk%3A+Attorney+at+Law+%282022%29+Miniseries&category=Shows&tmdb_id=163259&tvdb_id=1909724        
+
+    "Legion (2017)":
+        year: 2017
+        title: "Marvel's Legion"
+        alt_title: "Marvel's Legion (2017)"
+        orig_title: "Legion"
+        sort_title: "MCU: 03 - Legion"
+        url_poster: https://theposterdb.com/api/assets/239456
+        # IDs: imdb://tt5114356, tmdb://67195, tvdb://320724
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion&category=Shows&year_filter=equals&yone=2017&tmdb_id=67195&imdb_id=tt5114356&tvdb_id=320724
+        # tmdb: https://www.themoviedb.org/tv/67195
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=320724
+        # imdb: https://www.imdb.com/title/tt5114356
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/239457
+                # IDs: tmdb://78738, tvdb://691126
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+1&category=Shows&tmdb_id=78738&tvdb_id=691126
+            2:
+                url_poster: https://theposterdb.com/api/assets/239458
+                # IDs: tmdb://98949, tvdb://750605
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+2&category=Shows&tmdb_id=98949&tvdb_id=750605
+            3:
+                url_poster: https://theposterdb.com/api/assets/239459
+                # IDs: tmdb://123896
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+3&category=Shows&tmdb_id=123896        
+
+    "Marvel's Moon Knight (2022)":
+        year: 2022
+        title: "Marvel's Moon Knight"
+        alt_title: "Marvel's Moon Knight (2022)"
+        orig_title: "Marvel's Moon Knight"
+        sort_title: "MCU: 03 - Moon Knight"
+        url_poster: https://theposterdb.com/api/assets/218191
+        # IDs: imdb://tt10234724, tmdb://92749, tvdb://368611
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Moon+Knight&category=Shows&year_filter=equals&yone=2022&tmdb_id=92749&imdb_id=tt10234724&tvdb_id=368611
+        # tmdb: https://www.themoviedb.org/tv/92749
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=368611
+        # imdb: https://www.imdb.com/title/tt10234724
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218192
+                # IDs: tmdb://130604, tvdb://1909725
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Moon+Knight+Season+1&category=Shows&tmdb_id=130604&tvdb_id=1909725        
+
+    "Marvel's Spider-Man (2017)":
+        year: 2017
+        title: "Marvel's Spider-Man"
+        alt_title: "Marvel's Spider-Man (2017)"
+        orig_title: "Marvel's Spider-Man"
+        sort_title: "Marvel's Spider-Man"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6135682, tmdb://72705, tvdb://329456
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man&category=Shows&year_filter=equals&yone=2017&tmdb_id=72705&imdb_id=tt6135682&tvdb_id=329456
+        # tmdb: https://www.themoviedb.org/tv/72705
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=329456
+        # imdb: https://www.imdb.com/title/tt6135682
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://90209
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Season+1&category=Shows&tmdb_id=90209
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://105352
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Season+2&category=Shows&tmdb_id=105352
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://148444
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Maximum+Venom&category=Shows&tmdb_id=148444        
+
+    "Marvel's Ultimate Spider-Man (2012)":
+        year: 2012
+        title: "Marvel's Ultimate Spider-Man"
+        alt_title: "Marvel's Ultimate Spider-Man (2012)"
+        orig_title: "Marvel's Ultimate Spider-Man"
+        sort_title: "Marvel's Ultimate Spider-Man"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1722512, tmdb://34391, tvdb://257645
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man&category=Shows&year_filter=equals&yone=2012&tmdb_id=34391&imdb_id=tt1722512&tvdb_id=257645
+        # tmdb: https://www.themoviedb.org/tv/34391
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=257645
+        # imdb: https://www.imdb.com/title/tt1722512
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://45191, tvdb://488822
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+1&category=Shows&tmdb_id=45191&tvdb_id=488822
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://45192, tvdb://508064
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+2&category=Shows&tmdb_id=45192&tvdb_id=508064
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://62572, tvdb://576690
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+3%3A+Web-Warriors&category=Shows&tmdb_id=62572&tvdb_id=576690
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://74755, tvdb://653308
+                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+4%3A+vs+the+Sinister+6&category=Shows&tmdb_id=74755&tvdb_id=653308        

@@ -5,7 +5,7 @@ metadata:
         alt_title: "CSI: Vegas (2021)"
         orig_title: "CSI: Vegas"
         sort_title: "CSI: Vegas"
-        url_poster: https://theposterdb.com/api/assets/195240
+        url_poster: https://theposterdb.com/api/assets/363243
         # IDs: imdb://tt12887536, tmdb://122194, tvdb://400248
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A+Vegas&category=Shows&year_filter=equals&yone=2021&tmdb_id=122194&imdb_id=tt12887536&tvdb_id=400248
         # tmdb: https://www.themoviedb.org/tv/122194
@@ -13,10 +13,10 @@ metadata:
         # imdb: https://www.imdb.com/title/tt12887536
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/195241
+                url_poster: https://theposterdb.com/api/assets/363198
                 # IDs: tmdb://188661, tvdb://1915015
                 # https://theposterdb.com/search/advanced/results?term=CSI%3A+Vegas+Season+1&category=Shows&tmdb_id=188661&tvdb_id=1915015
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/363199
                 # IDs: tmdb://298431, tvdb://2006867
                 # https://theposterdb.com/search/advanced/results?term=CSI%3A+Vegas+Season+2&category=Shows&tmdb_id=298431&tvdb_id=2006867        

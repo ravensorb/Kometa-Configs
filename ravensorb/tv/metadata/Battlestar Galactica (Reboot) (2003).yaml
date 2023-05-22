@@ -1,9 +1,9 @@
 metadata:
-    "Battlestar Galactica (Reboot) (2004)":
-        year: 2004
+    "Battlestar Galactica (2003)":
+        year: 2003
         title: "Battlestar Galactica (Reboot)"
-        alt_title: "Battlestar Galactica (Reboot) (2004)"
-        orig_title: "Battlestar Galactica (2003)"
+        alt_title: "Battlestar Galactica"
+        orig_title: "Battlestar Galactica"
         sort_title: "Battlestar Galactica (2003)"
         url_poster: https://theposterdb.com/api/assets/186159
         # IDs: imdb://tt0407362, tmdb://1972, tvdb://73545

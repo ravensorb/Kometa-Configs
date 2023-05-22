@@ -1,0 +1,261 @@
+
+metadata: 
+
+    "Scooby-Doo, Where Are You! (1969)":
+        year: 1969
+        title: "Scooby-Doo, Where Are You!"
+        alt_title: "Scooby-Doo, Where Are You! (1969)"
+        orig_title: "Scooby-Doo, Where Are You!"
+        sort_title: "Scooby-Doo, Where Are You!"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0063950, tmdb://926, tvdb://78260
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21&category=Shows&year_filter=equals&yone=1969&tmdb_id=926&imdb_id=tt0063950&tvdb_id=78260
+        # tmdb: https://www.themoviedb.org/tv/926
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1969&query=78260
+        # imdb: https://www.imdb.com/title/tt0063950
+        # trakt: https://trakt.tv/search/shows?query=Scooby-Doo%2C%20Where%20Are%20You%21
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://14622
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+1&category=Shows&tvdb_id=14622
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://14623
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+2&category=Shows&tvdb_id=14623
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://1962850
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+3&category=Shows&tvdb_id=1962850
+
+    "The New Scooby-Doo Movies (1972)":
+        year: 1972
+        title: "The New Scooby-Doo Movies"
+        alt_title: "The New Scooby-Doo Movies (1972)"
+        orig_title: "The New Scooby-Doo Movies"
+        sort_title: "New Scooby-Doo Movies"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: 
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+New+Scooby-Doo+Movies&category=Shows&year_filter=equals&yone=1972
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1972&query=75661
+        # imdb: 
+        # trakt: https://trakt.tv/search/shows?query=The%20New%20Scooby-Doo%20Movies
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=The+New+Scooby-Doo+Movies+Season+1&category=Shows
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=The+New+Scooby-Doo+Movies+Season+2&category=Shows
+
+    "The Scooby-Doo Show (1976)":
+        year: 1976
+        title: "The Scooby-Doo Show"
+        alt_title: "The Scooby-Doo Show (1976)"
+        orig_title: "The Scooby-Doo Show"
+        sort_title: "Scooby-Doo Show"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://205755, tvdb://73817
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show&category=Shows&year_filter=equals&yone=1976&tmdb_id=205755&tvdb_id=73817
+        # tmdb: https://www.themoviedb.org/tv/205755
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1976&query=73817
+        # imdb: 
+        # trakt: https://trakt.tv/search/shows?query=The%20Scooby-Doo%20Show
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://6484
+                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+1&category=Shows&tvdb_id=6484
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://6485
+                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+2&category=Shows&tvdb_id=6485
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://6486
+                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+3&category=Shows&tvdb_id=6486
+
+    "Scooby-Doo and Scrappy-Doo (1979)":
+        year: 1979
+        title: "Scooby-Doo and Scrappy-Doo"
+        alt_title: "Scooby-Doo and Scrappy-Doo (1979)"
+        orig_title: "Scooby-Doo and Scrappy-Doo"
+        sort_title: "Scooby-Doo and Scrappy-Doo"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0083475, tmdb://6005, tvdb://78740
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo&category=Shows&year_filter=equals&yone=1979&tmdb_id=6005&imdb_id=tt0083475&tvdb_id=78740
+        # tmdb: https://www.themoviedb.org/tv/6005
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1979&query=78740
+        # imdb: https://www.imdb.com/title/tt0083475
+        # trakt: https://trakt.tv/search/shows?query=Scooby-Doo%20and%20Scrappy-Doo
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15574
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+1&category=Shows&tvdb_id=15574
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15575
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+2&category=Shows&tvdb_id=15575
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15576
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+3&category=Shows&tvdb_id=15576
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15577
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+4&category=Shows&tvdb_id=15577
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15578
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+5&category=Shows&tvdb_id=15578
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://15579
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+6&category=Shows&tvdb_id=15579
+
+    "The 13 Ghosts of Scooby-Doo (1985)":
+        year: 1985
+        title: "The 13 Ghosts of Scooby-Doo"
+        alt_title: "The 13 Ghosts of Scooby-Doo (1985)"
+        orig_title: "The 13 Ghosts of Scooby-Doo"
+        sort_title: "13 Ghosts of Scooby-Doo"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: 
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+13+Ghosts+of+Scooby-Doo&category=Shows&year_filter=equals&yone=1985
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=73543
+        # imdb: 
+        # trakt: https://trakt.tv/search/shows?query=The%2013%20Ghosts%20of%20Scooby-Doo
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=The+13+Ghosts+of+Scooby-Doo+Season+1&category=Shows
+
+    "A Pup Named Scooby-Doo (1988)":
+        year: 1988
+        title: "A Pup Named Scooby-Doo"
+        alt_title: "A Pup Named Scooby-Doo (1988)"
+        orig_title: "A Pup Named Scooby-Doo"
+        sort_title: "Pup Named Scooby-Doo"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: 
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Pup+Named+Scooby-Doo&category=Shows&year_filter=equals&yone=1988
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=73546
+        # imdb: 
+        # trakt: https://trakt.tv/search/shows?query=A%20Pup%20Named%20Scooby-Doo
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=A+Pup+Named+Scooby-Doo+Season+1&category=Shows
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=A+Pup+Named+Scooby-Doo+Season+2&category=Shows
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=A+Pup+Named+Scooby-Doo+Season+3&category=Shows
+
+    "What's New Scooby-Doo- (2002)":
+        year: 2002
+        title: "What's New Scooby-Doo?"
+        alt_title: "What's New Scooby-Doo- (2002)"
+        orig_title: "What's New Scooby-Doo?"
+        sort_title: "What's New Scooby-Doo?"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: 
+        # tpdb: https://theposterdb.com/search/advanced/results?term=What%27s+New+Scooby-Doo%3F&category=Shows&year_filter=equals&yone=2002
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2002&query=80119
+        # imdb: 
+        # trakt: https://trakt.tv/search/shows?query=What%27s%20New%20Scooby-Doo%3F
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=What%27s+New+Scooby-Doo%3F+Season+1&category=Shows
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=What%27s+New+Scooby-Doo%3F+Season+2&category=Shows
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: 
+                # https://theposterdb.com/search/advanced/results?term=What%27s+New+Scooby-Doo%3F+Season+3&category=Shows
+
+    "Shaggy and Scooby-Doo Get a Clue (2006)":
+        year: 2006
+        title: "Shaggy and Scooby-Doo Get a Clue"
+        alt_title: "Shaggy and Scooby-Doo Get a Clue (2006)"
+        orig_title: "Shaggy and Scooby-Doo Get a Clue"
+        sort_title: "Shaggy and Scooby-Doo Get a Clue"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0850642, tmdb://593, tvdb://81425
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shaggy+and+Scooby-Doo+Get+a+Clue&category=Shows&year_filter=equals&yone=2006&tmdb_id=593&imdb_id=tt0850642&tvdb_id=81425
+        # tmdb: https://www.themoviedb.org/tv/593
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2006&query=81425
+        # imdb: https://www.imdb.com/title/tt0850642
+        # trakt: https://trakt.tv/search/shows?query=Shaggy%20and%20Scooby-Doo%20Get%20a%20Clue
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://30913
+                # https://theposterdb.com/search/advanced/results?term=Shaggy+and+Scooby-Doo+Get+a+Clue+Season+1&category=Shows&tvdb_id=30913
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://30914
+                # https://theposterdb.com/search/advanced/results?term=Shaggy+and+Scooby-Doo+Get+a+Clue+Season+2&category=Shows&tvdb_id=30914
+        
+
+    "Scooby-Doo! Mystery Incorporated (2010)":
+        year: 2010
+        title: "Scooby-Doo! Mystery Incorporated"
+        alt_title: "Scooby-Doo! Mystery Incorporated (2010)"
+        orig_title: "Scooby-Doo! Mystery Incorporated"
+        sort_title: "Scooby-Doo! Mystery Incorporated"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1660055, tmdb://18123, tvdb://174681
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21+Mystery+Incorporated&category=Shows&year_filter=equals&yone=2010&tmdb_id=18123&imdb_id=tt1660055&tvdb_id=174681
+        # tmdb: https://www.themoviedb.org/tv/18123
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=174681
+        # imdb: https://www.imdb.com/title/tt1660055
+        # trakt: https://trakt.tv/search/shows?query=Scooby-Doo%21%20Mystery%20Incorporated
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://276571
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21+Mystery+Incorporated+Season+1&category=Shows&tvdb_id=276571
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://464943
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21+Mystery+Incorporated+Season+2&category=Shows&tvdb_id=464943
+
+    "Scooby-Doo and Guess Who- (2019)":
+        year: 2019
+        title: "Scooby-Doo and Guess Who?"
+        alt_title: "Scooby-Doo and Guess Who- (2019)"
+        orig_title: "Scooby-Doo and Guess Who?"
+        sort_title: "Scooby-Doo and Guess Who?"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8456094, tmdb://88367, tvdb://361065
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Guess+Who%3F&category=Shows&year_filter=equals&yone=2019&tmdb_id=88367&imdb_id=tt8456094&tvdb_id=361065
+        # tmdb: https://www.themoviedb.org/tv/88367
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361065
+        # imdb: https://www.imdb.com/title/tt8456094
+        # trakt: https://trakt.tv/search/shows?query=Scooby-Doo%20and%20Guess%20Who%3F
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://802457
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Guess+Who%3F+Season+1&category=Shows&tvdb_id=802457
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tvdb://1829791
+                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Guess+Who%3F+Season+2&category=Shows&tvdb_id=1829791

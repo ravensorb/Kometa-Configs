@@ -5,54 +5,56 @@ metadata:
         alt_title: "M*A*S*H (1972)"
         orig_title: "M*A*S*H"
         sort_title: "M*A*S*H"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/363945
         # IDs: imdb://tt0068098, tmdb://918, tvdb://70994
         # tpdb: https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH&category=Shows&year_filter=equals&yone=1972&tmdb_id=918&imdb_id=tt0068098&tvdb_id=70994
         # tmdb: https://www.themoviedb.org/tv/918
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1972&query=70994
         # imdb: https://www.imdb.com/title/tt0068098
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/363946
+            1:
+                url_poster: https://theposterdb.com/api/assets/363947
                 # IDs: tmdb://2656, tvdb://1447
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+1&category=Shows&tmdb_id=2656&tvdb_id=1447
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/363948
                 # IDs: tmdb://2658, tvdb://1454
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+2&category=Shows&tmdb_id=2658&tvdb_id=1454
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/363949
                 # IDs: tmdb://2657, tvdb://1455
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+3&category=Shows&tmdb_id=2657&tvdb_id=1455
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/363950
                 # IDs: tmdb://2655, tvdb://1456
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+4&category=Shows&tmdb_id=2655&tvdb_id=1456
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/363951
                 # IDs: tmdb://2654, tvdb://1457
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+5&category=Shows&tmdb_id=2654&tvdb_id=1457
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/363952
                 # IDs: tmdb://2660, tvdb://1458
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+6&category=Shows&tmdb_id=2660&tvdb_id=1458
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/363953
                 # IDs: tmdb://2659, tvdb://1459
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+7&category=Shows&tmdb_id=2659&tvdb_id=1459
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/
+            8:
+                url_poster: https://theposterdb.com/api/assets/363954
                 # IDs: tmdb://2661, tvdb://1460
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+8&category=Shows&tmdb_id=2661&tvdb_id=1460
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
+            9:
+                url_poster: https://theposterdb.com/api/assets/363955
                 # IDs: tmdb://2663, tvdb://1461
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+9&category=Shows&tmdb_id=2663&tvdb_id=1461
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/
+            10:
+                url_poster: https://theposterdb.com/api/assets/363956
                 # IDs: tmdb://2662, tvdb://1448
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+10&category=Shows&tmdb_id=2662&tvdb_id=1448
-            # 11:
-                # url_poster: https://theposterdb.com/api/assets/
+            11:
+                url_poster: https://theposterdb.com/api/assets/363957
                 # IDs: tmdb://2664, tvdb://1449
                 # https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH+Season+11&category=Shows&tmdb_id=2664&tvdb_id=1449        

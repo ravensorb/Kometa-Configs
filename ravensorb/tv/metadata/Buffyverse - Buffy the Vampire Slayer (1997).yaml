@@ -5,42 +5,42 @@ metadata:
         alt_title: "Buffy the Vampire Slayer (1997)"
         orig_title: "Buffy the Vampire Slayer"
         sort_title: "Buffy the Vampire Slayer"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/362939
         # IDs: imdb://tt0118276, tmdb://95, tvdb://70327
         # tpdb: https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer&category=Shows&year_filter=equals&yone=1997&tmdb_id=95&imdb_id=tt0118276&tvdb_id=70327
         # tmdb: https://www.themoviedb.org/tv/95
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1997&query=70327
         # imdb: https://www.imdb.com/title/tt0118276
-        # seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/362940
                 # IDs: tmdb://59472, tvdb://17796
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Specials&category=Shows&tmdb_id=59472&tvdb_id=17796
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/362941
                 # IDs: tmdb://59465, tvdb://10
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+1&category=Shows&tmdb_id=59465&tvdb_id=10
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/362942
                 # IDs: tmdb://59466, tvdb://11
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+2&category=Shows&tmdb_id=59466&tvdb_id=11
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/362943
                 # IDs: tmdb://59467, tvdb://12
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+3&category=Shows&tmdb_id=59467&tvdb_id=12
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/362944
                 # IDs: tmdb://59468, tvdb://13
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+4&category=Shows&tmdb_id=59468&tvdb_id=13
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/362945
                 # IDs: tmdb://59469, tvdb://14
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+5&category=Shows&tmdb_id=59469&tvdb_id=14
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/362946
                 # IDs: tmdb://59470, tvdb://15
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+6&category=Shows&tmdb_id=59470&tvdb_id=15
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/362947
                 # IDs: tmdb://59471, tvdb://16
                 # https://theposterdb.com/search/advanced/results?term=Buffy+the+Vampire+Slayer+Season+7&category=Shows&tmdb_id=59471&tvdb_id=16        
