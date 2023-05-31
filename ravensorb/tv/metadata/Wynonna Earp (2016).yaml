@@ -2,29 +2,27 @@ metadata:
     "Wynonna Earp (2016)":
         year: 2016
         title: "Wynonna Earp"
-        alt_title: "Wynonna Earp (2016)"
-        orig_title: "Wynonna Earp"
-        sort_title: "Wynonna Earp"
-        # url_poster: https://theposterdb.com/api/assets/
+        alt_title: "Wynonna Earp"
+        url_poster:  https://theposterdb.com/api/assets/348322
         # IDs: imdb://tt4878326, tmdb://65988, tvdb://305582
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wynonna+Earp&category=Shows&year_filter=equals&yone=2016&tmdb_id=65988&imdb_id=tt4878326&tvdb_id=305582
         # tmdb: https://www.themoviedb.org/tv/65988
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=305582
         # imdb: https://www.imdb.com/title/tt4878326
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster:  https://theposterdb.com/api/assets/348323
                 # IDs: tmdb://75564, tvdb://651246
                 # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+1&category=Shows&tmdb_id=75564&tvdb_id=651246
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster:  https://theposterdb.com/api/assets/348324
                 # IDs: tmdb://88366, tvdb://700520
                 # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+2&category=Shows&tmdb_id=88366&tvdb_id=700520
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster:  https://theposterdb.com/api/assets/348325
                 # IDs: tmdb://104907, tvdb://746783
                 # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+3&category=Shows&tmdb_id=104907&tvdb_id=746783
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster:  https://theposterdb.com/api/assets/348326
                 # IDs: tmdb://128448, tvdb://1851852
                 # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+4&category=Shows&tmdb_id=128448&tvdb_id=1851852        

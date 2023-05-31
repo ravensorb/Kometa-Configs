@@ -5,26 +5,28 @@ metadata:
         alt_title: "Sleepy Hollow (2013)"
         orig_title: "Sleepy Hollow"
         sort_title: "Sleepy Hollow"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster:  https://theposterdb.com/api/assets/350946
         # IDs: imdb://tt2647544, tmdb://50825, tvdb://269578
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow&category=Shows&year_filter=equals&yone=2013&tmdb_id=50825&imdb_id=tt2647544&tvdb_id=269578
         # tmdb: https://www.themoviedb.org/tv/50825
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=269578
         # imdb: https://www.imdb.com/title/tt2647544
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            # 0:
+            #     url_poster:  https://theposterdb.com/api/assets/350947
+            1:
+                url_poster:  https://theposterdb.com/api/assets/350948
                 # IDs: tmdb://55659, tvdb://519456
                 # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+1&category=Shows&tmdb_id=55659&tvdb_id=519456
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster:  https://theposterdb.com/api/assets/350949
                 # IDs: tmdb://62785, tvdb://583776
                 # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+2&category=Shows&tmdb_id=62785&tvdb_id=583776
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster:  https://theposterdb.com/api/assets/350950
                 # IDs: tmdb://70303, tvdb://627034
                 # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+3&category=Shows&tmdb_id=70303&tvdb_id=627034
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster:  https://theposterdb.com/api/assets/350951
                 # IDs: tmdb://82723
                 # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+4&category=Shows&tmdb_id=82723        

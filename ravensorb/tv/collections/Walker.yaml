@@ -1,6 +1,6 @@
 collections:
    "Walker":
-    variables: { show: "3772, 99121, 201877", poster: https://theposterdb.com/api/assets/124954 }
+    variables: { show: "99121, 3772, 201877", poster: https://theposterdb.com/api/assets/124954 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

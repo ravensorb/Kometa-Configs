@@ -2,25 +2,23 @@ metadata:
     "Spider-Man (1967)":
         year: 1967
         title: "Spider-Man (1967)"
-        alt_title: "Spider-Man (1967)"
-        orig_title: "Spider-Man (1967)"
-        sort_title: "Spider-Man (1967)"
-        # url_poster: https://theposterdb.com/api/assets/
+        alt_title: "Spider-Man"
+        url_poster: https://theposterdb.com/api/assets/357119
         # IDs: imdb://tt0061301, tmdb://1482, tvdb://72739
         # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29&category=Shows&year_filter=equals&yone=1967&tmdb_id=1482&imdb_id=tt0061301&tvdb_id=72739
         # tmdb: https://www.themoviedb.org/tv/1482
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1967&query=72739
         # imdb: https://www.imdb.com/title/tt0061301
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/357120
                 # IDs: tmdb://4004
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+1&category=Shows&tmdb_id=4004
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/357121
                 # IDs: tmdb://4005
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+2&category=Shows&tmdb_id=4005
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/357122
                 # IDs: tmdb://4006
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+3&category=Shows&tmdb_id=4006        

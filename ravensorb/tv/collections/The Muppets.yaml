@@ -1,10 +1,10 @@
 collections:
    "The Muppets":
-    variables: { show: "4459, 62815, 194573", poster: https://theposterdb.com/api/assets/160974 }
+    variables: { poster: https://theposterdb.com/api/assets/160974 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplTVDBCollection },
     ]
     summary: |
       The Muppets

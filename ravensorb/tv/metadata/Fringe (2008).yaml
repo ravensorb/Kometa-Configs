@@ -5,30 +5,32 @@ metadata:
         alt_title: "Fringe (2008)"
         orig_title: "Fringe"
         sort_title: "Fringe"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster:  https://theposterdb.com/api/assets/349652
         # IDs: imdb://tt1119644, tmdb://1705, tvdb://82066
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fringe&category=Shows&year_filter=equals&yone=2008&tmdb_id=1705&imdb_id=tt1119644&tvdb_id=82066
         # tmdb: https://www.themoviedb.org/tv/1705
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=82066
         # imdb: https://www.imdb.com/title/tt1119644
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            # 0:
+            #     url_poster:  https://theposterdb.com/api/assets/349653
+            1:
+                url_poster:  https://theposterdb.com/api/assets/349654
                 # IDs: tmdb://4690, tvdb://32606
                 # https://theposterdb.com/search/advanced/results?term=Fringe+Season+1&category=Shows&tmdb_id=4690&tvdb_id=32606
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster:  https://theposterdb.com/api/assets/349655
                 # IDs: tmdb://4691, tvdb://79101
                 # https://theposterdb.com/search/advanced/results?term=Fringe+Season+2&category=Shows&tmdb_id=4691&tvdb_id=79101
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster:  https://theposterdb.com/api/assets/349656
                 # IDs: tmdb://4692, tvdb://280471
                 # https://theposterdb.com/search/advanced/results?term=Fringe+Season+3&category=Shows&tmdb_id=4692&tvdb_id=280471
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster:  https://theposterdb.com/api/assets/349657
                 # IDs: tmdb://4693, tvdb://468438
                 # https://theposterdb.com/search/advanced/results?term=Fringe+Season+4&category=Shows&tmdb_id=4693&tvdb_id=468438
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster:  https://theposterdb.com/api/assets/349658
                 # IDs: tmdb://4694, tvdb://494897
                 # https://theposterdb.com/search/advanced/results?term=Fringe+Season+5&category=Shows&tmdb_id=4694&tvdb_id=494897        

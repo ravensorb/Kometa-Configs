@@ -5,22 +5,24 @@ metadata:
         alt_title: "The Greatest American Hero (1981)"
         orig_title: "The Greatest American Hero"
         sort_title: "Greatest American Hero"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster:  https://theposterdb.com/api/assets/353878
         # IDs: imdb://tt0081871, tmdb://1909, tvdb://77267
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero&category=Shows&year_filter=equals&yone=1981&tmdb_id=1909&imdb_id=tt0081871&tvdb_id=77267
         # tmdb: https://www.themoviedb.org/tv/1909
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=77267
         # imdb: https://www.imdb.com/title/tt0081871
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            # 0:
+            #     url_poster:  https://theposterdb.com/api/assets/353879
+            1:
+                url_poster:  https://theposterdb.com/api/assets/353880
                 # IDs: tmdb://5514, tvdb://12476
                 # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+1&category=Shows&tmdb_id=5514&tvdb_id=12476
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster:  https://theposterdb.com/api/assets/353881
                 # IDs: tmdb://5515, tvdb://12477
                 # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+2&category=Shows&tmdb_id=5515&tvdb_id=12477
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster:  https://theposterdb.com/api/assets/353882
                 # IDs: tmdb://5516, tvdb://12478
                 # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+3&category=Shows&tmdb_id=5516&tvdb_id=12478        

@@ -2,10 +2,8 @@ metadata:
     "FBI: Most Wanted (2020)":
         year: 2020
         title: "FBI: Most Wanted"
-        alt_title: "FBI: Most Wanted (2020)"
-        orig_title: "FBI: Most Wanted"
-        sort_title: "FBI: Most Wanted"
-        url_poster: https://theposterdb.com/api/assets/80716
+        alt_title: "FBI: Most Wanted"
+        url_poster: https://theposterdb.com/api/assets/366310
         # IDs: imdb://tt9742936, tmdb://94372, tvdb://364088
         # tpdb: https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted&category=Shows&year_filter=equals&yone=2020&tmdb_id=94372&imdb_id=tt9742936&tvdb_id=364088
         # tmdb: https://www.themoviedb.org/tv/94372
@@ -13,18 +11,18 @@ metadata:
         # imdb: https://www.imdb.com/title/tt9742936
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/80717
+                url_poster: https://theposterdb.com/api/assets/366311
                 # IDs: tmdb://133716, tvdb://830731
                 # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+1&category=Shows&tmdb_id=133716&tvdb_id=830731
             2:
-                url_poster: https://theposterdb.com/api/assets/80718
+                url_poster: https://theposterdb.com/api/assets/366312
                 # IDs: tmdb://166425, tvdb://1864197
                 # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+2&category=Shows&tmdb_id=166425&tvdb_id=1864197
             3:
-                url_poster: https://theposterdb.com/api/assets/186365
+                url_poster: https://theposterdb.com/api/assets/366313
                 # IDs: tmdb://202000, tvdb://1940630
                 # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+3&category=Shows&tmdb_id=202000&tvdb_id=1940630
             4:
-                url_poster: https://theposterdb.com/api/assets/354207
+                url_poster: https://theposterdb.com/api/assets/366314
                 # IDs: tmdb://298430, tvdb://2006871
                 # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+4&category=Shows&tmdb_id=298430&tvdb_id=2006871        

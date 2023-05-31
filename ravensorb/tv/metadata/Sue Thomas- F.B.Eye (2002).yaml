@@ -1,16 +1,14 @@
 metadata:
-    "Sue Thomas F B Eye":
-        year: None
-        title: "Sue Thomas F B Eye"
-        alt_title: "Sue Thomas F B Eye"
-        orig_title: "Sue Thomas F B Eye"
-        sort_title: "Sue Thomas F B Eye"
+    "Sue Thomas: F.B.Eye (2002)":
+        year: 2002
+        title: "Sue Thomas: F.B.Eye"
+        alt_title: "Sue Thomas: F.B.Eye"
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sue+Thomas+F+B+Eye&category=Shows&year_filter=equals&yone=None
-        # tmdb: 
-        # tvdb: 
-        # imdb: 
+        # tmdb: 1625
+        # tvdb: 78849
+        # imdb: tt0329934
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/

@@ -64,53 +64,53 @@ metadata:
     "Hawaii Five-0 (2010)":
         year: 2010
         title: "Hawaii Five-0"
-        alt_title: "Hawaii Five-0 (2010)"
-        orig_title: "Hawaii Five-0"
-        sort_title: "Hawaii Five-0"
-        # url_poster: https://theposterdb.com/api/assets/
+        alt_title: "Hawaii Five-0"
+        url_poster: https://theposterdb.com/api/assets/360785
         # IDs: imdb://tt1600194, tmdb://32798, tvdb://164541
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0&category=Shows&year_filter=equals&yone=2010&tmdb_id=32798&imdb_id=tt1600194&tvdb_id=164541
         # tmdb: https://www.themoviedb.org/tv/32798
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=164541
         # imdb: https://www.imdb.com/title/tt1600194
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/360786
+            1:
+                url_poster: https://theposterdb.com/api/assets/360787
                 # IDs: tmdb://44050, tvdb://276791
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+1&category=Shows&tmdb_id=44050&tvdb_id=276791
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/360788
                 # IDs: tmdb://44053, tvdb://471501
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+2&category=Shows&tmdb_id=44053&tvdb_id=471501
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/360789
                 # IDs: tmdb://44052, tvdb://489807
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+3&category=Shows&tmdb_id=44052&tvdb_id=489807
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/360790
                 # IDs: tmdb://44054, tvdb://522931
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+4&category=Shows&tmdb_id=44054&tvdb_id=522931
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/360791
                 # IDs: tmdb://62826, tvdb://589287
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+5&category=Shows&tmdb_id=62826&tvdb_id=589287
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/360792
                 # IDs: tmdb://70951, tvdb://625582
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+6&category=Shows&tmdb_id=70951&tvdb_id=625582
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/360793
                 # IDs: tmdb://79757, tvdb://671548
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+7&category=Shows&tmdb_id=79757&tvdb_id=671548
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/
+            8:
+                url_poster: https://theposterdb.com/api/assets/360794
                 # IDs: tmdb://91317, tvdb://714341
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+8&category=Shows&tmdb_id=91317&tvdb_id=714341
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
+            9:
+                url_poster: https://theposterdb.com/api/assets/360795
                 # IDs: tmdb://110012
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+9&category=Shows&tmdb_id=110012
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/
+            10:
+                url_poster: https://theposterdb.com/api/assets/360796
                 # IDs: tmdb://129415, tvdb://164541
                 # https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0+Season+10&category=Shows&tmdb_id=129415&tvdb_id=164541        

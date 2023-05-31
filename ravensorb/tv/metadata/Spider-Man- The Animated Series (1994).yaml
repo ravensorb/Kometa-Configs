@@ -5,30 +5,30 @@ metadata:
         alt_title: "Spider-Man: The Animated Series (1994)"
         orig_title: "Spider-Man: The Animated Series"
         sort_title: "Spider-Man: The Animated Series"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/357080
         # IDs: imdb://tt0112175, tmdb://888, tvdb://73750
         # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series&category=Shows&year_filter=equals&yone=1994&tmdb_id=888&imdb_id=tt0112175&tvdb_id=73750
         # tmdb: https://www.themoviedb.org/tv/888
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1994&query=73750
         # imdb: https://www.imdb.com/title/tt0112175
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/357081
                 # IDs: tmdb://2572
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+1&category=Shows&tmdb_id=2572
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/357082
                 # IDs: tmdb://2570
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+2&category=Shows&tmdb_id=2570
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/357083
                 # IDs: tmdb://2568
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+3&category=Shows&tmdb_id=2568
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/357084
                 # IDs: tmdb://2569
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+4&category=Shows&tmdb_id=2569
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/357085
                 # IDs: tmdb://2573
                 # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+5&category=Shows&tmdb_id=2573        

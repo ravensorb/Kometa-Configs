@@ -5,26 +5,28 @@ metadata:
         alt_title: "Nikita (2010)"
         orig_title: "Nikita"
         sort_title: "Nikita"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/359823
         # IDs: imdb://tt1592154, tmdb://32868, tvdb://164301
         # tpdb: https://theposterdb.com/search/advanced/results?term=Nikita&category=Shows&year_filter=equals&yone=2010&tmdb_id=32868&imdb_id=tt1592154&tvdb_id=164301
         # tmdb: https://www.themoviedb.org/tv/32868
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=164301
         # imdb: https://www.imdb.com/title/tt1592154
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            # 0:
+            #     url_poster: https://theposterdb.com/api/assets/359824
+            1:
+                url_poster: https://theposterdb.com/api/assets/359825
                 # IDs: tmdb://44098, tvdb://270371
                 # https://theposterdb.com/search/advanced/results?term=Nikita+Season+1&category=Shows&tmdb_id=44098&tvdb_id=270371
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/359826
                 # IDs: tmdb://44100, tvdb://468255
                 # https://theposterdb.com/search/advanced/results?term=Nikita+Season+2&category=Shows&tmdb_id=44100&tvdb_id=468255
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/359827
                 # IDs: tmdb://44099, tvdb://495494
                 # https://theposterdb.com/search/advanced/results?term=Nikita+Season+3&category=Shows&tmdb_id=44099&tvdb_id=495494
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/359828
                 # IDs: tmdb://44102, tvdb://523661
                 # https://theposterdb.com/search/advanced/results?term=Nikita+Season+4&category=Shows&tmdb_id=44102&tvdb_id=523661        

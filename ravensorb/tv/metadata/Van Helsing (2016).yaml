@@ -2,33 +2,31 @@ metadata:
     "Van Helsing (2016)":
         year: 2016
         title: "Van Helsing"
-        alt_title: "Van Helsing (2016)"
-        orig_title: "Van Helsing"
-        sort_title: "Van Helsing"
-        # url_poster: https://theposterdb.com/api/assets/
+        alt_title: "Van Helsing"
+        url_poster:  https://theposterdb.com/api/assets/348310
         # IDs: imdb://tt5197820, tmdb://65820, tvdb://308772
         # tpdb: https://theposterdb.com/search/advanced/results?term=Van+Helsing&category=Shows&year_filter=equals&yone=2016&tmdb_id=65820&imdb_id=tt5197820&tvdb_id=308772
         # tmdb: https://www.themoviedb.org/tv/65820
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=308772
         # imdb: https://www.imdb.com/title/tt5197820
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster:  https://theposterdb.com/api/assets/348311
                 # IDs: tmdb://75158
                 # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+1&category=Shows&tmdb_id=75158
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster:  https://theposterdb.com/api/assets/348312
                 # IDs: tmdb://91715
                 # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+2&category=Shows&tmdb_id=91715
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster:  https://theposterdb.com/api/assets/348313
                 # IDs: tmdb://109623
                 # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+3&category=Shows&tmdb_id=109623
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster:  https://theposterdb.com/api/assets/348314
                 # IDs: tmdb://131232
                 # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+4&category=Shows&tmdb_id=131232
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster:  https://theposterdb.com/api/assets/348315
                 # IDs: tmdb://186443
                 # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+5&category=Shows&tmdb_id=186443        

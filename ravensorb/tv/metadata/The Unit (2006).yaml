@@ -5,26 +5,28 @@ metadata:
         alt_title: "The Unit (2006)"
         orig_title: "The Unit"
         sort_title: "Unit"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/359892
         # IDs: imdb://tt0460690, tmdb://2321, tvdb://75707
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Unit&category=Shows&year_filter=equals&yone=2006&tmdb_id=2321&imdb_id=tt0460690&tvdb_id=75707
         # tmdb: https://www.themoviedb.org/tv/2321
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2006&query=75707
         # imdb: https://www.imdb.com/title/tt0460690
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            # 0:
+            #     url_poster: https://theposterdb.com/api/assets/359893
+            1:
+                url_poster: https://theposterdb.com/api/assets/359894
                 # IDs: tmdb://7259, tvdb://9217
                 # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+1&category=Shows&tmdb_id=7259&tvdb_id=9217
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/359895
                 # IDs: tmdb://7258, tvdb://16302
                 # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+2&category=Shows&tmdb_id=7258&tvdb_id=16302
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/359896
                 # IDs: tmdb://7260, tvdb://28618
                 # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+3&category=Shows&tmdb_id=7260&tvdb_id=28618
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/359897
                 # IDs: tmdb://7261, tvdb://33649
                 # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+4&category=Shows&tmdb_id=7261&tvdb_id=33649        

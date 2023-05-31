@@ -5,7 +5,7 @@ metadata:
         alt_title: "Designated Survivor (2016)"
         orig_title: "Designated Survivor"
         sort_title: "Designated Survivor"
-        url_poster: https://theposterdb.com/api/assets/294884
+        url_poster: https://theposterdb.com/api/assets/353395
         # IDs: imdb://tt5296406, tmdb://67026, tvdb://311876
         # tpdb: https://theposterdb.com/search/advanced/results?term=Designated+Survivor&category=Shows&year_filter=equals&yone=2016&tmdb_id=67026&imdb_id=tt5296406&tvdb_id=311876
         # tmdb: https://www.themoviedb.org/tv/67026
@@ -13,14 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt5296406
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/294885
+                url_poster: https://theposterdb.com/api/assets/353396
                 # IDs: tmdb://78328, tvdb://311876
                 # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+1&category=Shows&tmdb_id=78328&tvdb_id=311876
             2:
-                url_poster: https://theposterdb.com/api/assets/294886
+                url_poster: https://theposterdb.com/api/assets/353397
                 # IDs: tmdb://91130, tvdb://718031
                 # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+2&category=Shows&tmdb_id=91130&tvdb_id=718031
             3:
-                url_poster: https://theposterdb.com/api/assets/294887
+                url_poster: https://theposterdb.com/api/assets/353398
                 # IDs: tmdb://122914
                 # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+3&category=Shows&tmdb_id=122914        

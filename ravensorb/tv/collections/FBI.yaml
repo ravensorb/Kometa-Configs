@@ -1,6 +1,6 @@
 collections:
    "FBI":
-    variables: { show: "80748, 94372, 121658", poster: https://theposterdb.com/api/assets/36472 }
+    variables: { show: "80748, 94372, 121658", poster: https://theposterdb.com/api/assets/366300 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

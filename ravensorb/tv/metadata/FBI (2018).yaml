@@ -5,7 +5,7 @@ metadata:
         alt_title: "FBI (2018)"
         orig_title: "FBI"
         sort_title: "FBI"
-        url_poster: https://theposterdb.com/api/assets/112588
+        url_poster: https://theposterdb.com/api/assets/366301
         # IDs: imdb://tt7491982, tmdb://80748, tvdb://350071
         # tpdb: https://theposterdb.com/search/advanced/results?term=FBI&category=Shows&year_filter=equals&yone=2018&tmdb_id=80748&imdb_id=tt7491982&tvdb_id=350071
         # tmdb: https://www.themoviedb.org/tv/80748
@@ -13,19 +13,19 @@ metadata:
         # imdb: https://www.imdb.com/title/tt7491982
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/112589
+                url_poster: https://theposterdb.com/api/assets/366302
                 # IDs: tmdb://106154
                 # https://theposterdb.com/search/advanced/results?term=FBI+Season+1&category=Shows&tmdb_id=106154
             2:
-                url_poster: https://theposterdb.com/api/assets/112590
+                url_poster: https://theposterdb.com/api/assets/366303
                 # IDs: tmdb://126157
                 # https://theposterdb.com/search/advanced/results?term=FBI+Season+2&category=Shows&tmdb_id=126157
             3:
-                url_poster: https://theposterdb.com/api/assets/112591
+                url_poster: https://theposterdb.com/api/assets/366304
                 # IDs: tmdb://166426
                 # https://theposterdb.com/search/advanced/results?term=FBI+Season+3&category=Shows&tmdb_id=166426
             4:
-                url_poster: https://theposterdb.com/api/assets/187223
+                url_poster: https://theposterdb.com/api/assets/366305
                 # IDs: tmdb://201999, tvdb://1940640
                 # https://theposterdb.com/search/advanced/results?term=FBI+Season+4&category=Shows&tmdb_id=201999&tvdb_id=1940640
             5:
