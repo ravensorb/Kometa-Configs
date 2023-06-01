@@ -89,7 +89,7 @@ metadata:
                 # IDs: tmdb://201998
                 # https://theposterdb.com/search/advanced/results?term=NCIS+Season+19&category=Shows&tmdb_id=201998
             20:
-                url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/360227
                 # IDs: tmdb://298439
                 # https://theposterdb.com/search/advanced/results?term=NCIS+Season+20&category=Shows&tmdb_id=298439        
 

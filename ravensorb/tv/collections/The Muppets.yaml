@@ -4,6 +4,7 @@ collections:
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
+      { name: tplTMDBCollection },
       { name: tplTVDBCollection },
     ]
     summary: |
@@ -15,7 +16,7 @@ collections:
     # trakt: https://trakt.tv/search/lists?query=The%20Muppets
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/muppets-collection?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/muppets-collection?display=show&sort=released,desc
 
   ########################################################################################################################
 ########################################################################################################################
