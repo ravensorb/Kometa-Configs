@@ -5,22 +5,22 @@ metadata:
         alt_title: "Da Vinci's Demons (2013)"
         orig_title: "Da Vinci's Demons"
         sort_title: "Da Vinci's Demons"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/294083
         # IDs: imdb://tt2094262, tmdb://40293, tvdb://259669
         # tpdb: https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons&category=Shows&year_filter=equals&yone=2013&tmdb_id=40293&imdb_id=tt2094262&tvdb_id=259669
         # tmdb: https://www.themoviedb.org/tv/40293
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=259669
         # imdb: https://www.imdb.com/title/tt2094262
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/294084
                 # IDs: tmdb://51265, tvdb://496577
                 # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+1&category=Shows&tmdb_id=51265&tvdb_id=496577
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/294085
                 # IDs: tmdb://51266, tvdb://522561
                 # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+2&category=Shows&tmdb_id=51266&tvdb_id=522561
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/294086
                 # IDs: tmdb://67288, tvdb://621881
                 # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+3&category=Shows&tmdb_id=67288&tvdb_id=621881        

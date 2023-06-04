@@ -5,38 +5,38 @@ metadata:
         alt_title: "Benson (1979)"
         orig_title: "Benson"
         sort_title: "Benson"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/368338
         # IDs: imdb://tt0078569, tmdb://1849, tvdb://78553
         # tpdb: https://theposterdb.com/search/advanced/results?term=Benson&category=Shows&year_filter=equals&yone=1979&tmdb_id=1849&imdb_id=tt0078569&tvdb_id=78553
         # tmdb: https://www.themoviedb.org/tv/1849
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1979&query=78553
         # imdb: https://www.imdb.com/title/tt0078569
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/368341
                 # IDs: tmdb://5289, tvdb://15241
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+1&category=Shows&tmdb_id=5289&tvdb_id=15241
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/368342
                 # IDs: tmdb://5288, tvdb://15242
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+2&category=Shows&tmdb_id=5288&tvdb_id=15242
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/368343
                 # IDs: tmdb://5291, tvdb://15243
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+3&category=Shows&tmdb_id=5291&tvdb_id=15243
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/368344
                 # IDs: tmdb://5290, tvdb://15244
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+4&category=Shows&tmdb_id=5290&tvdb_id=15244
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/368345
                 # IDs: tmdb://5286, tvdb://15245
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+5&category=Shows&tmdb_id=5286&tvdb_id=15245
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/368346
                 # IDs: tmdb://5287, tvdb://15246
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+6&category=Shows&tmdb_id=5287&tvdb_id=15246
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/368347
                 # IDs: tmdb://5292, tvdb://15247
                 # https://theposterdb.com/search/advanced/results?term=Benson+Season+7&category=Shows&tmdb_id=5292&tvdb_id=15247        

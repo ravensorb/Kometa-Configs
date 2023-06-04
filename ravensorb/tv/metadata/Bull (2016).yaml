@@ -5,34 +5,34 @@ metadata:
         alt_title: "Bull (2016)"
         orig_title: "Bull"
         sort_title: "Bull (2016)"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/364802
         # IDs: imdb://tt5827228, tmdb://66840, tvdb://311945
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bull+%282016%29&category=Shows&year_filter=equals&yone=2016&tmdb_id=66840&imdb_id=tt5827228&tvdb_id=311945
         # tmdb: https://www.themoviedb.org/tv/66840
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=311945
         # imdb: https://www.imdb.com/title/tt5827228
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/364803
                 # IDs: tmdb://77909, tvdb://671546
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+1&category=Shows&tmdb_id=77909&tvdb_id=671546
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/364804
                 # IDs: tmdb://91668, tvdb://714337
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+2&category=Shows&tmdb_id=91668&tvdb_id=714337
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/364805
                 # IDs: tmdb://106150
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+3&category=Shows&tmdb_id=106150
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/364806
                 # IDs: tmdb://126156
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+4&category=Shows&tmdb_id=126156
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/364807
                 # IDs: tmdb://167197
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+5&category=Shows&tmdb_id=167197
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/364808
                 # IDs: tmdb://202008
                 # https://theposterdb.com/search/advanced/results?term=Bull+%282016%29+Season+6&category=Shows&tmdb_id=202008        

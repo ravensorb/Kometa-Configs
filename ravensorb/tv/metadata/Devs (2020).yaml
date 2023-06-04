@@ -5,7 +5,7 @@ metadata:
         alt_title: "Devs (2020)"
         orig_title: "Devs"
         sort_title: "Devs"
-        url_poster: https://theposterdb.com/api/assets/82263
+        url_poster: https://theposterdb.com/api/assets/346735
         # IDs: imdb://tt8134186, tmdb://81349, tvdb://364149
         # tpdb: https://theposterdb.com/search/advanced/results?term=Devs&category=Shows&year_filter=equals&yone=2020&tmdb_id=81349&imdb_id=tt8134186&tvdb_id=364149
         # tmdb: https://www.themoviedb.org/tv/81349
@@ -13,6 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt8134186
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/82264
+                url_poster: https://theposterdb.com/api/assets/346736
                 # IDs: tmdb://107281
                 # https://theposterdb.com/search/advanced/results?term=Devs+Season+1&category=Shows&tmdb_id=107281        
