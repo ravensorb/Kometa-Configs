@@ -5,34 +5,34 @@ metadata:
         alt_title: "Hogan's Heroes (1965)"
         orig_title: "Hogan's Heroes"
         sort_title: "Hogan's Heroes"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/253671
         # IDs: imdb://tt0058812, tmdb://4068, tvdb://71635
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes&category=Shows&year_filter=equals&yone=1965&tmdb_id=4068&imdb_id=tt0058812&tvdb_id=71635
         # tmdb: https://www.themoviedb.org/tv/4068
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1965&query=71635
         # imdb: https://www.imdb.com/title/tt0058812
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/253672
                 # IDs: tmdb://12043, tvdb://2678
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+1&category=Shows&tmdb_id=12043&tvdb_id=2678
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/253673
                 # IDs: tmdb://12044, tvdb://2679
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+2&category=Shows&tmdb_id=12044&tvdb_id=2679
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/253674
                 # IDs: tmdb://12045, tvdb://2680
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+3&category=Shows&tmdb_id=12045&tvdb_id=2680
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/253675
                 # IDs: tmdb://12046, tvdb://2681
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+4&category=Shows&tmdb_id=12046&tvdb_id=2681
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/253676
                 # IDs: tmdb://12047, tvdb://2682
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+5&category=Shows&tmdb_id=12047&tvdb_id=2682
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/253677
                 # IDs: tmdb://12048, tvdb://2683
                 # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+6&category=Shows&tmdb_id=12048&tvdb_id=2683        

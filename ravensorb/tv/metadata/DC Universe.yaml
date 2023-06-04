@@ -544,32 +544,6 @@ metadata:
                 # https://theposterdb.com/search/advanced/results?term=Doom+Patrol+Season+4&category=Shows&tvdb_id=2007400
         
 
-    "Pennyworth: The Origin of Batman's Butler (2019)":
-        year: 2019
-        title: "Pennyworth: The Origin of Batman's Butler"
-        alt_title: "Pennyworth: The Origin of Batman's Butler"
-        url_poster: https://theposterdb.com/api/assets/344443
-        # IDs: imdb://tt8425532, tmdb://79588, tvdb://363008
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler&category=Shows&year_filter=equals&yone=2019&tmdb_id=79588&imdb_id=tt8425532&tvdb_id=363008
-        # tmdb: https://www.themoviedb.org/tv/79588
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=363008
-        # imdb: https://www.imdb.com/title/tt8425532
-        # trakt: https://trakt.tv/search/shows?query=Pennyworth%3A%20The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/344444
-                # IDs: tvdb://807777
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+1&category=Shows&tvdb_id=807777
-            2:
-                url_poster: https://theposterdb.com/api/assets/344445
-                # IDs: tvdb://1871760
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+2&category=Shows&tvdb_id=1871760
-            3:
-                url_poster: https://theposterdb.com/api/assets/344446
-                # IDs: tvdb://1992955
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+3&category=Shows&tvdb_id=1992955
-        
-
     "Batwoman (2019)":
         year: 2019
         title: "Batwoman"
@@ -712,28 +686,28 @@ metadata:
                 # IDs: 
                 # https://theposterdb.com/search/advanced/results?term=Superman+Season+1&category=Shows        
 
-    "Pennyworth: The Origin of Batman's Butler (2019)":
+
+    "Pennyworth: The Origin of Batman's Butler (2019)":
         year: 2019
-        title: "Pennyworth: The Origin of Batman's Butler"
-        alt_title: "Pennyworth: The Origin of Batman's Butler (2019)"
-        orig_title: "Pennyworth: The Origin of Batman's Butler"
-        sort_title: "Pennyworth: The Origin of Batman's Butler"
+        title: "Pennyworth: The Origin of Batman's Butler"
+        alt_title: "Pennyworth: The Origin of Batman's Butler"
         url_poster: https://theposterdb.com/api/assets/344443
         # IDs: imdb://tt8425532, tmdb://79588, tvdb://363008
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler&category=Shows&year_filter=equals&yone=2019&tmdb_id=79588&imdb_id=tt8425532&tvdb_id=363008
         # tmdb: https://www.themoviedb.org/tv/79588
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=363008
         # imdb: https://www.imdb.com/title/tt8425532
+        # trakt: https://trakt.tv/search/shows?query=Pennyworth%3A%20The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344444
-                # IDs: tmdb://103876, tvdb://807777
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+1&category=Shows&tmdb_id=103876&tvdb_id=807777
+                # IDs: tvdb://807777
+                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+1&category=Shows&tvdb_id=807777
             2:
                 url_poster: https://theposterdb.com/api/assets/344445
-                # IDs: tmdb://165131, tvdb://1871760
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+2&category=Shows&tmdb_id=165131&tvdb_id=1871760
+                # IDs: tvdb://1871760
+                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+2&category=Shows&tvdb_id=1871760
             3:
                 url_poster: https://theposterdb.com/api/assets/344446
-                # IDs: tmdb://215978, tvdb://1992955
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+3&category=Shows&tmdb_id=215978&tvdb_id=1992955        
+                # IDs: tvdb://1992955
+                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+3&category=Shows&tvdb_id=1992955

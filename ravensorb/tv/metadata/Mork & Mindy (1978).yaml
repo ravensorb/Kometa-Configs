@@ -5,26 +5,26 @@ metadata:
         alt_title: "Mork & Mindy (1978)"
         orig_title: "Mork & Mindy"
         sort_title: "Mork & Mindy"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/262592
         # IDs: imdb://tt0077053, tmdb://2552, tvdb://71779
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy&category=Shows&year_filter=equals&yone=1978&tmdb_id=2552&imdb_id=tt0077053&tvdb_id=71779
         # tmdb: https://www.themoviedb.org/tv/2552
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1978&query=71779
         # imdb: https://www.imdb.com/title/tt0077053
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/262594
                 # IDs: tmdb://8150
                 # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+1&category=Shows&tmdb_id=8150
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/262595
                 # IDs: tmdb://8151
                 # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+2&category=Shows&tmdb_id=8151
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/262596
                 # IDs: tmdb://8152
                 # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+3&category=Shows&tmdb_id=8152
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/262597
                 # IDs: tmdb://8153
                 # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+4&category=Shows&tmdb_id=8153        

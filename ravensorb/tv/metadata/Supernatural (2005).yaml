@@ -5,74 +5,74 @@ metadata:
         alt_title: "Supernatural (2005)"
         orig_title: "Supernatural"
         sort_title: "Supernatural"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/259176
         # IDs: imdb://tt0460681, tmdb://1622, tvdb://78901
         # tpdb: https://theposterdb.com/search/advanced/results?term=Supernatural&category=Shows&year_filter=equals&yone=2005&tmdb_id=1622&imdb_id=tt0460681&tvdb_id=78901
         # tmdb: https://www.themoviedb.org/tv/1622
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=78901
         # imdb: https://www.imdb.com/title/tt0460681
-        # seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/259177
                 # IDs: tmdb://6902, tvdb://26354
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Specials&category=Shows&tmdb_id=6902&tvdb_id=26354
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/259178
                 # IDs: tmdb://6904, tvdb://15827
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+1&category=Shows&tmdb_id=6904&tvdb_id=15827
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/259179
                 # IDs: tmdb://6905, tvdb://16352
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+2&category=Shows&tmdb_id=6905&tvdb_id=16352
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/259180
                 # IDs: tmdb://6906, tvdb://28734
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+3&category=Shows&tmdb_id=6906&tvdb_id=28734
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/259181
                 # IDs: tmdb://6907, tvdb://33598
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+4&category=Shows&tmdb_id=6907&tvdb_id=33598
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/259182
                 # IDs: tmdb://6908, tvdb://83121
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+5&category=Shows&tmdb_id=6908&tvdb_id=83121
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/259183
                 # IDs: tmdb://6909, tvdb://269951
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+6&category=Shows&tmdb_id=6909&tvdb_id=269951
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/259184
                 # IDs: tmdb://6910, tvdb://468256
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+7&category=Shows&tmdb_id=6910&tvdb_id=468256
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/
+            8:
+                url_poster: https://theposterdb.com/api/assets/259185
                 # IDs: tmdb://6911, tvdb://495545
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+8&category=Shows&tmdb_id=6911&tvdb_id=495545
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
+            9:
+                url_poster: https://theposterdb.com/api/assets/259186
                 # IDs: tmdb://6903, tvdb://523339
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+9&category=Shows&tmdb_id=6903&tvdb_id=523339
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/
+            10:
+                url_poster: https://theposterdb.com/api/assets/259187
                 # IDs: tmdb://62088, tvdb://589363
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+10&category=Shows&tmdb_id=62088&tvdb_id=589363
-            # 11:
-                # url_poster: https://theposterdb.com/api/assets/
+            11:
+                url_poster: https://theposterdb.com/api/assets/259188
                 # IDs: tmdb://70169, tvdb://626968
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+11&category=Shows&tmdb_id=70169&tvdb_id=626968
-            # 12:
-                # url_poster: https://theposterdb.com/api/assets/
+            12:
+                url_poster: https://theposterdb.com/api/assets/259189
                 # IDs: tmdb://78350, tvdb://671090
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+12&category=Shows&tmdb_id=78350&tvdb_id=671090
-            # 13:
-                # url_poster: https://theposterdb.com/api/assets/
+            13:
+                url_poster: https://theposterdb.com/api/assets/259190
                 # IDs: tmdb://92695, tvdb://715405
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+13&category=Shows&tmdb_id=92695&tvdb_id=715405
-            # 14:
-                # url_poster: https://theposterdb.com/api/assets/
+            14:
+                url_poster: https://theposterdb.com/api/assets/259191
                 # IDs: tmdb://105970
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+14&category=Shows&tmdb_id=105970
-            # 15:
-                # url_poster: https://theposterdb.com/api/assets/
+            15:
+                url_poster: https://theposterdb.com/api/assets/259192
                 # IDs: tmdb://132243
                 # https://theposterdb.com/search/advanced/results?term=Supernatural+Season+15&category=Shows&tmdb_id=132243        
