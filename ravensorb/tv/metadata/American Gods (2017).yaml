@@ -5,22 +5,22 @@ metadata:
         alt_title: "American Gods (2017)"
         orig_title: "American Gods"
         sort_title: "American Gods"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/345911
         # IDs: imdb://tt1898069, tmdb://46639, tvdb://253573
         # tpdb: https://theposterdb.com/search/advanced/results?term=American+Gods&category=Shows&year_filter=equals&yone=2017&tmdb_id=46639&imdb_id=tt1898069&tvdb_id=253573
         # tmdb: https://www.themoviedb.org/tv/46639
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=253573
         # imdb: https://www.imdb.com/title/tt1898069
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345913
                 # IDs: tmdb://68626, tvdb://1769411
                 # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+1&category=Shows&tmdb_id=68626&tvdb_id=1769411
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/345914
                 # IDs: tmdb://113970
                 # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+2&category=Shows&tmdb_id=113970
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/345915
                 # IDs: tmdb://166922
                 # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+3&category=Shows&tmdb_id=166922        

@@ -5,14 +5,14 @@ metadata:
         alt_title: "Outer Range (2022)"
         orig_title: "Outer Range"
         sort_title: "Outer Range"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/335490
         # IDs: imdb://tt11685912, tmdb://113985, tvdb://391101
         # tpdb: https://theposterdb.com/search/advanced/results?term=Outer+Range&category=Shows&year_filter=equals&yone=2022&tmdb_id=113985&imdb_id=tt11685912&tvdb_id=391101
         # tmdb: https://www.themoviedb.org/tv/113985
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=391101
         # imdb: https://www.imdb.com/title/tt11685912
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335491
                 # IDs: tmdb://170737, tvdb://1877672
                 # https://theposterdb.com/search/advanced/results?term=Outer+Range+Season+1&category=Shows&tmdb_id=170737&tvdb_id=1877672        

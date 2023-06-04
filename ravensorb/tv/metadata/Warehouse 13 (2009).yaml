@@ -5,30 +5,30 @@ metadata:
         alt_title: "Warehouse 13 (2009)"
         orig_title: "Warehouse 13"
         sort_title: "Warehouse 13"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/330452
         # IDs: imdb://tt1132290, tmdb://15819, tvdb://84676
         # tpdb: https://theposterdb.com/search/advanced/results?term=Warehouse+13&category=Shows&year_filter=equals&yone=2009&tmdb_id=15819&imdb_id=tt1132290&tvdb_id=84676
         # tmdb: https://www.themoviedb.org/tv/15819
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=84676
         # imdb: https://www.imdb.com/title/tt1132290
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330454
                 # IDs: tmdb://27255, tvdb://41975
                 # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+1&category=Shows&tmdb_id=27255&tvdb_id=41975
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/330455
                 # IDs: tmdb://27256, tvdb://199131
                 # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+2&category=Shows&tmdb_id=27256&tvdb_id=199131
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/330456
                 # IDs: tmdb://27257, tvdb://463845
                 # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+3&category=Shows&tmdb_id=27257&tvdb_id=463845
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/330457
                 # IDs: tmdb://27259, tvdb://492583
                 # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+4&category=Shows&tmdb_id=27259&tvdb_id=492583
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/330458
                 # IDs: tmdb://27260, tvdb://529192
                 # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+5&category=Shows&tmdb_id=27260&tvdb_id=529192        

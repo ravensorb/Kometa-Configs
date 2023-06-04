@@ -1,6 +1,6 @@
 collections:
   "DC Universe":
-    variables: { sort_prefix: "DCU", sort_order: "00", sort_separator: " - ", poster: https://theposterdb.com/api/assets/239356 }
+    variables: { sort_prefix: "DCU", sort_order: "00", sort_separator: " - ", show: "79588", poster: https://theposterdb.com/api/assets/239356 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

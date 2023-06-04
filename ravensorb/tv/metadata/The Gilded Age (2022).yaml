@@ -5,14 +5,14 @@ metadata:
         alt_title: "The Gilded Age (2022)"
         orig_title: "The Gilded Age"
         sort_title: "Gilded Age"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/346112
         # IDs: imdb://tt4406178, tmdb://81723, tvdb://364412
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Gilded+Age&category=Shows&year_filter=equals&yone=2022&tmdb_id=81723&imdb_id=tt4406178&tvdb_id=364412
         # tmdb: https://www.themoviedb.org/tv/81723
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=364412
         # imdb: https://www.imdb.com/title/tt4406178
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/346113
                 # IDs: tmdb://108018, tvdb://1967925
                 # https://theposterdb.com/search/advanced/results?term=The+Gilded+Age+Season+1&category=Shows&tmdb_id=108018&tvdb_id=1967925        

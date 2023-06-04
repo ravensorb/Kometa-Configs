@@ -5,15 +5,15 @@ metadata:
         alt_title: "Merlin (1998)"
         orig_title: "Merlin"
         sort_title: "Merlin (1998)"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/337222
         # IDs: imdb://tt0130414, tmdb://41691, tvdb://83269
         # tpdb: https://theposterdb.com/search/advanced/results?term=Merlin+%281998%29&category=Shows&year_filter=equals&yone=1998&tmdb_id=41691&imdb_id=tt0130414&tvdb_id=83269
         # tmdb: https://www.themoviedb.org/tv/41691
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=83269
         # imdb: https://www.imdb.com/title/tt0130414
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/337223
                 # IDs: tmdb://51866
                 # https://theposterdb.com/search/advanced/results?term=Merlin+%281998%29+Season+1&category=Shows&tmdb_id=51866
             # 2:

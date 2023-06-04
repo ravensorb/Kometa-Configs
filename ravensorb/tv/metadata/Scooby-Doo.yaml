@@ -123,16 +123,16 @@ metadata:
         alt_title: "The 13 Ghosts of Scooby-Doo (1985)"
         orig_title: "The 13 Ghosts of Scooby-Doo"
         sort_title: "13 Ghosts of Scooby-Doo"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/352894
         # IDs: 
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+13+Ghosts+of+Scooby-Doo&category=Shows&year_filter=equals&yone=1985
         # tmdb: 
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=73543
         # imdb: 
         # trakt: https://trakt.tv/search/shows?query=The%2013%20Ghosts%20of%20Scooby-Doo
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/352895
                 # IDs: 
                 # https://theposterdb.com/search/advanced/results?term=The+13+Ghosts+of+Scooby-Doo+Season+1&category=Shows
 
@@ -163,10 +163,10 @@ metadata:
                 # IDs: 
                 # https://theposterdb.com/search/advanced/results?term=A+Pup+Named+Scooby-Doo+Season+3&category=Shows
 
-    "What's New Scooby-Doo- (2002)":
+    "What's New Scooby-Doo? (2002)":
         year: 2002
         title: "What's New Scooby-Doo?"
-        alt_title: "What's New Scooby-Doo- (2002)"
+        alt_title: "What's New Scooby-Doo? (2002)"
         orig_title: "What's New Scooby-Doo?"
         sort_title: "What's New Scooby-Doo?"
         # url_poster: https://theposterdb.com/api/assets/
@@ -237,10 +237,10 @@ metadata:
                 # IDs: tvdb://464943
                 # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21+Mystery+Incorporated+Season+2&category=Shows&tvdb_id=464943
 
-    "Scooby-Doo and Guess Who- (2019)":
+    "Scooby-Doo and Guess Who? (2019)":
         year: 2019
         title: "Scooby-Doo and Guess Who?"
-        alt_title: "Scooby-Doo and Guess Who- (2019)"
+        alt_title: "Scooby-Doo and Guess Who? (2019)"
         orig_title: "Scooby-Doo and Guess Who?"
         sort_title: "Scooby-Doo and Guess Who?"
         # url_poster: https://theposterdb.com/api/assets/
@@ -259,3 +259,4 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
                 # IDs: tvdb://1829791
                 # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Guess+Who%3F+Season+2&category=Shows&tvdb_id=1829791
+

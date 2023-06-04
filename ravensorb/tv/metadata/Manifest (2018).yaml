@@ -5,26 +5,26 @@ metadata:
         alt_title: "Manifest (2018)"
         orig_title: "Manifest"
         sort_title: "Manifest"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/345588
         # IDs: imdb://tt8421350, tmdb://79696, tvdb://349271
         # tpdb: https://theposterdb.com/search/advanced/results?term=Manifest&category=Shows&year_filter=equals&yone=2018&tmdb_id=79696&imdb_id=tt8421350&tvdb_id=349271
         # tmdb: https://www.themoviedb.org/tv/79696
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=349271
         # imdb: https://www.imdb.com/title/tt8421350
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/345589
                 # IDs: tmdb://104038, tvdb://349271
                 # https://theposterdb.com/search/advanced/results?term=Manifest+Season+1&category=Shows&tmdb_id=104038&tvdb_id=349271
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/345590
                 # IDs: tmdb://137647
                 # https://theposterdb.com/search/advanced/results?term=Manifest+Season+2&category=Shows&tmdb_id=137647
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/345591
                 # IDs: tmdb://167809
                 # https://theposterdb.com/search/advanced/results?term=Manifest+Season+3&category=Shows&tmdb_id=167809
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/345592
                 # IDs: tmdb://296463
                 # https://theposterdb.com/search/advanced/results?term=Manifest+Season+4&category=Shows&tmdb_id=296463        

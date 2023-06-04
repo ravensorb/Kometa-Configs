@@ -5,14 +5,14 @@ metadata:
         alt_title: "The First (2018)"
         orig_title: "The First"
         sort_title: "First"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/346677
         # IDs: imdb://tt7412482, tmdb://74159, tvdb://349002
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+First&category=Shows&year_filter=equals&yone=2018&tmdb_id=74159&imdb_id=tt7412482&tvdb_id=349002
         # tmdb: https://www.themoviedb.org/tv/74159
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=349002
         # imdb: https://www.imdb.com/title/tt7412482
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/346678
                 # IDs: tmdb://93285
                 # https://theposterdb.com/search/advanced/results?term=The+First+Season+1&category=Shows&tmdb_id=93285        

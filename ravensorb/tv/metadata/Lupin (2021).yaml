@@ -5,14 +5,14 @@ metadata:
         alt_title: "Lupin (2021)"
         orig_title: "Lupin"
         sort_title: "Lupin"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/337631
         # IDs: imdb://tt2531336, tmdb://96677, tvdb://375921
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lupin&category=Shows&year_filter=equals&yone=2021&tmdb_id=96677&imdb_id=tt2531336&tvdb_id=375921
         # tmdb: https://www.themoviedb.org/tv/96677
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=375921
         # imdb: https://www.imdb.com/title/tt2531336
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/337632
                 # IDs: tmdb://157243, tvdb://1884332
                 # https://theposterdb.com/search/advanced/results?term=Lupin+Season+1&category=Shows&tmdb_id=157243&tvdb_id=1884332        
