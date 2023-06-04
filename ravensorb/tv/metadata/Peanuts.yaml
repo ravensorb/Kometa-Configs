@@ -64,3 +64,14 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
                 # IDs: tmdb://245202
                 # https://theposterdb.com/search/advanced/results?term=The+Snoopy+Show+Season+2&category=Shows&tmdb_id=245202        
+
+
+    "The Charlie Brown and Snoopy Show (1983)":
+        year: 1983
+        title: "The Charlie Brown and Snoopy Show"
+        url_poster: https://theposterdb.com/api/assets/285493
+        season: 
+            1:
+                url_poster: https://theposterdb.com/api/assets/328745
+            2:
+                url_poster: https://theposterdb.com/api/assets/328746
