@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Book Thief"
         sort_title: "Book Thief"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/195582
         # IDs: imdb://tt0816442, tmdb://203833, tvdb://2051
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Book+Thief&category=Movies&year_filter=equals&yone=2013&tmdb_id=203833&imdb_id=tt0816442&tvdb_id=2051
         # tmdb: https://www.themoviedb.org/movie/203833

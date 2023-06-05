@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Book of Eli"
         sort_title: "Book of Eli"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185360
         # IDs: imdb://tt1037705, tmdb://20504, tvdb://4009
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Book+of+Eli&category=Movies&year_filter=equals&yone=2010&tmdb_id=20504&imdb_id=tt1037705&tvdb_id=4009
         # tmdb: https://www.themoviedb.org/movie/20504

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Broadcast News"
         sort_title: "Broadcast News"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207191
         # IDs: imdb://tt0092699, tmdb://12626, tvdb://4055
         # tpdb: https://theposterdb.com/search/advanced/results?term=Broadcast+News&category=Movies&year_filter=equals&yone=1987&tmdb_id=12626&imdb_id=tt0092699&tvdb_id=4055
         # tmdb: https://www.themoviedb.org/movie/12626

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Bull Durham"
         sort_title: "Bull Durham"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188367
         # IDs: imdb://tt0094812, tmdb://287, tvdb://3235
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bull+Durham&category=Movies&year_filter=equals&yone=1988&tmdb_id=287&imdb_id=tt0094812&tvdb_id=3235
         # tmdb: https://www.themoviedb.org/movie/287

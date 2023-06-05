@@ -6,7 +6,7 @@ metadata:
         orig_title: "Brazil"
         sort_title: "Brazil"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186797
         # IDs: imdb://tt0088846, tmdb://68, tvdb://2680
         # tpdb: https://theposterdb.com/search/advanced/results?term=Brazil&category=Movies&year_filter=equals&yone=1985&tmdb_id=68&imdb_id=tt0088846&tvdb_id=2680
         # tmdb: https://www.themoviedb.org/movie/68

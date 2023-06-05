@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Breakfast Club"
         sort_title: "Breakfast Club"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201657
         # IDs: imdb://tt0088847, tmdb://2108, tvdb://1323
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Breakfast+Club&category=Movies&year_filter=equals&yone=1985&tmdb_id=2108&imdb_id=tt0088847&tvdb_id=1323
         # tmdb: https://www.themoviedb.org/movie/2108

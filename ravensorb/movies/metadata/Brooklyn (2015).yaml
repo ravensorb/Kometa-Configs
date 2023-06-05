@@ -6,7 +6,7 @@ metadata:
         orig_title: "Brooklyn"
         sort_title: "Brooklyn"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/203210
         # IDs: imdb://tt2381111, tmdb://167073, tvdb://3349
         # tpdb: https://theposterdb.com/search/advanced/results?term=Brooklyn&category=Movies&year_filter=equals&yone=2015&tmdb_id=167073&imdb_id=tt2381111&tvdb_id=3349
         # tmdb: https://www.themoviedb.org/movie/167073

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Brief Encounter"
         sort_title: "Brief Encounter"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/235251
         # IDs: imdb://tt0037558, tmdb://851, tvdb://4754
         # tpdb: https://theposterdb.com/search/advanced/results?term=Brief+Encounter&category=Movies&year_filter=equals&yone=1945&tmdb_id=851&imdb_id=tt0037558&tvdb_id=4754
         # tmdb: https://www.themoviedb.org/movie/851
