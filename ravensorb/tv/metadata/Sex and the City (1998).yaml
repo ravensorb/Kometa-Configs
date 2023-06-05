@@ -5,34 +5,34 @@ metadata:
         alt_title: "Sex and the City (1998)"
         orig_title: "Sex and the City"
         sort_title: "Sex and the City"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204309
         # IDs: imdb://tt0159206, tmdb://105, tvdb://76648
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sex+and+the+City&category=Shows&year_filter=equals&yone=1998&tmdb_id=105&imdb_id=tt0159206&tvdb_id=76648
         # tmdb: https://www.themoviedb.org/tv/105
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=76648
         # imdb: https://www.imdb.com/title/tt0159206
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/204311
                 # IDs: tmdb://60249
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+1&category=Shows&tmdb_id=60249
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/204312
                 # IDs: tmdb://60250
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+2&category=Shows&tmdb_id=60250
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/204313
                 # IDs: tmdb://60251
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+3&category=Shows&tmdb_id=60251
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/204314
                 # IDs: tmdb://60252
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+4&category=Shows&tmdb_id=60252
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/204315
                 # IDs: tmdb://60253
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+5&category=Shows&tmdb_id=60253
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/204316
                 # IDs: tmdb://60254
                 # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+6&category=Shows&tmdb_id=60254        

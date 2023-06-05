@@ -5,38 +5,38 @@ metadata:
         alt_title: "Scandal (2012)"
         orig_title: "Scandal"
         sort_title: "Scandal (2012)"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/367628
         # IDs: imdb://tt1837576, tmdb://39269, tvdb://248841
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29&category=Shows&year_filter=equals&yone=2012&tmdb_id=39269&imdb_id=tt1837576&tvdb_id=248841
         # tmdb: https://www.themoviedb.org/tv/39269
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=248841
         # imdb: https://www.imdb.com/title/tt1837576
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/367630
                 # IDs: tmdb://50697, tvdb://466432
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+1&category=Shows&tmdb_id=50697&tvdb_id=466432
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/367631
                 # IDs: tmdb://50698, tvdb://497182
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+2&category=Shows&tmdb_id=50698&tvdb_id=497182
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/367632
                 # IDs: tmdb://50699, tvdb://522644
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+3&category=Shows&tmdb_id=50699&tvdb_id=522644
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/368269
                 # IDs: tmdb://62821
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+4&category=Shows&tmdb_id=62821
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/367633
                 # IDs: tmdb://70678
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+5&category=Shows&tmdb_id=70678
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/367634
                 # IDs: tmdb://84091, tvdb://674818
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+6&category=Shows&tmdb_id=84091&tvdb_id=674818
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            7:
+                url_poster: https://theposterdb.com/api/assets/367635
                 # IDs: tmdb://92939, tvdb://715886
                 # https://theposterdb.com/search/advanced/results?term=Scandal+%282012%29+Season+7&category=Shows&tmdb_id=92939&tvdb_id=715886        

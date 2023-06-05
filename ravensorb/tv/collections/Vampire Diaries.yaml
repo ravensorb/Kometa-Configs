@@ -1,23 +1,23 @@
 collections:
-  "Doctor Who (Classic)":
-    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/53252 }
+   "The Vampire Diaries":
+    variables: { sort_prefix: "Vampire Diaries", sort_order: "00", sort_separator: " - ", show: "18165, 46896, 79460", poster: https://theposterdb.com/api/assets/325997 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
     summary: |
-      The Doctor visits his old Time Lord friend Chronotis in Cambridge, 1979. But the ruthless Skagra has also arrived to retrieve a book that will help unlock one of the Time Lords' greatest secrets: what is Shada? Filming for this story was never finished, and in this version the unfilmed material is completed via animation.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who+%28Classic%29&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%20%28Classic%29%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Doctor%20Who%20%28Classic%29
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Doctor%20Who%20%28Classic%29
-    # trakt: https://trakt.tv/search/lists?query=Doctor%20Who%20%28Classic%29
+      The Vampire Diaries
+    # tpdb: https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22The+Vampire+Diaries%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=The+Vampire+Diaries
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=The+Vampire+Diaries
+    # trakt: https://trakt.tv/search/lists?query=The+Vampire+Diaries
     # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc 
+    # trakt_list:
+    #    - 
 
-########################################################################################################################
+    ########################################################################################################################
 ########################################################################################################################
 
 

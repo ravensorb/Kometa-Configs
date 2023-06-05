@@ -11,8 +11,8 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1135300
         # trakt: https://trakt.tv/search/shows?query=Dollhouse
         seasons:
-            0:
-                url_poster: https://theposterdb.com/api/assets/349449
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/349449
             1:
                 url_poster: https://theposterdb.com/api/assets/349450
                 # IDs: tvdb://32558

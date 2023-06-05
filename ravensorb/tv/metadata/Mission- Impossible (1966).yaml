@@ -5,7 +5,7 @@ metadata:
         alt_title: "Mission: Impossible (1966)"
         orig_title: "Mission: Impossible"
         sort_title: "Mission: Impossible"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/113209
         # IDs: imdb://tt0060009, tmdb://4357, tvdb://77231
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible&category=Shows&year_filter=equals&yone=1966&tmdb_id=4357&imdb_id=tt0060009&tvdb_id=77231
         # tmdb: https://www.themoviedb.org/tv/4357

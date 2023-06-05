@@ -5,22 +5,22 @@ metadata:
         alt_title: "Motherland: Fort Salem (2020)"
         orig_title: "Motherland: Fort Salem"
         sort_title: "Motherland: Fort Salem"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/359711
         # IDs: imdb://tt9900092, tmdb://91977, tvdb://364047
         # tpdb: https://theposterdb.com/search/advanced/results?term=Motherland%3A+Fort+Salem&category=Shows&year_filter=equals&yone=2020&tmdb_id=91977&imdb_id=tt9900092&tvdb_id=364047
         # tmdb: https://www.themoviedb.org/tv/91977
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364047
         # imdb: https://www.imdb.com/title/tt9900092
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/359712
                 # IDs: tmdb://129112
                 # https://theposterdb.com/search/advanced/results?term=Motherland%3A+Fort+Salem+Season+1&category=Shows&tmdb_id=129112
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/359713
                 # IDs: tmdb://194346
                 # https://theposterdb.com/search/advanced/results?term=Motherland%3A+Fort+Salem+Season+2&category=Shows&tmdb_id=194346
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/359714
                 # IDs: tmdb://292503
                 # https://theposterdb.com/search/advanced/results?term=Motherland%3A+Fort+Salem+Season+3&category=Shows&tmdb_id=292503        

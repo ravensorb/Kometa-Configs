@@ -5,26 +5,26 @@ metadata:
         alt_title: "Motive (2013)"
         orig_title: "Motive"
         sort_title: "Motive"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/308302
         # IDs: imdb://tt2443340, tmdb://46316, tvdb://262569
         # tpdb: https://theposterdb.com/search/advanced/results?term=Motive&category=Shows&year_filter=equals&yone=2013&tmdb_id=46316&imdb_id=tt2443340&tvdb_id=262569
         # tmdb: https://www.themoviedb.org/tv/46316
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=262569
         # imdb: https://www.imdb.com/title/tt2443340
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/308303
                 # IDs: tmdb://54619, tvdb://501326
                 # https://theposterdb.com/search/advanced/results?term=Motive+Season+1&category=Shows&tmdb_id=54619&tvdb_id=501326
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/308304
                 # IDs: tmdb://61318, tvdb://563582
                 # https://theposterdb.com/search/advanced/results?term=Motive+Season+2&category=Shows&tmdb_id=61318&tvdb_id=563582
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/308305
                 # IDs: tmdb://65266, tvdb://606710
                 # https://theposterdb.com/search/advanced/results?term=Motive+Season+3&category=Shows&tmdb_id=65266&tvdb_id=606710
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/308306
                 # IDs: tmdb://75162, tvdb://654871
                 # https://theposterdb.com/search/advanced/results?term=Motive+Season+4&category=Shows&tmdb_id=75162&tvdb_id=654871        

@@ -5,18 +5,18 @@ metadata:
         alt_title: "The Shannara Chronicles (2016)"
         orig_title: "The Shannara Chronicles"
         sort_title: "Shannara Chronicles"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/309997
         # IDs: imdb://tt1051220, tmdb://64122, tvdb://289096
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Shannara+Chronicles&category=Shows&year_filter=equals&yone=2016&tmdb_id=64122&imdb_id=tt1051220&tvdb_id=289096
         # tmdb: https://www.themoviedb.org/tv/64122
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=289096
         # imdb: https://www.imdb.com/title/tt1051220
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/309998
                 # IDs: tmdb://71247, tvdb://617930
                 # https://theposterdb.com/search/advanced/results?term=The+Shannara+Chronicles+Season+1&category=Shows&tmdb_id=71247&tvdb_id=617930
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/309999
                 # IDs: tmdb://91988
                 # https://theposterdb.com/search/advanced/results?term=The+Shannara+Chronicles+Season+2&category=Shows&tmdb_id=91988        

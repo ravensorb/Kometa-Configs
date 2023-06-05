@@ -12,8 +12,8 @@ metadata:
         # tvdb: 
         # imdb: https://www.imdb.com/title/tt0085106
         seasons:
-            0:
-                url_poster: https://theposterdb.com/api/assets/366975
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/366975
                 # IDs: 
                 # https://theposterdb.com/search/advanced/results?term=V+Specials&category=Shows
             1:

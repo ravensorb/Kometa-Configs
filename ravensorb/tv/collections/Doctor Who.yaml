@@ -50,7 +50,8 @@ collections:
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplTMDBCollection, show: "129387" },
+      { name: tplTVDBCollection, show: "37564" },
     ]
     summary: |
       Doctor Who Spin-Offs
@@ -90,9 +91,7 @@ templates:
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
-    tvdb_movie_details: <<movie>>
     tvdb_show: <<show>>
-    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:

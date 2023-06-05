@@ -5,22 +5,22 @@ metadata:
         alt_title: "A Series of Unfortunate Events (2017)"
         orig_title: "A Series of Unfortunate Events"
         sort_title: "Series of Unfortunate Events"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/327884
         # IDs: imdb://tt4834206, tmdb://65294, tvdb://306304
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events&category=Shows&year_filter=equals&yone=2017&tmdb_id=65294&imdb_id=tt4834206&tvdb_id=306304
         # tmdb: https://www.themoviedb.org/tv/65294
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=306304
         # imdb: https://www.imdb.com/title/tt4834206
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/327885
                 # IDs: tmdb://73892, tvdb://306304
                 # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+1&category=Shows&tmdb_id=73892&tvdb_id=306304
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/327886
                 # IDs: tmdb://97271, tvdb://744351
                 # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+2&category=Shows&tmdb_id=97271&tvdb_id=744351
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/327887
                 # IDs: tmdb://112985
                 # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+3&category=Shows&tmdb_id=112985        
