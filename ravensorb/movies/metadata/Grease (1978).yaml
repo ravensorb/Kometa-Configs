@@ -6,7 +6,7 @@ metadata:
         orig_title: "Grease"
         sort_title: "Grease"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/223162
         # IDs: imdb://tt0077631, tmdb://621, tvdb://382
         # tpdb: https://theposterdb.com/search/advanced/results?term=Grease&category=Movies&year_filter=equals&yone=1978&tmdb_id=621&imdb_id=tt0077631&tvdb_id=382
         # tmdb: https://www.themoviedb.org/movie/621

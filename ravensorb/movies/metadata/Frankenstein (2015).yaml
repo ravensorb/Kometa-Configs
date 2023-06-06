@@ -6,7 +6,7 @@ metadata:
         orig_title: "Frankenstein"
         sort_title: "Frankenstein"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/283068
         # IDs: imdb://tt4086032, tmdb://337029, tvdb://18457
         # tpdb: https://theposterdb.com/search/advanced/results?term=Frankenstein&category=Movies&year_filter=equals&yone=2015&tmdb_id=337029&imdb_id=tt4086032&tvdb_id=18457
         # tmdb: https://www.themoviedb.org/movie/337029

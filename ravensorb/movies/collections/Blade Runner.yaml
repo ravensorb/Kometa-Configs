@@ -1,6 +1,6 @@
 collections:
   "Blade Runner":
-    variables: { movie: "335984, 78", poster: https://theposterdb.com/api/assets/163611 }
+    variables: { movie: "335984, 78, 57656", poster: https://theposterdb.com/api/assets/163611 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

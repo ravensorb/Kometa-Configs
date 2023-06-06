@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dune"
         sort_title: "Dune"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186188
         # IDs: imdb://tt0087182, tmdb://841, tvdb://1406
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dune&category=Movies&year_filter=equals&yone=1984&tmdb_id=841&imdb_id=tt0087182&tvdb_id=1406
         # tmdb: https://www.themoviedb.org/movie/841
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Dune"
         sort_title: "Dune"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186187
         # IDs: imdb://tt1160419, tmdb://438631, tvdb://6187
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dune&category=Movies&year_filter=equals&yone=2021&tmdb_id=438631&imdb_id=tt1160419&tvdb_id=6187
         # tmdb: https://www.themoviedb.org/movie/438631

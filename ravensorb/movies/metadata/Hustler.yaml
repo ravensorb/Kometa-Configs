@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Hustler"
         sort_title: "Hustler"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/171924
         # IDs: imdb://tt0054997, tmdb://990, tvdb://4107
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Hustler&category=Movies&year_filter=equals&yone=1961&tmdb_id=990&imdb_id=tt0054997&tvdb_id=4107
         # tmdb: https://www.themoviedb.org/movie/990
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Color of Money"
         sort_title: "Color of Money"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/171925
         # IDs: imdb://tt0090863, tmdb://11873, tvdb://5431
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Color+of+Money&category=Movies&year_filter=equals&yone=1986&tmdb_id=11873&imdb_id=tt0090863&tvdb_id=5431
         # tmdb: https://www.themoviedb.org/movie/11873

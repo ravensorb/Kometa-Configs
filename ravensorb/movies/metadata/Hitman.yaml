@@ -6,7 +6,7 @@ metadata:
         orig_title: "Hitman"
         sort_title: "Hitman"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204421
         # IDs: imdb://tt0465494, tmdb://1620, tvdb://2158
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hitman&category=Movies&year_filter=equals&yone=2007&tmdb_id=1620&imdb_id=tt0465494&tvdb_id=2158
         # tmdb: https://www.themoviedb.org/movie/1620
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Hitman: Agent 47"
         sort_title: "Hitman: Agent 47"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204422
         # IDs: imdb://tt2679042, tmdb://249070, tvdb://1687
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hitman%3A+Agent+47&category=Movies&year_filter=equals&yone=2015&tmdb_id=249070&imdb_id=tt2679042&tvdb_id=1687
         # tmdb: https://www.themoviedb.org/movie/249070

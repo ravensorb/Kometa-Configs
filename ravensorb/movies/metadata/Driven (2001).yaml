@@ -6,7 +6,7 @@ metadata:
         orig_title: "Driven"
         sort_title: "Driven"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188625
         # IDs: imdb://tt0132245, tmdb://10477, tvdb://4131
         # tpdb: https://theposterdb.com/search/advanced/results?term=Driven&category=Movies&year_filter=equals&yone=2001&tmdb_id=10477&imdb_id=tt0132245&tvdb_id=4131
         # tmdb: https://www.themoviedb.org/movie/10477

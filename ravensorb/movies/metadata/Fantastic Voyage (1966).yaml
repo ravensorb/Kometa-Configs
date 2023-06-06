@@ -6,7 +6,7 @@ metadata:
         orig_title: "Fantastic Voyage"
         sort_title: "Fantastic Voyage"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187277
         # IDs: imdb://tt0060397, tmdb://2161, tvdb://9245
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Voyage&category=Movies&year_filter=equals&yone=1966&tmdb_id=2161&imdb_id=tt0060397&tvdb_id=9245
         # tmdb: https://www.themoviedb.org/movie/2161

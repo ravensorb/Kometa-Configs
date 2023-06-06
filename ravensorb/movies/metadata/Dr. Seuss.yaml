@@ -6,7 +6,7 @@ metadata:
         orig_title: "How the Grinch Stole Christmas!"
         sort_title: "How the Grinch Stole Christmas!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190422
         # IDs: imdb://tt0060345, tmdb://13377, tvdb://37255, tvdb://3971
         # tpdb: https://theposterdb.com/search/advanced/results?term=How+the+Grinch+Stole+Christmas%21&category=Movies&year_filter=equals&yone=1966&tmdb_id=13377&imdb_id=tt0060345&tvdb_id=3971
         # tmdb: https://www.themoviedb.org/movie/13377
@@ -20,7 +20,7 @@ metadata:
         orig_title: "It's Grinch Night"
         sort_title: "It's Grinch Night"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/181258
         # IDs: imdb://tt0183288, tmdb://52207, tvdb://26906
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+Grinch+Night&category=Movies&year_filter=equals&yone=1977&tmdb_id=52207&imdb_id=tt0183288&tvdb_id=26906
         # tmdb: https://www.themoviedb.org/movie/52207
@@ -48,7 +48,7 @@ metadata:
         orig_title: "The Cat in the Hat"
         sort_title: "Cat in the Hat"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/174525
         # IDs: imdb://tt0312528, tmdb://10588, tvdb://3283
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Cat+in+the+Hat&category=Movies&year_filter=equals&yone=2003&tmdb_id=10588&imdb_id=tt0312528&tvdb_id=3283
         # tmdb: https://www.themoviedb.org/movie/10588

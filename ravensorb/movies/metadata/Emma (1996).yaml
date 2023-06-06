@@ -6,7 +6,7 @@ metadata:
         orig_title: "Emma"
         sort_title: "Emma"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/211187
         # IDs: imdb://tt0116191, tmdb://3573, tvdb://4995
         # tpdb: https://theposterdb.com/search/advanced/results?term=Emma&category=Movies&year_filter=equals&yone=1996&tmdb_id=3573&imdb_id=tt0116191&tvdb_id=4995
         # tmdb: https://www.themoviedb.org/movie/3573

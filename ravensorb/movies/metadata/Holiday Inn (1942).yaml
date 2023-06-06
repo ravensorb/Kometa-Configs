@@ -6,7 +6,7 @@ metadata:
         orig_title: "Holiday Inn"
         sort_title: "Holiday Inn"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190425
         # IDs: imdb://tt0034862, tmdb://13485, tvdb://10752
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holiday+Inn&category=Movies&year_filter=equals&yone=1942&tmdb_id=13485&imdb_id=tt0034862&tvdb_id=10752
         # tmdb: https://www.themoviedb.org/movie/13485

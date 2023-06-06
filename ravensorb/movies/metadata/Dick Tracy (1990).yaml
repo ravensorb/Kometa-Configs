@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dick Tracy"
         sort_title: "Dick Tracy"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/171824
         # IDs: imdb://tt0099422, tmdb://8592, tvdb://8624
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dick+Tracy&category=Movies&year_filter=equals&yone=1990&tmdb_id=8592&imdb_id=tt0099422&tvdb_id=8624
         # tmdb: https://www.themoviedb.org/movie/8592

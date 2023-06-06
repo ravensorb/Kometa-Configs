@@ -6,7 +6,7 @@ metadata:
         orig_title: "Flash Gordon"
         sort_title: "Flash Gordon"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184628
         # IDs: imdb://tt0080745, tmdb://3604, tvdb://3202
         # tpdb: https://theposterdb.com/search/advanced/results?term=Flash+Gordon&category=Movies&year_filter=equals&yone=1980&tmdb_id=3604&imdb_id=tt0080745&tvdb_id=3202
         # tmdb: https://www.themoviedb.org/movie/3604

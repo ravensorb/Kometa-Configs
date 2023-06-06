@@ -6,7 +6,7 @@ metadata:
         orig_title: "Gone with the Wind"
         sort_title: "Gone with the Wind"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186594
         # IDs: imdb://tt0031381, tmdb://770, tvdb://1328
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gone+with+the+Wind&category=Movies&year_filter=equals&yone=1940&tmdb_id=770&imdb_id=tt0031381&tvdb_id=1328
         # tmdb: https://www.themoviedb.org/movie/770

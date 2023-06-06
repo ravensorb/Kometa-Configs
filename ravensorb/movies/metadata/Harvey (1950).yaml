@@ -6,7 +6,7 @@ metadata:
         orig_title: "Harvey"
         sort_title: "Harvey"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188225
         # IDs: imdb://tt0042546, tmdb://11787, tvdb://7265
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harvey&category=Movies&year_filter=equals&yone=1950&tmdb_id=11787&imdb_id=tt0042546&tvdb_id=7265
         # tmdb: https://www.themoviedb.org/movie/11787

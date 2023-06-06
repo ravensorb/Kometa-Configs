@@ -6,7 +6,7 @@ metadata:
         orig_title: "Gattaca"
         sort_title: "Gattaca"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186811
         # IDs: imdb://tt0119177, tmdb://782, tvdb://432
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gattaca&category=Movies&year_filter=equals&yone=1997&tmdb_id=782&imdb_id=tt0119177&tvdb_id=432
         # tmdb: https://www.themoviedb.org/movie/782

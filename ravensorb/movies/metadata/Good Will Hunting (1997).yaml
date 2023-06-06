@@ -6,7 +6,7 @@ metadata:
         orig_title: "Good Will Hunting"
         sort_title: "Good Will Hunting"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207770
         # IDs: imdb://tt0119217, tmdb://489, tvdb://949
         # tpdb: https://theposterdb.com/search/advanced/results?term=Good+Will+Hunting&category=Movies&year_filter=equals&yone=1997&tmdb_id=489&imdb_id=tt0119217&tvdb_id=949
         # tmdb: https://www.themoviedb.org/movie/489

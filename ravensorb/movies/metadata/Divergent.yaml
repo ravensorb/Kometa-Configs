@@ -6,7 +6,7 @@ metadata:
         orig_title: "Divergent"
         sort_title: "Divergent"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184369
         # IDs: imdb://tt1840309, tmdb://157350, tvdb://851
         # tpdb: https://theposterdb.com/search/advanced/results?term=Divergent&category=Movies&year_filter=equals&yone=2014&tmdb_id=157350&imdb_id=tt1840309&tvdb_id=851
         # tmdb: https://www.themoviedb.org/movie/157350
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Divergent Series: Insurgent"
         sort_title: "Divergent Series: Insurgent"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184370
         # IDs: imdb://tt2908446, tmdb://262500, tvdb://236
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Divergent+Series%3A+Insurgent&category=Movies&year_filter=equals&yone=2015&tmdb_id=262500&imdb_id=tt2908446&tvdb_id=236
         # tmdb: https://www.themoviedb.org/movie/262500
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Allegiant"
         sort_title: "Allegiant"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184371
         # IDs: imdb://tt3410834, tmdb://262504, tvdb://876
         # tpdb: https://theposterdb.com/search/advanced/results?term=Allegiant&category=Movies&year_filter=equals&yone=2016&tmdb_id=262504&imdb_id=tt3410834&tvdb_id=876
         # tmdb: https://www.themoviedb.org/movie/262504

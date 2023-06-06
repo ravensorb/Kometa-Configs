@@ -6,7 +6,7 @@ metadata:
         orig_title: "Genius"
         sort_title: "Genius"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202214
         # IDs: imdb://tt1703957, tmdb://267192, tvdb://7663
         # tpdb: https://theposterdb.com/search/advanced/results?term=Genius&category=Movies&year_filter=equals&yone=2016&tmdb_id=267192&imdb_id=tt1703957&tvdb_id=7663
         # tmdb: https://www.themoviedb.org/movie/267192

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dracula Untold"
         sort_title: "Dracula Untold"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179625
         # IDs: imdb://tt0829150, tmdb://49017, tvdb://443
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dracula+Untold&category=Movies&year_filter=equals&yone=2014&tmdb_id=49017&imdb_id=tt0829150&tvdb_id=443
         # tmdb: https://www.themoviedb.org/movie/49017

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dirty Harry"
         sort_title: "Dirty Harry"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/211208
         # IDs: imdb://tt0066999, tmdb://984, tvdb://954
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dirty+Harry&category=Movies&year_filter=equals&yone=1971&tmdb_id=984&imdb_id=tt0066999&tvdb_id=954
         # tmdb: https://www.themoviedb.org/movie/984

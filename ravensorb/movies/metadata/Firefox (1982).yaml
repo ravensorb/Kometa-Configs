@@ -6,7 +6,7 @@ metadata:
         orig_title: "Firefox"
         sort_title: "Firefox"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/211742
         # IDs: imdb://tt0083943, tmdb://10724, tvdb://4737
         # tpdb: https://theposterdb.com/search/advanced/results?term=Firefox&category=Movies&year_filter=equals&yone=1982&tmdb_id=10724&imdb_id=tt0083943&tvdb_id=4737
         # tmdb: https://www.themoviedb.org/movie/10724

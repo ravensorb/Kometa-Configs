@@ -6,7 +6,7 @@ metadata:
         orig_title: "Funny Girl"
         sort_title: "Funny Girl"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212195
         # IDs: imdb://tt0062994, tmdb://16085, tvdb://9123
         # tpdb: https://theposterdb.com/search/advanced/results?term=Funny+Girl&category=Movies&year_filter=equals&yone=1968&tmdb_id=16085&imdb_id=tt0062994&tvdb_id=9123
         # tmdb: https://www.themoviedb.org/movie/16085
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Funny Lady"
         sort_title: "Funny Lady"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212196
         # IDs: imdb://tt0073026, tmdb://39282, tvdb://26367
         # tpdb: https://theposterdb.com/search/advanced/results?term=Funny+Lady&category=Movies&year_filter=equals&yone=1975&tmdb_id=39282&imdb_id=tt0073026&tvdb_id=26367
         # tmdb: https://www.themoviedb.org/movie/39282

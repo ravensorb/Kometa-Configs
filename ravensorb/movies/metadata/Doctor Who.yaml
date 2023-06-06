@@ -6,7 +6,7 @@ metadata:
         orig_title: "Doctor Who: The Movie"
         sort_title: "Doctor Who: The Movie"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186804
         # IDs: imdb://tt0116118, tmdb://15691, tvdb://7509
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who%3A+The+Movie&category=Movies&year_filter=equals&yone=1996&tmdb_id=15691&imdb_id=tt0116118&tvdb_id=7509
         # tmdb: https://www.themoviedb.org/movie/15691
@@ -34,7 +34,7 @@ metadata:
         orig_title: "An Adventure in Space and Time"
         sort_title: "Adventure in Space and Time"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/203162
         # IDs: imdb://tt2663812, tmdb://210024, tvdb://11712
         # tpdb: https://theposterdb.com/search/advanced/results?term=An+Adventure+in+Space+and+Time&category=Movies&year_filter=equals&yone=2013&tmdb_id=210024&imdb_id=tt2663812&tvdb_id=11712
         # tmdb: https://www.themoviedb.org/movie/210024
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Doctor Who: The Day of the Doctor"
         sort_title: "Doctor Who: The Day of the Doctor"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185057
         # IDs: tmdb://313106
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who%3A+The+Day+of+the+Doctor&category=Movies&year_filter=equals&yone=2013&tmdb_id=313106
         # tmdb: https://www.themoviedb.org/movie/313106

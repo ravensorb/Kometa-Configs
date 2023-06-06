@@ -6,7 +6,7 @@ metadata:
         orig_title: "Exposed"
         sort_title: "Exposed"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202208
         # IDs: imdb://tt4019560, tmdb://331962, tvdb://7758
         # tpdb: https://theposterdb.com/search/advanced/results?term=Exposed&category=Movies&year_filter=equals&yone=2016&tmdb_id=331962&imdb_id=tt4019560&tvdb_id=7758
         # tmdb: https://www.themoviedb.org/movie/331962

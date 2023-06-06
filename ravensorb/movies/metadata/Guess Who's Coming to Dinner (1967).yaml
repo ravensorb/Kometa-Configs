@@ -6,7 +6,7 @@ metadata:
         orig_title: "Guess Who's Coming to Dinner"
         sort_title: "Guess Who's Coming to Dinner"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/229773
         # IDs: imdb://tt0061735, tmdb://1879, tvdb://5468
         # tpdb: https://theposterdb.com/search/advanced/results?term=Guess+Who%27s+Coming+to+Dinner&category=Movies&year_filter=equals&yone=1967&tmdb_id=1879&imdb_id=tt0061735&tvdb_id=5468
         # tmdb: https://www.themoviedb.org/movie/1879

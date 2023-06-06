@@ -6,7 +6,7 @@ metadata:
         orig_title: "Hot Pursuit"
         sort_title: "Hot Pursuit"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/223258
         # IDs: imdb://tt0093215, tmdb://14464, tvdb://12107
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hot+Pursuit&category=Movies&year_filter=equals&yone=1987&tmdb_id=14464&imdb_id=tt0093215&tvdb_id=12107
         # tmdb: https://www.themoviedb.org/movie/14464

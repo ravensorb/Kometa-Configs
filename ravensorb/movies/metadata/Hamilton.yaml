@@ -20,7 +20,7 @@ metadata:
         orig_title: "Hamilton"
         sort_title: "Hamilton"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/200272
         # IDs: imdb://tt8503618, tmdb://556574, tvdb://134531
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hamilton&category=Movies&year_filter=equals&yone=2020&tmdb_id=556574&imdb_id=tt8503618&tvdb_id=134531
         # tmdb: https://www.themoviedb.org/movie/556574

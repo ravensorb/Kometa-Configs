@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dave"
         sort_title: "Dave"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213721
         # IDs: imdb://tt0106673, tmdb://11566, tvdb://2519
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dave&category=Movies&year_filter=equals&yone=1993&tmdb_id=11566&imdb_id=tt0106673&tvdb_id=2519
         # tmdb: https://www.themoviedb.org/movie/11566

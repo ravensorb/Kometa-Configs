@@ -6,7 +6,7 @@ metadata:
         orig_title: "Going My Way"
         sort_title: "Going My Way"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186604
         # IDs: imdb://tt0036872, tmdb://17661, tvdb://16195
         # tpdb: https://theposterdb.com/search/advanced/results?term=Going+My+Way&category=Movies&year_filter=equals&yone=1944&tmdb_id=17661&imdb_id=tt0036872&tvdb_id=16195
         # tmdb: https://www.themoviedb.org/movie/17661
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Bells of St. Mary's"
         sort_title: "Bells of St. Mary's"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/308482
         # IDs: imdb://tt0037536, tmdb://32430, tvdb://24466
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bells+of+St.+Mary%27s&category=Movies&year_filter=equals&yone=1946&tmdb_id=32430&imdb_id=tt0037536&tvdb_id=24466
         # tmdb: https://www.themoviedb.org/movie/32430

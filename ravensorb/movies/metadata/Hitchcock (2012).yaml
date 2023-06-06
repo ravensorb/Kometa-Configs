@@ -6,7 +6,7 @@ metadata:
         orig_title: "Hitchcock"
         sort_title: "Hitchcock"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207892
         # IDs: imdb://tt0975645, tmdb://112336, tvdb://4619
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hitchcock&category=Movies&year_filter=equals&yone=2012&tmdb_id=112336&imdb_id=tt0975645&tvdb_id=4619
         # tmdb: https://www.themoviedb.org/movie/112336

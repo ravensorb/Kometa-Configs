@@ -6,7 +6,7 @@ metadata:
         orig_title: "Field of Dreams"
         sort_title: "Field of Dreams"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187733
         # IDs: imdb://tt0097351, tmdb://2323, tvdb://2955
         # tpdb: https://theposterdb.com/search/advanced/results?term=Field+of+Dreams&category=Movies&year_filter=equals&yone=1989&tmdb_id=2323&imdb_id=tt0097351&tvdb_id=2955
         # tmdb: https://www.themoviedb.org/movie/2323

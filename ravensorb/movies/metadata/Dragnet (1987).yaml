@@ -6,7 +6,7 @@ metadata:
         orig_title: "Dragnet"
         sort_title: "Dragnet"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/222898
         # IDs: imdb://tt0092925, tmdb://10023, tvdb://3560
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dragnet&category=Movies&year_filter=equals&yone=1987&tmdb_id=10023&imdb_id=tt0092925&tvdb_id=3560
         # tmdb: https://www.themoviedb.org/movie/10023

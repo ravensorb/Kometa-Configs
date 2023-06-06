@@ -6,7 +6,7 @@ metadata:
         orig_title: "Gladiator"
         sort_title: "Gladiator"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184136
         # IDs: imdb://tt0172495, tmdb://98, tvdb://419
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gladiator&category=Movies&year_filter=equals&yone=2000&tmdb_id=98&imdb_id=tt0172495&tvdb_id=419
         # tmdb: https://www.themoviedb.org/movie/98

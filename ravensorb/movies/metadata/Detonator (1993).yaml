@@ -1,12 +1,12 @@
 metadata:
     "Detonator (1993)":
         year: 1993
-        title: "Detonator"
+        title: "Death Train"
         alt_title: "Death Train (1993)"
         orig_title: "Detonator"
-        sort_title: "Detonator"
+        sort_title: "Death Train"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/218422
         # IDs: imdb://tt0106689, tmdb://20435, tvdb://15923
         # tpdb: https://theposterdb.com/search/advanced/results?term=Detonator&category=Movies&year_filter=equals&yone=1993&tmdb_id=20435&imdb_id=tt0106689&tvdb_id=15923
         # tmdb: https://www.themoviedb.org/movie/20435
