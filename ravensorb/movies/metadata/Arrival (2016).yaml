@@ -6,7 +6,7 @@ metadata:
         orig_title: "Arrival"
         sort_title: "Arrival"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184349
         # IDs: imdb://tt2543164, tmdb://329865, tvdb://219
         # tpdb: https://theposterdb.com/search/advanced/results?term=Arrival&category=Movies&year_filter=equals&yone=2016&tmdb_id=329865&imdb_id=tt2543164&tvdb_id=219
         # tmdb: https://www.themoviedb.org/movie/329865

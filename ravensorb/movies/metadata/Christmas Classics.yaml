@@ -6,7 +6,7 @@ metadata:
         orig_title: "Rudolph the Red-Nosed Reindeer"
         sort_title: "Rudolph the Red-Nosed Reindeer"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190542
         # IDs: imdb://tt0058536, tmdb://13382, tvdb://3915
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph+the+Red-Nosed+Reindeer&category=Movies&year_filter=equals&yone=1964&tmdb_id=13382&imdb_id=tt0058536&tvdb_id=3915
         # tmdb: https://www.themoviedb.org/movie/13382
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Little Drummer Boy"
         sort_title: "Little Drummer Boy"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190544
         # IDs: imdb://tt0063230, tmdb://18846, tvdb://18618
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Little+Drummer+Boy&category=Movies&year_filter=equals&yone=1968&tmdb_id=18846&imdb_id=tt0063230&tvdb_id=18618
         # tmdb: https://www.themoviedb.org/movie/18846
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Frosty the Snowman"
         sort_title: "Frosty the Snowman"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190545
         # IDs: imdb://tt0064349, tmdb://13675, tvdb://4929
         # tpdb: https://theposterdb.com/search/advanced/results?term=Frosty+the+Snowman&category=Movies&year_filter=equals&yone=1969&tmdb_id=13675&imdb_id=tt0064349&tvdb_id=4929
         # tmdb: https://www.themoviedb.org/movie/13675
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Santa Claus Is Comin' to Town"
         sort_title: "Santa Claus Is Comin' to Town"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190546
         # IDs: imdb://tt0066327, tmdb://13400, tvdb://12395
         # tpdb: https://theposterdb.com/search/advanced/results?term=Santa+Claus+Is+Comin%27+to+Town&category=Movies&year_filter=equals&yone=1970&tmdb_id=13400&imdb_id=tt0066327&tvdb_id=12395
         # tmdb: https://www.themoviedb.org/movie/13400
@@ -62,7 +62,7 @@ metadata:
         orig_title: "The Year Without a Santa Claus"
         sort_title: "Year Without a Santa Claus"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190548
         # IDs: imdb://tt0072424, tmdb://13397, tvdb://17779
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Year+Without+a+Santa+Claus&category=Movies&year_filter=equals&yone=1974&tmdb_id=13397&imdb_id=tt0072424&tvdb_id=17779
         # tmdb: https://www.themoviedb.org/movie/13397
@@ -76,7 +76,7 @@ metadata:
         orig_title: "Frosty's Winter Wonderland"
         sort_title: "Frosty's Winter Wonderland"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190550
         # IDs: imdb://tt0134661, tmdb://26539, tvdb://19658
         # tpdb: https://theposterdb.com/search/advanced/results?term=Frosty%27s+Winter+Wonderland&category=Movies&year_filter=equals&yone=1976&tmdb_id=26539&imdb_id=tt0134661&tvdb_id=19658
         # tmdb: https://www.themoviedb.org/movie/26539
@@ -90,7 +90,7 @@ metadata:
         orig_title: "Rudolph's Shiny New Year"
         sort_title: "Rudolph's Shiny New Year"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190551
         # IDs: imdb://tt0073640, tmdb://30059, tvdb://18958
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph%27s+Shiny+New+Year&category=Movies&year_filter=equals&yone=1976&tmdb_id=30059&imdb_id=tt0073640&tvdb_id=18958
         # tmdb: https://www.themoviedb.org/movie/30059
@@ -104,7 +104,7 @@ metadata:
         orig_title: "Rudolph and Frosty's Christmas in July"
         sort_title: "Rudolph and Frosty's Christmas in July"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190555
         # IDs: imdb://tt0079828, tmdb://40246, tvdb://70318
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph+and+Frosty%27s+Christmas+in+July&category=Movies&year_filter=equals&yone=1979&tmdb_id=40246&imdb_id=tt0079828&tvdb_id=70318
         # tmdb: https://www.themoviedb.org/movie/40246
@@ -118,7 +118,7 @@ metadata:
         orig_title: "Jack Frost"
         sort_title: "Jack Frost"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190556
         # IDs: imdb://tt0079357, tmdb://26538, tvdb://20771
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jack+Frost&category=Movies&year_filter=equals&yone=1979&tmdb_id=26538&imdb_id=tt0079357&tvdb_id=20771
         # tmdb: https://www.themoviedb.org/movie/26538
@@ -146,7 +146,7 @@ metadata:
         orig_title: "Legend of Frosty the Snowman"
         sort_title: "Legend of Frosty the Snowman"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190560
         # IDs: imdb://tt0488147, tmdb://27933, tvdb://90323
         # tpdb: https://theposterdb.com/search/advanced/results?term=Legend+of+Frosty+the+Snowman&category=Movies&year_filter=equals&yone=2005&tmdb_id=27933&imdb_id=tt0488147&tvdb_id=90323
         # tmdb: https://www.themoviedb.org/movie/27933

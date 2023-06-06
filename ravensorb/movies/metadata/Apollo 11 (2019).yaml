@@ -6,7 +6,7 @@ metadata:
         orig_title: "Apollo 11"
         sort_title: "Apollo 11"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234536
         # IDs: imdb://tt8760684, tmdb://549559, tvdb://850
         # tpdb: https://theposterdb.com/search/advanced/results?term=Apollo+11&category=Movies&year_filter=equals&yone=2019&tmdb_id=549559&imdb_id=tt8760684&tvdb_id=850
         # tmdb: https://www.themoviedb.org/movie/549559

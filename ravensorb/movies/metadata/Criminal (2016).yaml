@@ -6,7 +6,7 @@ metadata:
         orig_title: "Criminal"
         sort_title: "Criminal"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202130
         # IDs: imdb://tt3014866, tmdb://302156, tvdb://1998
         # tpdb: https://theposterdb.com/search/advanced/results?term=Criminal&category=Movies&year_filter=equals&yone=2016&tmdb_id=302156&imdb_id=tt3014866&tvdb_id=1998
         # tmdb: https://www.themoviedb.org/movie/302156

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Cuba"
         sort_title: "Cuba"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/323965
         # IDs: imdb://tt0079013, tmdb://62001, tvdb://24391
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cuba&category=Movies&year_filter=equals&yone=1979&tmdb_id=62001&imdb_id=tt0079013&tvdb_id=24391
         # tmdb: https://www.themoviedb.org/movie/62001

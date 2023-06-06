@@ -6,7 +6,7 @@ metadata:
         orig_title: "Cocktail"
         sort_title: "Cocktail"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201664
         # IDs: imdb://tt0094889, tmdb://7520, tvdb://4660
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cocktail&category=Movies&year_filter=equals&yone=1988&tmdb_id=7520&imdb_id=tt0094889&tvdb_id=4660
         # tmdb: https://www.themoviedb.org/movie/7520

@@ -6,7 +6,7 @@ metadata:
         orig_title: "A Series of Unfortunate Events"
         sort_title: "Series of Unfortunate Events"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/174834
         # IDs: imdb://tt0339291, tmdb://11774, tvdb://923
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events&category=Movies&year_filter=equals&yone=2004&tmdb_id=11774&imdb_id=tt0339291&tvdb_id=923
         # tmdb: https://www.themoviedb.org/movie/11774

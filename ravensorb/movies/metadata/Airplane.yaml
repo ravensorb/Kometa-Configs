@@ -6,7 +6,7 @@ metadata:
         orig_title: "Airplane!"
         sort_title: "Airplane!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201649
         # IDs: imdb://tt0080339, tmdb://813, tvdb://406
         # tpdb: https://theposterdb.com/search/advanced/results?term=Airplane%21&category=Movies&year_filter=equals&yone=1980&tmdb_id=813&imdb_id=tt0080339&tvdb_id=406
         # tmdb: https://www.themoviedb.org/movie/813
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Airplane II: The Sequel"
         sort_title: "Airplane II: The Sequel"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201650
         # IDs: imdb://tt0083530, tmdb://2665, tvdb://4040
         # tpdb: https://theposterdb.com/search/advanced/results?term=Airplane+II%3A+The+Sequel&category=Movies&year_filter=equals&yone=1982&tmdb_id=2665&imdb_id=tt0083530&tvdb_id=4040
         # tmdb: https://www.themoviedb.org/movie/2665

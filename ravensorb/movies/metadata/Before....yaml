@@ -6,7 +6,7 @@ metadata:
         orig_title: "Before Sunrise"
         sort_title: "Before Sunrise"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/206468
         # IDs: imdb://tt0112471, tmdb://76, tvdb://1129
         # tpdb: https://theposterdb.com/search/advanced/results?term=Before+Sunrise&category=Movies&year_filter=equals&yone=1995&tmdb_id=76&imdb_id=tt0112471&tvdb_id=1129
         # tmdb: https://www.themoviedb.org/movie/76
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Before Sunset"
         sort_title: "Before Sunset"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/206469
         # IDs: imdb://tt0381681, tmdb://80, tvdb://3157
         # tpdb: https://theposterdb.com/search/advanced/results?term=Before+Sunset&category=Movies&year_filter=equals&yone=2004&tmdb_id=80&imdb_id=tt0381681&tvdb_id=3157
         # tmdb: https://www.themoviedb.org/movie/80
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Before Midnight"
         sort_title: "Before Midnight"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/206470
         # IDs: imdb://tt2209418, tmdb://132344, tvdb://3208
         # tpdb: https://theposterdb.com/search/advanced/results?term=Before+Midnight&category=Movies&year_filter=equals&yone=2013&tmdb_id=132344&imdb_id=tt2209418&tvdb_id=3208
         # tmdb: https://www.themoviedb.org/movie/132344

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Cimarron"
         sort_title: "Cimarron"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186577
         # IDs: imdb://tt0021746, tmdb://42861, tvdb://31891
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cimarron&category=Movies&year_filter=equals&yone=1931&tmdb_id=42861&imdb_id=tt0021746&tvdb_id=31891
         # tmdb: https://www.themoviedb.org/movie/42861

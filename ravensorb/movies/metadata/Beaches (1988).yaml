@@ -6,7 +6,7 @@ metadata:
         orig_title: "Beaches"
         sort_title: "Beaches"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/206456
         # IDs: imdb://tt0094715, tmdb://15592, tvdb://7951
         # tpdb: https://theposterdb.com/search/advanced/results?term=Beaches&category=Movies&year_filter=equals&yone=1988&tmdb_id=15592&imdb_id=tt0094715&tvdb_id=7951
         # tmdb: https://www.themoviedb.org/movie/15592

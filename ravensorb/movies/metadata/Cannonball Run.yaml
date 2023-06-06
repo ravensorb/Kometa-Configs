@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Cannonball Run"
         sort_title: "Cannonball Run"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201659
         # IDs: imdb://tt0082136, tmdb://11286, tvdb://2845
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Cannonball+Run&category=Movies&year_filter=equals&yone=1981&tmdb_id=11286&imdb_id=tt0082136&tvdb_id=2845
         # tmdb: https://www.themoviedb.org/movie/11286
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Cannonball Run II"
         sort_title: "Cannonball Run II"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201660
         # IDs: imdb://tt0087032, tmdb://11950, tvdb://5199
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cannonball+Run+II&category=Movies&year_filter=equals&yone=1984&tmdb_id=11950&imdb_id=tt0087032&tvdb_id=5199
         # tmdb: https://www.themoviedb.org/movie/11950

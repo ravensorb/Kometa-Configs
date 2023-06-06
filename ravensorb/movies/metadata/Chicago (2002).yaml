@@ -6,7 +6,7 @@ metadata:
         orig_title: "Chicago"
         sort_title: "Chicago"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184132
         # IDs: imdb://tt0299658, tmdb://1574, tvdb://3927
         # tpdb: https://theposterdb.com/search/advanced/results?term=Chicago&category=Movies&year_filter=equals&yone=2002&tmdb_id=1574&imdb_id=tt0299658&tvdb_id=3927
         # tmdb: https://www.themoviedb.org/movie/1574

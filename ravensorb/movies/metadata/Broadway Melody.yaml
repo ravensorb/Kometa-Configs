@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Broadway Melody"
         sort_title: "Broadway Melody"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186573
         # IDs: imdb://tt0019729, tmdb://65203, tvdb://16158
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Broadway+Melody&category=Movies&year_filter=equals&yone=1929&tmdb_id=65203&imdb_id=tt0019729&tvdb_id=16158
         # tmdb: https://www.themoviedb.org/movie/65203
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Broadway Melody of 1936"
         sort_title: "Broadway Melody of 1936"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/314737
         # IDs: imdb://tt0026144, tmdb://43890, tvdb://41348
         # tpdb: https://theposterdb.com/search/advanced/results?term=Broadway+Melody+of+1936&category=Movies&year_filter=equals&yone=1935&tmdb_id=43890&imdb_id=tt0026144&tvdb_id=41348
         # tmdb: https://www.themoviedb.org/movie/43890
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Broadway Melody of 1938"
         sort_title: "Broadway Melody of 1938"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/314738
         # IDs: imdb://tt0028665, tmdb://43857, tvdb://63262
         # tpdb: https://theposterdb.com/search/advanced/results?term=Broadway+Melody+of+1938&category=Movies&year_filter=equals&yone=1937&tmdb_id=43857&imdb_id=tt0028665&tvdb_id=63262
         # tmdb: https://www.themoviedb.org/movie/43857
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Broadway Melody of 1940"
         sort_title: "Broadway Melody of 1940"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/314739
         # IDs: imdb://tt0032284, tmdb://43809, tvdb://41550
         # tpdb: https://theposterdb.com/search/advanced/results?term=Broadway+Melody+of+1940&category=Movies&year_filter=equals&yone=1940&tmdb_id=43809&imdb_id=tt0032284&tvdb_id=41550
         # tmdb: https://www.themoviedb.org/movie/43809

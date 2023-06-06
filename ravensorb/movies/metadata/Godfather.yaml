@@ -16,7 +16,7 @@ metadata:
     "The Godfather Part II (1974)":
         year: 1974
         title: "The Godfather: Part II"
-        alt_title: "The Godfather: Part II (1974)"
+        alt_title: "The Godfather Part II"
         orig_title: "The Godfather: Part II"
         sort_title: "Godfather: Part II"
         
@@ -29,12 +29,12 @@ metadata:
     
     "The Godfather Part III (1990)":
         year: 1990
-        title: "The Godfather Part III"
-        alt_title: "The Godfather Part III (1990)"
+        title: "The Godfather: Part III"
+        alt_title: "The Godfather Part III"
         orig_title: "The Godfather Part III"
         sort_title: "Godfather: Part III"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184748
         # IDs: imdb://tt0099674, tmdb://242, tvdb://2270
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Godfather+Part+III&category=Movies&year_filter=equals&yone=1990&tmdb_id=242&imdb_id=tt0099674&tvdb_id=2270
         # tmdb: https://www.themoviedb.org/movie/242

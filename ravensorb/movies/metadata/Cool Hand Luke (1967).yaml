@@ -6,7 +6,7 @@ metadata:
         orig_title: "Cool Hand Luke"
         sort_title: "Cool Hand Luke"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/170542
         # IDs: imdb://tt0061512, tmdb://903, tvdb://4724
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cool+Hand+Luke&category=Movies&year_filter=equals&yone=1967&tmdb_id=903&imdb_id=tt0061512&tvdb_id=4724
         # tmdb: https://www.themoviedb.org/movie/903

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Blade Runner"
         sort_title: "Blade Runner"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184335
         # IDs: imdb://tt0083658, tmdb://78, tvdb://343
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blade+Runner&category=Movies&year_filter=equals&yone=1982&tmdb_id=78&imdb_id=tt0083658&tvdb_id=343
         # tmdb: https://www.themoviedb.org/movie/78
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Blade Runner 2049"
         sort_title: "Blade Runner 2049"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184338
         # IDs: imdb://tt1856101, tmdb://335984, tvdb://117
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blade+Runner+2049&category=Movies&year_filter=equals&yone=2017&tmdb_id=335984&imdb_id=tt1856101&tvdb_id=117
         # tmdb: https://www.themoviedb.org/movie/335984

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Amadeus"
         sort_title: "Amadeus"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184616
         # IDs: imdb://tt0086879, tmdb://279, tvdb://3982
         # tpdb: https://theposterdb.com/search/advanced/results?term=Amadeus&category=Movies&year_filter=equals&yone=1984&tmdb_id=279&imdb_id=tt0086879&tvdb_id=3982
         # tmdb: https://www.themoviedb.org/movie/279

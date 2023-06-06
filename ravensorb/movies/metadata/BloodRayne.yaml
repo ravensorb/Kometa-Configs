@@ -6,7 +6,7 @@ metadata:
         orig_title: "BloodRayne"
         sort_title: "BloodRayne"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/176370
         # IDs: imdb://tt0383222, tmdb://168705, tvdb://2888
         # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne&category=Movies&year_filter=equals&yone=2006&tmdb_id=168705&imdb_id=tt0383222&tvdb_id=2888
         # tmdb: https://www.themoviedb.org/movie/168705
@@ -20,7 +20,7 @@ metadata:
         orig_title: "BloodRayne II: Deliverance"
         sort_title: "BloodRayne: Deliverance"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/176371
         # IDs: imdb://tt0896036, tmdb://17456, tvdb://4633
         # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne%3A+Deliverance&category=Movies&year_filter=equals&yone=2008&tmdb_id=17456&imdb_id=tt0896036&tvdb_id=4633
         # tmdb: https://www.themoviedb.org/movie/17456
@@ -34,7 +34,7 @@ metadata:
         orig_title: "BloodRayne: The Third Reich"
         sort_title: "BloodRayne: The Third Reich"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/176372
         # IDs: imdb://tt1153546, tmdb://12685, tvdb://3966
         # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne%3A+The+Third+Reich&category=Movies&year_filter=equals&yone=2012&tmdb_id=12685&imdb_id=tt1153546&tvdb_id=3966
         # tmdb: https://www.themoviedb.org/movie/12685

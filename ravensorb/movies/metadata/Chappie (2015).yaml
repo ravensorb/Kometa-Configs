@@ -6,7 +6,7 @@ metadata:
         orig_title: "Chappie"
         sort_title: "Chappie"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184524
         # IDs: imdb://tt1823672, tmdb://198184, tvdb://317
         # tpdb: https://theposterdb.com/search/advanced/results?term=Chappie&category=Movies&year_filter=equals&yone=2015&tmdb_id=198184&imdb_id=tt1823672&tvdb_id=317
         # tmdb: https://www.themoviedb.org/movie/198184

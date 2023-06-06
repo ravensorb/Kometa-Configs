@@ -6,7 +6,7 @@ metadata:
         orig_title: "Cats"
         sort_title: "Cats"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/218338
         # IDs: imdb://tt0173714, tmdb://26598, tvdb://14343
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cats&category=Movies&year_filter=equals&yone=1998&tmdb_id=26598&imdb_id=tt0173714&tvdb_id=14343
         # tmdb: https://www.themoviedb.org/movie/26598

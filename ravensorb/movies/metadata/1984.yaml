@@ -6,7 +6,7 @@ metadata:
         orig_title: "1984"
         sort_title: "1984"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187062
         # IDs: imdb://tt0087803, tmdb://9314, tvdb://5369
         # tpdb: https://theposterdb.com/search/advanced/results?term=1984&category=Movies&year_filter=equals&yone=1984&tmdb_id=9314&imdb_id=tt0087803&tvdb_id=5369
         # tmdb: https://www.themoviedb.org/movie/9314

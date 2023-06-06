@@ -6,7 +6,7 @@ metadata:
         orig_title: "Citizen Kane"
         sort_title: "Citizen Kane"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/210354
         # IDs: imdb://tt0033467, tmdb://15, tvdb://1747
         # tpdb: https://theposterdb.com/search/advanced/results?term=Citizen+Kane&category=Movies&year_filter=equals&yone=1941&tmdb_id=15&imdb_id=tt0033467&tvdb_id=1747
         # tmdb: https://www.themoviedb.org/movie/15

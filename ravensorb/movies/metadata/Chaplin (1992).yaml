@@ -6,7 +6,7 @@ metadata:
         orig_title: "Chaplin"
         sort_title: "Chaplin"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/218344
         # IDs: imdb://tt0103939, tmdb://10435, tvdb://4176
         # tpdb: https://theposterdb.com/search/advanced/results?term=Chaplin&category=Movies&year_filter=equals&yone=1992&tmdb_id=10435&imdb_id=tt0103939&tvdb_id=4176
         # tmdb: https://www.themoviedb.org/movie/10435

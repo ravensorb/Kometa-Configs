@@ -6,7 +6,7 @@ metadata:
         orig_title: "Bullitt"
         sort_title: "Bullitt"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/194583
         # IDs: imdb://tt0062765, tmdb://916, tvdb://5316
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bullitt&category=Movies&year_filter=equals&yone=1968&tmdb_id=916&imdb_id=tt0062765&tvdb_id=5316
         # tmdb: https://www.themoviedb.org/movie/916

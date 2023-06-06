@@ -6,7 +6,7 @@ metadata:
         orig_title: "42nd Street"
         sort_title: "42nd Street"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/200267
         # IDs: imdb://tt0024034, tmdb://3062, tvdb://12772
         # tpdb: https://theposterdb.com/search/advanced/results?term=42nd+Street&category=Movies&year_filter=equals&yone=1933&tmdb_id=3062&imdb_id=tt0024034&tvdb_id=12772
         # tmdb: https://www.themoviedb.org/movie/3062
@@ -20,7 +20,7 @@ metadata:
         orig_title: "42nd Street: The Musical"
         sort_title: "42nd Street: The Musical"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/200268
         # IDs: imdb://tt10140002, tmdb://594345, tvdb://147524
         # tpdb: https://theposterdb.com/search/advanced/results?term=42nd+Street%3A+The+Musical&category=Movies&year_filter=equals&yone=2019&tmdb_id=594345&imdb_id=tt10140002&tvdb_id=147524
         # tmdb: https://www.themoviedb.org/movie/594345

@@ -13,6 +13,20 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=299
         # imdb: https://www.imdb.com/title/tt0088763
     
+    "Back to the Future Part II (1989)":
+        year: 1989
+        title: "Back to the Future Part II"
+        alt_title: "Back to the Future Part II (1989)"
+        orig_title: "Back to the Future Part II"
+        sort_title: "Back to the Future Part II"
+        
+        url_poster: https://theposterdb.com/api/assets/173585
+        # IDs: imdb://tt0096874, tmdb://165, tvdb://1605
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Back+to+the+Future+Part+II&category=Movies&year_filter=equals&yone=1989&tmdb_id=165&imdb_id=tt0096874&tvdb_id=1605
+        # tmdb: https://www.themoviedb.org/movie/1605
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=165
+        # imdb: https://www.imdb.com/title/tt0096874
+    
     "Back to the Future Part III (1990)":
         year: 1990
         title: "Back to the Future Part III"

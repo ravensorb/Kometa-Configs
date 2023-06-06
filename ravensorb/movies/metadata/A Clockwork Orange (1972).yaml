@@ -6,7 +6,7 @@ metadata:
         orig_title: "A Clockwork Orange"
         sort_title: "Clockwork Orange"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/226353
         # IDs: imdb://tt0066921, tmdb://185, tvdb://641
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Clockwork+Orange&category=Movies&year_filter=equals&yone=1972&tmdb_id=185&imdb_id=tt0066921&tvdb_id=641
         # tmdb: https://www.themoviedb.org/movie/185

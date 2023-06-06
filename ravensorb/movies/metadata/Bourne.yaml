@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Bourne Identity"
         sort_title: "Bourne Identity"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191270
         # IDs: imdb://tt0258463, tmdb://2501, tvdb://730
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bourne+Identity&category=Movies&year_filter=equals&yone=2002&tmdb_id=2501&imdb_id=tt0258463&tvdb_id=730
         # tmdb: https://www.themoviedb.org/movie/2501
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Bourne Supremacy"
         sort_title: "Bourne Supremacy"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191271
         # IDs: imdb://tt0372183, tmdb://2502, tvdb://842
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bourne+Supremacy&category=Movies&year_filter=equals&yone=2004&tmdb_id=2502&imdb_id=tt0372183&tvdb_id=842
         # tmdb: https://www.themoviedb.org/movie/2502
@@ -34,7 +34,7 @@ metadata:
         orig_title: "The Bourne Ultimatum"
         sort_title: "Bourne Ultimatum"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191272
         # IDs: imdb://tt0440963, tmdb://2503, tvdb://1421
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bourne+Ultimatum&category=Movies&year_filter=equals&yone=2007&tmdb_id=2503&imdb_id=tt0440963&tvdb_id=1421
         # tmdb: https://www.themoviedb.org/movie/2503
@@ -48,7 +48,7 @@ metadata:
         orig_title: "The Bourne Legacy"
         sort_title: "Bourne Legacy"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191273
         # IDs: imdb://tt1194173, tmdb://49040, tvdb://1478
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bourne+Legacy&category=Movies&year_filter=equals&yone=2012&tmdb_id=49040&imdb_id=tt1194173&tvdb_id=1478
         # tmdb: https://www.themoviedb.org/movie/49040

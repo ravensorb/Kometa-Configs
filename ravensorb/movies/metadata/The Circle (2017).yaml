@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Circle"
         sort_title: "Circle"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201321
         # IDs: imdb://tt4287320, tmdb://339988, tvdb://1979
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Circle&category=Movies&year_filter=equals&yone=2017&tmdb_id=339988&imdb_id=tt4287320&tvdb_id=1979
         # tmdb: https://www.themoviedb.org/movie/339988

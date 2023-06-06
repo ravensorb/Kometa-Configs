@@ -6,7 +6,7 @@ metadata:
         orig_title: "Ben-Hur"
         sort_title: "Ben-Hur"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186640
         # IDs: imdb://tt0052618, tmdb://665, tvdb://2950
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ben-Hur&category=Movies&year_filter=equals&yone=1959&tmdb_id=665&imdb_id=tt0052618&tvdb_id=2950
         # tmdb: https://www.themoviedb.org/movie/665

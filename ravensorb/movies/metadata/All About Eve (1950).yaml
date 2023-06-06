@@ -6,7 +6,7 @@ metadata:
         orig_title: "All About Eve"
         sort_title: "All About Eve"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186620
         # IDs: imdb://tt0042192, tmdb://705, tvdb://3105
         # tpdb: https://theposterdb.com/search/advanced/results?term=All+About+Eve&category=Movies&year_filter=equals&yone=1950&tmdb_id=705&imdb_id=tt0042192&tvdb_id=3105
         # tmdb: https://www.themoviedb.org/movie/705

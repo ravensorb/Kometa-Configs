@@ -2,11 +2,11 @@ metadata:
     "City in the Sea (1965)":
         year: 1965
         title: "City in the Sea"
-        alt_title: "City in the Sea (1965)"
+        alt_title: "War-Gods of the Deep (1965)"
         orig_title: "City in the Sea"
         sort_title: "City in the Sea"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188240
         # IDs: imdb://tt0059895, tmdb://38267, tvdb://22355
         # tpdb: https://theposterdb.com/search/advanced/results?term=City+in+the+Sea&category=Movies&year_filter=equals&yone=1965&tmdb_id=38267&imdb_id=tt0059895&tvdb_id=22355
         # tmdb: https://www.themoviedb.org/movie/38267
