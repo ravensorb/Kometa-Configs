@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Princess Bride"
         sort_title: "Princess Bride"
         
-        url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187999
         # IDs: imdb://tt0093779, tmdb://2493, tvdb://2578
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Princess+Bride&category=Movies&year_filter=equals&yone=1987&tmdb_id=2493&imdb_id=tt0093779&tvdb_id=2578
         # tmdb: https://www.themoviedb.org/movie/2493

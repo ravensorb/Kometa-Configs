@@ -6,7 +6,7 @@ metadata:
         orig_title: "Forbidden Planet"
         sort_title: "Forbidden Planet"
         
-        # url_poster: https://theposterdb.com/api/assets/187282
+        url_poster: https://theposterdb.com/api/assets/187282
         # IDs: imdb://tt0049223, tmdb://830, tvdb://704
         # tpdb: https://theposterdb.com/search/advanced/results?term=Forbidden+Planet&category=Movies&year_filter=equals&yone=1956&tmdb_id=830&imdb_id=tt0049223&tvdb_id=704
         # tmdb: https://www.themoviedb.org/movie/830

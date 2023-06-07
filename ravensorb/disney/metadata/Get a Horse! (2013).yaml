@@ -6,7 +6,7 @@ metadata:
         orig_title: "Get a Horse!"
         sort_title: "Get a Horse!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/310499
         # IDs: imdb://tt2980764, tmdb://234567, tvdb://9250
         # tpdb: https://theposterdb.com/search/advanced/results?term=Get+a+Horse%21&category=Movies&year_filter=equals&yone=2013&tmdb_id=234567&imdb_id=tt2980764&tvdb_id=9250
         # tmdb: https://www.themoviedb.org/movie/234567
