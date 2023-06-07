@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Imitation Game"
         sort_title: "Imitation Game"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/195310
         # IDs: imdb://tt2084970, tmdb://205596, tvdb://335
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Imitation+Game&category=Movies&year_filter=equals&yone=2014&tmdb_id=205596&imdb_id=tt2084970&tvdb_id=335
         # tmdb: https://www.themoviedb.org/movie/205596

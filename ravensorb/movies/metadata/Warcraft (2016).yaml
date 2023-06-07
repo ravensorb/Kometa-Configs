@@ -6,7 +6,7 @@ metadata:
         orig_title: "Warcraft"
         sort_title: "Warcraft"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187573
         # IDs: imdb://tt0803096, tmdb://68735, tvdb://936
         # tpdb: https://theposterdb.com/search/advanced/results?term=Warcraft&category=Movies&year_filter=equals&yone=2016&tmdb_id=68735&imdb_id=tt0803096&tvdb_id=936
         # tmdb: https://www.themoviedb.org/movie/68735

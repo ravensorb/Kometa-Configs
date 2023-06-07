@@ -6,7 +6,7 @@ metadata:
         orig_title: "Spotlight"
         sort_title: "Spotlight"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184105
         # IDs: imdb://tt1895587, tmdb://314365, tvdb://606
         # tpdb: https://theposterdb.com/search/advanced/results?term=Spotlight&category=Movies&year_filter=equals&yone=2015&tmdb_id=314365&imdb_id=tt1895587&tvdb_id=606
         # tmdb: https://www.themoviedb.org/movie/314365

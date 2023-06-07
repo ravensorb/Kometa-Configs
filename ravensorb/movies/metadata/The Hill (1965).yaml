@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Hill"
         sort_title: "Hill"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/334441
         # IDs: imdb://tt0059274, tmdb://24395, tvdb://15577
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Hill&category=Movies&year_filter=equals&yone=1965&tmdb_id=24395&imdb_id=tt0059274&tvdb_id=15577
         # tmdb: https://www.themoviedb.org/movie/24395

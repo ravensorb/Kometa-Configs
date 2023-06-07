@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Right Stuff"
         sort_title: "Right Stuff"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/224461
         # IDs: imdb://tt0086197, tmdb://9549, tvdb://2471
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Right+Stuff&category=Movies&year_filter=equals&yone=1983&tmdb_id=9549&imdb_id=tt0086197&tvdb_id=2471
         # tmdb: https://www.themoviedb.org/movie/9549

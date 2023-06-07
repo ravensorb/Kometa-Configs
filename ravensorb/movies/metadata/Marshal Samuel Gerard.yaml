@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Fugitive"
         sort_title: "Fugitive"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212186
         # IDs: imdb://tt0106977, tmdb://5503, tvdb://1054
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fugitive&category=Movies&year_filter=equals&yone=1993&tmdb_id=5503&imdb_id=tt0106977&tvdb_id=1054
         # tmdb: https://www.themoviedb.org/movie/5503
@@ -20,7 +20,7 @@ metadata:
         orig_title: "U.S. Marshals"
         sort_title: "U.S. Marshals"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212187
         # IDs: imdb://tt0120873, tmdb://11808, tvdb://2157
         # tpdb: https://theposterdb.com/search/advanced/results?term=U.S.+Marshals&category=Movies&year_filter=equals&yone=1998&tmdb_id=11808&imdb_id=tt0120873&tvdb_id=2157
         # tmdb: https://www.themoviedb.org/movie/11808

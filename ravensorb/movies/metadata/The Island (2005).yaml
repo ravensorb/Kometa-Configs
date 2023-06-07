@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Island"
         sort_title: "Island"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198751
         # IDs: imdb://tt0399201, tmdb://1635, tvdb://1994
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Island&category=Movies&year_filter=equals&yone=2005&tmdb_id=1635&imdb_id=tt0399201&tvdb_id=1994
         # tmdb: https://www.themoviedb.org/movie/1635

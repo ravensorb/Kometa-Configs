@@ -6,7 +6,7 @@ metadata:
         orig_title: "Some Like It Hot"
         sort_title: "Some Like It Hot"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/230275
         # IDs: imdb://tt0053291, tmdb://239, tvdb://2024
         # tpdb: https://theposterdb.com/search/advanced/results?term=Some+Like+It+Hot&category=Movies&year_filter=equals&yone=1959&tmdb_id=239&imdb_id=tt0053291&tvdb_id=2024
         # tmdb: https://www.themoviedb.org/movie/239

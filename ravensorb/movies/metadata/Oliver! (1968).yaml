@@ -6,7 +6,7 @@ metadata:
         orig_title: "Oliver!"
         sort_title: "Oliver!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186287
         # IDs: imdb://tt0063385, tmdb://17917, tvdb://6941
         # tpdb: https://theposterdb.com/search/advanced/results?term=Oliver%21&category=Movies&year_filter=equals&yone=1968&tmdb_id=17917&imdb_id=tt0063385&tvdb_id=6941
         # tmdb: https://www.themoviedb.org/movie/17917

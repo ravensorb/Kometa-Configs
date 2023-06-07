@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Color Purple"
         sort_title: "Color Purple"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179227
         # IDs: imdb://tt0088939, tmdb://873, tvdb://5364
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Color+Purple&category=Movies&year_filter=equals&yone=1985&tmdb_id=873&imdb_id=tt0088939&tvdb_id=5364
         # tmdb: https://www.themoviedb.org/movie/873

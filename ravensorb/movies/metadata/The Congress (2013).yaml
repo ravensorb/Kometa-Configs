@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Congress"
         sort_title: "Congress"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185056
         # IDs: imdb://tt1821641, tmdb://152795, tvdb://6992
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Congress&category=Movies&year_filter=equals&yone=2013&tmdb_id=152795&imdb_id=tt1821641&tvdb_id=6992
         # tmdb: https://www.themoviedb.org/movie/152795

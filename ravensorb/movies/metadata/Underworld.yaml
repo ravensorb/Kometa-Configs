@@ -6,7 +6,7 @@ metadata:
         orig_title: "Underworld"
         sort_title: "Underworld"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173449
         # IDs: imdb://tt0320691, tmdb://277, tvdb://1154
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld&category=Movies&year_filter=equals&yone=2003&tmdb_id=277&imdb_id=tt0320691&tvdb_id=1154
         # tmdb: https://www.themoviedb.org/movie/277
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Underworld: Evolution"
         sort_title: "Underworld: Evolution"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173450
         # IDs: imdb://tt0401855, tmdb://834, tvdb://1483
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld%3A+Evolution&category=Movies&year_filter=equals&yone=2006&tmdb_id=834&imdb_id=tt0401855&tvdb_id=1483
         # tmdb: https://www.themoviedb.org/movie/834
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Underworld: Rise of the Lycans"
         sort_title: "Underworld: Rise of the Lycans"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173451
         # IDs: imdb://tt0834001, tmdb://12437, tvdb://1437
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld%3A+Rise+of+the+Lycans&category=Movies&year_filter=equals&yone=2009&tmdb_id=12437&imdb_id=tt0834001&tvdb_id=1437
         # tmdb: https://www.themoviedb.org/movie/12437
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Underworld: Endless War"
         sort_title: "Underworld: Endless War"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173452
         # IDs: imdb://tt2381375, tmdb://161337, tvdb://4535
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld%3A+Endless+War&category=Movies&year_filter=equals&yone=2011&tmdb_id=161337&imdb_id=tt2381375&tvdb_id=4535
         # tmdb: https://www.themoviedb.org/movie/161337
@@ -62,7 +62,7 @@ metadata:
         orig_title: "Underworld: Awakening"
         sort_title: "Underworld: Awakening"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173453
         # IDs: imdb://tt1496025, tmdb://52520, tvdb://1835
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld%3A+Awakening&category=Movies&year_filter=equals&yone=2012&tmdb_id=52520&imdb_id=tt1496025&tvdb_id=1835
         # tmdb: https://www.themoviedb.org/movie/52520

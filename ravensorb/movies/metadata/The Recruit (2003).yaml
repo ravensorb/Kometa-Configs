@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Recruit"
         sort_title: "Recruit"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/217785
         # IDs: imdb://tt0292506, tmdb://1647, tvdb://1695
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Recruit&category=Movies&year_filter=equals&yone=2003&tmdb_id=1647&imdb_id=tt0292506&tvdb_id=1695
         # tmdb: https://www.themoviedb.org/movie/1647

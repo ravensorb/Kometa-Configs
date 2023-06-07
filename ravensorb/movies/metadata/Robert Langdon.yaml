@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Da Vinci Code"
         sort_title: "Da Vinci Code"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202308
         # IDs: imdb://tt0382625, tmdb://591, tvdb://992
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Da+Vinci+Code&category=Movies&year_filter=equals&yone=2006&tmdb_id=591&imdb_id=tt0382625&tvdb_id=992
         # tmdb: https://www.themoviedb.org/movie/591
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Angels & Demons"
         sort_title: "Angels & Demons"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202309
         # IDs: imdb://tt0808151, tmdb://13448, tvdb://682
         # tpdb: https://theposterdb.com/search/advanced/results?term=Angels+%26+Demons&category=Movies&year_filter=equals&yone=2009&tmdb_id=13448&imdb_id=tt0808151&tvdb_id=682
         # tmdb: https://www.themoviedb.org/movie/13448
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Inferno"
         sort_title: "Inferno"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202310
         # IDs: imdb://tt3062096, tmdb://207932, tvdb://975
         # tpdb: https://theposterdb.com/search/advanced/results?term=Inferno&category=Movies&year_filter=equals&yone=2016&tmdb_id=207932&imdb_id=tt3062096&tvdb_id=975
         # tmdb: https://www.themoviedb.org/movie/207932

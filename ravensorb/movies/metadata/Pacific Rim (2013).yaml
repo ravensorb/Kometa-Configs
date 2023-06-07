@@ -6,7 +6,7 @@ metadata:
         orig_title: "Pacific Rim"
         sort_title: "Pacific Rim"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201000
         # IDs: imdb://tt1663662, tmdb://68726, tvdb://846
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pacific+Rim&category=Movies&year_filter=equals&yone=2013&tmdb_id=68726&imdb_id=tt1663662&tvdb_id=846
         # tmdb: https://www.themoviedb.org/movie/68726

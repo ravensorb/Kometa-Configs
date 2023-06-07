@@ -6,7 +6,7 @@ metadata:
         orig_title: "M*A*S*H"
         sort_title: "M*A*S*H"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/197257
         # IDs: imdb://tt0066026, tmdb://651, tvdb://3723
         # tpdb: https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH&category=Movies&year_filter=equals&yone=1970&tmdb_id=651&imdb_id=tt0066026&tvdb_id=3723
         # tmdb: https://www.themoviedb.org/movie/651

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Sixth Sense"
         sort_title: "Sixth Sense"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/178345
         # IDs: imdb://tt0167404, tmdb://745, tvdb://947
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sixth+Sense&category=Movies&year_filter=equals&yone=1999&tmdb_id=745&imdb_id=tt0167404&tvdb_id=947
         # tmdb: https://www.themoviedb.org/movie/745

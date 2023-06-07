@@ -6,7 +6,7 @@ metadata:
         orig_title: "Race"
         sort_title: "Race"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/189028
         # IDs: imdb://tt3499096, tmdb://323677, tvdb://4679
         # tpdb: https://theposterdb.com/search/advanced/results?term=Race&category=Movies&year_filter=equals&yone=2016&tmdb_id=323677&imdb_id=tt3499096&tvdb_id=4679
         # tmdb: https://www.themoviedb.org/movie/323677

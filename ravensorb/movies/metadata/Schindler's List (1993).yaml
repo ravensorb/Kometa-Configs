@@ -6,7 +6,7 @@ metadata:
         orig_title: "Schindler's List"
         sort_title: "Schindler's List"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179230
         # IDs: imdb://tt0108052, tmdb://424, tvdb://223
         # tpdb: https://theposterdb.com/search/advanced/results?term=Schindler%27s+List&category=Movies&year_filter=equals&yone=1993&tmdb_id=424&imdb_id=tt0108052&tvdb_id=223
         # tmdb: https://www.themoviedb.org/movie/424

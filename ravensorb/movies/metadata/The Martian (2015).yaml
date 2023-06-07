@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Martian"
         sort_title: "Martian"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184531
         # IDs: imdb://tt3659388, tmdb://286217, tvdb://132
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Martian&category=Movies&year_filter=equals&yone=2015&tmdb_id=286217&imdb_id=tt3659388&tvdb_id=132
         # tmdb: https://www.themoviedb.org/movie/286217

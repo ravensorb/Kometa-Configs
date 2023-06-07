@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Polar Express"
         sort_title: "Polar Express"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190458
         # IDs: imdb://tt0338348, tmdb://5255, tvdb://1331
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Polar+Express&category=Movies&year_filter=equals&yone=2004&tmdb_id=5255&imdb_id=tt0338348&tvdb_id=1331
         # tmdb: https://www.themoviedb.org/movie/5255

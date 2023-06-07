@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Exorcist"
         sort_title: "Exorcist"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/177158
         # IDs: imdb://tt0070047, tmdb://9552, tvdb://944
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Exorcist&category=Movies&year_filter=equals&yone=1973&tmdb_id=9552&imdb_id=tt0070047&tvdb_id=944
         # tmdb: https://www.themoviedb.org/movie/9552

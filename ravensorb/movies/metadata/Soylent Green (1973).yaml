@@ -6,7 +6,7 @@ metadata:
         orig_title: "Soylent Green"
         sort_title: "Soylent Green"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0070723, tmdb://12101, tvdb://4491
         # tpdb: https://theposterdb.com/search/advanced/results?term=Soylent+Green&category=Movies&year_filter=equals&yone=1973&tmdb_id=12101&imdb_id=tt0070723&tvdb_id=4491
         # tmdb: https://www.themoviedb.org/movie/12101

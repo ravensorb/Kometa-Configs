@@ -6,7 +6,7 @@ metadata:
         orig_title: "Inception"
         sort_title: "Inception"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185444
         # IDs: imdb://tt1375666, tmdb://27205, tvdb://113
         # tpdb: https://theposterdb.com/search/advanced/results?term=Inception&category=Movies&year_filter=equals&yone=2010&tmdb_id=27205&imdb_id=tt1375666&tvdb_id=113
         # tmdb: https://www.themoviedb.org/movie/27205

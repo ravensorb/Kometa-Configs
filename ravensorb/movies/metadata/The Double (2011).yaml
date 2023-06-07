@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Double"
         sort_title: "Double"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/210158
         # IDs: imdb://tt1646980, tmdb://73499, tvdb://8533
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Double&category=Movies&year_filter=equals&yone=2011&tmdb_id=73499&imdb_id=tt1646980&tvdb_id=8533
         # tmdb: https://www.themoviedb.org/movie/73499

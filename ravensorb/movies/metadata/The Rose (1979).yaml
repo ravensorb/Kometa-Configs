@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Rose"
         sort_title: "Rose"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/227826
         # IDs: imdb://tt0079826, tmdb://16323, tvdb://15476
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Rose&category=Movies&year_filter=equals&yone=1979&tmdb_id=16323&imdb_id=tt0079826&tvdb_id=15476
         # tmdb: https://www.themoviedb.org/movie/16323

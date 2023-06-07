@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Best Years of Our Lives"
         sort_title: "Best Years of Our Lives"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186608
         # IDs: imdb://tt0036868, tmdb://887, tvdb://7860
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Best+Years+of+Our+Lives&category=Movies&year_filter=equals&yone=1947&tmdb_id=887&imdb_id=tt0036868&tvdb_id=7860
         # tmdb: https://www.themoviedb.org/movie/887

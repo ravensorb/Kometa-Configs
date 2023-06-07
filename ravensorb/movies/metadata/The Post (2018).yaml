@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Post"
         sort_title: "Post"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179243
         # IDs: imdb://tt6294822, tmdb://446354, tvdb://943
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Post&category=Movies&year_filter=equals&yone=2018&tmdb_id=446354&imdb_id=tt6294822&tvdb_id=943
         # tmdb: https://www.themoviedb.org/movie/446354

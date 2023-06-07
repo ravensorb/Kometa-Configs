@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Running Man"
         sort_title: "Running Man"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/330113
         # IDs: imdb://tt0093894, tmdb://865, tvdb://1500
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Running+Man&category=Movies&year_filter=equals&yone=1987&tmdb_id=865&imdb_id=tt0093894&tvdb_id=1500
         # tmdb: https://www.themoviedb.org/movie/865

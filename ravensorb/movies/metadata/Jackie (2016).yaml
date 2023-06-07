@@ -6,7 +6,7 @@ metadata:
         orig_title: "Jackie"
         sort_title: "Jackie"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1619029, tmdb://376866, tvdb://3782
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jackie&category=Movies&year_filter=equals&yone=2016&tmdb_id=376866&imdb_id=tt1619029&tvdb_id=3782
         # tmdb: https://www.themoviedb.org/movie/376866

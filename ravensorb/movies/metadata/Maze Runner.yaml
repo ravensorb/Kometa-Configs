@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Maze Runner"
         sort_title: "Maze Runner"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184024
         # IDs: imdb://tt1790864, tmdb://198663, tvdb://140
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Maze+Runner&category=Movies&year_filter=equals&yone=2014&tmdb_id=198663&imdb_id=tt1790864&tvdb_id=140
         # tmdb: https://www.themoviedb.org/movie/198663
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Maze Runner: The Scorch Trials"
         sort_title: "Maze Runner: The Scorch Trials"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184025
         # IDs: imdb://tt4046784, tmdb://294254, tvdb://517
         # tpdb: https://theposterdb.com/search/advanced/results?term=Maze+Runner%3A+The+Scorch+Trials&category=Movies&year_filter=equals&yone=2015&tmdb_id=294254&imdb_id=tt4046784&tvdb_id=517
         # tmdb: https://www.themoviedb.org/movie/294254
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Maze Runner: The Death Cure"
         sort_title: "Maze Runner: The Death Cure"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184026
         # IDs: imdb://tt4500922, tmdb://336843, tvdb://283
         # tpdb: https://theposterdb.com/search/advanced/results?term=Maze+Runner%3A+The+Death+Cure&category=Movies&year_filter=equals&yone=2018&tmdb_id=336843&imdb_id=tt4500922&tvdb_id=283
         # tmdb: https://www.themoviedb.org/movie/336843

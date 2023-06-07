@@ -6,7 +6,7 @@ metadata:
         orig_title: "A Grand Day Out"
         sort_title: "Grand Day Out"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192940
         # IDs: imdb://tt0104361, tmdb://530, tvdb://5297
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Grand+Day+Out&category=Movies&year_filter=equals&yone=1990&tmdb_id=530&imdb_id=tt0104361&tvdb_id=5297
         # tmdb: https://www.themoviedb.org/movie/530
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Wrong Trousers"
         sort_title: "Wrong Trousers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192941
         # IDs: imdb://tt0108598, tmdb://531, tvdb://4998
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Wrong+Trousers&category=Movies&year_filter=equals&yone=1993&tmdb_id=531&imdb_id=tt0108598&tvdb_id=4998
         # tmdb: https://www.themoviedb.org/movie/531
@@ -34,7 +34,7 @@ metadata:
         orig_title: "A Close Shave"
         sort_title: "Close Shave"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192942
         # IDs: imdb://tt0112691, tmdb://532, tvdb://2434
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Close+Shave&category=Movies&year_filter=equals&yone=1995&tmdb_id=532&imdb_id=tt0112691&tvdb_id=2434
         # tmdb: https://www.themoviedb.org/movie/532
@@ -62,7 +62,7 @@ metadata:
         orig_title: "Wallace & Gromit's Cracking Contraptions"
         sort_title: "Wallace & Gromit's Cracking Contraptions"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192944
         # IDs: tmdb://211798
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace+%26+Gromit%27s+Cracking+Contraptions&category=Movies&year_filter=equals&yone=2002&tmdb_id=211798
         # tmdb: https://www.themoviedb.org/movie/211798
@@ -76,7 +76,7 @@ metadata:
         orig_title: "The Curse of the Were-Rabbit"
         sort_title: "Curse of the Were-Rabbit"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192945
         # IDs: imdb://tt0312004, tmdb://533, tvdb://981
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Curse+of+the+Were-Rabbit&category=Movies&year_filter=equals&yone=2005&tmdb_id=533&imdb_id=tt0312004&tvdb_id=981
         # tmdb: https://www.themoviedb.org/movie/533
@@ -90,7 +90,7 @@ metadata:
         orig_title: "A Matter of Loaf and Death"
         sort_title: "Matter of Loaf and Death"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192947
         # IDs: imdb://tt1118511, tmdb://14447, tvdb://2307
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Matter+of+Loaf+and+Death&category=Movies&year_filter=equals&yone=2008&tmdb_id=14447&imdb_id=tt1118511&tvdb_id=2307
         # tmdb: https://www.themoviedb.org/movie/14447

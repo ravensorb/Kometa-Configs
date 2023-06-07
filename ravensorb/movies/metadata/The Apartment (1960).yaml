@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Apartment"
         sort_title: "Apartment"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186268
         # IDs: imdb://tt0053604, tmdb://284, tvdb://3801
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Apartment&category=Movies&year_filter=equals&yone=1960&tmdb_id=284&imdb_id=tt0053604&tvdb_id=3801
         # tmdb: https://www.themoviedb.org/movie/284

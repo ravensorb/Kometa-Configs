@@ -6,7 +6,7 @@ metadata:
         orig_title: "Project X"
         sort_title: "Project X"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/175194
         # IDs: imdb://tt0093793, tmdb://18410, tvdb://5784
         # tpdb: https://theposterdb.com/search/advanced/results?term=Project+X&category=Movies&year_filter=equals&yone=1987&tmdb_id=18410&imdb_id=tt0093793&tvdb_id=5784
         # tmdb: https://www.themoviedb.org/movie/18410

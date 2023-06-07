@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Take"
         sort_title: "Take"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202110
         # IDs: imdb://tt2368619, tmdb://333669, tvdb://2837
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Take&category=Movies&year_filter=equals&yone=2016&tmdb_id=333669&imdb_id=tt2368619&tvdb_id=2837
         # tmdb: https://www.themoviedb.org/movie/333669

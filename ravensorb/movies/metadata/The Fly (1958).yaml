@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Fly"
         sort_title: "Fly"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/177234
         # IDs: imdb://tt0051622, tmdb://11815, tvdb://6240
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fly&category=Movies&year_filter=equals&yone=1958&tmdb_id=11815&imdb_id=tt0051622&tvdb_id=6240
         # tmdb: https://www.themoviedb.org/movie/11815

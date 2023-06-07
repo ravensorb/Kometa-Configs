@@ -6,7 +6,7 @@ metadata:
         orig_title: "It's a Wonderful Life"
         sort_title: "It's a Wonderful Life"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188231
         # IDs: imdb://tt0038650, tmdb://1585, tvdb://771
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+a+Wonderful+Life&category=Movies&year_filter=equals&yone=1946&tmdb_id=1585&imdb_id=tt0038650&tvdb_id=771
         # tmdb: https://www.themoviedb.org/movie/1585

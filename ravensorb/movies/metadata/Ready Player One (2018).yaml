@@ -6,7 +6,7 @@ metadata:
         orig_title: "Ready Player One"
         sort_title: "Ready Player One"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/210735
         # IDs: imdb://tt1677720, tmdb://333339, tvdb://73
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ready+Player+One&category=Movies&year_filter=equals&yone=2018&tmdb_id=333339&imdb_id=tt1677720&tvdb_id=73
         # tmdb: https://www.themoviedb.org/movie/333339

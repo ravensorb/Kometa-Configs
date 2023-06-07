@@ -6,7 +6,7 @@ metadata:
         orig_title: "Steve Jobs"
         sort_title: "Steve Jobs"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204854
         # IDs: imdb://tt2080374, tmdb://321697, tvdb://3271
         # tpdb: https://theposterdb.com/search/advanced/results?term=Steve+Jobs&category=Movies&year_filter=equals&yone=2015&tmdb_id=321697&imdb_id=tt2080374&tvdb_id=3271
         # tmdb: https://www.themoviedb.org/movie/321697

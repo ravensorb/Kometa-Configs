@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Phantom of the Opera"
         sort_title: "Phantom of the Opera"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/181550
         # IDs: imdb://tt0016220, tmdb://964, tvdb://10433
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Phantom+of+the+Opera&category=Movies&year_filter=equals&yone=1925&tmdb_id=964&imdb_id=tt0016220&tvdb_id=10433
         # tmdb: https://www.themoviedb.org/movie/964

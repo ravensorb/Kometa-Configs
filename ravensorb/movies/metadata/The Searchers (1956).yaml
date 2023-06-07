@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Searchers"
         sort_title: "Searchers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/197023
         # IDs: imdb://tt0049730, tmdb://3114, tvdb://4285
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Searchers&category=Movies&year_filter=equals&yone=1956&tmdb_id=3114&imdb_id=tt0049730&tvdb_id=4285
         # tmdb: https://www.themoviedb.org/movie/3114

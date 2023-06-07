@@ -6,7 +6,7 @@ metadata:
         orig_title: "Twilight"
         sort_title: "Twilight"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/221825
         # IDs: imdb://tt0119594, tmdb://26269, tvdb://12245
         # tpdb: https://theposterdb.com/search/advanced/results?term=Twilight&category=Movies&year_filter=equals&yone=1998&tmdb_id=26269&imdb_id=tt0119594&tvdb_id=12245
         # tmdb: https://www.themoviedb.org/movie/26269

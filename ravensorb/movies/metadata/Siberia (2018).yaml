@@ -6,7 +6,7 @@ metadata:
         orig_title: "Siberia"
         sort_title: "Siberia"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201051
         # IDs: imdb://tt6494418, tmdb://438689, tvdb://1405
         # tpdb: https://theposterdb.com/search/advanced/results?term=Siberia&category=Movies&year_filter=equals&yone=2018&tmdb_id=438689&imdb_id=tt6494418&tvdb_id=1405
         # tmdb: https://www.themoviedb.org/movie/438689

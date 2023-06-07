@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Intern"
         sort_title: "Intern"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204424
         # IDs: imdb://tt2361509, tmdb://257211, tvdb://1215
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Intern&category=Movies&year_filter=equals&yone=2015&tmdb_id=257211&imdb_id=tt2361509&tvdb_id=1215
         # tmdb: https://www.themoviedb.org/movie/257211

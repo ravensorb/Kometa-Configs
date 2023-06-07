@@ -6,7 +6,7 @@ metadata:
         orig_title: "My Fair Lady"
         sort_title: "My Fair Lady"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186277
         # IDs: imdb://tt0058385, tmdb://11113, tvdb://4577
         # tpdb: https://theposterdb.com/search/advanced/results?term=My+Fair+Lady&category=Movies&year_filter=equals&yone=1964&tmdb_id=11113&imdb_id=tt0058385&tvdb_id=4577
         # tmdb: https://www.themoviedb.org/movie/11113

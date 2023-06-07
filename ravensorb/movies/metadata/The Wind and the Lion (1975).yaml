@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Wind and the Lion"
         sort_title: "Wind and the Lion"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0073906, tmdb://14815, tvdb://15255
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Wind+and+the+Lion&category=Movies&year_filter=equals&yone=1975&tmdb_id=14815&imdb_id=tt0073906&tvdb_id=15255
         # tmdb: https://www.themoviedb.org/movie/14815

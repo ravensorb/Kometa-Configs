@@ -6,7 +6,7 @@ metadata:
         orig_title: "Moon"
         sort_title: "Moon"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185452
         # IDs: imdb://tt1182345, tmdb://17431, tvdb://1229
         # tpdb: https://theposterdb.com/search/advanced/results?term=Moon&category=Movies&year_filter=equals&yone=2009&tmdb_id=17431&imdb_id=tt1182345&tvdb_id=1229
         # tmdb: https://www.themoviedb.org/movie/17431

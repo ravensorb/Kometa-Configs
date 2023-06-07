@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Lost Weekend"
         sort_title: "Lost Weekend"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186606
         # IDs: imdb://tt0037884, tmdb://28580, tvdb://9489
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Lost+Weekend&category=Movies&year_filter=equals&yone=1945&tmdb_id=28580&imdb_id=tt0037884&tvdb_id=9489
         # tmdb: https://www.themoviedb.org/movie/28580

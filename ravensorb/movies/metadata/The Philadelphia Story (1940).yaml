@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Philadelphia Story"
         sort_title: "Philadelphia Story"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/244066
         # IDs: imdb://tt0032904, tmdb://981, tvdb://4820
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Philadelphia+Story&category=Movies&year_filter=equals&yone=1940&tmdb_id=981&imdb_id=tt0032904&tvdb_id=4820
         # tmdb: https://www.themoviedb.org/movie/981

@@ -6,7 +6,7 @@ metadata:
         orig_title: "True Crime"
         sort_title: "True Crime"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/214003
         # IDs: imdb://tt0139668, tmdb://10354, tvdb://2503
         # tpdb: https://theposterdb.com/search/advanced/results?term=True+Crime&category=Movies&year_filter=equals&yone=1999&tmdb_id=10354&imdb_id=tt0139668&tvdb_id=2503
         # tmdb: https://www.themoviedb.org/movie/10354

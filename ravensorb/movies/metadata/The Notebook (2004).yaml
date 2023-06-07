@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Notebook"
         sort_title: "Notebook"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/217707
         # IDs: imdb://tt0332280, tmdb://11036, tvdb://482
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Notebook&category=Movies&year_filter=equals&yone=2004&tmdb_id=11036&imdb_id=tt0332280&tvdb_id=482
         # tmdb: https://www.themoviedb.org/movie/11036

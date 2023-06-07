@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Raven"
         sort_title: "Raven"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/180105
         # IDs: imdb://tt1486192, tmdb://70436, tvdb://7353
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Raven&category=Movies&year_filter=equals&yone=2012&tmdb_id=70436&imdb_id=tt1486192&tvdb_id=7353
         # tmdb: https://www.themoviedb.org/movie/70436

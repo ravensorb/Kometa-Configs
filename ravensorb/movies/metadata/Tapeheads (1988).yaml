@@ -6,7 +6,7 @@ metadata:
         orig_title: "Tapeheads"
         sort_title: "Tapeheads"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/225102
         # IDs: imdb://tt0096223, tmdb://25447, tvdb://35885
         # tpdb: https://theposterdb.com/search/advanced/results?term=Tapeheads&category=Movies&year_filter=equals&yone=1988&tmdb_id=25447&imdb_id=tt0096223&tvdb_id=35885
         # tmdb: https://www.themoviedb.org/movie/25447

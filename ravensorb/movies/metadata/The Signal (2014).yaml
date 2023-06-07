@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Signal"
         sort_title: "Signal"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184876
         # IDs: imdb://tt2910814, tmdb://242095, tvdb://5376
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Signal&category=Movies&year_filter=equals&yone=2014&tmdb_id=242095&imdb_id=tt2910814&tvdb_id=5376
         # tmdb: https://www.themoviedb.org/movie/242095

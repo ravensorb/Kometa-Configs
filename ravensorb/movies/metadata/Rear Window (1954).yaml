@@ -6,7 +6,7 @@ metadata:
         orig_title: "Rear Window"
         sort_title: "Rear Window"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207747
         # IDs: imdb://tt0047396, tmdb://567, tvdb://1872
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rear+Window&category=Movies&year_filter=equals&yone=1954&tmdb_id=567&imdb_id=tt0047396&tvdb_id=1872
         # tmdb: https://www.themoviedb.org/movie/567

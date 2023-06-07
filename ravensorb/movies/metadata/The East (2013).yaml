@@ -6,7 +6,7 @@ metadata:
         orig_title: "The East"
         sort_title: "East"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/208791
         # IDs: imdb://tt1869716, tmdb://87499, tvdb://7673
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+East&category=Movies&year_filter=equals&yone=2013&tmdb_id=87499&imdb_id=tt1869716&tvdb_id=7673
         # tmdb: https://www.themoviedb.org/movie/87499

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Pretty Woman"
         sort_title: "Pretty Woman"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/220061
         # IDs: imdb://tt0100405, tmdb://114, tvdb://1344
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pretty+Woman&category=Movies&year_filter=equals&yone=1990&tmdb_id=114&imdb_id=tt0100405&tvdb_id=1344
         # tmdb: https://www.themoviedb.org/movie/114

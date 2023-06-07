@@ -6,7 +6,7 @@ metadata:
         orig_title: "They Live"
         sort_title: "They Live"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/177656
         # IDs: imdb://tt0096256, tmdb://8337, tvdb://1829
         # tpdb: https://theposterdb.com/search/advanced/results?term=They+Live&category=Movies&year_filter=equals&yone=1988&tmdb_id=8337&imdb_id=tt0096256&tvdb_id=1829
         # tmdb: https://www.themoviedb.org/movie/8337

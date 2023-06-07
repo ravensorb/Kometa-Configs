@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Foreigner"
         sort_title: "Foreigner"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201331
         # IDs: imdb://tt1615160, tmdb://379149, tvdb://1158
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Foreigner&category=Movies&year_filter=equals&yone=2017&tmdb_id=379149&imdb_id=tt1615160&tvdb_id=1158
         # tmdb: https://www.themoviedb.org/movie/379149

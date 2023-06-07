@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Third Man"
         sort_title: "Third Man"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/248967
         # IDs: imdb://tt0041959, tmdb://1092, tvdb://3142
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Third+Man&category=Movies&year_filter=equals&yone=1949&tmdb_id=1092&imdb_id=tt0041959&tvdb_id=3142
         # tmdb: https://www.themoviedb.org/movie/1092

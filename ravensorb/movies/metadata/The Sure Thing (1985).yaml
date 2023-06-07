@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Sure Thing"
         sort_title: "Sure Thing"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198513
         # IDs: imdb://tt0090103, tmdb://8992, tvdb://7034
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sure+Thing&category=Movies&year_filter=equals&yone=1985&tmdb_id=8992&imdb_id=tt0090103&tvdb_id=7034
         # tmdb: https://www.themoviedb.org/movie/8992

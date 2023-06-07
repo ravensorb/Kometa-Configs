@@ -6,7 +6,7 @@ metadata:
         orig_title: "Die unendliche Geschichte"
         sort_title: "NeverEnding Story"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/174958
         # IDs: imdb://tt0088323, tmdb://34584, tvdb://1056
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+NeverEnding+Story&category=Movies&year_filter=equals&yone=1984&tmdb_id=34584&imdb_id=tt0088323&tvdb_id=1056
         # tmdb: https://www.themoviedb.org/movie/34584

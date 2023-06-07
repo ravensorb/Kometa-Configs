@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Italian Job"
         sort_title: "Italian Job"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213881
         # IDs: imdb://tt0064505, tmdb://10536, tvdb://3021
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Italian+Job&category=Movies&year_filter=equals&yone=1969&tmdb_id=10536&imdb_id=tt0064505&tvdb_id=3021
         # tmdb: https://www.themoviedb.org/movie/10536
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Italian Job"
         sort_title: "Italian Job"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213880
         # IDs: imdb://tt0317740, tmdb://9654, tvdb://1275
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Italian+Job&category=Movies&year_filter=equals&yone=2003&tmdb_id=9654&imdb_id=tt0317740&tvdb_id=1275
         # tmdb: https://www.themoviedb.org/movie/9654

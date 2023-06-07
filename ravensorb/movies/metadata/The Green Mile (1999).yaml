@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Green Mile"
         sort_title: "Green Mile"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/330127
         # IDs: imdb://tt0120689, tmdb://497, tvdb://308
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Green+Mile&category=Movies&year_filter=equals&yone=1999&tmdb_id=497&imdb_id=tt0120689&tvdb_id=308
         # tmdb: https://www.themoviedb.org/movie/497

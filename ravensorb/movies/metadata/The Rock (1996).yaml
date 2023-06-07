@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Rock"
         sort_title: "Rock"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/220220
         # IDs: imdb://tt0117500, tmdb://9802, tvdb://2626
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Rock&category=Movies&year_filter=equals&yone=1996&tmdb_id=9802&imdb_id=tt0117500&tvdb_id=2626
         # tmdb: https://www.themoviedb.org/movie/9802

@@ -20,7 +20,7 @@ metadata:
         orig_title: "Charlie Brown's All Stars!"
         sort_title: "Charlie Brown's All Stars!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/233703
         # IDs: imdb://tt0060230, tmdb://52952, tvdb://76406
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie+Brown%27s+All+Stars%21&category=Movies&year_filter=equals&yone=1966&tmdb_id=52952&imdb_id=tt0060230&tvdb_id=76406
         # tmdb: https://www.themoviedb.org/movie/52952
@@ -76,7 +76,7 @@ metadata:
         orig_title: "Snoopy Come Home"
         sort_title: "Snoopy Come Home"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/180928
         # IDs: imdb://tt0069289, tmdb://15242, tvdb://33936
         # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy+Come+Home&category=Movies&year_filter=equals&yone=1972&tmdb_id=15242&imdb_id=tt0069289&tvdb_id=33936
         # tmdb: https://www.themoviedb.org/movie/15242

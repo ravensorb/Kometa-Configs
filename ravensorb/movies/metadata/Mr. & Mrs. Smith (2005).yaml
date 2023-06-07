@@ -6,7 +6,7 @@ metadata:
         orig_title: "Mr. & Mrs. Smith"
         sort_title: "Mr. & Mrs. Smith"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216868
         # IDs: imdb://tt0356910, tmdb://787, tvdb://452
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.+%26+Mrs.+Smith&category=Movies&year_filter=equals&yone=2005&tmdb_id=787&imdb_id=tt0356910&tvdb_id=452
         # tmdb: https://www.themoviedb.org/movie/787

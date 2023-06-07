@@ -6,7 +6,7 @@ metadata:
         orig_title: "Victor Frankenstein"
         sort_title: "Victor Frankenstein"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179600
         # IDs: imdb://tt1976009, tmdb://228066, tvdb://5700
         # tpdb: https://theposterdb.com/search/advanced/results?term=Victor+Frankenstein&category=Movies&year_filter=equals&yone=2015&tmdb_id=228066&imdb_id=tt1976009&tvdb_id=5700
         # tmdb: https://www.themoviedb.org/movie/228066

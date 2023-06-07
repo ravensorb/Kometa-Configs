@@ -6,7 +6,7 @@ metadata:
         orig_title: "Minority Report"
         sort_title: "Minority Report"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179235
         # IDs: imdb://tt0181689, tmdb://180, tvdb://1078
         # tpdb: https://theposterdb.com/search/advanced/results?term=Minority+Report&category=Movies&year_filter=equals&yone=2002&tmdb_id=180&imdb_id=tt0181689&tvdb_id=1078
         # tmdb: https://www.themoviedb.org/movie/180

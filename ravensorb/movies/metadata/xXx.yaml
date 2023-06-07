@@ -6,7 +6,7 @@ metadata:
         orig_title: "xXx"
         sort_title: "xXx"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201593
         # IDs: imdb://tt0295701, tmdb://7451, tvdb://668
         # tpdb: https://theposterdb.com/search/advanced/results?term=xXx&category=Movies&year_filter=equals&yone=2002&tmdb_id=7451&imdb_id=tt0295701&tvdb_id=668
         # tmdb: https://www.themoviedb.org/movie/7451
@@ -20,7 +20,7 @@ metadata:
         orig_title: "xXx: State of the Union"
         sort_title: "xXx: State of the Union"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201594
         # IDs: imdb://tt0329774, tmdb://11679, tvdb://2617
         # tpdb: https://theposterdb.com/search/advanced/results?term=xXx%3A+State+of+the+Union&category=Movies&year_filter=equals&yone=2005&tmdb_id=11679&imdb_id=tt0329774&tvdb_id=2617
         # tmdb: https://www.themoviedb.org/movie/11679
@@ -34,7 +34,7 @@ metadata:
         orig_title: "xXx: Return of Xander Cage"
         sort_title: "xXx: Return of Xander Cage"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201595
         # IDs: imdb://tt1293847, tmdb://47971, tvdb://417
         # tpdb: https://theposterdb.com/search/advanced/results?term=xXx%3A+Return+of+Xander+Cage&category=Movies&year_filter=equals&yone=2017&tmdb_id=47971&imdb_id=tt1293847&tvdb_id=417
         # tmdb: https://www.themoviedb.org/movie/47971

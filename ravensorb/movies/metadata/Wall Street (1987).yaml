@@ -6,7 +6,7 @@ metadata:
         orig_title: "Wall Street"
         sort_title: "Wall Street"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213120
         # IDs: imdb://tt0094291, tmdb://10673, tvdb://3328
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wall+Street&category=Movies&year_filter=equals&yone=1987&tmdb_id=10673&imdb_id=tt0094291&tvdb_id=3328
         # tmdb: https://www.themoviedb.org/movie/10673

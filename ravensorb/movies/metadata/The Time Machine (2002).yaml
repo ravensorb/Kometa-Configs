@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Time Machine"
         sort_title: "Time Machine"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/183633
         # IDs: imdb://tt0268695, tmdb://2135, tvdb://374
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Time+Machine&category=Movies&year_filter=equals&yone=2002&tmdb_id=2135&imdb_id=tt0268695&tvdb_id=374
         # tmdb: https://www.themoviedb.org/movie/2135

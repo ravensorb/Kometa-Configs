@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Natural"
         sort_title: "Natural"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/188371
         # IDs: imdb://tt0087781, tmdb://11393, tvdb://5017
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Natural&category=Movies&year_filter=equals&yone=1984&tmdb_id=11393&imdb_id=tt0087781&tvdb_id=5017
         # tmdb: https://www.themoviedb.org/movie/11393

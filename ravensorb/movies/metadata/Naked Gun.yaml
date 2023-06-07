@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Naked Gun: From the Files of Police Squad!"
         sort_title: "Naked Gun: From the Files of Police Squad!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/219605
         # IDs: imdb://tt0095705, tmdb://37136, tvdb://1638
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Naked+Gun%3A+From+the+Files+of+Police+Squad%21&category=Movies&year_filter=equals&yone=1988&tmdb_id=37136&imdb_id=tt0095705&tvdb_id=1638
         # tmdb: https://www.themoviedb.org/movie/37136
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Naked Gun 2½: The Smell of Fear"
         sort_title: "Naked Gun 2½: The Smell of Fear"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/219606
         # IDs: imdb://tt0102510, tmdb://37137, tvdb://4681
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Naked+Gun+2%C2%BD%3A+The+Smell+of+Fear&category=Movies&year_filter=equals&yone=1991&tmdb_id=37137&imdb_id=tt0102510&tvdb_id=4681
         # tmdb: https://www.themoviedb.org/movie/37137
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Naked Gun 33 1/3: The Final Insult"
         sort_title: "Naked Gun 33 1/3: The Final Insult"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/219607
         # IDs: imdb://tt0110622, tmdb://36593, tvdb://2809
         # tpdb: https://theposterdb.com/search/advanced/results?term=Naked+Gun+33+1%2F3%3A+The+Final+Insult&category=Movies&year_filter=equals&yone=1994&tmdb_id=36593&imdb_id=tt0110622&tvdb_id=2809
         # tmdb: https://www.themoviedb.org/movie/36593

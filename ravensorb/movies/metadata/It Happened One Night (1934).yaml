@@ -6,7 +6,7 @@ metadata:
         orig_title: "It Happened One Night"
         sort_title: "It Happened One Night"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0025316, tmdb://3078, tvdb://2348
         # tpdb: https://theposterdb.com/search/advanced/results?term=It+Happened+One+Night&category=Movies&year_filter=equals&yone=1934&tmdb_id=3078&imdb_id=tt0025316&tvdb_id=2348
         # tmdb: https://www.themoviedb.org/movie/3078

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Player"
         sort_title: "Player"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213821
         # IDs: imdb://tt0105151, tmdb://10403, tvdb://7060
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Player&category=Movies&year_filter=equals&yone=1992&tmdb_id=10403&imdb_id=tt0105151&tvdb_id=7060
         # tmdb: https://www.themoviedb.org/movie/10403

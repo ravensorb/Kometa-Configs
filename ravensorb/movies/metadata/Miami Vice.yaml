@@ -6,7 +6,7 @@ metadata:
         orig_title: "Miami Vice"
         sort_title: "Miami Vice"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216493
         # IDs: imdb://tt0430357, tmdb://82, tvdb://3479
         # tpdb: https://theposterdb.com/search/advanced/results?term=Miami+Vice&category=Movies&year_filter=equals&yone=2006&tmdb_id=82&imdb_id=tt0430357&tvdb_id=3479
         # tmdb: https://www.themoviedb.org/movie/82

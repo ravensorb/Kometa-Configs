@@ -6,7 +6,7 @@ metadata:
         orig_title: "War"
         sort_title: "War"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213883
         # IDs: imdb://tt0499556, tmdb://10431, tvdb://1785
         # tpdb: https://theposterdb.com/search/advanced/results?term=War&category=Movies&year_filter=equals&yone=2007&tmdb_id=10431&imdb_id=tt0499556&tvdb_id=1785
         # tmdb: https://www.themoviedb.org/movie/10431

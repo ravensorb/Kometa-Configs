@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Promise"
         sort_title: "Promise"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202807
         # IDs: imdb://tt4776998, tmdb://354859, tvdb://3456
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Promise&category=Movies&year_filter=equals&yone=2017&tmdb_id=354859&imdb_id=tt4776998&tvdb_id=3456
         # tmdb: https://www.themoviedb.org/movie/354859

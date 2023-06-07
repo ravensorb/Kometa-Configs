@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Presidio"
         sort_title: "Presidio"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/224164
         # IDs: imdb://tt0095897, tmdb://11851, tvdb://8107
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Presidio&category=Movies&year_filter=equals&yone=1988&tmdb_id=11851&imdb_id=tt0095897&tvdb_id=8107
         # tmdb: https://www.themoviedb.org/movie/11851

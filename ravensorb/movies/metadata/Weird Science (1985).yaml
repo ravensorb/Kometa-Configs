@@ -6,7 +6,7 @@ metadata:
         orig_title: "Weird Science"
         sort_title: "Weird Science"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186948
         # IDs: imdb://tt0090305, tmdb://11814, tvdb://1098
         # tpdb: https://theposterdb.com/search/advanced/results?term=Weird+Science&category=Movies&year_filter=equals&yone=1985&tmdb_id=11814&imdb_id=tt0090305&tvdb_id=1098
         # tmdb: https://www.themoviedb.org/movie/11814

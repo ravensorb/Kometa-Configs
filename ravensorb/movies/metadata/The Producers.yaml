@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Producers"
         sort_title: "Producers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/229847
         # IDs: imdb://tt0063462, tmdb://30197, tvdb://3197
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Producers&category=Movies&year_filter=equals&yone=1968&tmdb_id=30197&imdb_id=tt0063462&tvdb_id=3197
         # tmdb: https://www.themoviedb.org/movie/30197
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Producers"
         sort_title: "Producers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216879
         # IDs: imdb://tt0395251, tmdb://9899, tvdb://11662
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Producers&category=Movies&year_filter=equals&yone=2005&tmdb_id=9899&imdb_id=tt0395251&tvdb_id=11662
         # tmdb: https://www.themoviedb.org/movie/9899

@@ -6,7 +6,7 @@ metadata:
         orig_title: "A Star Is Born"
         sort_title: "Star Is Born"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201060
         # IDs: imdb://tt0047522, tmdb://3111, tvdb://5813
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Star+Is+Born&category=Movies&year_filter=equals&yone=1954&tmdb_id=3111&imdb_id=tt0047522&tvdb_id=5813
         # tmdb: https://www.themoviedb.org/movie/3111
@@ -20,7 +20,7 @@ metadata:
         orig_title: "A Star Is Born"
         sort_title: "Star Is Born"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0075265, tmdb://19610, tvdb://4945
         # tpdb: https://theposterdb.com/search/advanced/results?term=A+Star+Is+Born&category=Movies&year_filter=equals&yone=1976&tmdb_id=19610&imdb_id=tt0075265&tvdb_id=4945
         # tmdb: https://www.themoviedb.org/movie/19610

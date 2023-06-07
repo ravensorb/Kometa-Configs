@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Jazz Singer"
         sort_title: "Jazz Singer"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/223298
         # IDs: imdb://tt0018037, tmdb://939, tvdb://10854
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Jazz+Singer&category=Movies&year_filter=equals&yone=1928&tmdb_id=939&imdb_id=tt0018037&tvdb_id=10854
         # tmdb: https://www.themoviedb.org/movie/939

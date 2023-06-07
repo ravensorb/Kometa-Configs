@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Sound of Music"
         sort_title: "Sound of Music"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186280
         # IDs: imdb://tt0059742, tmdb://15121, tvdb://1600
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sound+of+Music&category=Movies&year_filter=equals&yone=1965&tmdb_id=15121&imdb_id=tt0059742&tvdb_id=1600
         # tmdb: https://www.themoviedb.org/movie/15121

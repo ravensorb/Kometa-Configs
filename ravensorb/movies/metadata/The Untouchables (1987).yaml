@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Untouchables"
         sort_title: "Untouchables"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/225355
         # IDs: imdb://tt0094226, tmdb://117, tvdb://1013
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Untouchables&category=Movies&year_filter=equals&yone=1987&tmdb_id=117&imdb_id=tt0094226&tvdb_id=1013
         # tmdb: https://www.themoviedb.org/movie/117

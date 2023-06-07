@@ -6,7 +6,7 @@ metadata:
         orig_title: "Vertigo"
         sort_title: "Vertigo"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207825
         # IDs: imdb://tt0052357, tmdb://426, tvdb://1385
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vertigo&category=Movies&year_filter=equals&yone=1958&tmdb_id=426&imdb_id=tt0052357&tvdb_id=1385
         # tmdb: https://www.themoviedb.org/movie/426

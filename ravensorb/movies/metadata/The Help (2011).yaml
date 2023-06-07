@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Help"
         sort_title: "Help"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/210177
         # IDs: imdb://tt1454029, tmdb://50014, tvdb://970
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Help&category=Movies&year_filter=equals&yone=2011&tmdb_id=50014&imdb_id=tt1454029&tvdb_id=970
         # tmdb: https://www.themoviedb.org/movie/50014

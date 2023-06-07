@@ -6,7 +6,7 @@ metadata:
         orig_title: "Mystic Pizza"
         sort_title: "Mystic Pizza"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/203115
         # IDs: imdb://tt0095690, tmdb://11191, tvdb://6226
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mystic+Pizza&category=Movies&year_filter=equals&yone=1988&tmdb_id=11191&imdb_id=tt0095690&tvdb_id=6226
         # tmdb: https://www.themoviedb.org/movie/11191

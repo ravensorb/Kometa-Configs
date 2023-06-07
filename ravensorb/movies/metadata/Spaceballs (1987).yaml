@@ -6,7 +6,7 @@ metadata:
         orig_title: "Spaceballs"
         sort_title: "Spaceballs"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/225029
         # IDs: imdb://tt0094012, tmdb://957, tvdb://1349
         # tpdb: https://theposterdb.com/search/advanced/results?term=Spaceballs&category=Movies&year_filter=equals&yone=1987&tmdb_id=957&imdb_id=tt0094012&tvdb_id=1349
         # tmdb: https://www.themoviedb.org/movie/957

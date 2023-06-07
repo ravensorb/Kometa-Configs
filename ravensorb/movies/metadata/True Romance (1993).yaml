@@ -6,7 +6,7 @@ metadata:
         orig_title: "True Romance"
         sort_title: "True Romance"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/197025
         # IDs: imdb://tt0108399, tmdb://319, tvdb://1469
         # tpdb: https://theposterdb.com/search/advanced/results?term=True+Romance&category=Movies&year_filter=equals&yone=1993&tmdb_id=319&imdb_id=tt0108399&tvdb_id=1469
         # tmdb: https://www.themoviedb.org/movie/319

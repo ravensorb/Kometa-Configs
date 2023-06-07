@@ -6,7 +6,7 @@ metadata:
         orig_title: "Jupiter Ascending"
         sort_title: "Jupiter Ascending"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184529
         # IDs: imdb://tt1617661, tmdb://76757, tvdb://322
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jupiter+Ascending&category=Movies&year_filter=equals&yone=2015&tmdb_id=76757&imdb_id=tt1617661&tvdb_id=322
         # tmdb: https://www.themoviedb.org/movie/76757

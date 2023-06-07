@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Greatest Showman"
         sort_title: "Greatest Showman"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201338
         # IDs: imdb://tt1485796, tmdb://316029, tvdb://205
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Greatest+Showman&category=Movies&year_filter=equals&yone=2017&tmdb_id=316029&imdb_id=tt1485796&tvdb_id=205
         # tmdb: https://www.themoviedb.org/movie/316029

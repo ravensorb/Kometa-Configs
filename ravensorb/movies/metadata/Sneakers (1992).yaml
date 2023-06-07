@@ -6,7 +6,7 @@ metadata:
         orig_title: "Sneakers"
         sort_title: "Sneakers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/194577
         # IDs: imdb://tt0105435, tmdb://2322, tvdb://4447
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sneakers&category=Movies&year_filter=equals&yone=1992&tmdb_id=2322&imdb_id=tt0105435&tvdb_id=4447
         # tmdb: https://www.themoviedb.org/movie/2322

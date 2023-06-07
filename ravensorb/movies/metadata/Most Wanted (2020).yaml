@@ -6,7 +6,7 @@ metadata:
         orig_title: "Most Wanted"
         sort_title: "Most Wanted"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198487
         # IDs: imdb://tt1656177, tmdb://526973, tvdb://138013
         # tpdb: https://theposterdb.com/search/advanced/results?term=Most+Wanted&category=Movies&year_filter=equals&yone=2020&tmdb_id=526973&imdb_id=tt1656177&tvdb_id=138013
         # tmdb: https://www.themoviedb.org/movie/526973

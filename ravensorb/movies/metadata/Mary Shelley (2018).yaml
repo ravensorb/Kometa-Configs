@@ -6,7 +6,7 @@ metadata:
         orig_title: "Mary Shelley"
         sort_title: "Mary Shelley"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207783
         # IDs: imdb://tt3906082, tmdb://332283, tvdb://5189
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mary+Shelley&category=Movies&year_filter=equals&yone=2018&tmdb_id=332283&imdb_id=tt3906082&tvdb_id=5189
         # tmdb: https://www.themoviedb.org/movie/332283

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Maltese Falcon"
         sort_title: "Maltese Falcon"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/207782
         # IDs: imdb://tt0033870, tmdb://963, tvdb://4308
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Maltese+Falcon&category=Movies&year_filter=equals&yone=1941&tmdb_id=963&imdb_id=tt0033870&tvdb_id=4308
         # tmdb: https://www.themoviedb.org/movie/963

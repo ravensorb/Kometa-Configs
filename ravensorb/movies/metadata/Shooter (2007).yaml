@@ -6,7 +6,7 @@ metadata:
         orig_title: "Shooter"
         sort_title: "Shooter"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216246
         # IDs: imdb://tt0822854, tmdb://7485, tvdb://747
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shooter&category=Movies&year_filter=equals&yone=2007&tmdb_id=7485&imdb_id=tt0822854&tvdb_id=747
         # tmdb: https://www.themoviedb.org/movie/7485

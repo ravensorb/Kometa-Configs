@@ -6,7 +6,7 @@ metadata:
         orig_title: "Sleepless in Seattle"
         sort_title: "Sleepless in Seattle"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/220627
         # IDs: imdb://tt0108160, tmdb://858, tvdb://3131
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sleepless+in+Seattle&category=Movies&year_filter=equals&yone=1993&tmdb_id=858&imdb_id=tt0108160&tvdb_id=3131
         # tmdb: https://www.themoviedb.org/movie/858

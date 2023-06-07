@@ -6,7 +6,7 @@ metadata:
         orig_title: "Little Women"
         sort_title: "Little Women"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/299208
         # IDs: imdb://tt0024264, tmdb://39938, tvdb://22829
         # tpdb: https://theposterdb.com/search/advanced/results?term=Little+Women&category=Movies&year_filter=equals&yone=1933&tmdb_id=39938&imdb_id=tt0024264&tvdb_id=22829
         # tmdb: https://www.themoviedb.org/movie/39938

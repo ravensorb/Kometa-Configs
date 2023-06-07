@@ -6,7 +6,7 @@ metadata:
         orig_title: "Some Kind of Wonderful"
         sort_title: "Some Kind of Wonderful"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198517
         # IDs: imdb://tt0094006, tmdb://15143, tvdb://6533
         # tpdb: https://theposterdb.com/search/advanced/results?term=Some+Kind+of+Wonderful&category=Movies&year_filter=equals&yone=1987&tmdb_id=15143&imdb_id=tt0094006&tvdb_id=6533
         # tmdb: https://www.themoviedb.org/movie/15143

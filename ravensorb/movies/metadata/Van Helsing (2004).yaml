@@ -6,7 +6,7 @@ metadata:
         orig_title: "Van Helsing"
         sort_title: "Van Helsing"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/180130
         # IDs: imdb://tt0338526, tmdb://7131, tvdb://650
         # tpdb: https://theposterdb.com/search/advanced/results?term=Van+Helsing&category=Movies&year_filter=equals&yone=2004&tmdb_id=7131&imdb_id=tt0338526&tvdb_id=650
         # tmdb: https://www.themoviedb.org/movie/7131

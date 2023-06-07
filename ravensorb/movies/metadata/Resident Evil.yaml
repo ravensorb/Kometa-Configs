@@ -97,3 +97,17 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=71151
         # imdb: https://www.imdb.com/title/tt6920084
     
+    "Resident Evil: Vendetta (2017)":
+        year: 2017
+        title: "Resident Evil: Vendetta"
+        alt_title: "Resident Evil: Vendetta (2017)"
+        orig_title: "バイオハザード ヴェンデッタ"
+        sort_title: "Resident Evil: Vendetta"
+        
+        # url_poster: https://theposterdb.com/api/assets/317192
+        # IDs: imdb://tt5776208, tmdb://400136, tvdb://1851
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Resident+Evil%3A+Vendetta&category=Movies&year_filter=equals&yone=2017&tmdb_id=400136&imdb_id=tt5776208&tvdb_id=1851
+        # tmdb: https://www.themoviedb.org/movie/400136
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=1851
+        # imdb: https://www.imdb.com/title/tt5776208
+    

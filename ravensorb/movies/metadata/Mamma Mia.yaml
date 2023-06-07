@@ -6,7 +6,7 @@ metadata:
         orig_title: "Mamma Mia!"
         sort_title: "Mamma Mia!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/200926
         # IDs: imdb://tt0795421, tmdb://11631, tvdb://468
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mamma+Mia%21&category=Movies&year_filter=equals&yone=2008&tmdb_id=11631&imdb_id=tt0795421&tvdb_id=468
         # tmdb: https://www.themoviedb.org/movie/11631
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Mamma Mia! Here We Go Again"
         sort_title: "Mamma Mia! Here We Go Again"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/200927
         # IDs: imdb://tt6911608, tmdb://458423, tvdb://385
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mamma+Mia%21+Here+We+Go+Again&category=Movies&year_filter=equals&yone=2018&tmdb_id=458423&imdb_id=tt6911608&tvdb_id=385
         # tmdb: https://www.themoviedb.org/movie/458423

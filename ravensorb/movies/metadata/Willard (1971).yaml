@@ -6,7 +6,7 @@ metadata:
         orig_title: "Willard"
         sort_title: "Willard"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179787
         # IDs: imdb://tt0067991, tmdb://42532, tvdb://20779
         # tpdb: https://theposterdb.com/search/advanced/results?term=Willard&category=Movies&year_filter=equals&yone=1971&tmdb_id=42532&imdb_id=tt0067991&tvdb_id=20779
         # tmdb: https://www.themoviedb.org/movie/42532

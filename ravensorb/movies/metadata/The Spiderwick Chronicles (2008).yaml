@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Spiderwick Chronicles"
         sort_title: "Spiderwick Chronicles"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/175305
         # IDs: imdb://tt0416236, tmdb://8204, tvdb://3172
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Spiderwick+Chronicles&category=Movies&year_filter=equals&yone=2008&tmdb_id=8204&imdb_id=tt0416236&tvdb_id=3172
         # tmdb: https://www.themoviedb.org/movie/8204

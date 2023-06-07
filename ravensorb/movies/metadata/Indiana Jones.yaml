@@ -6,7 +6,7 @@ metadata:
         orig_title: "Raiders of the Lost Ark"
         sort_title: "Indiana Jones and the Raiders of the Lost Ark"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/174808
         # IDs: imdb://tt0082971, tmdb://85, tvdb://323
         # tpdb: https://theposterdb.com/search/advanced/results?term=Raiders+of+the+Lost+Ark&category=Movies&year_filter=equals&yone=1981&tmdb_id=85&imdb_id=tt0082971&tvdb_id=323
         # tmdb: https://www.themoviedb.org/movie/85

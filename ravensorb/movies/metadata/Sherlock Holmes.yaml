@@ -6,7 +6,7 @@ metadata:
         orig_title: "Sherlock Holmes"
         sort_title: "Sherlock Holmes"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191405
         # IDs: imdb://tt0988045, tmdb://10528, tvdb://718
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes&category=Movies&year_filter=equals&yone=2009&tmdb_id=10528&imdb_id=tt0988045&tvdb_id=718
         # tmdb: https://www.themoviedb.org/movie/10528
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Sherlock Holmes: A Game of Shadows"
         sort_title: "Sherlock Holmes: A Game of Shadows"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191406
         # IDs: imdb://tt1515091, tmdb://58574, tvdb://980
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes%3A+A+Game+of+Shadows&category=Movies&year_filter=equals&yone=2011&tmdb_id=58574&imdb_id=tt1515091&tvdb_id=980
         # tmdb: https://www.themoviedb.org/movie/58574

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Pick-up Artist"
         sort_title: "Pick-up Artist"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/199000
         # IDs: imdb://tt0093737, tmdb://17258, tvdb://10856
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Pick-up+Artist&category=Movies&year_filter=equals&yone=1987&tmdb_id=17258&imdb_id=tt0093737&tvdb_id=10856
         # tmdb: https://www.themoviedb.org/movie/17258

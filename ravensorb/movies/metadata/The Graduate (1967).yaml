@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Graduate"
         sort_title: "Graduate"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/229768
         # IDs: imdb://tt0061722, tmdb://37247, tvdb://2091
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Graduate&category=Movies&year_filter=equals&yone=1967&tmdb_id=37247&imdb_id=tt0061722&tvdb_id=2091
         # tmdb: https://www.themoviedb.org/movie/37247

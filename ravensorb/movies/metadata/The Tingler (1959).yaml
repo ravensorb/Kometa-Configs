@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Tingler"
         sort_title: "Tingler"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/182013
         # IDs: imdb://tt0053363, tmdb://26857, tvdb://14721
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Tingler&category=Movies&year_filter=equals&yone=1959&tmdb_id=26857&imdb_id=tt0053363&tvdb_id=14721
         # tmdb: https://www.themoviedb.org/movie/26857

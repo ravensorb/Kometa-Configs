@@ -6,7 +6,7 @@ metadata:
         orig_title: "Passengers"
         sort_title: "Passengers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184356
         # IDs: imdb://tt1355644, tmdb://274870, tvdb://1433
         # tpdb: https://theposterdb.com/search/advanced/results?term=Passengers&category=Movies&year_filter=equals&yone=2016&tmdb_id=274870&imdb_id=tt1355644&tvdb_id=1433
         # tmdb: https://www.themoviedb.org/movie/274870

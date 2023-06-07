@@ -6,7 +6,7 @@ metadata:
         orig_title: "Scarface"
         sort_title: "Scarface"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/224995
         # IDs: imdb://tt0086250, tmdb://111, tvdb://814
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scarface&category=Movies&year_filter=equals&yone=1983&tmdb_id=111&imdb_id=tt0086250&tvdb_id=814
         # tmdb: https://www.themoviedb.org/movie/111

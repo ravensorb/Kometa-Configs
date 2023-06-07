@@ -6,7 +6,7 @@ metadata:
         orig_title: "Harry Potter and the Sorcerer's Stone"
         sort_title: "Harry Potter and the Sorcerer's Stone"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173813
         # IDs: imdb://tt0241527, tmdb://671, tvdb://66
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Sorcerer%27s+Stone&category=Movies&year_filter=equals&yone=2001&tmdb_id=671&imdb_id=tt0241527&tvdb_id=66
         # tmdb: https://www.themoviedb.org/movie/671
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Harry Potter and the Chamber of Secrets"
         sort_title: "Harry Potter and the Chamber of Secrets"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173814
         # IDs: imdb://tt0295297, tmdb://672, tvdb://63
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Chamber+of+Secrets&category=Movies&year_filter=equals&yone=2002&tmdb_id=672&imdb_id=tt0295297&tvdb_id=63
         # tmdb: https://www.themoviedb.org/movie/672
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Harry Potter and the Prisoner of Azkaban"
         sort_title: "Harry Potter and the Prisoner of Azkaban"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173815
         # IDs: imdb://tt0304141, tmdb://673, tvdb://154
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Prisoner+of+Azkaban&category=Movies&year_filter=equals&yone=2004&tmdb_id=673&imdb_id=tt0304141&tvdb_id=154
         # tmdb: https://www.themoviedb.org/movie/673
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Harry Potter and the Goblet of Fire"
         sort_title: "Harry Potter and the Goblet of Fire"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173816
         # IDs: imdb://tt0330373, tmdb://674, tvdb://153
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Goblet+of+Fire&category=Movies&year_filter=equals&yone=2005&tmdb_id=674&imdb_id=tt0330373&tvdb_id=153
         # tmdb: https://www.themoviedb.org/movie/674
@@ -62,7 +62,7 @@ metadata:
         orig_title: "Harry Potter and the Order of the Phoenix"
         sort_title: "Harry Potter and the Order of the Phoenix"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173817
         # IDs: imdb://tt0373889, tmdb://675, tvdb://128
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Order+of+the+Phoenix&category=Movies&year_filter=equals&yone=2007&tmdb_id=675&imdb_id=tt0373889&tvdb_id=128
         # tmdb: https://www.themoviedb.org/movie/675
@@ -76,7 +76,7 @@ metadata:
         orig_title: "Harry Potter and the Half-Blood Prince"
         sort_title: "Harry Potter and the Half-Blood Prince"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173818
         # IDs: imdb://tt0417741, tmdb://767, tvdb://181
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Half-Blood+Prince&category=Movies&year_filter=equals&yone=2009&tmdb_id=767&imdb_id=tt0417741&tvdb_id=181
         # tmdb: https://www.themoviedb.org/movie/767
@@ -90,7 +90,7 @@ metadata:
         orig_title: "Harry Potter and the Deathly Hallows: Part 1"
         sort_title: "Harry Potter and the Deathly Hallows: Part 1"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173819
         # IDs: imdb://tt0926084, tmdb://12444, tvdb://201
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Deathly+Hallows%3A+Part+1&category=Movies&year_filter=equals&yone=2010&tmdb_id=12444&imdb_id=tt0926084&tvdb_id=201
         # tmdb: https://www.themoviedb.org/movie/12444
@@ -104,7 +104,7 @@ metadata:
         orig_title: "Harry Potter and the Deathly Hallows: Part 2"
         sort_title: "Harry Potter and the Deathly Hallows: Part 2"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173820
         # IDs: imdb://tt1201607, tmdb://12445, tvdb://142
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Potter+and+the+Deathly+Hallows%3A+Part+2&category=Movies&year_filter=equals&yone=2011&tmdb_id=12445&imdb_id=tt1201607&tvdb_id=142
         # tmdb: https://www.themoviedb.org/movie/12445

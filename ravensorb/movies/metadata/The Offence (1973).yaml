@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Offence"
         sort_title: "Offence"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/333268
         # IDs: imdb://tt0070468, tmdb://32615, tvdb://14424
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Offence&category=Movies&year_filter=equals&yone=1973&tmdb_id=32615&imdb_id=tt0070468&tvdb_id=14424
         # tmdb: https://www.themoviedb.org/movie/32615

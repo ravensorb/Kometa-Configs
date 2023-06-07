@@ -6,7 +6,7 @@ metadata:
         orig_title: "Romancing the Stone"
         sort_title: "Romancing the Stone"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191421
         # IDs: imdb://tt0088011, tmdb://9326, tvdb://714
         # tpdb: https://theposterdb.com/search/advanced/results?term=Romancing+the+Stone&category=Movies&year_filter=equals&yone=1984&tmdb_id=9326&imdb_id=tt0088011&tvdb_id=714
         # tmdb: https://www.themoviedb.org/movie/9326
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Jewel of the Nile"
         sort_title: "Jewel of the Nile"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/191422
         # IDs: imdb://tt0089370, tmdb://10303, tvdb://1136
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Jewel+of+the+Nile&category=Movies&year_filter=equals&yone=1985&tmdb_id=10303&imdb_id=tt0089370&tvdb_id=1136
         # tmdb: https://www.themoviedb.org/movie/10303

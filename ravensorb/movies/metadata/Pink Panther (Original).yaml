@@ -62,7 +62,7 @@ metadata:
         orig_title: "The Pink Panther Strikes Again"
         sort_title: "Pink Panther Strikes Again"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213318
         # IDs: imdb://tt0075066, tmdb://12268, tvdb://4919
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Pink+Panther+Strikes+Again&category=Movies&year_filter=equals&yone=1976&tmdb_id=12268&imdb_id=tt0075066&tvdb_id=4919
         # tmdb: https://www.themoviedb.org/movie/12268

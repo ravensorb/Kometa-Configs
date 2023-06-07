@@ -6,7 +6,7 @@ metadata:
         orig_title: "Rumor Has It..."
         sort_title: "Rumor Has It..."
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216883
         # IDs: imdb://tt0398375, tmdb://2800, tvdb://2166
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rumor+Has+It...&category=Movies&year_filter=equals&yone=2005&tmdb_id=2800&imdb_id=tt0398375&tvdb_id=2166
         # tmdb: https://www.themoviedb.org/movie/2800

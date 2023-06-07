@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Public Enemy"
         sort_title: "Public Enemy"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/244080
         # IDs: imdb://tt0022286, tmdb://17687, tvdb://10921
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Public+Enemy&category=Movies&year_filter=equals&yone=1931&tmdb_id=17687&imdb_id=tt0022286&tvdb_id=10921
         # tmdb: https://www.themoviedb.org/movie/17687

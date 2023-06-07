@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Peacemaker"
         sort_title: "Peacemaker"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/220045
         # IDs: imdb://tt0119874, tmdb://6623, tvdb://4390
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Peacemaker&category=Movies&year_filter=equals&yone=1997&tmdb_id=6623&imdb_id=tt0119874&tvdb_id=4390
         # tmdb: https://www.themoviedb.org/movie/6623

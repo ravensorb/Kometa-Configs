@@ -6,7 +6,7 @@ metadata:
         orig_title: "That's Entertainment!"
         sort_title: "That's Entertainment!"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/273118
         # IDs: imdb://tt0072272, tmdb://33740, tvdb://44633
         # tpdb: https://theposterdb.com/search/advanced/results?term=That%27s+Entertainment%21&category=Movies&year_filter=equals&yone=1974&tmdb_id=33740&imdb_id=tt0072272&tvdb_id=44633
         # tmdb: https://www.themoviedb.org/movie/33740
@@ -20,7 +20,7 @@ metadata:
         orig_title: "That's Entertainment, Part II"
         sort_title: "That's Entertainment, Part II"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/273119
         # IDs: imdb://tt0075323, tmdb://74719, tvdb://60726
         # tpdb: https://theposterdb.com/search/advanced/results?term=That%27s+Entertainment%2C+Part+II&category=Movies&year_filter=equals&yone=1976&tmdb_id=74719&imdb_id=tt0075323&tvdb_id=60726
         # tmdb: https://www.themoviedb.org/movie/74719
@@ -34,7 +34,7 @@ metadata:
         orig_title: "That's Entertainment! III"
         sort_title: "That's Entertainment! III"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/273120
         # IDs: imdb://tt0111408, tmdb://77448, tvdb://37929
         # tpdb: https://theposterdb.com/search/advanced/results?term=That%27s+Entertainment%21+III&category=Movies&year_filter=equals&yone=1994&tmdb_id=77448&imdb_id=tt0111408&tvdb_id=37929
         # tmdb: https://www.themoviedb.org/movie/77448

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Specialist"
         sort_title: "Specialist"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213764
         # IDs: imdb://tt0111255, tmdb://2636, tvdb://4757
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Specialist&category=Movies&year_filter=equals&yone=1994&tmdb_id=2636&imdb_id=tt0111255&tvdb_id=4757
         # tmdb: https://www.themoviedb.org/movie/2636

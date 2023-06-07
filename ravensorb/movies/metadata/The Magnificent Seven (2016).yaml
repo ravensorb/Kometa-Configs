@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Magnificent Seven"
         sort_title: "Magnificent Seven"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202334
         # IDs: imdb://tt2404435, tmdb://333484, tvdb://580
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Magnificent+Seven&category=Movies&year_filter=equals&yone=2016&tmdb_id=333484&imdb_id=tt2404435&tvdb_id=580
         # tmdb: https://www.themoviedb.org/movie/333484

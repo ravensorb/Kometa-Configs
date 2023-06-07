@@ -6,7 +6,7 @@ metadata:
         orig_title: "Some Kind of Beautiful"
         sort_title: "Some Kind of Beautiful"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/204850
         # IDs: imdb://tt1725986, tmdb://253344, tvdb://6688
         # tpdb: https://theposterdb.com/search/advanced/results?term=Some+Kind+of+Beautiful&category=Movies&year_filter=equals&yone=2015&tmdb_id=253344&imdb_id=tt1725986&tvdb_id=6688
         # tmdb: https://www.themoviedb.org/movie/253344

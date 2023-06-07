@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Fifth Element"
         sort_title: "Fifth Element"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/186807
         # IDs: imdb://tt0119116, tmdb://18, tvdb://305
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fifth+Element&category=Movies&year_filter=equals&yone=1997&tmdb_id=18&imdb_id=tt0119116&tvdb_id=305
         # tmdb: https://www.themoviedb.org/movie/18

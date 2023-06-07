@@ -6,7 +6,7 @@ metadata:
         orig_title: "Stand by Me"
         sort_title: "Stand by Me"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/330112
         # IDs: imdb://tt0092005, tmdb://235, tvdb://347
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stand+by+Me&category=Movies&year_filter=equals&yone=1986&tmdb_id=235&imdb_id=tt0092005&tvdb_id=347
         # tmdb: https://www.themoviedb.org/movie/235

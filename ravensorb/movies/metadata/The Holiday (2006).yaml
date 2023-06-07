@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Holiday"
         sort_title: "Holiday"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190424
         # IDs: imdb://tt0457939, tmdb://1581, tvdb://1837
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Holiday&category=Movies&year_filter=equals&yone=2006&tmdb_id=1581&imdb_id=tt0457939&tvdb_id=1837
         # tmdb: https://www.themoviedb.org/movie/1581

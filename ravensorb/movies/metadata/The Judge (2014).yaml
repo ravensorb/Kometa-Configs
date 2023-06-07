@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Judge"
         sort_title: "Judge"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/205346
         # IDs: imdb://tt1872194, tmdb://205587, tvdb://2276
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Judge&category=Movies&year_filter=equals&yone=2014&tmdb_id=205587&imdb_id=tt1872194&tvdb_id=2276
         # tmdb: https://www.themoviedb.org/movie/205587

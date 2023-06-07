@@ -34,7 +34,7 @@ metadata:
         orig_title: "Star Trek III: The Search for Spock"
         sort_title: "Star Trek III: The Search for Spock"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/175958
         # IDs: imdb://tt0088170, tmdb://157, tvdb://4606
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+III%3A+The+Search+for+Spock&category=Movies&year_filter=equals&yone=1984&tmdb_id=157&imdb_id=tt0088170&tvdb_id=4606
         # tmdb: https://www.themoviedb.org/movie/157

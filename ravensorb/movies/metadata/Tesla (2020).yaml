@@ -6,7 +6,7 @@ metadata:
         orig_title: "Tesla"
         sort_title: "Tesla"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198489
         # IDs: imdb://tt5259822, tmdb://517412, tvdb://138499
         # tpdb: https://theposterdb.com/search/advanced/results?term=Tesla&category=Movies&year_filter=equals&yone=2020&tmdb_id=517412&imdb_id=tt5259822&tvdb_id=138499
         # tmdb: https://www.themoviedb.org/movie/517412

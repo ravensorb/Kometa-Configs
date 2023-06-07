@@ -6,7 +6,7 @@ metadata:
         orig_title: "Saving Private Ryan"
         sort_title: "Saving Private Ryan"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/179233
         # IDs: imdb://tt0120815, tmdb://857, tvdb://569
         # tpdb: https://theposterdb.com/search/advanced/results?term=Saving+Private+Ryan&category=Movies&year_filter=equals&yone=1998&tmdb_id=857&imdb_id=tt0120815&tvdb_id=569
         # tmdb: https://www.themoviedb.org/movie/857

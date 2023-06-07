@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Grapes of Wrath"
         sort_title: "Grapes of Wrath"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/237582
         # IDs: imdb://tt0032551, tmdb://596, tvdb://5819
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Grapes+of+Wrath&category=Movies&year_filter=equals&yone=1940&tmdb_id=596&imdb_id=tt0032551&tvdb_id=5819
         # tmdb: https://www.themoviedb.org/movie/596

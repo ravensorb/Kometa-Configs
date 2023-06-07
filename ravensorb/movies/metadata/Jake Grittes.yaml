@@ -6,7 +6,7 @@ metadata:
         orig_title: "Chinatown"
         sort_title: "Chinatown"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202312
         # IDs: imdb://tt0071315, tmdb://829, tvdb://2442
         # tpdb: https://theposterdb.com/search/advanced/results?term=Chinatown&category=Movies&year_filter=equals&yone=1974&tmdb_id=829&imdb_id=tt0071315&tvdb_id=2442
         # tmdb: https://www.themoviedb.org/movie/829
@@ -20,7 +20,7 @@ metadata:
         orig_title: "The Two Jakes"
         sort_title: "Two Jakes"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/202312
         # IDs: imdb://tt0100828, tmdb://32669, tvdb://7679
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Two+Jakes&category=Movies&year_filter=equals&yone=1990&tmdb_id=32669&imdb_id=tt0100828&tvdb_id=7679
         # tmdb: https://www.themoviedb.org/movie/32669

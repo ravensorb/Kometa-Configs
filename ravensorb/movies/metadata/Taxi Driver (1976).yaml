@@ -6,7 +6,7 @@ metadata:
         orig_title: "Taxi Driver"
         sort_title: "Taxi Driver"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212723
         # IDs: imdb://tt0075314, tmdb://103, tvdb://472
         # tpdb: https://theposterdb.com/search/advanced/results?term=Taxi+Driver&category=Movies&year_filter=equals&yone=1976&tmdb_id=103&imdb_id=tt0075314&tvdb_id=472
         # tmdb: https://www.themoviedb.org/movie/103

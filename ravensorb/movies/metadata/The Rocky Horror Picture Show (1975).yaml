@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Rocky Horror Picture Show"
         sort_title: "Rocky Horror Picture Show"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/181289
         # IDs: imdb://tt0073629, tmdb://36685, tvdb://4140
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Rocky+Horror+Picture+Show&category=Movies&year_filter=equals&yone=1975&tmdb_id=36685&imdb_id=tt0073629&tvdb_id=4140
         # tmdb: https://www.themoviedb.org/movie/36685

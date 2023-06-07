@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Skulls"
         sort_title: "Skulls"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/217867
         # IDs: imdb://tt0192614, tmdb://11478, tvdb://4701
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Skulls&category=Movies&year_filter=equals&yone=2000&tmdb_id=11478&imdb_id=tt0192614&tvdb_id=4701
         # tmdb: https://www.themoviedb.org/movie/11478

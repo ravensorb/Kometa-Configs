@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Wild Bunch"
         sort_title: "Wild Bunch"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212368
         # IDs: imdb://tt0065214, tmdb://576, tvdb://3564
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Wild+Bunch&category=Movies&year_filter=equals&yone=1969&tmdb_id=576&imdb_id=tt0065214&tvdb_id=3564
         # tmdb: https://www.themoviedb.org/movie/576

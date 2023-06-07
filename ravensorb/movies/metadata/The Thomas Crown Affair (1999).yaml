@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Thomas Crown Affair"
         sort_title: "Thomas Crown Affair"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/221794
         # IDs: imdb://tt0155267, tmdb://913, tvdb://4085
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Thomas+Crown+Affair&category=Movies&year_filter=equals&yone=1999&tmdb_id=913&imdb_id=tt0155267&tvdb_id=4085
         # tmdb: https://www.themoviedb.org/movie/913

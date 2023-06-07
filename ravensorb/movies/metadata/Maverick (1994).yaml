@@ -6,7 +6,7 @@ metadata:
         orig_title: "Maverick"
         sort_title: "Maverick"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/212333
         # IDs: imdb://tt0110478, tmdb://9359, tvdb://2967
         # tpdb: https://theposterdb.com/search/advanced/results?term=Maverick&category=Movies&year_filter=equals&yone=1994&tmdb_id=9359&imdb_id=tt0110478&tvdb_id=2967
         # tmdb: https://www.themoviedb.org/movie/9359

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Transformers"
         sort_title: "Transformers"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184010
         # IDs: imdb://tt0418279, tmdb://1858, tvdb://14648
         # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers&category=Movies&year_filter=equals&yone=2007&tmdb_id=1858&imdb_id=tt0418279&tvdb_id=14648
         # tmdb: https://www.themoviedb.org/movie/1858
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Transformers: Age of Extinction"
         sort_title: "Transformers: Age of Extinction"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184013
         # IDs: imdb://tt2109248, tmdb://91314, tvdb://631
         # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A+Age+of+Extinction&category=Movies&year_filter=equals&yone=2014&tmdb_id=91314&imdb_id=tt2109248&tvdb_id=631
         # tmdb: https://www.themoviedb.org/movie/91314
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Transformers: The Last Knight"
         sort_title: "Transformers: The Last Knight"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184014
         # IDs: imdb://tt3371366, tmdb://335988, tvdb://408
         # tpdb: https://theposterdb.com/search/advanced/results?term=Transformers%3A+The+Last+Knight&category=Movies&year_filter=equals&yone=2017&tmdb_id=335988&imdb_id=tt3371366&tvdb_id=408
         # tmdb: https://www.themoviedb.org/movie/335988

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Shrek"
         sort_title: "Shrek"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190629
         # IDs: imdb://tt0126029, tmdb://808, tvdb://325
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shrek&category=Movies&year_filter=equals&yone=2001&tmdb_id=808&imdb_id=tt0126029&tvdb_id=325
         # tmdb: https://www.themoviedb.org/movie/808

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Ocean's Eleven"
         sort_title: "Ocean's Eleven"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192760
         # IDs: imdb://tt0054135, tmdb://299, tvdb://7518
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Eleven&category=Movies&year_filter=equals&yone=1960&tmdb_id=299&imdb_id=tt0054135&tvdb_id=7518
         # tmdb: https://www.themoviedb.org/movie/299
@@ -20,7 +20,7 @@ metadata:
         orig_title: "Ocean's Eleven"
         sort_title: "Ocean's Eleven"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192761
         # IDs: imdb://tt0240772, tmdb://161, tvdb://1011
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Eleven&category=Movies&year_filter=equals&yone=2001&tmdb_id=161&imdb_id=tt0240772&tvdb_id=1011
         # tmdb: https://www.themoviedb.org/movie/161
@@ -34,7 +34,7 @@ metadata:
         orig_title: "Ocean's Twelve"
         sort_title: "Ocean's Twelve"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0349903, tmdb://163, tvdb://1461
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Twelve&category=Movies&year_filter=equals&yone=2004&tmdb_id=163&imdb_id=tt0349903&tvdb_id=1461
         # tmdb: https://www.themoviedb.org/movie/163
@@ -48,7 +48,7 @@ metadata:
         orig_title: "Ocean's Thirteen"
         sort_title: "Ocean's Thirteen"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/192763
         # IDs: imdb://tt0496806, tmdb://298, tvdb://2114
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s+Thirteen&category=Movies&year_filter=equals&yone=2007&tmdb_id=298&imdb_id=tt0496806&tvdb_id=2114
         # tmdb: https://www.themoviedb.org/movie/298

@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Shadow"
         sort_title: "Shadow"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/171841
         # IDs: imdb://tt0111143, tmdb://8850, tvdb://4764
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Shadow&category=Movies&year_filter=equals&yone=1994&tmdb_id=8850&imdb_id=tt0111143&tvdb_id=4764
         # tmdb: https://www.themoviedb.org/movie/8850
