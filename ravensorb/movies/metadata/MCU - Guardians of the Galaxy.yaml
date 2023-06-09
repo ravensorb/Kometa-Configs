@@ -4,7 +4,7 @@ metadata:
         title: "Guardians of the Galaxy"
         alt_title: "Guardians of the Galaxy (2014)"
         orig_title: "Guardians of the Galaxy"
-        sort_title: "Guardians of the Galaxy"
+        sort_title: "MCU - 01 - Guardians of the Galaxy"
         
         url_poster: https://theposterdb.com/api/assets/170954
         # IDs: imdb://tt2015381, tmdb://118340, tvdb://26
@@ -18,7 +18,7 @@ metadata:
         title: "Guardians of the Galaxy Vol. 2"
         alt_title: "Guardians of the Galaxy Vol. 2 (2017)"
         orig_title: "Guardians of the Galaxy Vol. 2"
-        sort_title: "Guardians of the Galaxy Vol. 2"
+        sort_title: "MCU - 01 - Guardians of the Galaxy Vol. 2"
         
         url_poster: https://theposterdb.com/api/assets/170959
         # IDs: imdb://tt3896198, tmdb://283995, tvdb://67
@@ -32,9 +32,9 @@ metadata:
         title: "Guardians of the Galaxy Vol. 3"
         alt_title: "Guardians of the Galaxy Vol. 3 (2023)"
         orig_title: "Guardians of the Galaxy Vol. 3"
-        sort_title: "Guardians of the Galaxy Vol. 3"
+        sort_title: "MCU - 01 - Guardians of the Galaxy Vol. 3"
         
-        url_poster: None
+        url_poster: https://theposterdb.com/api/assets/297410
         # IDs: imdb://tt6791350, tmdb://447365, tvdb://11716
         # tpdb: https://theposterdb.com/search/advanced/results?term=Guardians+of+the+Galaxy+Vol.+3&category=Movies&year_filter=equals&yone=2023&tmdb_id=447365&imdb_id=tt6791350&tvdb_id=11716
         # tmdb: https://www.themoviedb.org/movie/447365

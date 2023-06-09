@@ -1,10 +1,8 @@
 metadata:
-    "Airwolf":
+    "Airwolf: The Movie":
         year: 1984
         title: "Airwolf: The Movie"
-        alt_title: "Airwolf: The Movie (1984)"
-        orig_title: "Airwolf"
-        sort_title: "Airwolf: The Movie"
+        alt_title: "Airwolf"
         
         url_poster: https://theposterdb.com/api/assets/203183
         # IDs: imdb://tt0086862, tmdb://61968, tvdb://18684

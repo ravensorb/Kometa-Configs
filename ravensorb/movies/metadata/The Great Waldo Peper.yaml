@@ -1,0 +1,15 @@
+metadata:
+    "The Great Waldo Pepper (1975)":
+        year: 1975
+        title: "The Great Waldo Pepper"
+        alt_title: "The Great Waldo Pepper (1975)"
+        orig_title: "The Great Waldo Pepper"
+        sort_title: "The Great Waldo Pepper"
+        
+        url_poster: https://theposterdb.com/api/assets/194162
+        # IDs: imdb://tt0073075, tmdb://19740, tvdb://26135
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Great+Waldo+Pepper&category=Movies&year_filter=equals&yone=1975&tmdb_id=19740&imdb_id=tt0073075&tvdb_id=26135
+        # tmdb: https://www.themoviedb.org/movie/19740
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1975&query=26135
+        # imdb: https://www.imdb.com/title/tt0073075
+    

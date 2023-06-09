@@ -4,7 +4,7 @@ metadata:
         title: "Spider-Man: Homecoming"
         alt_title: "Spider-Man: Homecoming (2017)"
         orig_title: "Spider-Man: Homecoming"
-        sort_title: "Spider-Man: Homecoming"
+        sort_title: "MCU - 01 - Spider-Man: Homecoming"
         
         url_poster: https://theposterdb.com/api/assets/170960
         # IDs: imdb://tt2250912, tmdb://315635, tvdb://68
@@ -18,7 +18,7 @@ metadata:
         title: "Spider-Man: Far from Home"
         alt_title: "Spider-Man: Far from Home (2019)"
         orig_title: "Spider-Man: Far from Home"
-        sort_title: "Spider-Man: Far from Home"
+        sort_title: "MCU - 01 - Spider-Man: Far from Home"
         
         url_poster: https://theposterdb.com/api/assets/170967
         # IDs: imdb://tt6320628, tmdb://429617, tvdb://4137
@@ -32,7 +32,7 @@ metadata:
         title: "Spider-Man: No Way Home"
         alt_title: "Spider-Man: No Way Home (2021)"
         orig_title: "Spider-Man: No Way Home"
-        sort_title: "Spider-Man: No Way Home"
+        sort_title: "MCU - 01 - Spider-Man: No Way Home"
         
         url_poster: https://theposterdb.com/api/assets/188543
         # IDs: imdb://tt10872600, tmdb://634649, tvdb://132448

@@ -68,3 +68,21 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/254630
                 # IDs: tmdb://175012, tvdb://1961502
                 # https://theposterdb.com/search/advanced/results?term=Doctor+Who+%282005%29+Season+13&category=Shows&tmdb_id=175012&tvdb_id=1961502        
+
+    "Doctor Who: Dreamland (2009)":
+        year: 2009
+        title: "Doctor Who: Dreamland"
+        alt_title: "Doctor Who: Dreamland (2009)"
+        orig_title: "Doctor Who: Dreamland"
+        sort_title: "Doctor Who: Dreamland"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1494933, tmdb://129387
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who%3A+Dreamland&category=Shows&year_filter=equals&yone=2009&tmdb_id=129387&imdb_id=tt1494933
+        # tmdb: https://www.themoviedb.org/tv/129387
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt1494933
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://202783
+                # https://theposterdb.com/search/advanced/results?term=Doctor+Who%3A+Dreamland+Season+1&category=Shows&tmdb_id=202783        

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Gigi"
         sort_title: "Gigi"
         
-        # url_poster: https://theposterdb.com/api/assets/186638
+        url_poster: https://theposterdb.com/api/assets/186638
         # IDs: imdb://tt0051658, tmdb://17281, tvdb://5990
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gigi&category=Movies&year_filter=equals&yone=1958&tmdb_id=17281&imdb_id=tt0051658&tvdb_id=5990
         # tmdb: https://www.themoviedb.org/movie/17281

@@ -2,9 +2,7 @@ metadata:
     "Gypsy (1993)":
         year: 1993
         title: "Gypsy"
-        alt_title: "Gypsy (1993)"
-        orig_title: "Gypsy"
-        sort_title: "Gypsy"
+        alt_title: "Gypsy)"
         
         url_poster: https://theposterdb.com/api/assets/100534
         # IDs: imdb://tt0107065, tmdb://17912, tvdb://41253

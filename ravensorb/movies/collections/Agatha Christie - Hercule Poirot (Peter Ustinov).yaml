@@ -1,6 +1,6 @@
 collections:
   "Hercule Poirot (Peter Ustinov)":
-    variables: { label: "Agatha Christie", movie: "4192, 6107, 6103, 6105, 4193", poster: https://theposterdb.com/api/assets/311203 }
+    variables: { sort_prefix: "Agatha Christie", sort_order: "01", sort_separator: " - ", label: "Agatha Christie", movie: "4192, 6107, 6103, 6105, 4193", poster: https://theposterdb.com/api/assets/311203 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

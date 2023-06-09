@@ -4,7 +4,7 @@ metadata:
         title: "Doctor Strange"
         alt_title: "Doctor Strange (2016)"
         orig_title: "Doctor Strange"
-        sort_title: "Doctor Strange"
+        sort_title: "MCU - 01 - Doctor Strange"
         
         url_poster: https://theposterdb.com/api/assets/170958
         # IDs: imdb://tt1211837, tmdb://284052, tvdb://145
@@ -18,7 +18,7 @@ metadata:
         title: "Doctor Strange in the Multiverse of Madness"
         alt_title: "Doctor Strange in the Multiverse of Madness (2022)"
         orig_title: "Doctor Strange in the Multiverse of Madness"
-        sort_title: "Doctor Strange in the Multiverse of Madness"
+        sort_title: "MCU - 01 - Doctor Strange in the Multiverse of Madness"
         
         url_poster: https://theposterdb.com/api/assets/200217
         # IDs: imdb://tt9419884, tmdb://453395, tvdb://32426

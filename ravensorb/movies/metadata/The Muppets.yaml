@@ -13,3 +13,152 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=3220
         # imdb: https://www.imdb.com/title/tt0158811
     
+    "The Great Muppet Caper (1981)":
+        year: 1981
+        title: "The Great Muppet Caper"
+        alt_title: "The Great Muppet Caper (1981)"
+        orig_title: "The Great Muppet Caper"
+        sort_title: "The Great Muppet Caper"
+
+        url_poster: https://theposterdb.com/api/assets/172680
+
+    "A Muppets Christmas: Letters to Santa (2008)":
+        year: 2008
+        title: "A Muppets Christmas: Letters to Santa"
+        alt_title: "A Muppets Christmas: Letters to Santa (2008)"
+        orig_title: "A Muppets Christmas: Letters to Santa"
+        sort_title: "Muppets Christmas: Letters to Santa"
+        
+        url_poster: https://theposterdb.com/api/assets/172688
+        # IDs: imdb://tt1292569, tmdb://27190, tvdb://19976
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Muppets+Christmas%3A+Letters+to+Santa&category=Movies&year_filter=equals&yone=2008&tmdb_id=27190&imdb_id=tt1292569&tvdb_id=19976
+        # tmdb: https://www.themoviedb.org/movie/27190
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=19976
+        # imdb: https://www.imdb.com/title/tt1292569
+
+    "Muppet Treasure Island (1996)":
+        year: 1996
+        title: "Muppet Treasure Island"
+        alt_title: "Muppet Treasure Island (1996)"
+        orig_title: "Muppet Treasure Island"
+        sort_title: "Muppet Treasure Island"
+        
+        url_poster: https://theposterdb.com/api/assets/172684
+        # IDs: imdb://tt0117110, tmdb://10874, tvdb://4984
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Muppet+Treasure+Island&category=Movies&year_filter=equals&yone=1996&tmdb_id=10874&imdb_id=tt0117110&tvdb_id=4984
+        # tmdb: https://www.themoviedb.org/movie/10874
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1996&query=4984
+        # imdb: https://www.imdb.com/title/tt0117110
+
+    "Muppets Haunted Mansion (2021)":
+        year: 2021
+        title: "Muppets Haunted Mansion"
+        alt_title: "Muppets Haunted Mansion (2021)"
+        orig_title: "Muppets Haunted Mansion"
+        sort_title: "Muppets Haunted Mansion"
+        
+        url_poster: https://theposterdb.com/api/assets/186189
+        # IDs: imdb://tt14602326, tmdb://826914, tvdb://165897
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Muppets+Haunted+Mansion&category=Movies&year_filter=equals&yone=2021&tmdb_id=826914&imdb_id=tt14602326&tvdb_id=165897
+        # tmdb: https://www.themoviedb.org/movie/826914
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=165897
+        # imdb: https://www.imdb.com/title/tt14602326
+    
+    "Muppets Most Wanted (2014)":
+        year: 2014
+        title: "Muppets Most Wanted"
+        alt_title: "Muppets Most Wanted (2014)"
+        orig_title: "Muppets Most Wanted"
+        sort_title: "Muppets Most Wanted"
+        
+        url_poster: https://theposterdb.com/api/assets/172690
+        # IDs: imdb://tt2281587, tmdb://145220, tvdb://4021
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Muppets+Most+Wanted&category=Movies&year_filter=equals&yone=2014&tmdb_id=145220&imdb_id=tt2281587&tvdb_id=4021
+        # tmdb: https://www.themoviedb.org/movie/145220
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=4021
+        # imdb: https://www.imdb.com/title/tt2281587
+    
+    "The Muppet Christmas Carol (1992)":
+        year: 1992
+        title: "The Muppet Christmas Carol"
+        alt_title: "The Muppet Christmas Carol (1992)"
+        orig_title: "The Muppet Christmas Carol"
+        sort_title: "Muppet Christmas Carol"
+        
+        url_poster: https://theposterdb.com/api/assets/172683
+        # IDs: imdb://tt0104940, tmdb://10437, tvdb://2409
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppet+Christmas+Carol&category=Movies&year_filter=equals&yone=1992&tmdb_id=10437&imdb_id=tt0104940&tvdb_id=2409
+        # tmdb: https://www.themoviedb.org/movie/10437
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1992&query=2409
+        # imdb: https://www.imdb.com/title/tt0104940
+    
+    "The Muppet Movie (1979)":
+        year: 1979
+        title: "The Muppet Movie"
+        alt_title: "The Muppet Movie (1979)"
+        orig_title: "The Muppet Movie"
+        sort_title: "Muppet Movie"
+        
+        url_poster: https://theposterdb.com/api/assets/172679
+        # IDs: imdb://tt0079588, tmdb://11176, tvdb://5790
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppet+Movie&category=Movies&year_filter=equals&yone=1979&tmdb_id=11176&imdb_id=tt0079588&tvdb_id=5790
+        # tmdb: https://www.themoviedb.org/movie/11176
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1979&query=5790
+        # imdb: https://www.imdb.com/title/tt0079588
+    
+    "The Muppets (2011)":
+        year: 2011
+        title: "The Muppets"
+        alt_title: "The Muppets (2011)"
+        orig_title: "The Muppets"
+        sort_title: "Muppets"
+        
+        url_poster: https://theposterdb.com/api/assets/172689
+        # IDs: imdb://tt1204342, tmdb://64328, tvdb://3683
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppets&category=Movies&year_filter=equals&yone=2011&tmdb_id=64328&imdb_id=tt1204342&tvdb_id=3683
+        # tmdb: https://www.themoviedb.org/movie/64328
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=3683
+        # imdb: https://www.imdb.com/title/tt1204342
+    
+    "The Muppets Take Manhattan (1984)":
+        year: 1984
+        title: "The Muppets Take Manhattan"
+        alt_title: "The Muppets Take Manhattan (1984)"
+        orig_title: "The Muppets Take Manhattan"
+        sort_title: "Muppets Take Manhattan"
+        
+        url_poster: https://theposterdb.com/api/assets/172681
+        # IDs: imdb://tt0087755, tmdb://11899, tvdb://5957
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppets+Take+Manhattan&category=Movies&year_filter=equals&yone=1984&tmdb_id=11899&imdb_id=tt0087755&tvdb_id=5957
+        # tmdb: https://www.themoviedb.org/movie/11899
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=5957
+        # imdb: https://www.imdb.com/title/tt0087755
+    
+    "The Muppets' Wizard of Oz (2005)":
+        year: 2005
+        title: "The Muppets' Wizard of Oz"
+        alt_title: "The Muppets' Wizard of Oz (2005)"
+        orig_title: "The Muppets' Wizard of Oz"
+        sort_title: "Muppets' Wizard of Oz"
+        
+        url_poster: https://theposterdb.com/api/assets/172687
+        # IDs: imdb://tt0422778, tmdb://20910, tvdb://18018
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppets%27+Wizard+of+Oz&category=Movies&year_filter=equals&yone=2005&tmdb_id=20910&imdb_id=tt0422778&tvdb_id=18018
+        # tmdb: https://www.themoviedb.org/movie/20910
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=18018
+        # imdb: https://www.imdb.com/title/tt0422778
+    
+    "It's a Very Merry Muppet Christmas Movie (2002)":
+        year: 2002
+        title: "It's a Very Merry Muppet Christmas Movie"
+        alt_title: "It's a Very Merry Muppet Christmas Movie (2002)"
+        orig_title: "It's a Very Merry Muppet Christmas Movie"
+        sort_title: "It's a Very Merry Muppet Christmas Movie"
+        
+        url_poster: https://theposterdb.com/api/assets/172686
+        # IDs: imdb://tt0329737, tmdb://13352, tvdb://12238
+        # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s+a+Very+Merry+Muppet+Christmas+Movie&category=Movies&year_filter=equals&yone=2002&tmdb_id=13352&imdb_id=tt0329737&tvdb_id=12238
+        # tmdb: https://www.themoviedb.org/movie/13352
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=12238
+        # imdb: https://www.imdb.com/title/tt0329737
+    

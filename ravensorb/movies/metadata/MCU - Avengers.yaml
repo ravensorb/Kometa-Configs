@@ -4,7 +4,7 @@ metadata:
         title: "The Avengers"
         alt_title: "The Avengers (2012)"
         orig_title: "The Avengers"
-        sort_title: "Avengers"
+        sort_title: "MCU - 01 - Avengers"
         
         url_poster: https://theposterdb.com/api/assets/170950
         # IDs: imdb://tt0848228, tmdb://24428, tvdb://31
@@ -18,7 +18,7 @@ metadata:
         title: "Avengers: Age of Ultron"
         alt_title: "Avengers: Age of Ultron (2015)"
         orig_title: "Avengers: Age of Ultron"
-        sort_title: "Avengers: Age of Ultron"
+        sort_title: "MCU - 01 - Avengers: Age of Ultron"
         
         url_poster: https://theposterdb.com/api/assets/170955
         # IDs: imdb://tt2395427, tmdb://99861, tvdb://59
@@ -32,7 +32,7 @@ metadata:
         title: "Avengers: Infinity War"
         alt_title: "Avengers: Infinity War (2018)"
         orig_title: "Avengers: Infinity War"
-        sort_title: "Avengers: Infinity War"
+        sort_title: "MCU - 01 - Avengers: Infinity War"
         
         url_poster: https://theposterdb.com/api/assets/170963
         # IDs: imdb://tt4154756, tmdb://299536, tvdb://8
@@ -46,7 +46,7 @@ metadata:
         title: "Avengers: Endgame"
         alt_title: "Avengers: Endgame (2019)"
         orig_title: "Avengers: Endgame"
-        sort_title: "Avengers: Endgame"
+        sort_title: "MCU - 01 - Avengers: Endgame"
         
         url_poster: https://theposterdb.com/api/assets/170966
         # IDs: imdb://tt4154796, tmdb://299534, tvdb://148

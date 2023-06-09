@@ -4,7 +4,7 @@ metadata:
         title: "Thor"
         alt_title: "Thor (2011)"
         orig_title: "Thor"
-        sort_title: "Thor"
+        sort_title: "MCU - 01 - Thor"
         
         url_poster: https://theposterdb.com/api/assets/170948
         # IDs: imdb://tt0800369, tmdb://10195, tvdb://123
@@ -18,7 +18,7 @@ metadata:
         title: "Thor: The Dark World"
         alt_title: "Thor: The Dark World (2013)"
         orig_title: "Thor: The Dark World"
-        sort_title: "Thor: The Dark World"
+        sort_title: "MCU - 01 - Thor: The Dark World"
         
         url_poster: https://theposterdb.com/api/assets/170952
         # IDs: imdb://tt1981115, tmdb://76338, tvdb://178
@@ -32,7 +32,7 @@ metadata:
         title: "Thor: Ragnarok"
         alt_title: "Thor: Ragnarok (2017)"
         orig_title: "Thor: Ragnarok"
-        sort_title: "Thor: Ragnarok"
+        sort_title: "MCU - 01 - Thor: Ragnarok"
         
         url_poster: https://theposterdb.com/api/assets/170961
         # IDs: imdb://tt3501632, tmdb://284053, tvdb://62

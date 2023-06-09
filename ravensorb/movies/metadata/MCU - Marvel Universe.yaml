@@ -4,7 +4,7 @@ metadata:
         title: "Men in Black"
         alt_title: "Men in Black (1997)"
         orig_title: "Men in Black"
-        sort_title: "Men in Black"
+        sort_title: "MCU - 01 - Men in Black"
         
         url_poster: https://theposterdb.com/api/assets/183822
         # IDs: imdb://tt0119654, tmdb://607, tvdb://183
@@ -18,7 +18,7 @@ metadata:
         title: "Blade"
         alt_title: "Blade (1998)"
         orig_title: "Blade"
-        sort_title: "Blade"
+        sort_title: "MCU - 01 - Blade"
         
         url_poster: https://theposterdb.com/api/assets/171126
         # IDs: imdb://tt0120611, tmdb://36647, tvdb://1651
@@ -32,7 +32,7 @@ metadata:
         title: "X-Men"
         alt_title: "X-Men (2000)"
         orig_title: "X-Men"
-        sort_title: "X-Men"
+        sort_title: "MCU - 01 - X-Men"
         
         url_poster: https://theposterdb.com/api/assets/171113
         # IDs: imdb://tt0120903, tmdb://36657, tvdb://60871
@@ -46,7 +46,7 @@ metadata:
         title: "Blade II"
         alt_title: "Blade II (2002)"
         orig_title: "Blade II"
-        sort_title: "Blade II"
+        sort_title: "MCU - 01 - Blade II"
         
         url_poster: https://theposterdb.com/api/assets/171127
         # IDs: imdb://tt0187738, tmdb://36586, tvdb://2004
@@ -60,7 +60,7 @@ metadata:
         title: "Spider-Man"
         alt_title: "Spider-Man (2002)"
         orig_title: "Spider-Man"
-        sort_title: "Spider-Man"
+        sort_title: "MCU - 01 - Spider-Man"
         
         url_poster: https://theposterdb.com/api/assets/171149
         # IDs: imdb://tt0145487, tmdb://557, tvdb://301
@@ -74,7 +74,7 @@ metadata:
         title: "Men in Black II"
         alt_title: "Men in Black II (2002)"
         orig_title: "Men in Black II"
-        sort_title: "Men in Black II"
+        sort_title: "MCU - 01 - Men in Black II"
         
         url_poster: https://theposterdb.com/api/assets/183823
         # IDs: imdb://tt0120912, tmdb://608, tvdb://280
@@ -88,7 +88,7 @@ metadata:
         title: "Daredevil"
         alt_title: "Daredevil (2003)"
         orig_title: "Daredevil"
-        sort_title: "Daredevil"
+        sort_title: "MCU - 01 - Daredevil"
         
         url_poster: https://theposterdb.com/api/assets/171146
         # IDs: imdb://tt0287978, tmdb://9480, tvdb://1669
@@ -102,7 +102,7 @@ metadata:
         title: "X2: X-Men United"
         alt_title: "X2: X-Men United (2003)"
         orig_title: "X2: X-Men United"
-        sort_title: "X2: X-Men United"
+        sort_title: "MCU - 01 - X2: X-Men United"
         
         url_poster: https://theposterdb.com/api/assets/171114
         # IDs: imdb://tt0290334, tmdb://36658, tvdb://72106
@@ -116,7 +116,7 @@ metadata:
         title: "Hulk"
         alt_title: "Hulk (2003)"
         orig_title: "Hulk"
-        sort_title: "Hulk"
+        sort_title: "MCU - 01 - Hulk"
         
         url_poster: https://theposterdb.com/api/assets/171161
         # IDs: imdb://tt0286716, tmdb://1927, tvdb://1117
@@ -130,7 +130,7 @@ metadata:
         title: "Spider-Man 2"
         alt_title: "Spider-Man 2 (2004)"
         orig_title: "Spider-Man 2"
-        sort_title: "Spider-Man 2"
+        sort_title: "MCU - 01 - Spider-Man 2"
         
         url_poster: https://theposterdb.com/api/assets/171150
         # IDs: imdb://tt0316654, tmdb://558, tvdb://133523, tvdb://6389
@@ -144,7 +144,7 @@ metadata:
         title: "Blade: Trinity"
         alt_title: "Blade: Trinity (2004)"
         orig_title: "Blade: Trinity"
-        sort_title: "Blade: Trinity"
+        sort_title: "MCU - 01 - Blade: Trinity"
         
         url_poster: https://theposterdb.com/api/assets/171128
         # IDs: imdb://tt0359013, tmdb://36648, tvdb://1700
@@ -158,7 +158,7 @@ metadata:
         title: "Elektra"
         alt_title: "Elektra (2005)"
         orig_title: "Elektra"
-        sort_title: "Elektra"
+        sort_title: "MCU - 01 - Elektra"
         
         url_poster: https://theposterdb.com/api/assets/171147
         # IDs: imdb://tt0357277, tmdb://9947, tvdb://1726
@@ -172,7 +172,7 @@ metadata:
         title: "X-Men: The Last Stand"
         alt_title: "X-Men: The Last Stand (2006)"
         orig_title: "X-Men: The Last Stand"
-        sort_title: "X-Men: The Last Stand"
+        sort_title: "MCU - 01 - X-Men: The Last Stand"
         
         url_poster: https://theposterdb.com/api/assets/171115
         # IDs: imdb://tt0376994, tmdb://36668, tvdb://75608
@@ -186,7 +186,7 @@ metadata:
         title: "Spider-Man 3"
         alt_title: "Spider-Man 3 (2007)"
         orig_title: "Spider-Man 3"
-        sort_title: "Spider-Man 3"
+        sort_title: "MCU - 01 - Spider-Man 3"
         
         url_poster: https://theposterdb.com/api/assets/171151
         # IDs: imdb://tt0413300, tmdb://559, tvdb://586
@@ -200,7 +200,7 @@ metadata:
         title: "X-Men Origins: Wolverine"
         alt_title: "X-Men Origins: Wolverine (2009)"
         orig_title: "X-Men Origins: Wolverine"
-        sort_title: "X-Men Origins: Wolverine"
+        sort_title: "MCU - 01 - X-Men Origins: Wolverine"
         
         url_poster: https://theposterdb.com/api/assets/171122
         # IDs: imdb://tt0458525, tmdb://2080, tvdb://42403
@@ -214,7 +214,7 @@ metadata:
         title: "X-Men: First Class"
         alt_title: "X-Men: First Class (2011)"
         orig_title: "X-Men: First Class"
-        sort_title: "X-Men: First Class"
+        sort_title: "MCU - 01 - X-Men: First Class"
         
         url_poster: https://theposterdb.com/api/assets/171116
         # IDs: imdb://tt1270798, tmdb://49538, tvdb://69081
@@ -228,7 +228,7 @@ metadata:
         title: "The Amazing Spider-Man"
         alt_title: "The Amazing Spider-Man (2012)"
         orig_title: "The Amazing Spider-Man"
-        sort_title: "Amazing Spider-Man"
+        sort_title: "MCU - 01 - Amazing Spider-Man"
         
         url_poster: https://theposterdb.com/api/assets/171153
         # IDs: imdb://tt0948470, tmdb://1930, tvdb://473
@@ -242,7 +242,7 @@ metadata:
         title: "The Wolverine"
         alt_title: "The Wolverine (2013)"
         orig_title: "The Wolverine"
-        sort_title: "Wolverine"
+        sort_title: "MCU - 01 - Wolverine"
         
         url_poster: https://theposterdb.com/api/assets/171123
         # IDs: imdb://tt1430132, tmdb://76170, tvdb://20145
@@ -256,7 +256,7 @@ metadata:
         title: "Marvel One-Shot: Agent Carter"
         alt_title: "Marvel One-Shot: Agent Carter (2013)"
         orig_title: "Marvel One-Shot: Agent Carter"
-        sort_title: "Marvel One-Shot: Agent Carter"
+        sort_title: "MCU - 01 - Marvel One-Shot: Agent Carter"
         
         url_poster: https://theposterdb.com/api/assets/171202
         # IDs: imdb://tt3067038, tmdb://211387, tvdb://131145
@@ -270,7 +270,7 @@ metadata:
         title: "The Amazing Spider-Man 2"
         alt_title: "The Amazing Spider-Man 2 (2014)"
         orig_title: "The Amazing Spider-Man 2"
-        sort_title: "Amazing Spider-Man 2"
+        sort_title: "MCU - 01 - Amazing Spider-Man 2"
         
         url_poster: https://theposterdb.com/api/assets/171154
         # IDs: imdb://tt1872181, tmdb://102382, tvdb://552
@@ -284,7 +284,7 @@ metadata:
         title: "X-Men: Days of Future Past"
         alt_title: "X-Men: Days of Future Past (2014)"
         orig_title: "X-Men: Days of Future Past"
-        sort_title: "X-Men: Days of Future Past"
+        sort_title: "MCU - 01 - X-Men: Days of Future Past"
         
         url_poster: https://theposterdb.com/api/assets/171117
         # IDs: imdb://tt1877832, tmdb://127585, tvdb://79
@@ -298,7 +298,7 @@ metadata:
         title: "X-Men: Apocalypse"
         alt_title: "X-Men: Apocalypse (2016)"
         orig_title: "X-Men: Apocalypse"
-        sort_title: "X-Men: Apocalypse"
+        sort_title: "MCU - 01 - X-Men: Apocalypse"
         
         url_poster: https://theposterdb.com/api/assets/171118
         # IDs: imdb://tt3385516, tmdb://246655, tvdb://112
@@ -312,7 +312,7 @@ metadata:
         title: "Logan"
         alt_title: "Logan (2017)"
         orig_title: "Logan"
-        sort_title: "Logan"
+        sort_title: "MCU - 01 - Logan"
         
         url_poster: https://theposterdb.com/api/assets/171124
         # IDs: imdb://tt3315342, tmdb://263115, tvdb://143
@@ -326,7 +326,7 @@ metadata:
         title: "Captain Marvel"
         alt_title: "Captain Marvel (2019)"
         orig_title: "Captain Marvel"
-        sort_title: "Captain Marvel"
+        sort_title: "MCU - 01 - Captain Marvel"
         
         url_poster: https://theposterdb.com/api/assets/162387
         # IDs: imdb://tt4154664, tmdb://299537, tvdb://10
@@ -340,7 +340,7 @@ metadata:
         title: "Shang-Chi and the Legend of the Ten Rings"
         alt_title: "Shang-Chi and the Legend of the Ten Rings (2021)"
         orig_title: "Shang-Chi and the Legend of the Ten Rings"
-        sort_title: "Shang-Chi and the Legend of the Ten Rings"
+        sort_title: "MCU - 01 - Shang-Chi and the Legend of the Ten Rings"
         
         url_poster: https://theposterdb.com/api/assets/170969
         # IDs: imdb://tt9376612, tmdb://566525, tvdb://131146

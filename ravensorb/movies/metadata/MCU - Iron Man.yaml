@@ -4,7 +4,7 @@ metadata:
         title: "Iron Man"
         alt_title: "Iron Man (2008)"
         orig_title: "Iron Man"
-        sort_title: "Iron Man"
+        sort_title: "MCU - 01 - Iron Man"
         
         url_poster: https://theposterdb.com/api/assets/170945
         # IDs: imdb://tt0371746, tmdb://1726, tvdb://108
@@ -18,7 +18,7 @@ metadata:
         title: "Iron Man 2"
         alt_title: "Iron Man 2 (2010)"
         orig_title: "Iron Man 2"
-        sort_title: "Iron Man 2"
+        sort_title: "MCU - 01 - Iron Man 2"
         
         url_poster: https://theposterdb.com/api/assets/170947
         # IDs: imdb://tt1228705, tmdb://10138, tvdb://187
@@ -32,7 +32,7 @@ metadata:
         title: "Iron Man 3"
         alt_title: "Iron Man 3 (2013)"
         orig_title: "Iron Man 3"
-        sort_title: "Iron Man 3"
+        sort_title: "MCU - 01 - Iron Man 3"
         
         url_poster: https://theposterdb.com/api/assets/170951
         # IDs: imdb://tt1300854, tmdb://68721, tvdb://188

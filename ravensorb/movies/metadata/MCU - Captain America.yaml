@@ -4,7 +4,7 @@ metadata:
         title: "Captain America: The First Avenger"
         alt_title: "Captain America: The First Avenger (2011)"
         orig_title: "Captain America: The First Avenger"
-        sort_title: "Captain America: The First Avenger"
+        sort_title: "MCU - 01 - Captain America: The First Avenger"
         
         url_poster: https://theposterdb.com/api/assets/170949
         # IDs: imdb://tt0458339, tmdb://1771, tvdb://180
@@ -18,7 +18,7 @@ metadata:
         title: "Captain America: The Winter Soldier"
         alt_title: "Captain America: The Winter Soldier (2014)"
         orig_title: "Captain America: The Winter Soldier"
-        sort_title: "Captain America: The Winter Soldier"
+        sort_title: "MCU - 01 - Captain America: The Winter Soldier"
         
         url_poster: https://theposterdb.com/api/assets/170953
         # IDs: imdb://tt1843866, tmdb://100402, tvdb://965
@@ -32,7 +32,7 @@ metadata:
         title: "Captain America: Civil War"
         alt_title: "Captain America: Civil War (2016)"
         orig_title: "Captain America: Civil War"
-        sort_title: "Captain America: Civil War"
+        sort_title: "MCU - 01 - Captain America: Civil War"
         
         url_poster: https://theposterdb.com/api/assets/170957
         # IDs: imdb://tt3498820, tmdb://271110, tvdb://118

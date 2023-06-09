@@ -4,7 +4,7 @@ metadata:
         title: "The Incredible Hulk"
         alt_title: "The Incredible Hulk (1977)"
         orig_title: "The Incredible Hulk"
-        sort_title: "Incredible Hulk"
+        sort_title: "MCU - 01 - Incredible Hulk"
         
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tmdb://65294, tvdb://15986
@@ -18,7 +18,7 @@ metadata:
         title: "The Incredible Hulk Returns"
         alt_title: "The Incredible Hulk Returns (1988)"
         orig_title: "The Incredible Hulk Returns"
-        sort_title: "Incredible Hulk Returns"
+        sort_title: "MCU - 01 - Incredible Hulk Returns"
         
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0095368, tmdb://26881, tvdb://19333
@@ -32,7 +32,7 @@ metadata:
         title: "The Trial of the Incredible Hulk"
         alt_title: "The Trial of the Incredible Hulk (1989)"
         orig_title: "The Trial of the Incredible Hulk"
-        sort_title: "Trial of the Incredible Hulk"
+        sort_title: "MCU - 01 - Trial of the Incredible Hulk"
         
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0098512, tmdb://26883, tvdb://18832
@@ -46,7 +46,7 @@ metadata:
         title: "The Incredible Hulk"
         alt_title: "The Incredible Hulk (2008)"
         orig_title: "The Incredible Hulk"
-        sort_title: "Incredible Hulk"
+        sort_title: "MCU - 01 - Incredible Hulk"
         
         url_poster: https://theposterdb.com/api/assets/170946
         # IDs: imdb://tt0800080, tmdb://1724, tvdb://584

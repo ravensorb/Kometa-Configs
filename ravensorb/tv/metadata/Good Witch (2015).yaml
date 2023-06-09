@@ -1,0 +1,46 @@
+metadata:
+    "Good Witch (2015)":
+        year: 2015
+        title: "Good Witch"
+        alt_title: "Good Witch (2015)"
+        orig_title: "Good Witch"
+        sort_title: "Good Witch"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3906732, tmdb://61864, tvdb://289855
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Good+Witch&category=Shows&year_filter=equals&yone=2015&tmdb_id=61864&imdb_id=tt3906732&tvdb_id=289855
+        # tmdb: https://www.themoviedb.org/tv/61864
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=289855
+        # imdb: https://www.imdb.com/title/tt3906732
+        # seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://76448
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Specials&category=Shows&tmdb_id=76448
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://64485, tvdb://607454
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+1&category=Shows&tmdb_id=64485&tvdb_id=607454
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://71601, tvdb://649875
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+2&category=Shows&tmdb_id=71601&tvdb_id=649875
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://86621, tvdb://686986
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+3&category=Shows&tmdb_id=86621&tvdb_id=686986
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://98288, tvdb://728146
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+4&category=Shows&tmdb_id=98288&tvdb_id=728146
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://119309, tvdb://783631
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+5&category=Shows&tmdb_id=119309&tvdb_id=783631
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://148485, tvdb://1829079
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+6&category=Shows&tmdb_id=148485&tvdb_id=1829079
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+                # IDs: tmdb://179903, tvdb://1901013
+                # https://theposterdb.com/search/advanced/results?term=Good+Witch+Season+7&category=Shows&tmdb_id=179903&tvdb_id=1901013        
