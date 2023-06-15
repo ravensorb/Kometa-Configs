@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3690, tvdb://491957
-                # https://theposterdb.com/search/advanced/results?term=Revolution+Season+1&category=Shows&tmdb_id=3690&tvdb_id=491957
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3692, tvdb://523094
-                # https://theposterdb.com/search/advanced/results?term=Revolution+Season+2&category=Shows&tmdb_id=3692&tvdb_id=523094        

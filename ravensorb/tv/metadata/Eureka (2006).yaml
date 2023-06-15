@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/325851
-                # IDs: tmdb://14105, tvdb://16278
-                # https://theposterdb.com/search/advanced/results?term=Eureka+Season+1&category=Shows&tmdb_id=14105&tvdb_id=16278
             2:
                 url_poster: https://theposterdb.com/api/assets/325852
-                # IDs: tmdb://14106, tvdb://27652
-                # https://theposterdb.com/search/advanced/results?term=Eureka+Season+2&category=Shows&tmdb_id=14106&tvdb_id=27652
             3:
                 url_poster: https://theposterdb.com/api/assets/325853
-                # IDs: tmdb://14107, tvdb://33581
-                # https://theposterdb.com/search/advanced/results?term=Eureka+Season+3&category=Shows&tmdb_id=14107&tvdb_id=33581
             4:
                 url_poster: https://theposterdb.com/api/assets/325854
-                # IDs: tmdb://14108, tvdb://91311
-                # https://theposterdb.com/search/advanced/results?term=Eureka+Season+4&category=Shows&tmdb_id=14108&tvdb_id=91311
             5:
                 url_poster: https://theposterdb.com/api/assets/325855
-                # IDs: tmdb://14109, tvdb://476961
-                # https://theposterdb.com/search/advanced/results?term=Eureka+Season+5&category=Shows&tmdb_id=14109&tvdb_id=476961        

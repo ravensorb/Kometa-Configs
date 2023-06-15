@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327885
-                # IDs: tmdb://73892, tvdb://306304
-                # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+1&category=Shows&tmdb_id=73892&tvdb_id=306304
             2:
                 url_poster: https://theposterdb.com/api/assets/327886
-                # IDs: tmdb://97271, tvdb://744351
-                # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+2&category=Shows&tmdb_id=97271&tvdb_id=744351
             3:
                 url_poster: https://theposterdb.com/api/assets/327887
-                # IDs: tmdb://112985
-                # https://theposterdb.com/search/advanced/results?term=A+Series+of+Unfortunate+Events+Season+3&category=Shows&tmdb_id=112985        

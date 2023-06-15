@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242942
-                # IDs: tmdb://25308, tvdb://12233
-                # https://theposterdb.com/search/advanced/results?term=The+Addams+Family+%281964%29+Season+1&category=Shows&tmdb_id=25308&tvdb_id=12233
             2:
                 url_poster: https://theposterdb.com/api/assets/242943
-                # IDs: tmdb://25309, tvdb://12234
-                # https://theposterdb.com/search/advanced/results?term=The+Addams+Family+%281964%29+Season+2&category=Shows&tmdb_id=25309&tvdb_id=12234        

@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://60722
-                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+1&category=Shows&tmdb_id=60722
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://65205
-                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+2&category=Shows&tmdb_id=65205
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://76491
-                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+3&category=Shows&tmdb_id=76491
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://89554
-                # https://theposterdb.com/search/advanced/results?term=TURN%3A+Washington%27s+Spies+Season+4&category=Shows&tmdb_id=89554        

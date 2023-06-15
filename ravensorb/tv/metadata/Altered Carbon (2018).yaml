@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242995
-                # IDs: tmdb://81447, tvdb://332331
-                # https://theposterdb.com/search/advanced/results?term=Altered+Carbon+Season+1&category=Shows&tmdb_id=81447&tvdb_id=332331
             2:
                 url_poster: https://theposterdb.com/api/assets/242996
-                # IDs: tmdb://120972
-                # https://theposterdb.com/search/advanced/results?term=Altered+Carbon+Season+2&category=Shows&tmdb_id=120972        

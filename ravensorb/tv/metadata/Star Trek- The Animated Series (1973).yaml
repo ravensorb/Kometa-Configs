@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222248
-                # IDs: tmdb://5912, tvdb://5998
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+The+Animated+Series+Season+1&category=Shows&tmdb_id=5912&tvdb_id=5998
             2:
                 url_poster: https://theposterdb.com/api/assets/222249
-                # IDs: tmdb://5913, tvdb://5999
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+The+Animated+Series+Season+2&category=Shows&tmdb_id=5913&tvdb_id=5999        

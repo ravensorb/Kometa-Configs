@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103443
-                # https://theposterdb.com/search/advanced/results?term=The+Outpost+Season+1&category=Shows&tmdb_id=103443
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://126362
-                # https://theposterdb.com/search/advanced/results?term=The+Outpost+Season+2&category=Shows&tmdb_id=126362
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://156823, tvdb://7892516
-                # https://theposterdb.com/search/advanced/results?term=The+Outpost+Season+3&category=Shows&tmdb_id=156823&tvdb_id=7892516
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://196434
-                # https://theposterdb.com/search/advanced/results?term=The+Outpost+Season+4&category=Shows&tmdb_id=196434        

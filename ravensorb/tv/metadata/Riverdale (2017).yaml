@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/324979
-                # IDs: tmdb://82752, tvdb://667563
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+1&category=Shows&tmdb_id=82752&tvdb_id=667563
             2:
                 url_poster: https://theposterdb.com/api/assets/324980
-                # IDs: tmdb://91793, tvdb://712806
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+2&category=Shows&tmdb_id=91793&tvdb_id=712806
             3:
                 url_poster: https://theposterdb.com/api/assets/324981
-                # IDs: tmdb://105507, tvdb://769144
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+3&category=Shows&tmdb_id=105507&tvdb_id=769144
             4:
                 url_poster: https://theposterdb.com/api/assets/324982
-                # IDs: tmdb://129417, tvdb://815366
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+4&category=Shows&tmdb_id=129417&tvdb_id=815366
             5:
                 url_poster: https://theposterdb.com/api/assets/324983
-                # IDs: tmdb://167134, tvdb://1877746
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+5&category=Shows&tmdb_id=167134&tvdb_id=1877746
             6:
                 url_poster: https://theposterdb.com/api/assets/324984
-                # IDs: tmdb://199280, tvdb://1934887
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+6&category=Shows&tmdb_id=199280&tvdb_id=1934887
             7:
                 url_poster: https://theposterdb.com/api/assets/324985
-                # IDs: tmdb://313797
-                # https://theposterdb.com/search/advanced/results?term=Riverdale+Season+7&category=Shows&tmdb_id=313797        

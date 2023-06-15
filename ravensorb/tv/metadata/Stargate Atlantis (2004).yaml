@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/228937
-                # IDs: tmdb://7141, tvdb://1192
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Atlantis+%282004%29+Season+1&category=Shows&tmdb_id=7141&tvdb_id=1192
             2:
                 url_poster: https://theposterdb.com/api/assets/228938
-                # IDs: tmdb://7142, tvdb://1193
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Atlantis+%282004%29+Season+2&category=Shows&tmdb_id=7142&tvdb_id=1193
             3:
                 url_poster: https://theposterdb.com/api/assets/228939
-                # IDs: tmdb://7143, tvdb://1194
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Atlantis+%282004%29+Season+3&category=Shows&tmdb_id=7143&tvdb_id=1194
             4:
                 url_poster: https://theposterdb.com/api/assets/228940
-                # IDs: tmdb://7144, tvdb://28424
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Atlantis+%282004%29+Season+4&category=Shows&tmdb_id=7144&tvdb_id=28424
             5:
                 url_poster: https://theposterdb.com/api/assets/228941
-                # IDs: tmdb://7145, tvdb://31075
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Atlantis+%282004%29+Season+5&category=Shows&tmdb_id=7145&tvdb_id=31075        

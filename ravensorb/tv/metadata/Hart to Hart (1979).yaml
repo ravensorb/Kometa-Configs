@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/290435
-                # IDs: tmdb://9950, tvdb://2037
-                # https://theposterdb.com/search/advanced/results?term=Hart+to+Hart+Season+1&category=Shows&tmdb_id=9950&tvdb_id=2037
             2:
                 url_poster: https://theposterdb.com/api/assets/290436
-                # IDs: tmdb://9949, tvdb://2038
-                # https://theposterdb.com/search/advanced/results?term=Hart+to+Hart+Season+2&category=Shows&tmdb_id=9949&tvdb_id=2038
             3:
                 url_poster: https://theposterdb.com/api/assets/290437
-                # IDs: tmdb://9948, tvdb://2039
-                # https://theposterdb.com/search/advanced/results?term=Hart+to+Hart+Season+3&category=Shows&tmdb_id=9948&tvdb_id=2039
             4:
                 url_poster: https://theposterdb.com/api/assets/290438
-                # IDs: tmdb://9951, tvdb://2040
-                # https://theposterdb.com/search/advanced/results?term=Hart+to+Hart+Season+4&category=Shows&tmdb_id=9951&tvdb_id=2040
             5:
                 url_poster: https://theposterdb.com/api/assets/290439
-                # IDs: tmdb://9947, tvdb://2041
-                # https://theposterdb.com/search/advanced/results?term=Hart+to+Hart+Season+5&category=Shows&tmdb_id=9947&tvdb_id=2041        

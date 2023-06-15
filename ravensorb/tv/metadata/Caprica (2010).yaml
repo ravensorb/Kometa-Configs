@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327345
-                # IDs: tmdb://2556, tvdb://52071
-                # https://theposterdb.com/search/advanced/results?term=Caprica+Season+1&category=Shows&tmdb_id=2556&tvdb_id=52071        

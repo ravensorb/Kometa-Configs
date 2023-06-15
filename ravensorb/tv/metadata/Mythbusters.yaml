@@ -14,72 +14,38 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3784, tvdb://17763
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Specials&category=Shows&tmdb_id=3784&tvdb_id=17763
             # 2003:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3774, tvdb://637745
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+1&category=Shows&tmdb_id=3774&tvdb_id=637745
             # 2004:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3775, tvdb://637746
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2&category=Shows&tmdb_id=3775&tvdb_id=637746
             # 2005:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3776, tvdb://637747
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+3&category=Shows&tmdb_id=3776&tvdb_id=637747
             # 2006:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3777, tvdb://637748
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+4&category=Shows&tmdb_id=3777&tvdb_id=637748
             # 2007:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3778, tvdb://637749
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2007&category=Shows&tmdb_id=3778&tvdb_id=637749
             # 2008:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3779, tvdb://637750
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2008&category=Shows&tmdb_id=3779&tvdb_id=637750
             # 2009:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3780, tvdb://637751
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2009&category=Shows&tmdb_id=3780&tvdb_id=637751
             # 2010:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3781, tvdb://637752
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+8&category=Shows&tmdb_id=3781&tvdb_id=637752
             # 2011:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3782, tvdb://637753
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2011&category=Shows&tmdb_id=3782&tvdb_id=637753
             # 2012:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3783, tvdb://637754
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2012&category=Shows&tmdb_id=3783&tvdb_id=637754
             # 2013:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://65088, tvdb://637755
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2013&category=Shows&tmdb_id=65088&tvdb_id=637755
             # 2014:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3787, tvdb://637756
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2014&category=Shows&tmdb_id=3787&tvdb_id=637756
             # 2015:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3786
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2015&category=Shows&tmdb_id=3786
             # 2016:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62166, tvdb://649323
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2016&category=Shows&tmdb_id=62166&tvdb_id=649323
             # 2017:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://95384
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2017&category=Shows&tmdb_id=95384
             # 2018:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://144644, tvdb://744375
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Season+2018&category=Shows&tmdb_id=144644&tvdb_id=744375        
 
     "MythBusters: The Search (2017)":
         year: 2017
@@ -96,8 +62,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://82932
-                # https://theposterdb.com/search/advanced/results?term=MythBusters%3A+The+Search+Season+1&category=Shows&tmdb_id=82932        
 
     "MythBusters Jr. (2019)":
         year: 2019
@@ -114,5 +78,3 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://114860
-                # https://theposterdb.com/search/advanced/results?term=MythBusters+Jr.+Season+1&category=Shows&tmdb_id=114860        

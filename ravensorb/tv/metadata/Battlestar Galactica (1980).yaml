@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/285128
-                # IDs: tmdb://14111, tvdb://1782
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%281980%29+Season+1&category=Shows&tmdb_id=14111&tvdb_id=1782        

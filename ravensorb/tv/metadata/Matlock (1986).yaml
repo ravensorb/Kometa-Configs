@@ -14,37 +14,19 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6369, tvdb://5228
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+1&category=Shows&tmdb_id=6369&tvdb_id=5228
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6367, tvdb://5229
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+2&category=Shows&tmdb_id=6367&tvdb_id=5229
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6365, tvdb://5230
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+3&category=Shows&tmdb_id=6365&tvdb_id=5230
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6366, tvdb://5231
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+4&category=Shows&tmdb_id=6366&tvdb_id=5231
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6364, tvdb://5232
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+5&category=Shows&tmdb_id=6364&tvdb_id=5232
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6368, tvdb://5233
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+6&category=Shows&tmdb_id=6368&tvdb_id=5233
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6370, tvdb://5234
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+7&category=Shows&tmdb_id=6370&tvdb_id=5234
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6371, tvdb://5235
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+8&category=Shows&tmdb_id=6371&tvdb_id=5235
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6372, tvdb://5236
-                # https://theposterdb.com/search/advanced/results?term=Matlock+Season+9&category=Shows&tmdb_id=6372&tvdb_id=5236        

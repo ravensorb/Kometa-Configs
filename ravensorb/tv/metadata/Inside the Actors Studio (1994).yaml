@@ -14,77 +14,39 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://707
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Specials&category=Shows&tmdb_id=707
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://696, tvdb://4484
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+1&category=Shows&tmdb_id=696&tvdb_id=4484
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://706, tvdb://4489
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+3&category=Shows&tmdb_id=706&tvdb_id=4489
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://693, tvdb://4491
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+5&category=Shows&tmdb_id=693&tvdb_id=4491
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://694, tvdb://4492
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+6&category=Shows&tmdb_id=694&tvdb_id=4492
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://700, tvdb://4493
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+7&category=Shows&tmdb_id=700&tvdb_id=4493
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://697, tvdb://4494
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+8&category=Shows&tmdb_id=697&tvdb_id=4494
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://698, tvdb://4495
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+9&category=Shows&tmdb_id=698&tvdb_id=4495
             # 10:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://699, tvdb://4485
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+10&category=Shows&tmdb_id=699&tvdb_id=4485
             # 11:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://703, tvdb://4486
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+11&category=Shows&tmdb_id=703&tvdb_id=4486
             # 12:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://702, tvdb://4487
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+12&category=Shows&tmdb_id=702&tvdb_id=4487
             # 13:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://704, tvdb://16416
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+13&category=Shows&tmdb_id=704&tvdb_id=16416
             # 14:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://705
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+14&category=Shows&tmdb_id=705
             # 15:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://701, tvdb://40016
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+15&category=Shows&tmdb_id=701&tvdb_id=40016
             # 16:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://708
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+16&category=Shows&tmdb_id=708
             # 17:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://709
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+17&category=Shows&tmdb_id=709
             # 18:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://710
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+18&category=Shows&tmdb_id=710
             # 19:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://711
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+19&category=Shows&tmdb_id=711
             # 20:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://74615
-                # https://theposterdb.com/search/advanced/results?term=Inside+the+Actors+Studio+Season+20&category=Shows&tmdb_id=74615        

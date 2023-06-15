@@ -12,9 +12,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366308
-                # IDs: tmdb://187629, tvdb://1913411
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+International+Season+1&category=Shows&tmdb_id=187629&tvdb_id=1913411
             2:
                 url_poster: https://theposterdb.com/api/assets/366309
-                # IDs: tmdb://298429, tvdb://2006872
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+International+Season+2&category=Shows&tmdb_id=298429&tvdb_id=2006872        

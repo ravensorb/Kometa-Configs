@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/260790
-                # IDs: tmdb://96659, tvdb://752850
-                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+1&category=Shows&tmdb_id=96659&tvdb_id=752850
             2:
                 url_poster: https://theposterdb.com/api/assets/260791
-                # IDs: tmdb://133661, tvdb://828816
-                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+2&category=Shows&tmdb_id=133661&tvdb_id=828816
             3:
                 url_poster: https://theposterdb.com/api/assets/260792
-                # IDs: tmdb://214737, tvdb://1961264
-                # https://theposterdb.com/search/advanced/results?term=Lost+in+Space+%282018%29+Season+3&category=Shows&tmdb_id=214737&tvdb_id=1961264        

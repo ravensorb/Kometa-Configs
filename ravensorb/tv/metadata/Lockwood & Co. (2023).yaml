@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/337610
-                # IDs: tmdb://314118, tvdb://2008493
-                # https://theposterdb.com/search/advanced/results?term=Lockwood+%26+Co.+Season+1&category=Shows&tmdb_id=314118&tvdb_id=2008493        

@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50779, tvdb://466231
-                # https://theposterdb.com/search/advanced/results?term=Revenge+Season+1&category=Shows&tmdb_id=50779&tvdb_id=466231
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50778, tvdb://496194
-                # https://theposterdb.com/search/advanced/results?term=Revenge+Season+2&category=Shows&tmdb_id=50778&tvdb_id=496194
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50780, tvdb://522935
-                # https://theposterdb.com/search/advanced/results?term=Revenge+Season+3&category=Shows&tmdb_id=50780&tvdb_id=522935
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62032
-                # https://theposterdb.com/search/advanced/results?term=Revenge+Season+4&category=Shows&tmdb_id=62032        

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/254648
-                # IDs: tmdb://1239, tvdb://16552
-                # https://theposterdb.com/search/advanced/results?term=Torchwood+Season+1&category=Shows&tmdb_id=1239&tvdb_id=16552
             2:
                 url_poster: https://theposterdb.com/api/assets/254649
-                # IDs: tmdb://1236, tvdb://30174
-                # https://theposterdb.com/search/advanced/results?term=Torchwood+Season+2&category=Shows&tmdb_id=1236&tvdb_id=30174
             3:
                 url_poster: https://theposterdb.com/api/assets/254650
-                # IDs: tmdb://1237, tvdb://39610
-                # https://theposterdb.com/search/advanced/results?term=Torchwood+Season+3&category=Shows&tmdb_id=1237&tvdb_id=39610
             4:
                 url_poster: https://theposterdb.com/api/assets/254651
-                # IDs: tmdb://1240, tvdb://391031
-                # https://theposterdb.com/search/advanced/results?term=Torchwood+Season+4&category=Shows&tmdb_id=1240&tvdb_id=391031        

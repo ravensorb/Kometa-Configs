@@ -14,29 +14,15 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/241849
-                # IDs: tmdb://44727, tvdb://324511
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Specials&category=Shows&tmdb_id=44727&tvdb_id=324511
             1:
                 url_poster: https://theposterdb.com/api/assets/241850
-                # IDs: tmdb://44728, tvdb://324521
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+1&category=Shows&tmdb_id=44728&tvdb_id=324521
             2:
                 url_poster: https://theposterdb.com/api/assets/241851
-                # IDs: tmdb://44729, tvdb://473084
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+2&category=Shows&tmdb_id=44729&tvdb_id=473084
             3:
                 url_poster: https://theposterdb.com/api/assets/241852
-                # IDs: tmdb://44730, tvdb://485641
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+3&category=Shows&tmdb_id=44730&tvdb_id=485641
             4:
                 url_poster: https://theposterdb.com/api/assets/241853
-                # IDs: tmdb://44731, tvdb://518855
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+4&category=Shows&tmdb_id=44731&tvdb_id=518855
             5:
                 url_poster: https://theposterdb.com/api/assets/241854
-                # IDs: tmdb://62638
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+5&category=Shows&tmdb_id=62638
             6:
                 url_poster: https://theposterdb.com/api/assets/241855
-                # IDs: tmdb://69183
-                # https://theposterdb.com/search/advanced/results?term=Downton+Abbey+Season+6&category=Shows&tmdb_id=69183        

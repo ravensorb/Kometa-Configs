@@ -13,44 +13,24 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0108778
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/360753
+                # url_poster: https://theposterdb.com/api/assets/360753
             1:
                 url_poster: https://theposterdb.com/api/assets/360754
-                # IDs: tmdb://4573, tvdb://16102
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+1&category=Shows&tmdb_id=4573&tvdb_id=16102
             2:
                 url_poster: https://theposterdb.com/api/assets/360755
-                # IDs: tmdb://4574, tvdb://16104
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+2&category=Shows&tmdb_id=4574&tvdb_id=16104
             3:
                 url_poster: https://theposterdb.com/api/assets/360756
-                # IDs: tmdb://4575, tvdb://16105
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+3&category=Shows&tmdb_id=4575&tvdb_id=16105
             4:
                 url_poster: https://theposterdb.com/api/assets/360757
-                # IDs: tmdb://4576, tvdb://16106
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+4&category=Shows&tmdb_id=4576&tvdb_id=16106
             5:
                 url_poster: https://theposterdb.com/api/assets/360758
-                # IDs: tmdb://4577, tvdb://16107
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+5&category=Shows&tmdb_id=4577&tvdb_id=16107
             6:
                 url_poster: https://theposterdb.com/api/assets/360759
-                # IDs: tmdb://4578, tvdb://16108
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+6&category=Shows&tmdb_id=4578&tvdb_id=16108
             7:
                 url_poster: https://theposterdb.com/api/assets/360760
-                # IDs: tmdb://4579, tvdb://16109
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+7&category=Shows&tmdb_id=4579&tvdb_id=16109
             8:
                 url_poster: https://theposterdb.com/api/assets/360761
-                # IDs: tmdb://4580, tvdb://16110
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+8&category=Shows&tmdb_id=4580&tvdb_id=16110
             9:
                 url_poster: https://theposterdb.com/api/assets/360762
-                # IDs: tmdb://4581, tvdb://16111
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+9&category=Shows&tmdb_id=4581&tvdb_id=16111
             10:
                 url_poster: https://theposterdb.com/api/assets/360763
-                # IDs: tmdb://4582, tvdb://16103
-                # https://theposterdb.com/search/advanced/results?term=Friends+Season+10&category=Shows&tmdb_id=4582&tvdb_id=16103        

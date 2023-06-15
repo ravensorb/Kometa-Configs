@@ -13,52 +13,28 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0460627
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/349282
+                # url_poster:  https://theposterdb.com/api/assets/349282
             1:
                 url_poster:  https://theposterdb.com/api/assets/349283
-                # IDs: tmdb://5520, tvdb://9191
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+1&category=Shows&tmdb_id=5520&tvdb_id=9191
             2:
                 url_poster:  https://theposterdb.com/api/assets/349284
-                # IDs: tmdb://5521, tvdb://16286
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+2&category=Shows&tmdb_id=5521&tvdb_id=16286
             3:
                 url_poster:  https://theposterdb.com/api/assets/349285
-                # IDs: tmdb://5522, tvdb://16360
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+3&category=Shows&tmdb_id=5522&tvdb_id=16360
             4:
                 url_poster:  https://theposterdb.com/api/assets/349286
-                # IDs: tmdb://5523, tvdb://33597
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+4&category=Shows&tmdb_id=5523&tvdb_id=33597
             5:
                 url_poster:  https://theposterdb.com/api/assets/349287
-                # IDs: tmdb://5524, tvdb://79081
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+5&category=Shows&tmdb_id=5524&tvdb_id=79081
             6:
                 url_poster:  https://theposterdb.com/api/assets/349288
-                # IDs: tmdb://5525, tvdb://274131
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+6&category=Shows&tmdb_id=5525&tvdb_id=274131
             7:
                 url_poster:  https://theposterdb.com/api/assets/349289
-                # IDs: tmdb://5527, tvdb://468356
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+7&category=Shows&tmdb_id=5527&tvdb_id=468356
             8:
                 url_poster:  https://theposterdb.com/api/assets/349290
-                # IDs: tmdb://5528, tvdb://494895
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+8&category=Shows&tmdb_id=5528&tvdb_id=494895
             9:
                 url_poster:  https://theposterdb.com/api/assets/349291
-                # IDs: tmdb://5529, tvdb://523460
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+9&category=Shows&tmdb_id=5529&tvdb_id=523460
             10:
                 url_poster:  https://theposterdb.com/api/assets/349292
-                # IDs: tmdb://62025, tvdb://590756
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+10&category=Shows&tmdb_id=62025&tvdb_id=590756
             11:
                 url_poster:  https://theposterdb.com/api/assets/349293
-                # IDs: tmdb://70304, tvdb://627045
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+11&category=Shows&tmdb_id=70304&tvdb_id=627045
             12:
                 url_poster:  https://theposterdb.com/api/assets/349294
-                # IDs: tmdb://80155, tvdb://674432
-                # https://theposterdb.com/search/advanced/results?term=Bones+Season+12&category=Shows&tmdb_id=80155&tvdb_id=674432        

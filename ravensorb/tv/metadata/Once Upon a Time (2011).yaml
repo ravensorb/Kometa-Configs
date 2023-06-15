@@ -14,33 +14,17 @@ metadata:
         seasons:
             0:
                 url_poster:  https://theposterdb.com/api/assets/354631
-                # IDs: tmdb://50703, tvdb://466176
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Specials&category=Shows&tmdb_id=50703&tvdb_id=466176
             1:
                 url_poster:  https://theposterdb.com/api/assets/354632
-                # IDs: tmdb://50700, tvdb://466352
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+1&category=Shows&tmdb_id=50700&tvdb_id=466352
             2:
                 url_poster:  https://theposterdb.com/api/assets/354633
-                # IDs: tmdb://50701, tvdb://496193
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+2&category=Shows&tmdb_id=50701&tvdb_id=496193
             3:
                 url_poster:  https://theposterdb.com/api/assets/354634
-                # IDs: tmdb://50702, tvdb://523937
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+3&category=Shows&tmdb_id=50702&tvdb_id=523937
             4:
                 url_poster:  https://theposterdb.com/api/assets/354635
-                # IDs: tmdb://62835, tvdb://590600
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+4&category=Shows&tmdb_id=62835&tvdb_id=590600
             5:
                 url_poster:  https://theposterdb.com/api/assets/354636
-                # IDs: tmdb://68211, tvdb://625710
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+5&category=Shows&tmdb_id=68211&tvdb_id=625710
             6:
                 url_poster:  https://theposterdb.com/api/assets/354637
-                # IDs: tmdb://79788, tvdb://671983
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+6&category=Shows&tmdb_id=79788&tvdb_id=671983
             7:
                 url_poster:  https://theposterdb.com/api/assets/354638
-                # IDs: tmdb://91667, tvdb://718371
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+%282011%29+Season+7&category=Shows&tmdb_id=91667&tvdb_id=718371        

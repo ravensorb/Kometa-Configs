@@ -2,9 +2,6 @@ metadata:
     "Dr. Quinn, Medicine Woman (1993)":
         year: 1993
         title: "Dr. Quinn, Medicine Woman"
-        alt_title: "Dr. Quinn, Medicine Woman (1993)"
-        orig_title: "Dr. Quinn, Medicine Woman"
-        sort_title: "Dr. Quinn, Medicine Woman"
         url_poster: https://theposterdb.com/api/assets/210373
         # IDs: imdb://tt0103405, tmdb://4324, tvdb://78095
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman&category=Shows&year_filter=equals&yone=1993&tmdb_id=4324&imdb_id=tt0103405&tvdb_id=78095
@@ -14,25 +11,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/324736
-                # IDs: tmdb://12764, tvdb://14271
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+1&category=Shows&tmdb_id=12764&tvdb_id=14271
             2:
                 url_poster: https://theposterdb.com/api/assets/324737
-                # IDs: tmdb://12765, tvdb://14272
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+2&category=Shows&tmdb_id=12765&tvdb_id=14272
             3:
                 url_poster: https://theposterdb.com/api/assets/324738
-                # IDs: tmdb://12766, tvdb://14273
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+3&category=Shows&tmdb_id=12766&tvdb_id=14273
             4:
                 url_poster: https://theposterdb.com/api/assets/324739
-                # IDs: tmdb://12767, tvdb://14274
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+4&category=Shows&tmdb_id=12767&tvdb_id=14274
             5:
                 url_poster: https://theposterdb.com/api/assets/324740
-                # IDs: tmdb://12768, tvdb://14275
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+5&category=Shows&tmdb_id=12768&tvdb_id=14275
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12769, tvdb://14276
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Quinn%2C+Medicine+Woman+Season+6&category=Shows&tmdb_id=12769&tvdb_id=14276        
+            6:
+                url_poster: https://theposterdb.com/api/assets/324741

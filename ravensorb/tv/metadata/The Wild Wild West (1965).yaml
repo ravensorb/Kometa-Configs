@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21322, tvdb://2685
-                # https://theposterdb.com/search/advanced/results?term=The+Wild+Wild+West+Season+1&category=Shows&tmdb_id=21322&tvdb_id=2685
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21324, tvdb://2686
-                # https://theposterdb.com/search/advanced/results?term=The+Wild+Wild+West+Season+2&category=Shows&tmdb_id=21324&tvdb_id=2686
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21323, tvdb://2687
-                # https://theposterdb.com/search/advanced/results?term=The+Wild+Wild+West+Season+3&category=Shows&tmdb_id=21323&tvdb_id=2687
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21321, tvdb://2688
-                # https://theposterdb.com/search/advanced/results?term=The+Wild+Wild+West+Season+4&category=Shows&tmdb_id=21321&tvdb_id=2688        

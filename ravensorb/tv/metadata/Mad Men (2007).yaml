@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335704
-                # IDs: tmdb://3566, tvdb://28156
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+1&category=Shows&tmdb_id=3566&tvdb_id=28156
             2:
                 url_poster: https://theposterdb.com/api/assets/335705
-                # IDs: tmdb://3567, tvdb://33800
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+2&category=Shows&tmdb_id=3567&tvdb_id=33800
             3:
                 url_poster: https://theposterdb.com/api/assets/335706
-                # IDs: tmdb://3568, tvdb://106221
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+3&category=Shows&tmdb_id=3568&tvdb_id=106221
             4:
                 url_poster: https://theposterdb.com/api/assets/335707
-                # IDs: tmdb://3569, tvdb://233601
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+4&category=Shows&tmdb_id=3569&tvdb_id=233601
             5:
                 url_poster: https://theposterdb.com/api/assets/335708
-                # IDs: tmdb://3570, tvdb://474048
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+5&category=Shows&tmdb_id=3570&tvdb_id=474048
             6:
                 url_poster: https://theposterdb.com/api/assets/335709
-                # IDs: tmdb://3571, tvdb://507584
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+6&category=Shows&tmdb_id=3571&tvdb_id=507584
             7:
                 url_poster: https://theposterdb.com/api/assets/335710
-                # IDs: tmdb://3565
-                # https://theposterdb.com/search/advanced/results?term=Mad+Men+Season+7&category=Shows&tmdb_id=3565        

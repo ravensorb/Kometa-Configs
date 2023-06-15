@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://90308
-                # https://theposterdb.com/search/advanced/results?term=Absentia+Season+1&category=Shows&tmdb_id=90308
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://119095, tvdb://330500
-                # https://theposterdb.com/search/advanced/results?term=Absentia+Season+2&category=Shows&tmdb_id=119095&tvdb_id=330500
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://155848
-                # https://theposterdb.com/search/advanced/results?term=Absentia+Season+3&category=Shows&tmdb_id=155848        

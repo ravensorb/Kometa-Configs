@@ -14,40 +14,22 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://523, tvdb://1105
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+1&category=Shows&tmdb_id=523&tvdb_id=1105
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://524, tvdb://1106
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+2&category=Shows&tmdb_id=524&tvdb_id=1106
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://522, tvdb://1107
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+3&category=Shows&tmdb_id=522&tvdb_id=1107
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://525, tvdb://1108
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+4&category=Shows&tmdb_id=525&tvdb_id=1108
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://527, tvdb://1109
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+5&category=Shows&tmdb_id=527&tvdb_id=1109
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://526, tvdb://1110
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+6&category=Shows&tmdb_id=526&tvdb_id=1110
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://530, tvdb://1111
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+7&category=Shows&tmdb_id=530&tvdb_id=1111
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://528, tvdb://1112
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+8&category=Shows&tmdb_id=528&tvdb_id=1112
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://529, tvdb://1113
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+Season+9&category=Shows&tmdb_id=529&tvdb_id=1113        
 
     "Night Court (2023)":
         year: 2023
@@ -64,5 +46,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367422
-                # IDs: tmdb://293954, tvdb://1958281
-                # https://theposterdb.com/search/advanced/results?term=Night+Court+%282023%29+Season+1&category=Shows&tmdb_id=293954&tvdb_id=1958281        

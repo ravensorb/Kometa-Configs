@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7059, tvdb://6463
-                # https://theposterdb.com/search/advanced/results?term=Friday+the+13th%3A+The+Series+Season+1&category=Shows&tmdb_id=7059&tvdb_id=6463
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7061, tvdb://6464
-                # https://theposterdb.com/search/advanced/results?term=Friday+the+13th%3A+The+Series+Season+2&category=Shows&tmdb_id=7061&tvdb_id=6464
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7060, tvdb://6465
-                # https://theposterdb.com/search/advanced/results?term=Friday+the+13th%3A+The+Series+Season+3&category=Shows&tmdb_id=7060&tvdb_id=6465        

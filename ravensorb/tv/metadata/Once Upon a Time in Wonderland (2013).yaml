@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/354650
-                # IDs: tmdb://58913, tvdb://519822
-                # https://theposterdb.com/search/advanced/results?term=Once+Upon+a+Time+in+Wonderland+Season+1&category=Shows&tmdb_id=58913&tvdb_id=519822        

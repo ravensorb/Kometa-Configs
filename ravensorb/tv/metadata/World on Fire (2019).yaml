@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366238
-                # IDs: tmdb://110636
-                # https://theposterdb.com/search/advanced/results?term=World+on+Fire+Season+1&category=Shows&tmdb_id=110636        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328802
-                # IDs: tmdb://112257, tvdb://1940416
-                # https://theposterdb.com/search/advanced/results?term=Andor+Season+1&category=Shows&tmdb_id=112257&tvdb_id=1940416        

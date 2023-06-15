@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10473, tvdb://15019
-                # https://theposterdb.com/search/advanced/results?term=Scarecrow+and+Mrs.+King+Season+1&category=Shows&tmdb_id=10473&tvdb_id=15019
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10475, tvdb://15020
-                # https://theposterdb.com/search/advanced/results?term=Scarecrow+and+Mrs.+King+Season+2&category=Shows&tmdb_id=10475&tvdb_id=15020
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10476, tvdb://15021
-                # https://theposterdb.com/search/advanced/results?term=Scarecrow+and+Mrs.+King+Season+3&category=Shows&tmdb_id=10476&tvdb_id=15021
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10474, tvdb://15022
-                # https://theposterdb.com/search/advanced/results?term=Scarecrow+and+Mrs.+King+Season+4&category=Shows&tmdb_id=10474&tvdb_id=15022        

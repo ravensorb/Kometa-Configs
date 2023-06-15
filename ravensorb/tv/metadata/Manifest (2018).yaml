@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345589
-                # IDs: tmdb://104038, tvdb://349271
-                # https://theposterdb.com/search/advanced/results?term=Manifest+Season+1&category=Shows&tmdb_id=104038&tvdb_id=349271
             2:
                 url_poster: https://theposterdb.com/api/assets/345590
-                # IDs: tmdb://137647
-                # https://theposterdb.com/search/advanced/results?term=Manifest+Season+2&category=Shows&tmdb_id=137647
             3:
                 url_poster: https://theposterdb.com/api/assets/345591
-                # IDs: tmdb://167809
-                # https://theposterdb.com/search/advanced/results?term=Manifest+Season+3&category=Shows&tmdb_id=167809
             4:
                 url_poster: https://theposterdb.com/api/assets/345592
-                # IDs: tmdb://296463
-                # https://theposterdb.com/search/advanced/results?term=Manifest+Season+4&category=Shows&tmdb_id=296463        

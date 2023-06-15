@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10619, tvdb://10805
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+1&category=Shows&tmdb_id=10619&tvdb_id=10805
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10610, tvdb://10806
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+2&category=Shows&tmdb_id=10610&tvdb_id=10806
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10612, tvdb://10807
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+3&category=Shows&tmdb_id=10612&tvdb_id=10807
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10613, tvdb://10808
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+4&category=Shows&tmdb_id=10613&tvdb_id=10808
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10621, tvdb://10809
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+5&category=Shows&tmdb_id=10621&tvdb_id=10809
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10611, tvdb://10810
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+6&category=Shows&tmdb_id=10611&tvdb_id=10810
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://10620, tvdb://10811
-                # https://theposterdb.com/search/advanced/results?term=Inspector+Morse+Season+7&category=Shows&tmdb_id=10620&tvdb_id=10811        

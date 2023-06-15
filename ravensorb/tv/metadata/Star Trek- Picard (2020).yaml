@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/218153
-                # IDs: tmdb://116904, tvdb://828815
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Picard+Season+1&category=Shows&tmdb_id=116904&tvdb_id=828815
             2:
                 url_poster: https://theposterdb.com/api/assets/218154
-                # IDs: tmdb://199406, tvdb://1978231
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Picard+Season+2&category=Shows&tmdb_id=199406&tvdb_id=1978231
             3:
                 url_poster: https://theposterdb.com/api/assets/218155
-                # IDs: tmdb://301912, tvdb://2018695
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Picard+Season+3&category=Shows&tmdb_id=301912&tvdb_id=2018695        

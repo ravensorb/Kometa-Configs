@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/353340
-                # IDs: tmdb://305631, tvdb://1998878
-                # https://theposterdb.com/search/advanced/results?term=The+Company+You+Keep+Season+1&category=Shows&tmdb_id=305631&tvdb_id=1998878        

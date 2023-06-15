@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17448
-                # https://theposterdb.com/search/advanced/results?term=Wallander+%28UK%29+Season+1&category=Shows&tmdb_id=17448
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17449
-                # https://theposterdb.com/search/advanced/results?term=Wallander+%28UK%29+Season+2&category=Shows&tmdb_id=17449
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17451
-                # https://theposterdb.com/search/advanced/results?term=Wallander+%28UK%29+Season+3&category=Shows&tmdb_id=17451
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17452
-                # https://theposterdb.com/search/advanced/results?term=Wallander+%28UK%29+Season+4&category=Shows&tmdb_id=17452        

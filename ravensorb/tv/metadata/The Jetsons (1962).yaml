@@ -13,16 +13,10 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0055683
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/354110
+                # url_poster: https://theposterdb.com/api/assets/354110
             1:
                 url_poster: https://theposterdb.com/api/assets/354111
-                # IDs: tmdb://7382, tvdb://9905
-                # https://theposterdb.com/search/advanced/results?term=The+Jetsons+Season+1&category=Shows&tmdb_id=7382&tvdb_id=9905
             2:
                 url_poster: https://theposterdb.com/api/assets/354112
-                # IDs: tmdb://7384, tvdb://9906
-                # https://theposterdb.com/search/advanced/results?term=The+Jetsons+Season+2&category=Shows&tmdb_id=7384&tvdb_id=9906
             3:
                 url_poster: https://theposterdb.com/api/assets/354113
-                # IDs: tmdb://7383, tvdb://9907
-                # https://theposterdb.com/search/advanced/results?term=The+Jetsons+Season+3&category=Shows&tmdb_id=7383&tvdb_id=9907        

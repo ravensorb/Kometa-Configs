@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/276637
-                # IDs: tmdb://4130, tvdb://13841
-                # https://theposterdb.com/search/advanced/results?term=The+A-Team+Season+1&category=Shows&tmdb_id=4130&tvdb_id=13841
             2:
                 url_poster: https://theposterdb.com/api/assets/276638
-                # IDs: tmdb://4128, tvdb://13842
-                # https://theposterdb.com/search/advanced/results?term=The+A-Team+Season+2&category=Shows&tmdb_id=4128&tvdb_id=13842
             3:
                 url_poster: https://theposterdb.com/api/assets/276639
-                # IDs: tmdb://4129, tvdb://13843
-                # https://theposterdb.com/search/advanced/results?term=The+A-Team+Season+3&category=Shows&tmdb_id=4129&tvdb_id=13843
             4:
                 url_poster: https://theposterdb.com/api/assets/276640
-                # IDs: tmdb://4127, tvdb://13844
-                # https://theposterdb.com/search/advanced/results?term=The+A-Team+Season+4&category=Shows&tmdb_id=4127&tvdb_id=13844
             5:
                 url_poster: https://theposterdb.com/api/assets/276641
-                # IDs: tmdb://4126, tvdb://13845
-                # https://theposterdb.com/search/advanced/results?term=The+A-Team+Season+5&category=Shows&tmdb_id=4126&tvdb_id=13845        

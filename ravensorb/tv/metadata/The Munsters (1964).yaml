@@ -13,12 +13,8 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0057773
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/262589
+                # url_poster: https://theposterdb.com/api/assets/262589
             1:
                 url_poster: https://theposterdb.com/api/assets/262590
-                # IDs: tmdb://4780, tvdb://12500
-                # https://theposterdb.com/search/advanced/results?term=The+Munsters+Season+1&category=Shows&tmdb_id=4780&tvdb_id=12500
             2:
                 url_poster: https://theposterdb.com/api/assets/262591
-                # IDs: tmdb://4779, tvdb://12501
-                # https://theposterdb.com/search/advanced/results?term=The+Munsters+Season+2&category=Shows&tmdb_id=4779&tvdb_id=12501        

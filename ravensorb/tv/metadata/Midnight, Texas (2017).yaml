@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://80198, tvdb://702555
-                # https://theposterdb.com/search/advanced/results?term=Midnight%2C+Texas+Season+1&category=Shows&tmdb_id=80198&tvdb_id=702555
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://108490
-                # https://theposterdb.com/search/advanced/results?term=Midnight%2C+Texas+Season+2&category=Shows&tmdb_id=108490        

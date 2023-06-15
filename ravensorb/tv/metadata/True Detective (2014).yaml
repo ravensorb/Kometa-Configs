@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/258835
-                # IDs: tmdb://59780, tvdb://522572
-                # https://theposterdb.com/search/advanced/results?term=True+Detective+Season+1&category=Shows&tmdb_id=59780&tvdb_id=522572
             2:
                 url_poster: https://theposterdb.com/api/assets/258836
-                # IDs: tmdb://62750, tvdb://619238
-                # https://theposterdb.com/search/advanced/results?term=True+Detective+Season+2&category=Shows&tmdb_id=62750&tvdb_id=619238
             3:
                 url_poster: https://theposterdb.com/api/assets/258837
-                # IDs: tmdb://98029, tvdb://782266
-                # https://theposterdb.com/search/advanced/results?term=True+Detective+Season+3&category=Shows&tmdb_id=98029&tvdb_id=782266        

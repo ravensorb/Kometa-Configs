@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64156, tvdb://13452
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+1&category=Shows&tmdb_id=64156&tvdb_id=13452
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64157, tvdb://13453
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+2&category=Shows&tmdb_id=64157&tvdb_id=13453
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64158, tvdb://13454
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+3&category=Shows&tmdb_id=64158&tvdb_id=13454
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64159
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+4&category=Shows&tmdb_id=64159
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64160
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+5&category=Shows&tmdb_id=64160
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64161
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+6&category=Shows&tmdb_id=64161
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64162
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29+Season+7&category=Shows&tmdb_id=64162        

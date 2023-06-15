@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3398, tvdb://27499
-                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+1&category=Shows&tmdb_id=3398&tvdb_id=27499
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3399
-                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+2&category=Shows&tmdb_id=3399
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3400
-                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+3&category=Shows&tmdb_id=3400
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3402
-                # https://theposterdb.com/search/advanced/results?term=Sanctuary+Season+4&category=Shows&tmdb_id=3402        

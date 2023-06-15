@@ -13,16 +13,10 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0081871
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/353879
+                # url_poster:  https://theposterdb.com/api/assets/353879
             1:
                 url_poster:  https://theposterdb.com/api/assets/353880
-                # IDs: tmdb://5514, tvdb://12476
-                # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+1&category=Shows&tmdb_id=5514&tvdb_id=12476
             2:
                 url_poster:  https://theposterdb.com/api/assets/353881
-                # IDs: tmdb://5515, tvdb://12477
-                # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+2&category=Shows&tmdb_id=5515&tvdb_id=12477
             3:
                 url_poster:  https://theposterdb.com/api/assets/353882
-                # IDs: tmdb://5516, tvdb://12478
-                # https://theposterdb.com/search/advanced/results?term=The+Greatest+American+Hero+Season+3&category=Shows&tmdb_id=5516&tvdb_id=12478        

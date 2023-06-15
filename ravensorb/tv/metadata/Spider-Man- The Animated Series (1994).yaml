@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/357081
-                # IDs: tmdb://2572
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+1&category=Shows&tmdb_id=2572
             2:
                 url_poster: https://theposterdb.com/api/assets/357082
-                # IDs: tmdb://2570
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+2&category=Shows&tmdb_id=2570
             3:
                 url_poster: https://theposterdb.com/api/assets/357083
-                # IDs: tmdb://2568
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+3&category=Shows&tmdb_id=2568
             4:
                 url_poster: https://theposterdb.com/api/assets/357084
-                # IDs: tmdb://2569
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+4&category=Shows&tmdb_id=2569
             5:
                 url_poster: https://theposterdb.com/api/assets/357085
-                # IDs: tmdb://2573
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man%3A+The+Animated+Series+Season+5&category=Shows&tmdb_id=2573        

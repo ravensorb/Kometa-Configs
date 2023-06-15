@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346795
-                # IDs: tmdb://143227, tvdb://1925738
-                # https://theposterdb.com/search/advanced/results?term=The+English+Season+1&category=Shows&tmdb_id=143227&tvdb_id=1925738        

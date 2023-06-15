@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222259
-                # IDs: tmdb://59751
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+1&category=Shows&tmdb_id=59751
             2:
                 url_poster: https://theposterdb.com/api/assets/222260
-                # IDs: tmdb://59753
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+2&category=Shows&tmdb_id=59753
             3:
                 url_poster: https://theposterdb.com/api/assets/222261
-                # IDs: tmdb://59754
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+3&category=Shows&tmdb_id=59754
             4:
                 url_poster: https://theposterdb.com/api/assets/222262
-                # IDs: tmdb://59755
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+4&category=Shows&tmdb_id=59755
             5:
                 url_poster: https://theposterdb.com/api/assets/222263
-                # IDs: tmdb://59756
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+5&category=Shows&tmdb_id=59756
             6:
                 url_poster: https://theposterdb.com/api/assets/222264
-                # IDs: tmdb://59757
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+6&category=Shows&tmdb_id=59757
             7:
                 url_poster: https://theposterdb.com/api/assets/222265
-                # IDs: tmdb://59758
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Deep+Space+Nine+Season+7&category=Shows&tmdb_id=59758        

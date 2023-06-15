@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2993, tvdb://16586
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+1&category=Shows&tmdb_id=2993&tvdb_id=16586
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2994, tvdb://16587
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+2&category=Shows&tmdb_id=2994&tvdb_id=16587
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2995, tvdb://17621
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+3&category=Shows&tmdb_id=2995&tvdb_id=17621
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2996, tvdb://31565
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+4&category=Shows&tmdb_id=2996&tvdb_id=31565
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2997
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+5&category=Shows&tmdb_id=2997
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2999
-                # https://theposterdb.com/search/advanced/results?term=Doctor+Who+Confidential+Season+6&category=Shows&tmdb_id=2999        

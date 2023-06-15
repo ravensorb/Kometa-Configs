@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://54832
-                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+1&category=Shows&tmdb_id=54832
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://82248
-                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+2&category=Shows&tmdb_id=82248
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://82266
-                # https://theposterdb.com/search/advanced/results?term=Jack+Taylor+Season+3&category=Shows&tmdb_id=82266        

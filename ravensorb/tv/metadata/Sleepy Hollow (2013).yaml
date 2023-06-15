@@ -13,20 +13,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt2647544
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/350947
+                # url_poster:  https://theposterdb.com/api/assets/350947
             1:
                 url_poster:  https://theposterdb.com/api/assets/350948
-                # IDs: tmdb://55659, tvdb://519456
-                # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+1&category=Shows&tmdb_id=55659&tvdb_id=519456
             2:
                 url_poster:  https://theposterdb.com/api/assets/350949
-                # IDs: tmdb://62785, tvdb://583776
-                # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+2&category=Shows&tmdb_id=62785&tvdb_id=583776
             3:
                 url_poster:  https://theposterdb.com/api/assets/350950
-                # IDs: tmdb://70303, tvdb://627034
-                # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+3&category=Shows&tmdb_id=70303&tvdb_id=627034
             4:
                 url_poster:  https://theposterdb.com/api/assets/350951
-                # IDs: tmdb://82723
-                # https://theposterdb.com/search/advanced/results?term=Sleepy+Hollow+Season+4&category=Shows&tmdb_id=82723        

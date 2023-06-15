@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/243445
-                # IDs: tmdb://77963
-                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+1&category=Shows&tmdb_id=77963
             2:
                 url_poster: https://theposterdb.com/api/assets/243446
-                # IDs: tmdb://89556
-                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+2&category=Shows&tmdb_id=89556
             3:
                 url_poster: https://theposterdb.com/api/assets/243447
-                # IDs: tmdb://101233
-                # https://theposterdb.com/search/advanced/results?term=Shooter+Season+3&category=Shows&tmdb_id=101233        

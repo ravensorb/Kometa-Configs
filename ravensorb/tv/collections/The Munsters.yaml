@@ -1,6 +1,6 @@
 collections:
    "The Munsters":
-    variables: { poster: https://theposterdb.com/api/assets/160974 }
+    variables: { poster: https://theposterdb.com/api/assets/160793 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

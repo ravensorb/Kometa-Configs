@@ -11,8 +11,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0486657
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/348155
+                # url_poster:  https://theposterdb.com/api/assets/348155
             1:
                 url_poster:  https://theposterdb.com/api/assets/348156
-                # IDs: tmdb://14736, tvdb://17145
-                # https://theposterdb.com/search/advanced/results?term=The+Dresden+Files+Season+1&category=Shows&tmdb_id=14736&tvdb_id=17145        

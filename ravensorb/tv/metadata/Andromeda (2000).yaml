@@ -13,24 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0213327
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/348062
+                # url_poster: https://theposterdb.com/api/assets/348062
             1:
                 url_poster: https://theposterdb.com/api/assets/348063
-                # IDs: tmdb://9592, tvdb://13075
-                # https://theposterdb.com/search/advanced/results?term=Andromeda+Season+1&category=Shows&tmdb_id=9592&tvdb_id=13075
             2:
                 url_poster: https://theposterdb.com/api/assets/348064
-                # IDs: tmdb://9593, tvdb://13076
-                # https://theposterdb.com/search/advanced/results?term=Andromeda+Season+2&category=Shows&tmdb_id=9593&tvdb_id=13076
             3:
                 url_poster: https://theposterdb.com/api/assets/348065
-                # IDs: tmdb://9591, tvdb://13077
-                # https://theposterdb.com/search/advanced/results?term=Andromeda+Season+3&category=Shows&tmdb_id=9591&tvdb_id=13077
             4:
                 url_poster: https://theposterdb.com/api/assets/348066
-                # IDs: tmdb://9595, tvdb://13078
-                # https://theposterdb.com/search/advanced/results?term=Andromeda+Season+4&category=Shows&tmdb_id=9595&tvdb_id=13078
             5:
                 url_poster: https://theposterdb.com/api/assets/348067
-                # IDs: tmdb://9594, tvdb://13079
-                # https://theposterdb.com/search/advanced/results?term=Andromeda+Season+5&category=Shows&tmdb_id=9594&tvdb_id=13079        

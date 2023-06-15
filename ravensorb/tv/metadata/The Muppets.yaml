@@ -13,27 +13,17 @@ metadata:
         # imdb: 
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/262510
+                # url_poster: https://theposterdb.com/api/assets/262510
             1:
                 url_poster: https://theposterdb.com/api/assets/262511
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Muppet+Show+Season+1&category=Shows
             2:
                 url_poster: https://theposterdb.com/api/assets/262512
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Muppet+Show+Season+2&category=Shows
             3:
                 url_poster: https://theposterdb.com/api/assets/262513
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Muppet+Show+Season+3&category=Shows
             4:
                 url_poster: https://theposterdb.com/api/assets/262514
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Muppet+Show+Season+4&category=Shows
             5:
                 url_poster: https://theposterdb.com/api/assets/262515
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Muppet+Show+Season+5&category=Shows        
 
 
     "The Muppets (2015)":
@@ -51,8 +41,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://67206
-                # https://theposterdb.com/search/advanced/results?term=The+Muppets+Season+1&category=Shows&tmdb_id=67206        
 
 
     "The Muppets Mayhem (2023)":
@@ -62,5 +50,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360008
-                # IDs: tmdb://, tvdb://
-                # https://theposterdb.com/search/advanced/results?term=The+Muppets+Mayhem+Season+1&category=Shows&tmdb_id=&tvdb_id=

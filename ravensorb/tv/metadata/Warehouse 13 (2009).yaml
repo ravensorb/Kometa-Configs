@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330454
-                # IDs: tmdb://27255, tvdb://41975
-                # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+1&category=Shows&tmdb_id=27255&tvdb_id=41975
             2:
                 url_poster: https://theposterdb.com/api/assets/330455
-                # IDs: tmdb://27256, tvdb://199131
-                # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+2&category=Shows&tmdb_id=27256&tvdb_id=199131
             3:
                 url_poster: https://theposterdb.com/api/assets/330456
-                # IDs: tmdb://27257, tvdb://463845
-                # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+3&category=Shows&tmdb_id=27257&tvdb_id=463845
             4:
                 url_poster: https://theposterdb.com/api/assets/330457
-                # IDs: tmdb://27259, tvdb://492583
-                # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+4&category=Shows&tmdb_id=27259&tvdb_id=492583
             5:
                 url_poster: https://theposterdb.com/api/assets/330458
-                # IDs: tmdb://27260, tvdb://529192
-                # https://theposterdb.com/search/advanced/results?term=Warehouse+13+Season+5&category=Shows&tmdb_id=27260&tvdb_id=529192        

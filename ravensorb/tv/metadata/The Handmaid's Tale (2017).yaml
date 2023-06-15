@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/282678
-                # IDs: tmdb://83562, tvdb://692363
-                # https://theposterdb.com/search/advanced/results?term=The+Handmaid%27s+Tale+Season+1&category=Shows&tmdb_id=83562&tvdb_id=692363
             2:
                 url_poster: https://theposterdb.com/api/assets/282679
-                # IDs: tmdb://93574, tvdb://746988
-                # https://theposterdb.com/search/advanced/results?term=The+Handmaid%27s+Tale+Season+2&category=Shows&tmdb_id=93574&tvdb_id=746988
             3:
                 url_poster: https://theposterdb.com/api/assets/282680
-                # IDs: tmdb://118751, tvdb://797903
-                # https://theposterdb.com/search/advanced/results?term=The+Handmaid%27s+Tale+Season+3&category=Shows&tmdb_id=118751&tvdb_id=797903
             4:
                 url_poster: https://theposterdb.com/api/assets/282681
-                # IDs: tmdb://183340, tvdb://1904635
-                # https://theposterdb.com/search/advanced/results?term=The+Handmaid%27s+Tale+Season+4&category=Shows&tmdb_id=183340&tvdb_id=1904635
             5:
                 url_poster: https://theposterdb.com/api/assets/282682
-                # IDs: tmdb://240041, tvdb://2005218
-                # https://theposterdb.com/search/advanced/results?term=The+Handmaid%27s+Tale+Season+5&category=Shows&tmdb_id=240041&tvdb_id=2005218        

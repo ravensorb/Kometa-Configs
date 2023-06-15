@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/323048
-                # IDs: tmdb://3971, tvdb://13990
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+1&category=Shows&tmdb_id=3971&tvdb_id=13990
             2:
                 url_poster: https://theposterdb.com/api/assets/323049
-                # IDs: tmdb://3972, tvdb://13991
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+2&category=Shows&tmdb_id=3972&tvdb_id=13991
             3:
                 url_poster: https://theposterdb.com/api/assets/323050
-                # IDs: tmdb://3973, tvdb://13992
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+3&category=Shows&tmdb_id=3973&tvdb_id=13992
             4:
                 url_poster: https://theposterdb.com/api/assets/323051
-                # IDs: tmdb://3976, tvdb://13993
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+4&category=Shows&tmdb_id=3976&tvdb_id=13993
             5:
                 url_poster: https://theposterdb.com/api/assets/323052
-                # IDs: tmdb://3975, tvdb://16613
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+5&category=Shows&tmdb_id=3975&tvdb_id=16613
             6:
                 url_poster: https://theposterdb.com/api/assets/323053
-                # IDs: tmdb://3974, tvdb://27743
-                # https://theposterdb.com/search/advanced/results?term=The+Dead+Zone+Season+6&category=Shows&tmdb_id=3974&tvdb_id=27743        

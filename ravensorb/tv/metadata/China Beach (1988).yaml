@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7160, tvdb://5041
-                # https://theposterdb.com/search/advanced/results?term=China+Beach+Season+1&category=Shows&tmdb_id=7160&tvdb_id=5041
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7162, tvdb://5042
-                # https://theposterdb.com/search/advanced/results?term=China+Beach+Season+2&category=Shows&tmdb_id=7162&tvdb_id=5042
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7161, tvdb://5043
-                # https://theposterdb.com/search/advanced/results?term=China+Beach+Season+3&category=Shows&tmdb_id=7161&tvdb_id=5043
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7163, tvdb://5044
-                # https://theposterdb.com/search/advanced/results?term=China+Beach+Season+4&category=Shows&tmdb_id=7163&tvdb_id=5044        

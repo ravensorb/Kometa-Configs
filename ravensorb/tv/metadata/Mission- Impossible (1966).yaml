@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12890, tvdb://12405
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+1&category=Shows&tmdb_id=12890&tvdb_id=12405
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12889, tvdb://12406
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+2&category=Shows&tmdb_id=12889&tvdb_id=12406
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12892, tvdb://12407
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+3&category=Shows&tmdb_id=12892&tvdb_id=12407
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12893, tvdb://12408
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+4&category=Shows&tmdb_id=12893&tvdb_id=12408
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12888, tvdb://12409
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+5&category=Shows&tmdb_id=12888&tvdb_id=12409
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12891, tvdb://12410
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+6&category=Shows&tmdb_id=12891&tvdb_id=12410
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://12887, tvdb://12411
-                # https://theposterdb.com/search/advanced/results?term=Mission%3A+Impossible+Season+7&category=Shows&tmdb_id=12887&tvdb_id=12411        

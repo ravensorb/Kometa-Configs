@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/359482
-                # IDs: tmdb://66733, tvdb://625581
-                # https://theposterdb.com/search/advanced/results?term=Limitless+Season+1&category=Shows&tmdb_id=66733&tvdb_id=625581        

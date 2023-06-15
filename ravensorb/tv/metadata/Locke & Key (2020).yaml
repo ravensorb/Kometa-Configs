@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/283477
-                # IDs: tmdb://117999
-                # https://theposterdb.com/search/advanced/results?term=Locke+%26+Key+Season+1&category=Shows&tmdb_id=117999
             2:
                 url_poster: https://theposterdb.com/api/assets/283478
-                # IDs: tmdb://210812
-                # https://theposterdb.com/search/advanced/results?term=Locke+%26+Key+Season+2&category=Shows&tmdb_id=210812
             3:
                 url_poster: https://theposterdb.com/api/assets/283479
-                # IDs: tmdb://296457
-                # https://theposterdb.com/search/advanced/results?term=Locke+%26+Key+Season+3&category=Shows&tmdb_id=296457        

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/354561
-                # IDs: tmdb://5952, tvdb://15041
-                # https://theposterdb.com/search/advanced/results?term=The+New+Adventures+of+Winnie+the+Pooh+Season+1&category=Shows&tmdb_id=5952&tvdb_id=15041
             2:
                 url_poster: https://theposterdb.com/api/assets/354562
-                # IDs: tmdb://5954, tvdb://15042
-                # https://theposterdb.com/search/advanced/results?term=The+New+Adventures+of+Winnie+the+Pooh+Season+2&category=Shows&tmdb_id=5954&tvdb_id=15042
             3:
                 url_poster: https://theposterdb.com/api/assets/354563
-                # IDs: tmdb://5953, tvdb://15043
-                # https://theposterdb.com/search/advanced/results?term=The+New+Adventures+of+Winnie+the+Pooh+Season+3&category=Shows&tmdb_id=5953&tvdb_id=15043
             4:
                 url_poster: https://theposterdb.com/api/assets/354564
-                # IDs: tmdb://5955, tvdb://15044
-                # https://theposterdb.com/search/advanced/results?term=The+New+Adventures+of+Winnie+the+Pooh+Season+4&category=Shows&tmdb_id=5955&tvdb_id=15044        

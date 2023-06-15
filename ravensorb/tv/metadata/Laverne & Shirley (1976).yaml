@@ -14,33 +14,17 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/285111
-                # IDs: tmdb://9689, tvdb://14129
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+1&category=Shows&tmdb_id=9689&tvdb_id=14129
             2:
                 url_poster: https://theposterdb.com/api/assets/285112
-                # IDs: tmdb://9688, tvdb://14130
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+2&category=Shows&tmdb_id=9688&tvdb_id=14130
             3:
                 url_poster: https://theposterdb.com/api/assets/285113
-                # IDs: tmdb://9685, tvdb://14131
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+3&category=Shows&tmdb_id=9685&tvdb_id=14131
             4:
                 url_poster: https://theposterdb.com/api/assets/285114
-                # IDs: tmdb://9690, tvdb://14132
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+4&category=Shows&tmdb_id=9690&tvdb_id=14132
             5:
                 url_poster: https://theposterdb.com/api/assets/285115
-                # IDs: tmdb://9686, tvdb://14133
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+5&category=Shows&tmdb_id=9686&tvdb_id=14133
             6:
                 url_poster: https://theposterdb.com/api/assets/285116
-                # IDs: tmdb://9683, tvdb://14134
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+6&category=Shows&tmdb_id=9683&tvdb_id=14134
             7:
                 url_poster: https://theposterdb.com/api/assets/285117
-                # IDs: tmdb://9687, tvdb://14135
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+7&category=Shows&tmdb_id=9687&tvdb_id=14135
             8:
                 url_poster: https://theposterdb.com/api/assets/285118
-                # IDs: tmdb://9684, tvdb://14136
-                # https://theposterdb.com/search/advanced/results?term=Laverne+%26+Shirley+Season+8&category=Shows&tmdb_id=9684&tvdb_id=14136        

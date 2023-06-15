@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50933
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+1&category=Shows&tmdb_id=50933
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50935
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+2&category=Shows&tmdb_id=50935
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50936
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+3&category=Shows&tmdb_id=50936
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50937
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+4&category=Shows&tmdb_id=50937
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50938
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+5&category=Shows&tmdb_id=50938
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50939
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+6&category=Shows&tmdb_id=50939
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50940
-                # https://theposterdb.com/search/advanced/results?term=The+Dean+Martin+Celebrity+Roast+Season+7&category=Shows&tmdb_id=50940        

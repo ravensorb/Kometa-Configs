@@ -14,33 +14,17 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/243261
-                # IDs: tmdb://3670, tvdb://463982
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+1&category=Shows&tmdb_id=3670&tvdb_id=463982
             2:
                 url_poster: https://theposterdb.com/api/assets/243262
-                # IDs: tmdb://3671, tvdb://489791
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+2&category=Shows&tmdb_id=3671&tvdb_id=489791
             3:
                 url_poster: https://theposterdb.com/api/assets/243263
-                # IDs: tmdb://3673, tvdb://513434
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+3&category=Shows&tmdb_id=3673&tvdb_id=513434
             4:
                 url_poster: https://theposterdb.com/api/assets/243264
-                # IDs: tmdb://62029, tvdb://586780
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+4&category=Shows&tmdb_id=62029&tvdb_id=586780
             5:
                 url_poster: https://theposterdb.com/api/assets/243265
-                # IDs: tmdb://64293, tvdb://632318
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+5&category=Shows&tmdb_id=64293&tvdb_id=632318
             6:
                 url_poster: https://theposterdb.com/api/assets/243266
-                # IDs: tmdb://79305, tvdb://676869
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+6&category=Shows&tmdb_id=79305&tvdb_id=676869
             7:
                 url_poster: https://theposterdb.com/api/assets/243267
-                # IDs: tmdb://96516, tvdb://729397
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+7&category=Shows&tmdb_id=96516&tvdb_id=729397
             8:
                 url_poster: https://theposterdb.com/api/assets/243268
-                # IDs: tmdb://128861
-                # https://theposterdb.com/search/advanced/results?term=Homeland+Season+8&category=Shows&tmdb_id=128861        

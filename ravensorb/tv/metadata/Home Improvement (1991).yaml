@@ -13,36 +13,20 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0101120
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/354066
+                # url_poster:  https://theposterdb.com/api/assets/354066
             1:
                 url_poster:  https://theposterdb.com/api/assets/354067
-                # IDs: tmdb://4282, tvdb://13060
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+1&category=Shows&tmdb_id=4282&tvdb_id=13060
             2:
                 url_poster:  https://theposterdb.com/api/assets/354068
-                # IDs: tmdb://4283, tvdb://13061
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+2&category=Shows&tmdb_id=4283&tvdb_id=13061
             3:
                 url_poster:  https://theposterdb.com/api/assets/354069
-                # IDs: tmdb://4284, tvdb://13062
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+3&category=Shows&tmdb_id=4284&tvdb_id=13062
             4:
                 url_poster:  https://theposterdb.com/api/assets/354070
-                # IDs: tmdb://4285, tvdb://13063
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+4&category=Shows&tmdb_id=4285&tvdb_id=13063
             5:
                 url_poster:  https://theposterdb.com/api/assets/354071
-                # IDs: tmdb://4286, tvdb://13064
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+5&category=Shows&tmdb_id=4286&tvdb_id=13064
             6:
                 url_poster:  https://theposterdb.com/api/assets/354072
-                # IDs: tmdb://4287, tvdb://13065
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+6&category=Shows&tmdb_id=4287&tvdb_id=13065
             7:
                 url_poster:  https://theposterdb.com/api/assets/354073
-                # IDs: tmdb://4288, tvdb://13066
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+7&category=Shows&tmdb_id=4288&tvdb_id=13066
             8:
                 url_poster:  https://theposterdb.com/api/assets/354074
-                # IDs: tmdb://4289, tvdb://13067
-                # https://theposterdb.com/search/advanced/results?term=Home+Improvement+Season+8&category=Shows&tmdb_id=4289&tvdb_id=13067        

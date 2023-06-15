@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/337632
-                # IDs: tmdb://157243, tvdb://1884332
-                # https://theposterdb.com/search/advanced/results?term=Lupin+Season+1&category=Shows&tmdb_id=157243&tvdb_id=1884332        

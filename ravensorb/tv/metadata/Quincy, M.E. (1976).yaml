@@ -14,33 +14,17 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6654, tvdb://12428
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+1&category=Shows&tmdb_id=6654&tvdb_id=12428
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6655, tvdb://12429
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+2&category=Shows&tmdb_id=6655&tvdb_id=12429
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6656, tvdb://12430
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+3&category=Shows&tmdb_id=6656&tvdb_id=12430
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6659, tvdb://12431
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+4&category=Shows&tmdb_id=6659&tvdb_id=12431
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6660, tvdb://12432
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+5&category=Shows&tmdb_id=6660&tvdb_id=12432
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6657, tvdb://12433
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+6&category=Shows&tmdb_id=6657&tvdb_id=12433
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6661, tvdb://12434
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+7&category=Shows&tmdb_id=6661&tvdb_id=12434
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6658, tvdb://12435
-                # https://theposterdb.com/search/advanced/results?term=Quincy%2C+M.E.+Season+8&category=Shows&tmdb_id=6658&tvdb_id=12435        

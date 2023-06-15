@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/324921
-                # IDs: tmdb://44250, tvdb://235111
-                # https://theposterdb.com/search/advanced/results?term=Haven+Season+1&category=Shows&tmdb_id=44250&tvdb_id=235111
             2:
                 url_poster: https://theposterdb.com/api/assets/324922
-                # IDs: tmdb://44251, tvdb://463844
-                # https://theposterdb.com/search/advanced/results?term=Haven+Season+2&category=Shows&tmdb_id=44251&tvdb_id=463844
             3:
                 url_poster: https://theposterdb.com/api/assets/324923
-                # IDs: tmdb://44253, tvdb://491933
-                # https://theposterdb.com/search/advanced/results?term=Haven+Season+3&category=Shows&tmdb_id=44253&tvdb_id=491933
             4:
                 url_poster: https://theposterdb.com/api/assets/324924
-                # IDs: tmdb://44254, tvdb://519103
-                # https://theposterdb.com/search/advanced/results?term=Haven+Season+4&category=Shows&tmdb_id=44254&tvdb_id=519103
             5:
                 url_poster: https://theposterdb.com/api/assets/324925
-                # IDs: tmdb://62644, tvdb://570946
-                # https://theposterdb.com/search/advanced/results?term=Haven+Season+5&category=Shows&tmdb_id=62644&tvdb_id=570946        

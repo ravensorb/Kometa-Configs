@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://52539
-                # https://theposterdb.com/search/advanced/results?term=Miss+Fisher%27s+Murder+Mysteries+Season+1&category=Shows&tmdb_id=52539
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://52540
-                # https://theposterdb.com/search/advanced/results?term=Miss+Fisher%27s+Murder+Mysteries+Season+2&category=Shows&tmdb_id=52540
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64559
-                # https://theposterdb.com/search/advanced/results?term=Miss+Fisher%27s+Murder+Mysteries+Season+3&category=Shows&tmdb_id=64559        

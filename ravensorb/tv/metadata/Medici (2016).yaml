@@ -13,13 +13,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/364141
-                # IDs: tmdb://77728, tvdb://670350
-                # https://theposterdb.com/search/advanced/results?term=Medici+Season+1&category=Shows&tmdb_id=77728&tvdb_id=670350
             2:
                 url_poster: https://theposterdb.com/api/assets/364142
-                # IDs: tmdb://111097
-                # https://theposterdb.com/search/advanced/results?term=Medici+Medici%3A+The+Magnificent&category=Shows&tmdb_id=111097
             3:
                 url_poster: https://theposterdb.com/api/assets/364143
-                # IDs: tmdb://137150
-                # https://theposterdb.com/search/advanced/results?term=Medici+Season+3&category=Shows&tmdb_id=137150        

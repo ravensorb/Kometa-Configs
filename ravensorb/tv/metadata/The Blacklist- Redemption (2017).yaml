@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/325824
-                # IDs: tmdb://80534
-                # https://theposterdb.com/search/advanced/results?term=The+Blacklist%3A+Redemption+Season+1&category=Shows&tmdb_id=80534        

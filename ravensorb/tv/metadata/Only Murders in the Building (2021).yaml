@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/287827
-                # IDs: tmdb://158351, tvdb://1913747
-                # https://theposterdb.com/search/advanced/results?term=Only+Murders+in+the+Building+Season+1&category=Shows&tmdb_id=158351&tvdb_id=1913747
             2:
                 url_poster: https://theposterdb.com/api/assets/287828
-                # IDs: tmdb://243546, tvdb://1988516
-                # https://theposterdb.com/search/advanced/results?term=Only+Murders+in+the+Building+Season+2&category=Shows&tmdb_id=243546&tvdb_id=1988516        

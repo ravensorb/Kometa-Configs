@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://55878, tvdb://492238
-                # https://theposterdb.com/search/advanced/results?term=Defiance+Season+1&category=Shows&tmdb_id=55878&tvdb_id=492238
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://55880, tvdb://525237
-                # https://theposterdb.com/search/advanced/results?term=Defiance+Season+2&category=Shows&tmdb_id=55880&tvdb_id=525237
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://65571, tvdb://615510
-                # https://theposterdb.com/search/advanced/results?term=Defiance+Season+3&category=Shows&tmdb_id=65571&tvdb_id=615510        

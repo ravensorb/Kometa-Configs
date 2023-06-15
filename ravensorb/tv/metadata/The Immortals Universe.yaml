@@ -5,17 +5,15 @@ metadata:
         alt_title: "Interview with the Vampire (2022)"
         orig_title: "Interview with the Vampire"
         sort_title: "Interview with the Vampire"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/335698
         # IDs: imdb://tt14921986, tmdb://128098, tvdb://405535
         # tpdb: https://theposterdb.com/search/advanced/results?term=Interview+with+the+Vampire&category=Shows&year_filter=equals&yone=2022&tmdb_id=128098&imdb_id=tt14921986&tvdb_id=405535
         # tmdb: https://www.themoviedb.org/tv/128098
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=405535
         # imdb: https://www.imdb.com/title/tt14921986
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://200240, tvdb://1937192
-                # https://theposterdb.com/search/advanced/results?term=Interview+with+the+Vampire+Season+1&category=Shows&tmdb_id=200240&tvdb_id=1937192        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/335699
 
     "Anne Rice's Mayfair Witches (2023)":
         year: 2023
@@ -23,14 +21,12 @@ metadata:
         alt_title: "Anne Rice's Mayfair Witches (2023)"
         orig_title: "Anne Rice's Mayfair Witches"
         sort_title: "Anne Rice's Mayfair Witches"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/329860
         # IDs: imdb://tt15428778, tmdb://207863, tvdb://413074
         # tpdb: https://theposterdb.com/search/advanced/results?term=Anne+Rice%27s+Mayfair+Witches&category=Shows&year_filter=equals&yone=2023&tmdb_id=207863&imdb_id=tt15428778&tvdb_id=413074
         # tmdb: https://www.themoviedb.org/tv/207863
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=413074
         # imdb: https://www.imdb.com/title/tt15428778
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://304225, tvdb://1969926
-                # https://theposterdb.com/search/advanced/results?term=Anne+Rice%27s+Mayfair+Witches+Season+1&category=Shows&tmdb_id=304225&tvdb_id=1969926        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/329861

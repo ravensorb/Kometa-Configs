@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/292775
-                # IDs: tmdb://182137
-                # https://theposterdb.com/search/advanced/results?term=Wednesday+Season+1&category=Shows&tmdb_id=182137        

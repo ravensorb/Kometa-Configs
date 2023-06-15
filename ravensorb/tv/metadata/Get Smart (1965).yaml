@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/215285
-                # IDs: tmdb://13322, tvdb://187
-                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+1&category=Shows&tmdb_id=13322&tvdb_id=187
             2:
                 url_poster: https://theposterdb.com/api/assets/215286
-                # IDs: tmdb://13323, tvdb://188
-                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+2&category=Shows&tmdb_id=13323&tvdb_id=188
             3:
                 url_poster: https://theposterdb.com/api/assets/215287
-                # IDs: tmdb://13324, tvdb://189
-                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+3&category=Shows&tmdb_id=13324&tvdb_id=189
             4:
                 url_poster: https://theposterdb.com/api/assets/215288
-                # IDs: tmdb://13326, tvdb://190
-                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+4&category=Shows&tmdb_id=13326&tvdb_id=190
             5:
                 url_poster: https://theposterdb.com/api/assets/215289
-                # IDs: tmdb://13325, tvdb://191
-                # https://theposterdb.com/search/advanced/results?term=Get+Smart+Season+5&category=Shows&tmdb_id=13325&tvdb_id=191        

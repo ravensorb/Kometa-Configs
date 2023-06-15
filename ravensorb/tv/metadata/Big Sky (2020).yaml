@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://144428
-                # https://theposterdb.com/search/advanced/results?term=Big+Sky+%282020%29+Season+1&category=Shows&tmdb_id=144428
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://202441
-                # https://theposterdb.com/search/advanced/results?term=Big+Sky+%282020%29+Season+2&category=Shows&tmdb_id=202441
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://297659
-                # https://theposterdb.com/search/advanced/results?term=Big+Sky+%282020%29+Season+3&category=Shows&tmdb_id=297659        

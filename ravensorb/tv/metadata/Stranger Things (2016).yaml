@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/238550
-                # IDs: tmdb://77680, tvdb://651264
-                # https://theposterdb.com/search/advanced/results?term=Stranger+Things+Season+1&category=Shows&tmdb_id=77680&tvdb_id=651264
             2:
                 url_poster: https://theposterdb.com/api/assets/238551
-                # IDs: tmdb://83248, tvdb://679296
-                # https://theposterdb.com/search/advanced/results?term=Stranger+Things+Season+2&category=Shows&tmdb_id=83248&tvdb_id=679296
             3:
                 url_poster: https://theposterdb.com/api/assets/238552
-                # IDs: tmdb://115216
-                # https://theposterdb.com/search/advanced/results?term=Stranger+Things+Season+3&category=Shows&tmdb_id=115216
             4:
                 url_poster: https://theposterdb.com/api/assets/238553
-                # IDs: tmdb://163313, tvdb://1806520
-                # https://theposterdb.com/search/advanced/results?term=Stranger+Things+Season+4&category=Shows&tmdb_id=163313&tvdb_id=1806520        

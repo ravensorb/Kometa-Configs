@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/285058
-                # IDs: tmdb://121100, tvdb://788102
-                # https://theposterdb.com/search/advanced/results?term=For+All+Mankind+Season+1&category=Shows&tmdb_id=121100&tvdb_id=788102
             2:
                 url_poster: https://theposterdb.com/api/assets/285059
-                # IDs: tmdb://157301, tvdb://1882023
-                # https://theposterdb.com/search/advanced/results?term=For+All+Mankind+Season+2&category=Shows&tmdb_id=157301&tvdb_id=1882023
             3:
                 url_poster: https://theposterdb.com/api/assets/285060
-                # IDs: tmdb://287205, tvdb://1994691
-                # https://theposterdb.com/search/advanced/results?term=For+All+Mankind+Season+3&category=Shows&tmdb_id=287205&tvdb_id=1994691        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/347930
-                # IDs: tmdb://212918, tvdb://1958334
-                # https://theposterdb.com/search/advanced/results?term=Wolf+Pack+Season+1&category=Shows&tmdb_id=212918&tvdb_id=1958334        

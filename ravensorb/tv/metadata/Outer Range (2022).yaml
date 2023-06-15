@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335491
-                # IDs: tmdb://170737, tvdb://1877672
-                # https://theposterdb.com/search/advanced/results?term=Outer+Range+Season+1&category=Shows&tmdb_id=170737&tvdb_id=1877672        

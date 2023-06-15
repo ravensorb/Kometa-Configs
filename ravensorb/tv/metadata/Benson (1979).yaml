@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/368341
-                # IDs: tmdb://5289, tvdb://15241
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+1&category=Shows&tmdb_id=5289&tvdb_id=15241
             2:
                 url_poster: https://theposterdb.com/api/assets/368342
-                # IDs: tmdb://5288, tvdb://15242
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+2&category=Shows&tmdb_id=5288&tvdb_id=15242
             3:
                 url_poster: https://theposterdb.com/api/assets/368343
-                # IDs: tmdb://5291, tvdb://15243
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+3&category=Shows&tmdb_id=5291&tvdb_id=15243
             4:
                 url_poster: https://theposterdb.com/api/assets/368344
-                # IDs: tmdb://5290, tvdb://15244
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+4&category=Shows&tmdb_id=5290&tvdb_id=15244
             5:
                 url_poster: https://theposterdb.com/api/assets/368345
-                # IDs: tmdb://5286, tvdb://15245
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+5&category=Shows&tmdb_id=5286&tvdb_id=15245
             6:
                 url_poster: https://theposterdb.com/api/assets/368346
-                # IDs: tmdb://5287, tvdb://15246
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+6&category=Shows&tmdb_id=5287&tvdb_id=15246
             7:
                 url_poster: https://theposterdb.com/api/assets/368347
-                # IDs: tmdb://5292, tvdb://15247
-                # https://theposterdb.com/search/advanced/results?term=Benson+Season+7&category=Shows&tmdb_id=5292&tvdb_id=15247        

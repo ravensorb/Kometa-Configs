@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/355112
-                # IDs: tmdb://124313
-                # https://theposterdb.com/search/advanced/results?term=Stumptown+Season+1&category=Shows&tmdb_id=124313        

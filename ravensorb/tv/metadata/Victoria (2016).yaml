@@ -13,16 +13,10 @@ metadata:
         # imdb: https://www.imdb.com/title/tt5137338
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/362887
+                # url_poster: https://theposterdb.com/api/assets/362887
             1:
                 url_poster: https://theposterdb.com/api/assets/362888
-                # IDs: tmdb://79251
-                # https://theposterdb.com/search/advanced/results?term=Victoria+Season+1&category=Shows&tmdb_id=79251
             2:
                 url_poster: https://theposterdb.com/api/assets/362889
-                # IDs: tmdb://91942
-                # https://theposterdb.com/search/advanced/results?term=Victoria+Season+2&category=Shows&tmdb_id=91942
             3:
                 url_poster: https://theposterdb.com/api/assets/362890
-                # IDs: tmdb://112287
-                # https://theposterdb.com/search/advanced/results?term=Victoria+Season+3&category=Shows&tmdb_id=112287        

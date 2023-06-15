@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239469
-                # IDs: tmdb://64558, tvdb://586321
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Daredevil+Season+1&category=Shows&tmdb_id=64558&tvdb_id=586321
             2:
                 url_poster: https://theposterdb.com/api/assets/239470
-                # IDs: tmdb://74182, tvdb://651300
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Daredevil+Season+2&category=Shows&tmdb_id=74182&tvdb_id=651300
             3:
                 url_poster: https://theposterdb.com/api/assets/239471
-                # IDs: tmdb://109592
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Daredevil+Season+3&category=Shows&tmdb_id=109592        

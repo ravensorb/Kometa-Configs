@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://90277
-                # https://theposterdb.com/search/advanced/results?term=Frankie+Drake+Mysteries+Season+1&category=Shows&tmdb_id=90277
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://107438
-                # https://theposterdb.com/search/advanced/results?term=Frankie+Drake+Mysteries+Season+2&category=Shows&tmdb_id=107438
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://125708
-                # https://theposterdb.com/search/advanced/results?term=Frankie+Drake+Mysteries+Season+3&category=Shows&tmdb_id=125708
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://175265
-                # https://theposterdb.com/search/advanced/results?term=Frankie+Drake+Mysteries+Season+4&category=Shows&tmdb_id=175265        

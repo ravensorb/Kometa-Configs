@@ -13,48 +13,26 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0070992
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/356820
+                # url_poster: https://theposterdb.com/api/assets/356820
             1:
                 url_poster: https://theposterdb.com/api/assets/356821
-                # IDs: tmdb://11495, tvdb://7507
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+1&category=Shows&tmdb_id=11495&tvdb_id=7507
             2:
                 url_poster: https://theposterdb.com/api/assets/356822
-                # IDs: tmdb://11494, tvdb://7510
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+2&category=Shows&tmdb_id=11494&tvdb_id=7510
             3:
                 url_poster: https://theposterdb.com/api/assets/356823
-                # IDs: tmdb://11498, tvdb://7511
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+3&category=Shows&tmdb_id=11498&tvdb_id=7511
             4:
                 url_poster: https://theposterdb.com/api/assets/356824
-                # IDs: tmdb://11499, tvdb://7512
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+4&category=Shows&tmdb_id=11499&tvdb_id=7512
             5:
                 url_poster: https://theposterdb.com/api/assets/356825
-                # IDs: tmdb://11496, tvdb://
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+5&category=Shows&tmdb_id=11496&tvdb_id=7513
             6:
                 url_poster: https://theposterdb.com/api/assets/356826
-                # IDs: tmdb://11497, tvdb://7514
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+6&category=Shows&tmdb_id=11497&tvdb_id=7514
             7:
                 url_poster: https://theposterdb.com/api/assets/356827
-                # IDs: tmdb://11502, tvdb://7515
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+7&category=Shows&tmdb_id=11502&tvdb_id=7515
             8:
                 url_poster: https://theposterdb.com/api/assets/356828
-                # IDs: tmdb://11503, tvdb://7516
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+8&category=Shows&tmdb_id=11503&tvdb_id=7516
             9:
                 url_poster: https://theposterdb.com/api/assets/356829
-                # IDs: tmdb://11504, tvdb://7517
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+9&category=Shows&tmdb_id=11504&tvdb_id=7517
             10:
                 url_poster: https://theposterdb.com/api/assets/356830
-                # IDs: tmdb://11500, tvdb://7508
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+10&category=Shows&tmdb_id=11500&tvdb_id=7508
             11:
                 url_poster: https://theposterdb.com/api/assets/356831
-                # IDs: tmdb://11501, tvdb://7509
-                # https://theposterdb.com/search/advanced/results?term=Happy+Days+Season+11&category=Shows&tmdb_id=11501&tvdb_id=7509        

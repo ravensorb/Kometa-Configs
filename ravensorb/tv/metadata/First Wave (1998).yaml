@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6762, tvdb://7518
-                # https://theposterdb.com/search/advanced/results?term=First+Wave+Season+1&category=Shows&tmdb_id=6762&tvdb_id=7518
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6763, tvdb://7519
-                # https://theposterdb.com/search/advanced/results?term=First+Wave+Season+2&category=Shows&tmdb_id=6763&tvdb_id=7519
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6761, tvdb://7520
-                # https://theposterdb.com/search/advanced/results?term=First+Wave+Season+3&category=Shows&tmdb_id=6761&tvdb_id=7520        

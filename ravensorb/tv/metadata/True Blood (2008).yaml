@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/333103
-                # IDs: tmdb://20777, tvdb://33133
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+1&category=Shows&tmdb_id=20777&tvdb_id=33133
             2:
                 url_poster: https://theposterdb.com/api/assets/333104
-                # IDs: tmdb://20778, tvdb://39633
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+2&category=Shows&tmdb_id=20778&tvdb_id=39633
             3:
                 url_poster: https://theposterdb.com/api/assets/333105
-                # IDs: tmdb://20779, tvdb://151931
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+3&category=Shows&tmdb_id=20779&tvdb_id=151931
             4:
                 url_poster: https://theposterdb.com/api/assets/333106
-                # IDs: tmdb://20780, tvdb://371891
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+4&category=Shows&tmdb_id=20780&tvdb_id=371891
             5:
                 url_poster: https://theposterdb.com/api/assets/333107
-                # IDs: tmdb://20781, tvdb://482849
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+5&category=Shows&tmdb_id=20781&tvdb_id=482849
             6:
                 url_poster: https://theposterdb.com/api/assets/333108
-                # IDs: tmdb://20783, tvdb://496665
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+6&category=Shows&tmdb_id=20783&tvdb_id=496665
             7:
                 url_poster: https://theposterdb.com/api/assets/333109
-                # IDs: tmdb://20784, tvdb://529191
-                # https://theposterdb.com/search/advanced/results?term=True+Blood+Season+7&category=Shows&tmdb_id=20784&tvdb_id=529191        

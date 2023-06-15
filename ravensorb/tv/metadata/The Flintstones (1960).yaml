@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/253211
-                # IDs: tmdb://5922, tvdb://9804
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+1&category=Shows&tmdb_id=5922&tvdb_id=9804
             2:
                 url_poster: https://theposterdb.com/api/assets/253212
-                # IDs: tmdb://5925, tvdb://9805
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+2&category=Shows&tmdb_id=5925&tvdb_id=9805
             3:
                 url_poster: https://theposterdb.com/api/assets/253213
-                # IDs: tmdb://5923, tvdb://9806
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+3&category=Shows&tmdb_id=5923&tvdb_id=9806
             4:
                 url_poster: https://theposterdb.com/api/assets/253214
-                # IDs: tmdb://5926, tvdb://9807
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+4&category=Shows&tmdb_id=5926&tvdb_id=9807
             5:
                 url_poster: https://theposterdb.com/api/assets/253215
-                # IDs: tmdb://5924, tvdb://9808
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+5&category=Shows&tmdb_id=5924&tvdb_id=9808
             6:
                 url_poster: https://theposterdb.com/api/assets/253216
-                # IDs: tmdb://5927, tvdb://9809
-                # https://theposterdb.com/search/advanced/results?term=The+Flintstones+Season+6&category=Shows&tmdb_id=5927&tvdb_id=9809        

@@ -14,13 +14,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/348126
             1:
                 url_poster: https://theposterdb.com/api/assets/348127
-                # IDs: tmdb://66005, tvdb://620558
-                # https://theposterdb.com/search/advanced/results?term=Dark+Matter+Season+1&category=Shows&tmdb_id=66005&tvdb_id=620558
             2:
                 url_poster: https://theposterdb.com/api/assets/348128
-                # IDs: tmdb://77470, tvdb://648603
-                # https://theposterdb.com/search/advanced/results?term=Dark+Matter+Season+2&category=Shows&tmdb_id=77470&tvdb_id=648603
             3:
                 url_poster: https://theposterdb.com/api/assets/348129
-                # IDs: tmdb://88537
-                # https://theposterdb.com/search/advanced/results?term=Dark+Matter+Season+3&category=Shows&tmdb_id=88537        

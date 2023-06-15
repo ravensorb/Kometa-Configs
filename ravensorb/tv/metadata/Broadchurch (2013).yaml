@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/359586
-                # IDs: tmdb://3772, tvdb://511452
-                # https://theposterdb.com/search/advanced/results?term=Broadchurch+Season+1&category=Shows&tmdb_id=3772&tvdb_id=511452
             2:
                 url_poster: https://theposterdb.com/api/assets/359587
-                # IDs: tmdb://63912, tvdb://605905
-                # https://theposterdb.com/search/advanced/results?term=Broadchurch+Season+2&category=Shows&tmdb_id=63912&tvdb_id=605905
             3:
                 url_poster: https://theposterdb.com/api/assets/359588
-                # IDs: tmdb://67851
-                # https://theposterdb.com/search/advanced/results?term=Broadchurch+Season+3&category=Shows&tmdb_id=67851        

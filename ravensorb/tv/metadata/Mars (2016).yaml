@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/308288
-                # IDs: tmdb://81456
-                # https://theposterdb.com/search/advanced/results?term=Mars+%282016%29+Season+1&category=Shows&tmdb_id=81456
             2:
                 url_poster: https://theposterdb.com/api/assets/308289
-                # IDs: tmdb://107394
-                # https://theposterdb.com/search/advanced/results?term=Mars+%282016%29+Season+2&category=Shows&tmdb_id=107394        

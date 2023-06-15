@@ -14,33 +14,17 @@ metadata:
         seasons:
             0:
                 url_poster:  https://theposterdb.com/api/assets/354157
-                # IDs: tmdb://9278, tvdb://25304
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Specials&category=Shows&tmdb_id=9278&tvdb_id=25304
             1:
                 url_poster:  https://theposterdb.com/api/assets/354158
-                # IDs: tmdb://9273, tvdb://13739
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+1&category=Shows&tmdb_id=9273&tvdb_id=13739
             2:
                 url_poster:  https://theposterdb.com/api/assets/354159
-                # IDs: tmdb://9274, tvdb://13740
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+2&category=Shows&tmdb_id=9274&tvdb_id=13740
             3:
                 url_poster:  https://theposterdb.com/api/assets/354160
-                # IDs: tmdb://9272, tvdb://13741
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+3&category=Shows&tmdb_id=9272&tvdb_id=13741
             4:
                 url_poster:  https://theposterdb.com/api/assets/354161
-                # IDs: tmdb://9271, tvdb://13742
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+4&category=Shows&tmdb_id=9271&tvdb_id=13742
             5:
                 url_poster:  https://theposterdb.com/api/assets/354162
-                # IDs: tmdb://9277, tvdb://13743
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+5&category=Shows&tmdb_id=9277&tvdb_id=13743
             6:
                 url_poster:  https://theposterdb.com/api/assets/354163
-                # IDs: tmdb://9276, tvdb://13744
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+6&category=Shows&tmdb_id=9276&tvdb_id=13744
             7:
                 url_poster:  https://theposterdb.com/api/assets/354164
-                # IDs: tmdb://9275, tvdb://13745
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+Season+7&category=Shows&tmdb_id=9275&tvdb_id=13745        

@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5713, tvdb://15082
-                # https://theposterdb.com/search/advanced/results?term=Everwood+Season+1&category=Shows&tmdb_id=5713&tvdb_id=15082
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5715, tvdb://15083
-                # https://theposterdb.com/search/advanced/results?term=Everwood+Season+2&category=Shows&tmdb_id=5715&tvdb_id=15083
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5714, tvdb://15084
-                # https://theposterdb.com/search/advanced/results?term=Everwood+Season+3&category=Shows&tmdb_id=5714&tvdb_id=15084
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5716, tvdb://15085
-                # https://theposterdb.com/search/advanced/results?term=Everwood+Season+4&category=Shows&tmdb_id=5716&tvdb_id=15085        

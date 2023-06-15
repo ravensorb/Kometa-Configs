@@ -14,41 +14,21 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8869
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Specials&category=Shows&tmdb_id=8869
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8867, tvdb://600
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+1&category=Shows&tmdb_id=8867&tvdb_id=600
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8868, tvdb://601
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+2&category=Shows&tmdb_id=8868&tvdb_id=601
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8866, tvdb://602
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+3&category=Shows&tmdb_id=8866&tvdb_id=602
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8863, tvdb://603
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+4&category=Shows&tmdb_id=8863&tvdb_id=603
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8865, tvdb://604
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+5&category=Shows&tmdb_id=8865&tvdb_id=604
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8864, tvdb://605
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+6&category=Shows&tmdb_id=8864&tvdb_id=605
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+7&category=Shows
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+8&category=Shows
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=I+Love+Lucy+Season+9&category=Shows        

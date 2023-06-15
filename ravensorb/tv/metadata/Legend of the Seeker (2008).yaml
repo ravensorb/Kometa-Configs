@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330220
-                # IDs: tmdb://17864, tvdb://36526
-                # https://theposterdb.com/search/advanced/results?term=Legend+of+the+Seeker+Season+1&category=Shows&tmdb_id=17864&tvdb_id=36526
             2:
                 url_poster: https://theposterdb.com/api/assets/330221
-                # IDs: tmdb://17865, tvdb://111421
-                # https://theposterdb.com/search/advanced/results?term=Legend+of+the+Seeker+Season+2&category=Shows&tmdb_id=17865&tvdb_id=111421        

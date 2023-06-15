@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330934
-                # IDs: tmdb://55146, tvdb://500853
-                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+1&category=Shows&tmdb_id=55146&tvdb_id=500853
             2:
                 url_poster: https://theposterdb.com/api/assets/330935
-                # IDs: tmdb://63281, tvdb://598940
-                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+2&category=Shows&tmdb_id=63281&tvdb_id=598940
             3:
                 url_poster: https://theposterdb.com/api/assets/330936
-                # IDs: tmdb://68865, tvdb://643716
-                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+3&category=Shows&tmdb_id=68865&tvdb_id=643716
             4:
                 url_poster: https://theposterdb.com/api/assets/330937
-                # IDs: tmdb://76885, tvdb://683517
-                # https://theposterdb.com/search/advanced/results?term=Black+Sails+Season+4&category=Shows&tmdb_id=76885&tvdb_id=683517        

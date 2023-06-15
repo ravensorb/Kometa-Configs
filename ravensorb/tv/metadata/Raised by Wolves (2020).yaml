@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/333005
-                # IDs: tmdb://116023, tvdb://1824812
-                # https://theposterdb.com/search/advanced/results?term=Raised+by+Wolves+%282020%29+Season+1&category=Shows&tmdb_id=116023&tvdb_id=1824812
             2:
                 url_poster: https://theposterdb.com/api/assets/333006
-                # IDs: tmdb://234206, tvdb://1959595
-                # https://theposterdb.com/search/advanced/results?term=Raised+by+Wolves+%282020%29+Season+2&category=Shows&tmdb_id=234206&tvdb_id=1959595        

@@ -14,16 +14,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239478
-                # IDs: tmdb://64822, tvdb://635536
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Jessica+Jones+Season+1&category=Shows&tmdb_id=64822&tvdb_id=635536
             2:
                 url_poster: https://theposterdb.com/api/assets/239479
-                # IDs: tmdb://94776, tvdb://741219
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Jessica+Jones+Season+2&category=Shows&tmdb_id=94776&tvdb_id=741219
             3:
                 url_poster: https://theposterdb.com/api/assets/239480
-                # IDs: tmdb://124971
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Jessica+Jones+Season+3&category=Shows&tmdb_id=124971        
 
     "Marvel's Luke Cage (2016)":
         year: 2016
@@ -40,12 +34,8 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239482
-                # IDs: tmdb://65210
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Luke+Cage+Season+1&category=Shows&tmdb_id=65210
             2:
                 url_poster: https://theposterdb.com/api/assets/239483
-                # IDs: tmdb://85275
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Luke+Cage+Season+2&category=Shows&tmdb_id=85275        
 
     "Marvel's Iron Fist (2017)":
         year: 2017
@@ -62,12 +52,8 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239475
-                # IDs: tmdb://65211, tvdb://683460
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Iron+Fist+Season+1&category=Shows&tmdb_id=65211&tvdb_id=683460
             2:
                 url_poster: https://theposterdb.com/api/assets/239476
-                # IDs: tmdb://106628
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Iron+Fist+Season+2&category=Shows&tmdb_id=106628        
 
     "Marvel's The Defenders (2017)":
         year: 2017
@@ -84,8 +70,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239489
-                # IDs: tmdb://65691, tvdb://706739
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Defenders+Season+1&category=Shows&tmdb_id=65691&tvdb_id=706739        
 
     "Marvel's The Punisher (2017)":
         year: 2017
@@ -102,9 +86,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239491
-                # IDs: tmdb://78693, tvdb://727172
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Punisher+Season+1&category=Shows&tmdb_id=78693&tvdb_id=727172
             2:
                 url_poster: https://theposterdb.com/api/assets/239492
-                # IDs: tmdb://115281
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Punisher+Season+2&category=Shows&tmdb_id=115281        

@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/300709
-                # IDs: tmdb://91583, tvdb://749708
-                # https://theposterdb.com/search/advanced/results?term=Tom+Clancy%27s+Jack+Ryan+Season+1&category=Shows&tmdb_id=91583&tvdb_id=749708
             2:
                 url_poster: https://theposterdb.com/api/assets/300710
-                # IDs: tmdb://128889, tvdb://824907
-                # https://theposterdb.com/search/advanced/results?term=Tom+Clancy%27s+Jack+Ryan+Season+2&category=Shows&tmdb_id=128889&tvdb_id=824907
             3:
                 url_poster: https://theposterdb.com/api/assets/300711
-                # IDs: tmdb://310419, tvdb://1927870
-                # https://theposterdb.com/search/advanced/results?term=Tom+Clancy%27s+Jack+Ryan+Season+3&category=Shows&tmdb_id=310419&tvdb_id=1927870        

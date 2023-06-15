@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366604
-                # IDs: tmdb://88500, tvdb://712722
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+1&category=Shows&tmdb_id=88500&tvdb_id=712722
             2:
                 url_poster: https://theposterdb.com/api/assets/366605
-                # IDs: tmdb://106156, tvdb://771240
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+2&category=Shows&tmdb_id=106156&tvdb_id=771240
             3:
                 url_poster: https://theposterdb.com/api/assets/366606
-                # IDs: tmdb://126167, tvdb://814707
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+3&category=Shows&tmdb_id=126167&tvdb_id=814707
             4:
                 url_poster: https://theposterdb.com/api/assets/366607
-                # IDs: tmdb://167199, tvdb://1841198
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+4&category=Shows&tmdb_id=167199&tvdb_id=1841198
             5:
                 url_poster: https://theposterdb.com/api/assets/366608
-                # IDs: tmdb://202011, tvdb://1940645
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+5&category=Shows&tmdb_id=202011&tvdb_id=1940645
             6:
                 url_poster: https://theposterdb.com/api/assets/366609
-                # IDs: tmdb://305331, tvdb://2015215
-                # https://theposterdb.com/search/advanced/results?term=SEAL+Team+Season+6&category=Shows&tmdb_id=305331&tvdb_id=2015215        

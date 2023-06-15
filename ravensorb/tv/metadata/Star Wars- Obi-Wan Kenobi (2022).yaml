@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/238548
-                # IDs: tmdb://130857, tvdb://1940418
-                # https://theposterdb.com/search/advanced/results?term=Obi-Wan+Kenobi+Season+1&category=Shows&tmdb_id=130857&tvdb_id=1940418        

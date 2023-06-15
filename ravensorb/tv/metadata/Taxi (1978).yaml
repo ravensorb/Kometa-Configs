@@ -12,21 +12,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/355555
-                # IDs: tmdb://6958, tvdb://2426
-                # https://theposterdb.com/search/advanced/results?term=Taxi+Season+1&category=Shows&tmdb_id=6958&tvdb_id=2426
             2:
                 url_poster: https://theposterdb.com/api/assets/355556
-                # IDs: tmdb://6959, tvdb://2427
-                # https://theposterdb.com/search/advanced/results?term=Taxi+Season+2&category=Shows&tmdb_id=6959&tvdb_id=2427
             3:
                 url_poster: https://theposterdb.com/api/assets/355557
-                # IDs: tmdb://6960, tvdb://2428
-                # https://theposterdb.com/search/advanced/results?term=Taxi+Season+3&category=Shows&tmdb_id=6960&tvdb_id=2428
             4:
                 url_poster: https://theposterdb.com/api/assets/355558
-                # IDs: tmdb://6961, tvdb://2429
-                # https://theposterdb.com/search/advanced/results?term=Taxi+Season+4&category=Shows&tmdb_id=6961&tvdb_id=2429
             5:
                 url_poster: https://theposterdb.com/api/assets/355559
-                # IDs: tmdb://6962, tvdb://2430
-                # https://theposterdb.com/search/advanced/results?term=Taxi+Season+5&category=Shows&tmdb_id=6962&tvdb_id=2430        

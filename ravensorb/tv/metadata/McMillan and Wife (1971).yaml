@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21192, tvdb://15340
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+1&category=Shows&tmdb_id=21192&tvdb_id=15340
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21191, tvdb://15341
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+2&category=Shows&tmdb_id=21191&tvdb_id=15341
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21195, tvdb://15342
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+3&category=Shows&tmdb_id=21195&tvdb_id=15342
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21194, tvdb://15343
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+4&category=Shows&tmdb_id=21194&tvdb_id=15343
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21193, tvdb://15344
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+5&category=Shows&tmdb_id=21193&tvdb_id=15344
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://21189, tvdb://15345
-                # https://theposterdb.com/search/advanced/results?term=McMillan+and+Wife+Season+6&category=Shows&tmdb_id=21189&tvdb_id=15345        

@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42842, tvdb://145011
-                # https://theposterdb.com/search/advanced/results?term=Misfits+Season+1&category=Shows&tmdb_id=42842&tvdb_id=145011
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42843, tvdb://290211
-                # https://theposterdb.com/search/advanced/results?term=Misfits+Season+2&category=Shows&tmdb_id=42843&tvdb_id=290211
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42844, tvdb://455381
-                # https://theposterdb.com/search/advanced/results?term=Misfits+Season+3&category=Shows&tmdb_id=42844&tvdb_id=455381
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42845, tvdb://498279
-                # https://theposterdb.com/search/advanced/results?term=Misfits+Season+4&category=Shows&tmdb_id=42845&tvdb_id=498279
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42847
-                # https://theposterdb.com/search/advanced/results?term=Misfits+Season+5&category=Shows&tmdb_id=42847        

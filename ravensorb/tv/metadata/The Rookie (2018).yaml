@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/354903
-                # IDs: tmdb://104126
-                # https://theposterdb.com/search/advanced/results?term=The+Rookie+Season+1&category=Shows&tmdb_id=104126
             2:
                 url_poster: https://theposterdb.com/api/assets/354904
-                # IDs: tmdb://127101
-                # https://theposterdb.com/search/advanced/results?term=The+Rookie+Season+2&category=Shows&tmdb_id=127101
             3:
                 url_poster: https://theposterdb.com/api/assets/354905
-                # IDs: tmdb://173119
-                # https://theposterdb.com/search/advanced/results?term=The+Rookie+Season+3&category=Shows&tmdb_id=173119
             4:
                 url_poster: https://theposterdb.com/api/assets/354906
-                # IDs: tmdb://202438
-                # https://theposterdb.com/search/advanced/results?term=The+Rookie+Season+4&category=Shows&tmdb_id=202438
             5:
                 url_poster: https://theposterdb.com/api/assets/354907
-                # IDs: tmdb://297660
-                # https://theposterdb.com/search/advanced/results?term=The+Rookie+Season+5&category=Shows&tmdb_id=297660        

@@ -14,44 +14,24 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/351356
-                # IDs: tmdb://6032, tvdb://8220
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+1&category=Shows&tmdb_id=6032&tvdb_id=8220
             2:
                 url_poster: https://theposterdb.com/api/assets/351357
-                # IDs: tmdb://6033, tvdb://8222
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+2&category=Shows&tmdb_id=6033&tvdb_id=8222
             3:
                 url_poster: https://theposterdb.com/api/assets/351358
-                # IDs: tmdb://6031, tvdb://8223
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+3&category=Shows&tmdb_id=6031&tvdb_id=8223
             4:
                 url_poster: https://theposterdb.com/api/assets/351359
-                # IDs: tmdb://6034, tvdb://8224
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+4&category=Shows&tmdb_id=6034&tvdb_id=8224
             5:
                 url_poster: https://theposterdb.com/api/assets/351360
-                # IDs: tmdb://6040, tvdb://8225
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+5&category=Shows&tmdb_id=6040&tvdb_id=8225
             6:
                 url_poster: https://theposterdb.com/api/assets/351361
-                # IDs: tmdb://6038, tvdb://8226
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+6&category=Shows&tmdb_id=6038&tvdb_id=8226
             7:
                 url_poster: https://theposterdb.com/api/assets/351362
-                # IDs: tmdb://6035, tvdb://8227
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+7&category=Shows&tmdb_id=6035&tvdb_id=8227
             8:
                 url_poster: https://theposterdb.com/api/assets/351363
-                # IDs: tmdb://6037, tvdb://8228
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+8&category=Shows&tmdb_id=6037&tvdb_id=8228
             9:
                 url_poster: https://theposterdb.com/api/assets/351364
-                # IDs: tmdb://6039, tvdb://8229
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+9&category=Shows&tmdb_id=6039&tvdb_id=8229
             10:
                 url_poster: https://theposterdb.com/api/assets/351365
-                # IDs: tmdb://6036, tvdb://8221
-                # https://theposterdb.com/search/advanced/results?term=Beverly+Hills%2C+90210+Season+10&category=Shows&tmdb_id=6036&tvdb_id=8221        
 
     "BH90210 (2019)":
         year: 2019
@@ -68,5 +48,3 @@ metadata:
         # seasons:
             # 1:
                 # url_poster:  https://theposterdb.com/api/assets/
-                # IDs: tmdb://123900
-                # https://theposterdb.com/search/advanced/results?term=BH90210+Season+1&category=Shows&tmdb_id=123900        

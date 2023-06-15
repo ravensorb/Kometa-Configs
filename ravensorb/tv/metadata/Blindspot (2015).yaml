@@ -12,21 +12,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/359933
-                # IDs: tmdb://66860, tvdb://626827
-                # https://theposterdb.com/search/advanced/results?term=Blindspot+Season+1&category=Shows&tmdb_id=66860&tvdb_id=626827
             2:
                 url_poster: https://theposterdb.com/api/assets/359934
-                # IDs: tmdb://79796, tvdb://670802
-                # https://theposterdb.com/search/advanced/results?term=Blindspot+Season+2&category=Shows&tmdb_id=79796&tvdb_id=670802
             3:
                 url_poster: https://theposterdb.com/api/assets/359935
-                # IDs: tmdb://90314, tvdb://716947
-                # https://theposterdb.com/search/advanced/results?term=Blindspot+Season+3&category=Shows&tmdb_id=90314&tvdb_id=716947
             4:
                 url_poster: https://theposterdb.com/api/assets/359936
-                # IDs: tmdb://105458
-                # https://theposterdb.com/search/advanced/results?term=Blindspot+Season+4&category=Shows&tmdb_id=105458
             5:
                 url_poster: https://theposterdb.com/api/assets/359937
-                # IDs: tmdb://146859, tvdb://295647
-                # https://theposterdb.com/search/advanced/results?term=Blindspot+Season+5&category=Shows&tmdb_id=146859&tvdb_id=295647        

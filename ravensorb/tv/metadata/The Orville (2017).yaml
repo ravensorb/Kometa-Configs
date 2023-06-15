@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/243482
-                # IDs: tmdb://88414
-                # https://theposterdb.com/search/advanced/results?term=The+Orville+Season+1&category=Shows&tmdb_id=88414
             2:
                 url_poster: https://theposterdb.com/api/assets/243483
-                # IDs: tmdb://106463
-                # https://theposterdb.com/search/advanced/results?term=The+Orville+Season+2&category=Shows&tmdb_id=106463
             3:
                 url_poster: https://theposterdb.com/api/assets/243484
-                # IDs: tmdb://157020
-                # https://theposterdb.com/search/advanced/results?term=The+Orville+Season+3&category=Shows&tmdb_id=157020        

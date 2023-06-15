@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346613
-                # IDs: tmdb://139705, tvdb://822181
-                    # https://theposterdb.com/search/advanced/results?term=Fate%3A+The+Winx+Saga+Season+1&category=Shows&tmdb_id=139705&tvdb_id=822181
             2:
                 url_poster: https://theposterdb.com/api/assets/346614
-                # IDs: tmdb://184958
-                # https://theposterdb.com/search/advanced/results?term=Fate%3A+The+Winx+Saga+Season+2&category=Shows&tmdb_id=184958        

@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/332786
-                # IDs: tmdb://600, tvdb://1206
-                # https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le+Season+1&category=Shows&tmdb_id=600&tvdb_id=1206
             2:
                 url_poster: https://theposterdb.com/api/assets/332787
-                # IDs: tmdb://601, tvdb://1207
-                # https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le+Season+2&category=Shows&tmdb_id=601&tvdb_id=1207        

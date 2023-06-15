@@ -14,29 +14,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/273215
-                # IDs: tmdb://55214, tvdb://517077
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+1&category=Shows&tmdb_id=55214&tvdb_id=517077
             2:
                 url_poster: https://theposterdb.com/api/assets/273216
-                # IDs: tmdb://62026, tvdb://586015
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+2&category=Shows&tmdb_id=62026&tvdb_id=586015
             3:
                 url_poster: https://theposterdb.com/api/assets/273217
-                # IDs: tmdb://72595, tvdb://632464
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+3&category=Shows&tmdb_id=72595&tvdb_id=632464
             4:
                 url_poster: https://theposterdb.com/api/assets/273218
-                # IDs: tmdb://82960, tvdb://680431
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+4&category=Shows&tmdb_id=82960&tvdb_id=680431
             5:
                 url_poster: https://theposterdb.com/api/assets/273219
-                # IDs: tmdb://90748, tvdb://722611
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+5&category=Shows&tmdb_id=90748&tvdb_id=722611
             6:
                 url_poster: https://theposterdb.com/api/assets/273220
-                # IDs: tmdb://116111, tvdb://774388
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+6&category=Shows&tmdb_id=116111&tvdb_id=774388
             7:
                 url_poster: https://theposterdb.com/api/assets/273221
-                # IDs: tmdb://142731
-                # https://theposterdb.com/search/advanced/results?term=The+100+Season+7&category=Shows&tmdb_id=142731        

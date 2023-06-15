@@ -1,0 +1,14 @@
+metadata:
+    "Parker (2013)":
+        year: 2013
+        title: "Parker"
+        alt_title: "Parker (2013)"
+        orig_title: "Parker"
+        sort_title: "Parker"
+        
+        url_poster: https://theposterdb.com/api/assets/208903
+        # IDs: imdb://tt1904996, tmdb://119283, tvdb://2596
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Parker&category=Movies&year_filter=equals&yone=2013&tmdb_id=119283&imdb_id=tt1904996&tvdb_id=2596
+        # tmdb: https://www.themoviedb.org/movie/119283
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=2596
+        # imdb: https://www.imdb.com/title/tt1904996

@@ -13,24 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0285333
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/352925
+                # url_poster:  https://theposterdb.com/api/assets/352925
             1:
                 url_poster:  https://theposterdb.com/api/assets/352926
-                # IDs: tmdb://6152, tvdb://9466
-                # https://theposterdb.com/search/advanced/results?term=Alias+Season+1&category=Shows&tmdb_id=6152&tvdb_id=9466
             2:
                 url_poster:  https://theposterdb.com/api/assets/352927
-                # IDs: tmdb://6153, tvdb://9467
-                # https://theposterdb.com/search/advanced/results?term=Alias+Season+2&category=Shows&tmdb_id=6153&tvdb_id=9467
             3:
                 url_poster:  https://theposterdb.com/api/assets/352928
-                # IDs: tmdb://6154, tvdb://9468
-                # https://theposterdb.com/search/advanced/results?term=Alias+Season+3&category=Shows&tmdb_id=6154&tvdb_id=9468
             4:
                 url_poster:  https://theposterdb.com/api/assets/352929
-                # IDs: tmdb://6155, tvdb://9469
-                # https://theposterdb.com/search/advanced/results?term=Alias+Season+4&category=Shows&tmdb_id=6155&tvdb_id=9469
             5:
                 url_poster:  https://theposterdb.com/api/assets/352930
-                # IDs: tmdb://6156, tvdb://9470
-                # https://theposterdb.com/search/advanced/results?term=Alias+Season+5&category=Shows&tmdb_id=6156&tvdb_id=9470        

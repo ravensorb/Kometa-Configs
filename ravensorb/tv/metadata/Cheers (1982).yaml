@@ -14,45 +14,23 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/241399
-                # IDs: tmdb://419, tvdb://13254
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+1&category=Shows&tmdb_id=419&tvdb_id=13254
             2:
                 url_poster: https://theposterdb.com/api/assets/241400
-                # IDs: tmdb://420, tvdb://13257
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+2&category=Shows&tmdb_id=420&tvdb_id=13257
             3:
                 url_poster: https://theposterdb.com/api/assets/241401
-                # IDs: tmdb://418, tvdb://13258
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+3&category=Shows&tmdb_id=418&tvdb_id=13258
             4:
                 url_poster: https://theposterdb.com/api/assets/241402
-                # IDs: tmdb://417, tvdb://13259
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+4&category=Shows&tmdb_id=417&tvdb_id=13259
             5:
                 url_poster: https://theposterdb.com/api/assets/241403
-                # IDs: tmdb://422, tvdb://13260
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+5&category=Shows&tmdb_id=422&tvdb_id=13260
             6:
                 url_poster: https://theposterdb.com/api/assets/241404
-                # IDs: tmdb://425, tvdb://13261
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+6&category=Shows&tmdb_id=425&tvdb_id=13261
             7:
                 url_poster: https://theposterdb.com/api/assets/241405
-                # IDs: tmdb://424, tvdb://13262
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+7&category=Shows&tmdb_id=424&tvdb_id=13262
             8:
                 url_poster: https://theposterdb.com/api/assets/241406
-                # IDs: tmdb://423, tvdb://13263
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+8&category=Shows&tmdb_id=423&tvdb_id=13263
             9:
                 url_poster: https://theposterdb.com/api/assets/241407
-                # IDs: tmdb://426, tvdb://13264
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+9&category=Shows&tmdb_id=426&tvdb_id=13264
             10:
                 url_poster: https://theposterdb.com/api/assets/241408
-                # IDs: tmdb://421, tvdb://13255
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+10&category=Shows&tmdb_id=421&tvdb_id=13255
             11:
                 url_poster: https://theposterdb.com/api/assets/241409
-                # IDs: tmdb://427, tvdb://13256
-                # https://theposterdb.com/search/advanced/results?term=Cheers+Season+11&category=Shows&tmdb_id=427&tvdb_id=13256        

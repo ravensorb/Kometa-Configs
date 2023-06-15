@@ -17,16 +17,10 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://14622
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+1&category=Shows&tvdb_id=14622
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://14623
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+2&category=Shows&tvdb_id=14623
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://1962850
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C+Where+Are+You%21+Season+3&category=Shows&tvdb_id=1962850
 
     "The New Scooby-Doo Movies (1972)":
         year: 1972
@@ -44,12 +38,8 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+New+Scooby-Doo+Movies+Season+1&category=Shows
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+New+Scooby-Doo+Movies+Season+2&category=Shows
 
     "The Scooby-Doo Show (1976)":
         year: 1976
@@ -67,16 +57,10 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://6484
-                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+1&category=Shows&tvdb_id=6484
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://6485
-                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+2&category=Shows&tvdb_id=6485
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://6486
-                # https://theposterdb.com/search/advanced/results?term=The+Scooby-Doo+Show+Season+3&category=Shows&tvdb_id=6486
 
     "Scooby-Doo and Scrappy-Doo (1979)":
         year: 1979
@@ -94,28 +78,16 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15574
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+1&category=Shows&tvdb_id=15574
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15575
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+2&category=Shows&tvdb_id=15575
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15576
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+3&category=Shows&tvdb_id=15576
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15577
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+4&category=Shows&tvdb_id=15577
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15578
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+5&category=Shows&tvdb_id=15578
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://15579
-                # https://theposterdb.com/search/advanced/results?term=Scooby-Doo+and+Scrappy-Doo+Season+6&category=Shows&tvdb_id=15579
 
     "The 13 Ghosts of Scooby-Doo (1985)":
         year: 1985

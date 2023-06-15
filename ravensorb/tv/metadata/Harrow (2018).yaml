@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://100669, tvdb://751026
-                # https://theposterdb.com/search/advanced/results?term=Harrow+Season+1&category=Shows&tmdb_id=100669&tvdb_id=751026
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://123722
-                # https://theposterdb.com/search/advanced/results?term=Harrow+Season+2&category=Shows&tmdb_id=123722
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://179564
-                # https://theposterdb.com/search/advanced/results?term=Harrow+Season+3&category=Shows&tmdb_id=179564        

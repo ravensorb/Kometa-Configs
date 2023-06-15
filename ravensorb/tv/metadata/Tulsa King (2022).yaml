@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/302798
-                # IDs: tmdb://235574, tvdb://1970548
-                # https://theposterdb.com/search/advanced/results?term=Tulsa+King+Season+1&category=Shows&tmdb_id=235574&tvdb_id=1970548        

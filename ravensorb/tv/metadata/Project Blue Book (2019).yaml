@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103971
-                # https://theposterdb.com/search/advanced/results?term=Project+Blue+Book+Season+1&category=Shows&tmdb_id=103971
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://136116
-                # https://theposterdb.com/search/advanced/results?term=Project+Blue+Book+Season+2&category=Shows&tmdb_id=136116        

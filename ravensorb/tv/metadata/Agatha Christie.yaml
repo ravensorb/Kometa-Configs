@@ -14,8 +14,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://39155
-                # https://theposterdb.com/search/advanced/results?term=The+Agatha+Christie+Hour+Season+1&category=Shows&tmdb_id=39155        
 
     "Agatha Christie's Partners in Crime (1983)":
         year: 1983
@@ -32,8 +30,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://26298
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Partners+in+Crime+Season+1&category=Shows&tmdb_id=26298        
 
     "Agatha Christie's Poirot (1989)":
         year: 1989
@@ -50,56 +46,30 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360926
-                # IDs: tmdb://59661
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+1&category=Shows&tmdb_id=59661
             2:
                 url_poster: https://theposterdb.com/api/assets/360927
-                # IDs: tmdb://59665
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+2&category=Shows&tmdb_id=59665
             3:
                 url_poster: https://theposterdb.com/api/assets/360928
-                # IDs: tmdb://59666
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+3&category=Shows&tmdb_id=59666
             4:
                 url_poster: https://theposterdb.com/api/assets/360929
-                # IDs: tmdb://59667
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+4&category=Shows&tmdb_id=59667
             5:
                 url_poster: https://theposterdb.com/api/assets/360930
-                # IDs: tmdb://59668
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+5&category=Shows&tmdb_id=59668
             6:
                 url_poster: https://theposterdb.com/api/assets/360931
-                # IDs: tmdb://59669
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+6&category=Shows&tmdb_id=59669
             7:
                 url_poster: https://theposterdb.com/api/assets/360932
-                # IDs: tmdb://59670
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+7&category=Shows&tmdb_id=59670
             8:
                 url_poster: https://theposterdb.com/api/assets/360933
-                # IDs: tmdb://59671
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+8&category=Shows&tmdb_id=59671
             9:
                 url_poster: https://theposterdb.com/api/assets/360934
-                # IDs: tmdb://59664
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+9&category=Shows&tmdb_id=59664
             10:
                 url_poster: https://theposterdb.com/api/assets/360935
-                # IDs: tmdb://59663
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+10&category=Shows&tmdb_id=59663
             11:
                 url_poster: https://theposterdb.com/api/assets/360936
-                # IDs: tmdb://59662
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+11&category=Shows&tmdb_id=59662
             12:
                 url_poster: https://theposterdb.com/api/assets/360937
-                # IDs: tmdb://59660
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+12&category=Shows&tmdb_id=59660
             13:
                 url_poster: https://theposterdb.com/api/assets/360938
-                # IDs: tmdb://59659
-                # https://theposterdb.com/search/advanced/results?term=Agatha+Christie%27s+Poirot+Season+13&category=Shows&tmdb_id=59659        
 
     "Ordeal by Innocence (2018)":
         year: 2018
@@ -116,8 +86,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://93818
-                # https://theposterdb.com/search/advanced/results?term=Ordeal+by+Innocence+Season+1&category=Shows&tmdb_id=93818        
 
     "The ABC Murders (2018)":
         year: 2018
@@ -134,8 +102,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://106719
-                # https://theposterdb.com/search/advanced/results?term=The+ABC+Murders+Season+1&category=Shows&tmdb_id=106719        
 
     "The Pale Horse (2020)":
         year: 2020
@@ -152,5 +118,3 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://132491
-                # https://theposterdb.com/search/advanced/results?term=The+Pale+Horse+Season+1&category=Shows&tmdb_id=132491        

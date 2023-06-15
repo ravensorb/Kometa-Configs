@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/303943
-                # IDs: tmdb://141350
-                # https://theposterdb.com/search/advanced/results?term=The+Irregulars+Season+1&category=Shows&tmdb_id=141350        

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262594
-                # IDs: tmdb://8150
-                # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+1&category=Shows&tmdb_id=8150
             2:
                 url_poster: https://theposterdb.com/api/assets/262595
-                # IDs: tmdb://8151
-                # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+2&category=Shows&tmdb_id=8151
             3:
                 url_poster: https://theposterdb.com/api/assets/262596
-                # IDs: tmdb://8152
-                # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+3&category=Shows&tmdb_id=8152
             4:
                 url_poster: https://theposterdb.com/api/assets/262597
-                # IDs: tmdb://8153
-                # https://theposterdb.com/search/advanced/results?term=Mork+%26+Mindy+Season+4&category=Shows&tmdb_id=8153        

@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8306, tvdb://2192
-                # https://theposterdb.com/search/advanced/results?term=Head+of+the+Class+Season+1&category=Shows&tmdb_id=8306&tvdb_id=2192
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8305, tvdb://2193
-                # https://theposterdb.com/search/advanced/results?term=Head+of+the+Class+Season+2&category=Shows&tmdb_id=8305&tvdb_id=2193
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8304, tvdb://2194
-                # https://theposterdb.com/search/advanced/results?term=Head+of+the+Class+Season+3&category=Shows&tmdb_id=8304&tvdb_id=2194
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8302, tvdb://2195
-                # https://theposterdb.com/search/advanced/results?term=Head+of+the+Class+Season+4&category=Shows&tmdb_id=8302&tvdb_id=2195
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8303, tvdb://2196
-                # https://theposterdb.com/search/advanced/results?term=Head+of+the+Class+Season+5&category=Shows&tmdb_id=8303&tvdb_id=2196        

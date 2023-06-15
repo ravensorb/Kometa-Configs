@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/204311
-                # IDs: tmdb://60249
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+1&category=Shows&tmdb_id=60249
             2:
                 url_poster: https://theposterdb.com/api/assets/204312
-                # IDs: tmdb://60250
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+2&category=Shows&tmdb_id=60250
             3:
                 url_poster: https://theposterdb.com/api/assets/204313
-                # IDs: tmdb://60251
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+3&category=Shows&tmdb_id=60251
             4:
                 url_poster: https://theposterdb.com/api/assets/204314
-                # IDs: tmdb://60252
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+4&category=Shows&tmdb_id=60252
             5:
                 url_poster: https://theposterdb.com/api/assets/204315
-                # IDs: tmdb://60253
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+5&category=Shows&tmdb_id=60253
             6:
                 url_poster: https://theposterdb.com/api/assets/204316
-                # IDs: tmdb://60254
-                # https://theposterdb.com/search/advanced/results?term=Sex+and+the+City+Season+6&category=Shows&tmdb_id=60254        

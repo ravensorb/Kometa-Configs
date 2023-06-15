@@ -12,5 +12,3 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/362562
-                # IDs: tmdb://, tvdb://
-                # https://theposterdb.com/search/advanced/results?term=Billy+The+Kid+Season+1&category=Shows&tmdb_id=&tvdb_id=

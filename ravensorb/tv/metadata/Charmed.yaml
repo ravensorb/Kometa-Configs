@@ -13,39 +13,23 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0158552
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/363961
+                # url_poster: https://theposterdb.com/api/assets/363961
             1:
                 url_poster: https://theposterdb.com/api/assets/363962
-                # IDs: tmdb://5879, tvdb://708
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+1&category=Shows&tmdb_id=5879&tvdb_id=708
             2:
                 url_poster: https://theposterdb.com/api/assets/363963
-                # IDs: tmdb://5886, tvdb://709
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+2&category=Shows&tmdb_id=5886&tvdb_id=709
             3:
                 url_poster: https://theposterdb.com/api/assets/363964
-                # IDs: tmdb://5881, tvdb://710
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+3&category=Shows&tmdb_id=5881&tvdb_id=710
             4:
                 url_poster: https://theposterdb.com/api/assets/363965
-                # IDs: tmdb://5882, tvdb://711
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+4&category=Shows&tmdb_id=5882&tvdb_id=711
             5:
                 url_poster: https://theposterdb.com/api/assets/363966
-                # IDs: tmdb://5880, tvdb://712
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+5&category=Shows&tmdb_id=5880&tvdb_id=712
             6:
                 url_poster: https://theposterdb.com/api/assets/363967
-                # IDs: tmdb://5883, tvdb://713
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+6&category=Shows&tmdb_id=5883&tvdb_id=713
             7:
                 url_poster: https://theposterdb.com/api/assets/363968
-                # IDs: tmdb://5884, tvdb://714
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+7&category=Shows&tmdb_id=5884&tvdb_id=714
             8:
                 url_poster: https://theposterdb.com/api/assets/363969
-                # IDs: tmdb://5885, tvdb://715
-                # https://theposterdb.com/search/advanced/results?term=Charmed+Season+8&category=Shows&tmdb_id=5885&tvdb_id=715        
 
     "Charmed (2018)":
         year: 2018
@@ -62,17 +46,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103911
-                # https://theposterdb.com/search/advanced/results?term=Charmed+%282018%29+Season+1&category=Shows&tmdb_id=103911
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://124318
-                # https://theposterdb.com/search/advanced/results?term=Charmed+%282018%29+Season+2&category=Shows&tmdb_id=124318
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://170846, tvdb://349317
-                # https://theposterdb.com/search/advanced/results?term=Charmed+%282018%29+Season+3&category=Shows&tmdb_id=170846&tvdb_id=349317
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://218410, tvdb://1957009
-                # https://theposterdb.com/search/advanced/results?term=Charmed+%282018%29+Season+4&category=Shows&tmdb_id=218410&tvdb_id=1957009        

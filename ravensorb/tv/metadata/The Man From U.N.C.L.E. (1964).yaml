@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://673
-                # https://theposterdb.com/search/advanced/results?term=The+Man+From+U.N.C.L.E.+Season+1&category=Shows&tmdb_id=673
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://674
-                # https://theposterdb.com/search/advanced/results?term=The+Man+From+U.N.C.L.E.+Season+2&category=Shows&tmdb_id=674
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://675
-                # https://theposterdb.com/search/advanced/results?term=The+Man+From+U.N.C.L.E.+Season+3&category=Shows&tmdb_id=675
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://676
-                # https://theposterdb.com/search/advanced/results?term=The+Man+From+U.N.C.L.E.+Season+4&category=Shows&tmdb_id=676        

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/293356
-                # IDs: tmdb://52486, tvdb://490201
-                # https://theposterdb.com/search/advanced/results?term=Continuum+Season+1&category=Shows&tmdb_id=52486&tvdb_id=490201
             2:
                 url_poster: https://theposterdb.com/api/assets/293357
-                # IDs: tmdb://52488, tvdb://513135
-                # https://theposterdb.com/search/advanced/results?term=Continuum+Season+2&category=Shows&tmdb_id=52488&tvdb_id=513135
             3:
                 url_poster: https://theposterdb.com/api/assets/293358
-                # IDs: tmdb://52489, tvdb://529186
-                # https://theposterdb.com/search/advanced/results?term=Continuum+Season+3&category=Shows&tmdb_id=52489&tvdb_id=529186
             4:
                 url_poster: https://theposterdb.com/api/assets/293359
-                # IDs: tmdb://67391, tvdb://608632
-                # https://theposterdb.com/search/advanced/results?term=Continuum+Season+4&category=Shows&tmdb_id=67391&tvdb_id=608632        

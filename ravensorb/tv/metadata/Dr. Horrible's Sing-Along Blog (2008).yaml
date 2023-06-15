@@ -2,17 +2,12 @@ metadata:
     "Dr. Horrible's Sing-Along Blog (2008)":
         year: 2008
         title: "Dr. Horrible's Sing-Along Blog"
-        alt_title: "Dr. Horrible's Sing-Along Blog (2008)"
-        orig_title: "Dr. Horrible's Sing-Along Blog"
-        sort_title: "Dr. Horrible's Sing-Along Blog"
         url_poster: https://theposterdb.com/api/assets/215276
         # IDs: imdb://tt1227926, tmdb://5739, tvdb://82507
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dr.+Horrible%27s+Sing-Along+Blog&category=Shows&year_filter=equals&yone=2008&tmdb_id=5739&imdb_id=tt1227926&tvdb_id=82507
         # tmdb: https://www.themoviedb.org/tv/5739
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=82507
         # imdb: https://www.imdb.com/title/tt1227926
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://15864
-                # https://theposterdb.com/search/advanced/results?term=Dr.+Horrible%27s+Sing-Along+Blog+Season+1&category=Shows&tmdb_id=15864        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/215276

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222275
-                # IDs: tmdb://925, tvdb://6617
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+1&category=Shows&tmdb_id=925&tvdb_id=6617
             2:
                 url_poster: https://theposterdb.com/api/assets/222276
-                # IDs: tmdb://926, tvdb://6618
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+2&category=Shows&tmdb_id=926&tvdb_id=6618
             3:
                 url_poster: https://theposterdb.com/api/assets/222277
-                # IDs: tmdb://927, tvdb://6619
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+3&category=Shows&tmdb_id=927&tvdb_id=6619
             4:
                 url_poster: https://theposterdb.com/api/assets/222278
-                # IDs: tmdb://928, tvdb://6620
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Enterprise+Season+4&category=Shows&tmdb_id=928&tvdb_id=6620        

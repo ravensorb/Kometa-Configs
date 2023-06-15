@@ -14,8 +14,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://19503
-                # https://theposterdb.com/search/advanced/results?term=The+Civil+War+Season+1&category=Shows&tmdb_id=19503        
 
     "Baseball (1994)":
         year: 1994
@@ -32,8 +30,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://29625, tvdb://30771
-                # https://theposterdb.com/search/advanced/results?term=Baseball+Season+1&category=Shows&tmdb_id=29625&tvdb_id=30771        
 
     "The West (1996)":
         year: 1996
@@ -50,8 +46,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://42286
-                # https://theposterdb.com/search/advanced/results?term=The+West+Season+1&category=Shows&tmdb_id=42286        
 
     "Jazz (2001)":
         year: 2001
@@ -68,8 +62,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://30859
-                # https://theposterdb.com/search/advanced/results?term=Jazz+Season+1&category=Shows&tmdb_id=30859        
 
     "Prohibition (2011)":
         year: 2011
@@ -86,8 +78,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://51111
-                # https://theposterdb.com/search/advanced/results?term=Prohibition+Season+1&category=Shows&tmdb_id=51111        
 
     "The Dust Bowl (2012)":
         year: 2012
@@ -104,8 +94,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://92099
-                # https://theposterdb.com/search/advanced/results?term=The+Dust+Bowl+Season+1&category=Shows&tmdb_id=92099        
 
     "The Roosevelts: An Intimate History (2014)":
         year: 2014
@@ -122,8 +110,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://74717, tvdb://595906
-                # https://theposterdb.com/search/advanced/results?term=The+Roosevelts%3A+An+Intimate+History+Season+1&category=Shows&tmdb_id=74717&tvdb_id=595906        
 
     "Jackie Robinson (2016)":
         year: 2016
@@ -140,8 +126,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://98166
-                # https://theposterdb.com/search/advanced/results?term=Jackie+Robinson+Season+1&category=Shows&tmdb_id=98166        
 
     "The Vietnam War (2017)":
         year: 2017
@@ -158,8 +142,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://88923
-                # https://theposterdb.com/search/advanced/results?term=The+Vietnam+War+%282017%29+Season+1&category=Shows&tmdb_id=88923        
 
     "Country Music (2019)":
         year: 2019
@@ -176,8 +158,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://118320, tvdb://796916
-                # https://theposterdb.com/search/advanced/results?term=Country+Music+Season+1&category=Shows&tmdb_id=118320&tvdb_id=796916        
 
     "The Gene: An Intimate History (2020)":
         year: 2020
@@ -194,8 +174,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://149799
-                # https://theposterdb.com/search/advanced/results?term=The+Gene%3A+An+Intimate+History+Season+1&category=Shows&tmdb_id=149799        
 
     "Hemingway (2021)":
         year: 2021
@@ -212,5 +190,3 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165858
-                # https://theposterdb.com/search/advanced/results?term=Hemingway+Season+1&category=Shows&tmdb_id=165858        

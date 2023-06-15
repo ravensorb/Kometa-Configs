@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59522, tvdb://490027
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+1&category=Shows&tmdb_id=59522&tvdb_id=490027
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://63284, tvdb://598098
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+2&category=Shows&tmdb_id=63284&tvdb_id=598098
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://72714, tvdb://667879
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Season+3&category=Shows&tmdb_id=72714&tvdb_id=667879        

@@ -13,8 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0149437
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/348812
+                # url_poster: https://theposterdb.com/api/assets/348812
             1:
                 url_poster: https://theposterdb.com/api/assets/348813
-                # IDs: tmdb://6436, tvdb://3003
-                # https://theposterdb.com/search/advanced/results?term=Crusade+Season+1&category=Shows&tmdb_id=6436&tvdb_id=3003        

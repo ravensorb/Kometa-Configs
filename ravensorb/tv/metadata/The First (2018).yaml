@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346678
-                # IDs: tmdb://93285
-                # https://theposterdb.com/search/advanced/results?term=The+First+Season+1&category=Shows&tmdb_id=93285        

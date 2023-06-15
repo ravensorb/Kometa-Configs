@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/368705
-                # IDs: tmdb://287540, tvdb://1929897
-                # https://theposterdb.com/search/advanced/results?term=Mrs.+Davis+Season+1&category=Shows&tmdb_id=287540&tvdb_id=1929897        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/336768
-                # IDs: tmdb://110900
-                # https://theposterdb.com/search/advanced/results?term=Cursed+%282020%29+Season+1&category=Shows&tmdb_id=110900        

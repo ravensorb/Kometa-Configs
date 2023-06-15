@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4460, tvdb://15757
-                # https://theposterdb.com/search/advanced/results?term=Sue+Thomas+F.B.Eye+Season+1&category=Shows&tmdb_id=4460&tvdb_id=15757
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4458, tvdb://15758
-                # https://theposterdb.com/search/advanced/results?term=Sue+Thomas+F.B.Eye+Season+2&category=Shows&tmdb_id=4458&tvdb_id=15758
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4459, tvdb://15759
-                # https://theposterdb.com/search/advanced/results?term=Sue+Thomas+F.B.Eye+Season+3&category=Shows&tmdb_id=4459&tvdb_id=15759        

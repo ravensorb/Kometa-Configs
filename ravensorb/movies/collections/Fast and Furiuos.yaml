@@ -1,6 +1,6 @@
 collections:
   "Fast and Furiuos":
-    variables: { movie: "385128, 9615, 9799, 13804, 337339, 168259, 51497, 584, 82992, 384018", poster: https://theposterdb.com/api/assets/164783 }
+    variables: { movie: "385128, 9615, 9799, 13804, 337339, 168259, 51497, 584, 82992, 384018, 385687", poster: https://theposterdb.com/api/assets/164783 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

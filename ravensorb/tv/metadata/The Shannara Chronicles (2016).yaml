@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/309998
-                # IDs: tmdb://71247, tvdb://617930
-                # https://theposterdb.com/search/advanced/results?term=The+Shannara+Chronicles+Season+1&category=Shows&tmdb_id=71247&tvdb_id=617930
             2:
                 url_poster: https://theposterdb.com/api/assets/309999
-                # IDs: tmdb://91988
-                # https://theposterdb.com/search/advanced/results?term=The+Shannara+Chronicles+Season+2&category=Shows&tmdb_id=91988        

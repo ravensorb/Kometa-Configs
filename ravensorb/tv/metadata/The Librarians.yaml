@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/348856
-                # IDs: tmdb://63403, tvdb://585923
-                # https://theposterdb.com/search/advanced/results?term=The+Librarians+%282014%29+Season+1&category=Shows&tmdb_id=63403&tvdb_id=585923
             2:
                 url_poster:  https://theposterdb.com/api/assets/348857
-                # IDs: tmdb://71745, tvdb://624536
-                # https://theposterdb.com/search/advanced/results?term=The+Librarians+%282014%29+Season+2&category=Shows&tmdb_id=71745&tvdb_id=624536
             3:
                 url_poster:  https://theposterdb.com/api/assets/348858
-                # IDs: tmdb://81846
-                # https://theposterdb.com/search/advanced/results?term=The+Librarians+%282014%29+Season+3&category=Shows&tmdb_id=81846
             4:
                 url_poster:  https://theposterdb.com/api/assets/348859
-                # IDs: tmdb://94195
-                # https://theposterdb.com/search/advanced/results?term=The+Librarians+%282014%29+Season+4&category=Shows&tmdb_id=94195        

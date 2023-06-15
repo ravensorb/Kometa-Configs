@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20344, tvdb://467
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+1&category=Shows&tmdb_id=20344&tvdb_id=467
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20345, tvdb://468
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+2&category=Shows&tmdb_id=20345&tvdb_id=468
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20341, tvdb://469
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+3&category=Shows&tmdb_id=20341&tvdb_id=469
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20342, tvdb://470
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+4&category=Shows&tmdb_id=20342&tvdb_id=470
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20343, tvdb://471
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+5&category=Shows&tmdb_id=20343&tvdb_id=471
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20347, tvdb://472
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+6&category=Shows&tmdb_id=20347&tvdb_id=472
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://20346, tvdb://473
-                # https://theposterdb.com/search/advanced/results?term=McCloud+Season+7&category=Shows&tmdb_id=20346&tvdb_id=473        

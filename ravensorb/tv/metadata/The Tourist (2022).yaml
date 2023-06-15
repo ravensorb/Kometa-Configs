@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/365931
-                # IDs: tmdb://186244
-                # https://theposterdb.com/search/advanced/results?term=The+Tourist+Season+1&category=Shows&tmdb_id=186244        

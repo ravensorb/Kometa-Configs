@@ -5,38 +5,24 @@ metadata:
         alt_title: "Rizzoli & Isles (2010)"
         orig_title: "Rizzoli & Isles"
         sort_title: "Rizzoli & Isles"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/309511
         # IDs: imdb://tt1551632, tmdb://32895, tvdb://161461
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles&category=Shows&year_filter=equals&yone=2010&tmdb_id=32895&imdb_id=tt1551632&tvdb_id=161461
         # tmdb: https://www.themoviedb.org/tv/32895
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=161461
         # imdb: https://www.imdb.com/title/tt1551632
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44133, tvdb://244921
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+1&category=Shows&tmdb_id=44133&tvdb_id=244921
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44135, tvdb://441481
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+2&category=Shows&tmdb_id=44135&tvdb_id=441481
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44134, tvdb://487739
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+3&category=Shows&tmdb_id=44134&tvdb_id=487739
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44137, tvdb://515483
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+4&category=Shows&tmdb_id=44137&tvdb_id=515483
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62047, tvdb://579542
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+5&category=Shows&tmdb_id=62047&tvdb_id=579542
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://67716, tvdb://618372
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+6&category=Shows&tmdb_id=67716&tvdb_id=618372
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://77556, tvdb://661670
-                # https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles+Season+7&category=Shows&tmdb_id=77556&tvdb_id=661670        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/309512
+            2:
+                url_poster: https://theposterdb.com/api/assets/309513
+            3:
+                url_poster: https://theposterdb.com/api/assets/309514
+            4:
+                url_poster: https://theposterdb.com/api/assets/309515
+            5:
+                url_poster: https://theposterdb.com/api/assets/309516
+            6:
+                url_poster: https://theposterdb.com/api/assets/309517
+            7:
+                url_poster: https://theposterdb.com/api/assets/309518

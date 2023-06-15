@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17928
-                # https://theposterdb.com/search/advanced/results?term=Star+Blazers+Specials&category=Shows&tmdb_id=17928
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17928
-                # https://theposterdb.com/search/advanced/results?term=Star+Blazers+Season+1&category=Shows&tmdb_id=17928
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17929
-                # https://theposterdb.com/search/advanced/results?term=Star+Blazers+Season+2&category=Shows&tmdb_id=17929
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://17930
-                # https://theposterdb.com/search/advanced/results?term=Star+Blazers+Season+3&category=Shows&tmdb_id=17930        

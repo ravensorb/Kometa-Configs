@@ -14,25 +14,13 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/261152
-                # IDs: tmdb://70521
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Specials&category=Shows&tmdb_id=70521
             1:
                 url_poster: https://theposterdb.com/api/assets/261153
-                # IDs: tmdb://61150
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Season+1&category=Shows&tmdb_id=61150
             2:
                 url_poster: https://theposterdb.com/api/assets/261154
-                # IDs: tmdb://61151
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Season+2&category=Shows&tmdb_id=61151
             3:
                 url_poster: https://theposterdb.com/api/assets/261155
-                # IDs: tmdb://61152
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Season+3&category=Shows&tmdb_id=61152
             4:
                 url_poster: https://theposterdb.com/api/assets/261156
-                # IDs: tmdb://61153
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Season+4&category=Shows&tmdb_id=61153
             5:
                 url_poster: https://theposterdb.com/api/assets/261157
-                # IDs: tmdb://61154
-                # https://theposterdb.com/search/advanced/results?term=The+Six+Million+Dollar+Man+Season+5&category=Shows&tmdb_id=61154        

@@ -13,36 +13,20 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1405406
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/325998
+                # url_poster: https://theposterdb.com/api/assets/325998
             1:
                 url_poster: https://theposterdb.com/api/assets/325999
-                # IDs: tmdb://28882, tvdb://68481
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+1&category=Shows&tmdb_id=28882&tvdb_id=68481
             2:
                 url_poster: https://theposterdb.com/api/assets/326000
-                # IDs: tmdb://28883, tvdb://256621
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+2&category=Shows&tmdb_id=28883&tvdb_id=256621
             3:
                 url_poster: https://theposterdb.com/api/assets/326001
-                # IDs: tmdb://28884, tvdb://468266
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+3&category=Shows&tmdb_id=28884&tvdb_id=468266
             4:
                 url_poster: https://theposterdb.com/api/assets/326002
-                # IDs: tmdb://28885, tvdb://492997
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+4&category=Shows&tmdb_id=28885&tvdb_id=492997
             5:
                 url_poster: https://theposterdb.com/api/assets/326003
-                # IDs: tmdb://28886, tvdb://523338
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+5&category=Shows&tmdb_id=28886&tvdb_id=523338
             6:
                 url_poster: https://theposterdb.com/api/assets/326004
-                # IDs: tmdb://62019, tvdb://589356
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+6&category=Shows&tmdb_id=62019&tvdb_id=589356
             7:
                 url_poster: https://theposterdb.com/api/assets/326005
-                # IDs: tmdb://67991, tvdb://626969
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+7&category=Shows&tmdb_id=67991&tvdb_id=626969
             8:
                 url_poster: https://theposterdb.com/api/assets/326006
-                # IDs: tmdb://79312, tvdb://671089
-                # https://theposterdb.com/search/advanced/results?term=The+Vampire+Diaries+Season+8&category=Shows&tmdb_id=79312&tvdb_id=671089        

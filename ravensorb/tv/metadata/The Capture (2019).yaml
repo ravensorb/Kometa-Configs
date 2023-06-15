@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://131521
-                # https://theposterdb.com/search/advanced/results?term=The+Capture+Season+1&category=Shows&tmdb_id=131521
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://304469
-                # https://theposterdb.com/search/advanced/results?term=The+Capture+Season+2&category=Shows&tmdb_id=304469        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/295197
-                # IDs: tmdb://166346, tvdb://1940420
-                # https://theposterdb.com/search/advanced/results?term=Willow+Season+1&category=Shows&tmdb_id=166346&tvdb_id=1940420        

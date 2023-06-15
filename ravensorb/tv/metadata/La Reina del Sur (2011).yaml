@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43098, tvdb://453981
-                # https://theposterdb.com/search/advanced/results?term=La+Reina+del+Sur+Season+1&category=Shows&tmdb_id=43098&tvdb_id=453981
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43099, tvdb://491177
-                # https://theposterdb.com/search/advanced/results?term=La+Reina+del+Sur+Season+2&category=Shows&tmdb_id=43099&tvdb_id=491177        

@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://90294
-                # https://theposterdb.com/search/advanced/results?term=Strike+Season+1&category=Shows&tmdb_id=90294
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://92290
-                # https://theposterdb.com/search/advanced/results?term=Strike+Season+2&category=Shows&tmdb_id=92290
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://99449
-                # https://theposterdb.com/search/advanced/results?term=Strike+Season+3&category=Shows&tmdb_id=99449
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://159787
-                # https://theposterdb.com/search/advanced/results?term=Strike+Season+4&category=Shows&tmdb_id=159787
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://318039
-                # https://theposterdb.com/search/advanced/results?term=Strike+Season+5&category=Shows&tmdb_id=318039        

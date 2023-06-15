@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/359491
-                # IDs: tmdb://212310
-                # https://theposterdb.com/search/advanced/results?term=The+Endgame+Season+1&category=Shows&tmdb_id=212310        

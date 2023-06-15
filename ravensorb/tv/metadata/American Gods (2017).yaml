@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345913
-                # IDs: tmdb://68626, tvdb://1769411
-                # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+1&category=Shows&tmdb_id=68626&tvdb_id=1769411
             2:
                 url_poster: https://theposterdb.com/api/assets/345914
-                # IDs: tmdb://113970
-                # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+2&category=Shows&tmdb_id=113970
             3:
                 url_poster: https://theposterdb.com/api/assets/345915
-                # IDs: tmdb://166922
-                # https://theposterdb.com/search/advanced/results?term=American+Gods+Season+3&category=Shows&tmdb_id=166922        

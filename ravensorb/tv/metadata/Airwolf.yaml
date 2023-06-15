@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/231970
-                # IDs: tmdb://6433, tvdb://5462
-                # https://theposterdb.com/search/advanced/results?term=Airwolf+Season+1&category=Shows&tmdb_id=6433&tvdb_id=5462
             2:
                 url_poster: https://theposterdb.com/api/assets/231971
-                # IDs: tmdb://6432, tvdb://5463
-                # https://theposterdb.com/search/advanced/results?term=Airwolf+Season+2&category=Shows&tmdb_id=6432&tvdb_id=5463
             3:
                 url_poster: https://theposterdb.com/api/assets/231972
-                # IDs: tmdb://6434, tvdb://5464
-                # https://theposterdb.com/search/advanced/results?term=Airwolf+Season+3&category=Shows&tmdb_id=6434&tvdb_id=5464
             4:
                 url_poster: https://theposterdb.com/api/assets/2319703
-                # IDs: tmdb://6431, tvdb://5465
-                # https://theposterdb.com/search/advanced/results?term=Airwolf+Season+4&category=Shows&tmdb_id=6431&tvdb_id=5465        

@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/321884
-                # IDs: tmdb://125153, tvdb://825688
-                # https://theposterdb.com/search/advanced/results?term=Dickinson+Season+1&category=Shows&tmdb_id=125153&tvdb_id=825688
             2:
                 url_poster: https://theposterdb.com/api/assets/321886
-                # IDs: tmdb://165213, tvdb://1851797
-                # https://theposterdb.com/search/advanced/results?term=Dickinson+Season+2&category=Shows&tmdb_id=165213&tvdb_id=1851797
             3:
                 url_poster: https://theposterdb.com/api/assets/321887
-                # IDs: tmdb://208920, tvdb://1953522
-                # https://theposterdb.com/search/advanced/results?term=Dickinson+Season+3&category=Shows&tmdb_id=208920&tvdb_id=1953522        

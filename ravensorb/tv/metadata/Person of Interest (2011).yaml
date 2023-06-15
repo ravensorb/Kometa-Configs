@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330260
-                # IDs: tmdb://3693, tvdb://465950
-                # https://theposterdb.com/search/advanced/results?term=Person+of+Interest+%282011%29+Season+1&category=Shows&tmdb_id=3693&tvdb_id=465950
             2:
                 url_poster: https://theposterdb.com/api/assets/330261
-                # IDs: tmdb://3694, tvdb://495875
-                # https://theposterdb.com/search/advanced/results?term=Person+of+Interest+%282011%29+Season+2&category=Shows&tmdb_id=3694&tvdb_id=495875
             3:
                 url_poster: https://theposterdb.com/api/assets/330262
-                # IDs: tmdb://3696, tvdb://522808
-                # https://theposterdb.com/search/advanced/results?term=Person+of+Interest+%282011%29+Season+3&category=Shows&tmdb_id=3696&tvdb_id=522808
             4:
                 url_poster: https://theposterdb.com/api/assets/330263
-                # IDs: tmdb://62021, tvdb://589267
-                # https://theposterdb.com/search/advanced/results?term=Person+of+Interest+%282011%29+Season+4&category=Shows&tmdb_id=62021&tvdb_id=589267
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://70251, tvdb://646787
-                # https://theposterdb.com/search/advanced/results?term=Person+of+Interest+%282011%29+Season+5&category=Shows&tmdb_id=70251&tvdb_id=646787        
+            5:
+                url_poster: https://theposterdb.com/api/assets/330271

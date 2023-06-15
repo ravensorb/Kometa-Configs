@@ -12,13 +12,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/357120
-                # IDs: tmdb://4004
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+1&category=Shows&tmdb_id=4004
             2:
                 url_poster: https://theposterdb.com/api/assets/357121
-                # IDs: tmdb://4005
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+2&category=Shows&tmdb_id=4005
             3:
                 url_poster: https://theposterdb.com/api/assets/357122
-                # IDs: tmdb://4006
-                # https://theposterdb.com/search/advanced/results?term=Spider-Man+%281967%29+Season+3&category=Shows&tmdb_id=4006        

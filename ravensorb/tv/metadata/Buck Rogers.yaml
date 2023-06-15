@@ -14,8 +14,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://172104
-                # https://theposterdb.com/search/advanced/results?term=Buck+Rogers+Season+1&category=Shows&tmdb_id=172104        
 
     "Buck Rogers in the 25th Century (1979)":
         year: 1979
@@ -32,9 +30,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/278343
-                # IDs: tmdb://7698, tvdb://7596
-                # https://theposterdb.com/search/advanced/results?term=Buck+Rogers+in+the+25th+Century+Season+1&category=Shows&tmdb_id=7698&tvdb_id=7596
             2:
                 url_poster: https://theposterdb.com/api/assets/278344
-                # IDs: tmdb://7699, tvdb://7597
-                # https://theposterdb.com/search/advanced/results?term=Buck+Rogers+in+the+25th+Century+Season+2&category=Shows&tmdb_id=7699&tvdb_id=7597        

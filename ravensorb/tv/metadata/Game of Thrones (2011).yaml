@@ -14,33 +14,17 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/241590
-                # IDs: tmdb://3624, tvdb://364731
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+1&category=Shows&tmdb_id=3624&tvdb_id=364731
             2:
                 url_poster: https://theposterdb.com/api/assets/241591
-                # IDs: tmdb://3625, tvdb://473271
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+2&category=Shows&tmdb_id=3625&tvdb_id=473271
             3:
                 url_poster: https://theposterdb.com/api/assets/241592
-                # IDs: tmdb://3626, tvdb://488434
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+3&category=Shows&tmdb_id=3626&tvdb_id=488434
             4:
                 url_poster: https://theposterdb.com/api/assets/241593
-                # IDs: tmdb://3628, tvdb://568657
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+4&category=Shows&tmdb_id=3628&tvdb_id=568657
             5:
                 url_poster: https://theposterdb.com/api/assets/241594
-                # IDs: tmdb://62090, tvdb://607490
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+5&category=Shows&tmdb_id=62090&tvdb_id=607490
             6:
                 url_poster: https://theposterdb.com/api/assets/241595
-                # IDs: tmdb://71881, tvdb://651357
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+6&category=Shows&tmdb_id=71881&tvdb_id=651357
             7:
                 url_poster: https://theposterdb.com/api/assets/241596
-                # IDs: tmdb://81266, tvdb://703353
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+7&category=Shows&tmdb_id=81266&tvdb_id=703353
             8:
                 url_poster: https://theposterdb.com/api/assets/241597
-                # IDs: tmdb://107971, tvdb://793782
-                # https://theposterdb.com/search/advanced/results?term=Game+of+Thrones+Season+8&category=Shows&tmdb_id=107971&tvdb_id=793782        

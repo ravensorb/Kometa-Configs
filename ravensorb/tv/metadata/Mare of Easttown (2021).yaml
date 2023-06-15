@@ -5,14 +5,12 @@ metadata:
         alt_title: "Mare of Easttown (2021)"
         orig_title: "Mare of Easttown"
         sort_title: "Mare of Easttown"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/332939
         # IDs: imdb://tt10155688, tmdb://115004, tvdb://370112
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mare+of+Easttown&category=Shows&year_filter=equals&yone=2021&tmdb_id=115004&imdb_id=tt10155688&tvdb_id=370112
         # tmdb: https://www.themoviedb.org/tv/115004
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=370112
         # imdb: https://www.imdb.com/title/tt10155688
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://173032, tvdb://1900747
-                # https://theposterdb.com/search/advanced/results?term=Mare+of+Easttown+Season+1&category=Shows&tmdb_id=173032&tvdb_id=1900747        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/332940

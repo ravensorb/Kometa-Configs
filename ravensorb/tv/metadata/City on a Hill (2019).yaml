@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103921, tvdb://356672
-                # https://theposterdb.com/search/advanced/results?term=City+on+a+Hill+Season+1&category=Shows&tmdb_id=103921&tvdb_id=356672
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://176955
-                # https://theposterdb.com/search/advanced/results?term=City+on+a+Hill+Season+2&category=Shows&tmdb_id=176955
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://284786
-                # https://theposterdb.com/search/advanced/results?term=City+on+a+Hill+Season+3&category=Shows&tmdb_id=284786        

@@ -14,21 +14,11 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/283902
-                # IDs: tmdb://30120, tvdb://281721
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Specials&category=Shows&tmdb_id=30120&tvdb_id=281721
             1:
                 url_poster: https://theposterdb.com/api/assets/283903
-                # IDs: tmdb://30121, tvdb://281751
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Season+1&category=Shows&tmdb_id=30121&tvdb_id=281751
             2:
                 url_poster: https://theposterdb.com/api/assets/283904
-                # IDs: tmdb://30122, tvdb://466395
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Season+2&category=Shows&tmdb_id=30122&tvdb_id=466395
             3:
                 url_poster: https://theposterdb.com/api/assets/283905
-                # IDs: tmdb://30123, tvdb://514622
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Season+3&category=Shows&tmdb_id=30123&tvdb_id=514622
             4:
                 url_poster: https://theposterdb.com/api/assets/283906
-                # IDs: tmdb://62206, tvdb://682348
-                # https://theposterdb.com/search/advanced/results?term=Sherlock+Season+4&category=Shows&tmdb_id=62206&tvdb_id=682348        

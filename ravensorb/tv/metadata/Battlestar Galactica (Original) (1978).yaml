@@ -14,9 +14,5 @@ metadata:
         seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Original%29+Specials&category=Shows
             1:
                 url_poster: https://theposterdb.com/api/assets/253231
-                # IDs: tmdb://59933, tvdb://1786
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Original%29+Season+1&category=Shows&tmdb_id=59933&tvdb_id=1786        

@@ -14,84 +14,44 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360207
             1:
                 url_poster: https://theposterdb.com/api/assets/360208
-                # IDs: tmdb://14073, tvdb://3513
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+1&category=Shows&tmdb_id=14073&tvdb_id=3513
             2:
                 url_poster: https://theposterdb.com/api/assets/360209
-                # IDs: tmdb://14076, tvdb://3514
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+2&category=Shows&tmdb_id=14076&tvdb_id=3514
             3:
                 url_poster: https://theposterdb.com/api/assets/360210
-                # IDs: tmdb://14077, tvdb://3515
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+3&category=Shows&tmdb_id=14077&tvdb_id=3515
             4:
                 url_poster: https://theposterdb.com/api/assets/360211
-                # IDs: tmdb://14075, tvdb://16341
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+4&category=Shows&tmdb_id=14075&tvdb_id=16341
             5:
                 url_poster: https://theposterdb.com/api/assets/360212
-                # IDs: tmdb://14074, tvdb://28493
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+5&category=Shows&tmdb_id=14074&tvdb_id=28493
             6:
                 url_poster: https://theposterdb.com/api/assets/360213
-                # IDs: tmdb://14072, tvdb://34571
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+6&category=Shows&tmdb_id=14072&tvdb_id=34571
             7:
                 url_poster: https://theposterdb.com/api/assets/360214
-                # IDs: tmdb://14078, tvdb://82841
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+7&category=Shows&tmdb_id=14078&tvdb_id=82841
             8:
                 url_poster: https://theposterdb.com/api/assets/360215
-                # IDs: tmdb://14079, tvdb://275641
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+8&category=Shows&tmdb_id=14079&tvdb_id=275641
             9:
                 url_poster: https://theposterdb.com/api/assets/360216
-                # IDs: tmdb://14080, tvdb://465175
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+9&category=Shows&tmdb_id=14080&tvdb_id=465175
             10:
                 url_poster: https://theposterdb.com/api/assets/360217
-                # IDs: tmdb://14082, tvdb://496191
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+10&category=Shows&tmdb_id=14082&tvdb_id=496191
             11:
                 url_poster: https://theposterdb.com/api/assets/360218
-                # IDs: tmdb://14083, tvdb://523530
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+11&category=Shows&tmdb_id=14083&tvdb_id=523530
             12:
                 url_poster: https://theposterdb.com/api/assets/360219
-                # IDs: tmdb://62834, tvdb://589318
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+12&category=Shows&tmdb_id=62834&tvdb_id=589318
             13:
                 url_poster: https://theposterdb.com/api/assets/360220
-                # IDs: tmdb://70439, tvdb://625577
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+13&category=Shows&tmdb_id=70439&tvdb_id=625577
             14:
                 url_poster: https://theposterdb.com/api/assets/360221
-                # IDs: tmdb://79755
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+14&category=Shows&tmdb_id=79755
             15:
                 url_poster: https://theposterdb.com/api/assets/360222
-                # IDs: tmdb://91258
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+15&category=Shows&tmdb_id=91258
             16:
                 url_poster: https://theposterdb.com/api/assets/360223
-                # IDs: tmdb://106151
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+16&category=Shows&tmdb_id=106151
             17:
                 url_poster: https://theposterdb.com/api/assets/360224
-                # IDs: tmdb://126158
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+17&category=Shows&tmdb_id=126158
             18:
                 url_poster: https://theposterdb.com/api/assets/360225
-                # IDs: tmdb://167653
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+18&category=Shows&tmdb_id=167653
             19:
                 url_poster: https://theposterdb.com/api/assets/360226
-                # IDs: tmdb://201998
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+19&category=Shows&tmdb_id=201998
             20:
                 url_poster: https://theposterdb.com/api/assets/360227
-                # IDs: tmdb://298439
-                # https://theposterdb.com/search/advanced/results?term=NCIS+Season+20&category=Shows&tmdb_id=298439        
 
     "NCIS: Los Angeles (2009)":
         year: 2009
@@ -110,60 +70,32 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360232
             1:
                 url_poster: https://theposterdb.com/api/assets/360233
-                # IDs: tmdb://28487, tvdb://68421
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+1&category=Shows&tmdb_id=28487&tvdb_id=68421
             2:
                 url_poster: https://theposterdb.com/api/assets/360234
-                # IDs: tmdb://28488, tvdb://241471
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+2&category=Shows&tmdb_id=28488&tvdb_id=241471
             3:
                 url_poster: https://theposterdb.com/api/assets/360235
-                # IDs: tmdb://28490, tvdb://471026
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+3&category=Shows&tmdb_id=28490&tvdb_id=471026
             4:
                 url_poster: https://theposterdb.com/api/assets/360236
-                # IDs: tmdb://28491, tvdb://496192
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+4&category=Shows&tmdb_id=28491&tvdb_id=496192
             5:
                 url_poster: https://theposterdb.com/api/assets/360237
-                # IDs: tmdb://28492, tvdb://520785
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+5&category=Shows&tmdb_id=28492&tvdb_id=520785
             6:
                 url_poster: https://theposterdb.com/api/assets/360238
-                # IDs: tmdb://62840, tvdb://582907
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+6&category=Shows&tmdb_id=62840&tvdb_id=582907
             7:
                 url_poster: https://theposterdb.com/api/assets/360239
-                # IDs: tmdb://70809, tvdb://625576
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+7&category=Shows&tmdb_id=70809&tvdb_id=625576
             8:
                 url_poster: https://theposterdb.com/api/assets/360240
-                # IDs: tmdb://80156, tvdb://671552
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+8&category=Shows&tmdb_id=80156&tvdb_id=671552
             9:
                 url_poster: https://theposterdb.com/api/assets/360241
-                # IDs: tmdb://91968, tvdb://711703
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+9&category=Shows&tmdb_id=91968&tvdb_id=711703
             10:
                 url_poster: https://theposterdb.com/api/assets/360242
-                # IDs: tmdb://108332, tvdb://768582
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+10&category=Shows&tmdb_id=108332&tvdb_id=768582
             11:
                 url_poster: https://theposterdb.com/api/assets/360243
-                # IDs: tmdb://129416, tvdb://814706
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+11&category=Shows&tmdb_id=129416&tvdb_id=814706
             12:
                 url_poster: https://theposterdb.com/api/assets/360244
-                # IDs: tmdb://166728, tvdb://1873636
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+12&category=Shows&tmdb_id=166728&tvdb_id=1873636
             13:
                 url_poster: https://theposterdb.com/api/assets/360245
-                # IDs: tmdb://202010, tvdb://1940648
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+13&category=Shows&tmdb_id=202010&tvdb_id=1940648
             14:
                 url_poster: https://theposterdb.com/api/assets/360246
-                # IDs: tmdb://298444, tvdb://2006884
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Los+Angeles+Season+14&category=Shows&tmdb_id=298444&tvdb_id=2006884        
 
     "NCIS: New Orleans (2014)":
         year: 2014
@@ -180,32 +112,18 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360248
-                # IDs: tmdb://62795, tvdb://278125
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+1&category=Shows&tmdb_id=62795&tvdb_id=278125
             2:
                 url_poster: https://theposterdb.com/api/assets/360249
-                # IDs: tmdb://70879, tvdb://625580
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+2&category=Shows&tmdb_id=70879&tvdb_id=625580
             3:
                 url_poster: https://theposterdb.com/api/assets/360250
-                # IDs: tmdb://80239, tvdb://671547
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+3&category=Shows&tmdb_id=80239&tvdb_id=671547
             4:
                 url_poster: https://theposterdb.com/api/assets/360251
-                # IDs: tmdb://91666, tvdb://711702
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+4&category=Shows&tmdb_id=91666&tvdb_id=711702
             5:
                 url_poster: https://theposterdb.com/api/assets/360252
-                # IDs: tmdb://108334, tvdb://771251
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+5&category=Shows&tmdb_id=108334&tvdb_id=771251
             6:
                 url_poster: https://theposterdb.com/api/assets/360253
-                # IDs: tmdb://129343, tvdb://814692
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+6&category=Shows&tmdb_id=129343&tvdb_id=814692
             7:
                 url_poster: https://theposterdb.com/api/assets/360254
-                # IDs: tmdb://165692, tvdb://1873637
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+New+Orleans+Season+7&category=Shows&tmdb_id=165692&tvdb_id=1873637        
 
     "NCIS: Hawai'i (2021)":
         year: 2021
@@ -222,9 +140,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360229
-                # IDs: tmdb://192437
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Hawai%27i+Season+1&category=Shows&tmdb_id=192437
             2:
                 url_poster: https://theposterdb.com/api/assets/360230
-                # IDs: tmdb://298440
-                # https://theposterdb.com/search/advanced/results?term=NCIS%3A+Hawai%27i+Season+2&category=Shows&tmdb_id=298440        

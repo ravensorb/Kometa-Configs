@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://55120
-                # https://theposterdb.com/search/advanced/results?term=Cedar+Cove+Season+1&category=Shows&tmdb_id=55120
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62279
-                # https://theposterdb.com/search/advanced/results?term=Cedar+Cove+Season+2&category=Shows&tmdb_id=62279
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://67521
-                # https://theposterdb.com/search/advanced/results?term=Cedar+Cove+Season+3&category=Shows&tmdb_id=67521        

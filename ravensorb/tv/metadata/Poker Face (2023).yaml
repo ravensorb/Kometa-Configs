@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242968
-                # IDs: tmdb://186440, tvdb://1994976
-                # https://theposterdb.com/search/advanced/results?term=Poker+Face+Season+1&category=Shows&tmdb_id=186440&tvdb_id=1994976        

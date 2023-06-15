@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3883, tvdb://10662
-                # https://theposterdb.com/search/advanced/results?term=Mutant+X+Season+1&category=Shows&tmdb_id=3883&tvdb_id=10662
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3884, tvdb://10663
-                # https://theposterdb.com/search/advanced/results?term=Mutant+X+Season+2&category=Shows&tmdb_id=3884&tvdb_id=10663
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3885, tvdb://10664
-                # https://theposterdb.com/search/advanced/results?term=Mutant+X+Season+3&category=Shows&tmdb_id=3885&tvdb_id=10664        

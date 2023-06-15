@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/295236
-                # IDs: tmdb://99549
-                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+1&category=Shows&tmdb_id=99549
             2:
                 url_poster: https://theposterdb.com/api/assets/295237
-                # IDs: tmdb://168930
-                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+2&category=Shows&tmdb_id=168930
             3:
                 url_poster: https://theposterdb.com/api/assets/295238
-                # IDs: tmdb://234172
-                # https://theposterdb.com/search/advanced/results?term=A+Discovery+of+Witches+Season+3&category=Shows&tmdb_id=234172        

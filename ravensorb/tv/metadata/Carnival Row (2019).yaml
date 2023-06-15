@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335448
-                # IDs: tmdb://125379, tvdb://813405
-                # https://theposterdb.com/search/advanced/results?term=Carnival+Row+Season+1&category=Shows&tmdb_id=125379&tvdb_id=813405
             2:
                 url_poster: https://theposterdb.com/api/assets/335449
-                # IDs: tmdb://315592, tvdb://2007416
-                # https://theposterdb.com/search/advanced/results?term=Carnival+Row+Season+2&category=Shows&tmdb_id=315592&tvdb_id=2007416        

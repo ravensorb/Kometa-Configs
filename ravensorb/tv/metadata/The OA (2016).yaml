@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/338991
-                # IDs: tmdb://82773
-                # https://theposterdb.com/search/advanced/results?term=The+OA+Season+1&category=Shows&tmdb_id=82773
             2:
                 url_poster: https://theposterdb.com/api/assets/338992
-                # IDs: tmdb://119554
-                # https://theposterdb.com/search/advanced/results?term=The+OA+Season+2&category=Shows&tmdb_id=119554        

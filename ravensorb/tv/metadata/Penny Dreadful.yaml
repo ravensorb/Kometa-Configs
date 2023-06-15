@@ -14,16 +14,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344981
-                # IDs: tmdb://60230, tvdb://509754
-                # https://theposterdb.com/search/advanced/results?term=Penny+Dreadful+Season+1&category=Shows&tmdb_id=60230&tvdb_id=509754
             2:
                 url_poster: https://theposterdb.com/api/assets/344982
-                # IDs: tmdb://64777, tvdb://594237
-                # https://theposterdb.com/search/advanced/results?term=Penny+Dreadful+Season+2&category=Shows&tmdb_id=64777&tvdb_id=594237
             3:
                 url_poster: https://theposterdb.com/api/assets/344983
-                # IDs: tmdb://74905, tvdb://652183
-                # https://theposterdb.com/search/advanced/results?term=Penny+Dreadful+Season+3&category=Shows&tmdb_id=74905&tvdb_id=652183        
 
     "Penny Dreadful: City of Angels (2020)":
         year: 2020
@@ -40,5 +34,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344985
-                # IDs: tmdb://111912
-                # https://theposterdb.com/search/advanced/results?term=Penny+Dreadful%3A+City+of+Angels+Season+1&category=Shows&tmdb_id=111912        

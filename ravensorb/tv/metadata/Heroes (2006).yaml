@@ -13,20 +13,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0813715
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/362904
+                # url_poster: https://theposterdb.com/api/assets/362904
             1:
                 url_poster: https://theposterdb.com/api/assets/362905
-                # IDs: tmdb://4534, tvdb://16446
-                # https://theposterdb.com/search/advanced/results?term=Heroes+Season+1&category=Shows&tmdb_id=4534&tvdb_id=16446
             2:
                 url_poster: https://theposterdb.com/api/assets/362906
-                # IDs: tmdb://4535, tvdb://27526
-                # https://theposterdb.com/search/advanced/results?term=Heroes+Season+2&category=Shows&tmdb_id=4535&tvdb_id=27526
             3:
                 url_poster: https://theposterdb.com/api/assets/362907
-                # IDs: tmdb://4536, tvdb://27527
-                # https://theposterdb.com/search/advanced/results?term=Heroes+Season+3&category=Shows&tmdb_id=4536&tvdb_id=27527
             4:
                 url_poster: https://theposterdb.com/api/assets/362908
-                # IDs: tmdb://4537, tvdb://27528
-                # https://theposterdb.com/search/advanced/results?term=Heroes+Season+4&category=Shows&tmdb_id=4537&tvdb_id=27528        

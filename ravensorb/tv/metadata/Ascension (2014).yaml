@@ -13,8 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt3696720
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/348077
+                # url_poster:  https://theposterdb.com/api/assets/348077
             1:
                 url_poster:  https://theposterdb.com/api/assets/348078
-                # IDs: tmdb://60535, tvdb://279553
-                # https://theposterdb.com/search/advanced/results?term=Ascension+Season+1&category=Shows&tmdb_id=60535&tvdb_id=279553        

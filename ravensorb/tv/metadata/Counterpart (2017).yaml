@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://69655, tvdb://736348
-                # https://theposterdb.com/search/advanced/results?term=Counterpart+Season+1&category=Shows&tmdb_id=69655&tvdb_id=736348
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://110934
-                # https://theposterdb.com/search/advanced/results?term=Counterpart+Season+2&category=Shows&tmdb_id=110934        

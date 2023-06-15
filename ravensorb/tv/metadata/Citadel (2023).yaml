@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/368426
-                # IDs: tmdb://172832, tvdb://1939001
-                # https://theposterdb.com/search/advanced/results?term=Citadel+Season+1&category=Shows&tmdb_id=172832&tvdb_id=1939001        

@@ -12,17 +12,9 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/348323
-                # IDs: tmdb://75564, tvdb://651246
-                # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+1&category=Shows&tmdb_id=75564&tvdb_id=651246
             2:
                 url_poster:  https://theposterdb.com/api/assets/348324
-                # IDs: tmdb://88366, tvdb://700520
-                # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+2&category=Shows&tmdb_id=88366&tvdb_id=700520
             3:
                 url_poster:  https://theposterdb.com/api/assets/348325
-                # IDs: tmdb://104907, tvdb://746783
-                # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+3&category=Shows&tmdb_id=104907&tvdb_id=746783
             4:
                 url_poster:  https://theposterdb.com/api/assets/348326
-                # IDs: tmdb://128448, tvdb://1851852
-                # https://theposterdb.com/search/advanced/results?term=Wynonna+Earp+Season+4&category=Shows&tmdb_id=128448&tvdb_id=1851852        

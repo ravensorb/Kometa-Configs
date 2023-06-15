@@ -13,20 +13,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1592154
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/359824
+                # url_poster: https://theposterdb.com/api/assets/359824
             1:
                 url_poster: https://theposterdb.com/api/assets/359825
-                # IDs: tmdb://44098, tvdb://270371
-                # https://theposterdb.com/search/advanced/results?term=Nikita+Season+1&category=Shows&tmdb_id=44098&tvdb_id=270371
             2:
                 url_poster: https://theposterdb.com/api/assets/359826
-                # IDs: tmdb://44100, tvdb://468255
-                # https://theposterdb.com/search/advanced/results?term=Nikita+Season+2&category=Shows&tmdb_id=44100&tvdb_id=468255
             3:
                 url_poster: https://theposterdb.com/api/assets/359827
-                # IDs: tmdb://44099, tvdb://495494
-                # https://theposterdb.com/search/advanced/results?term=Nikita+Season+3&category=Shows&tmdb_id=44099&tvdb_id=495494
             4:
                 url_poster: https://theposterdb.com/api/assets/359828
-                # IDs: tmdb://44102, tvdb://523661
-                # https://theposterdb.com/search/advanced/results?term=Nikita+Season+4&category=Shows&tmdb_id=44102&tvdb_id=523661        

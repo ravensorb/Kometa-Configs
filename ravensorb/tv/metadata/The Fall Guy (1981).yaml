@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14852
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Specials&category=Shows&tmdb_id=14852
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14847, tvdb://3248
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Season+1&category=Shows&tmdb_id=14847&tvdb_id=3248
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14850, tvdb://3249
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Season+2&category=Shows&tmdb_id=14850&tvdb_id=3249
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14848, tvdb://3250
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Season+3&category=Shows&tmdb_id=14848&tvdb_id=3250
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14851, tvdb://3251
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Season+4&category=Shows&tmdb_id=14851&tvdb_id=3251
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14849, tvdb://3252
-                # https://theposterdb.com/search/advanced/results?term=The+Fall+Guy+Season+5&category=Shows&tmdb_id=14849&tvdb_id=3252        

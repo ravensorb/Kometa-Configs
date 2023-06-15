@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://72027, tvdb://634212
-                # https://theposterdb.com/search/advanced/results?term=The+Magicians+Season+1&category=Shows&tmdb_id=72027&tvdb_id=634212
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://84295, tvdb://687902
-                # https://theposterdb.com/search/advanced/results?term=The+Magicians+Season+2&category=Shows&tmdb_id=84295&tvdb_id=687902
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://95556, tvdb://721945
-                # https://theposterdb.com/search/advanced/results?term=The+Magicians+Season+3&category=Shows&tmdb_id=95556&tvdb_id=721945
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://112028
-                # https://theposterdb.com/search/advanced/results?term=The+Magicians+Season+4&category=Shows&tmdb_id=112028
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://137221
-                # https://theposterdb.com/search/advanced/results?term=The+Magicians+Season+5&category=Shows&tmdb_id=137221        

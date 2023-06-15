@@ -14,29 +14,15 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62959, tvdb://497472
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+1&category=Shows&tmdb_id=62959&tvdb_id=497472
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62960, tvdb://578680
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+2&category=Shows&tmdb_id=62960&tvdb_id=578680
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://73880, tvdb://650457
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+3&category=Shows&tmdb_id=73880&tvdb_id=650457
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://99009
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+4&category=Shows&tmdb_id=99009
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://118775
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+5&category=Shows&tmdb_id=118775
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://214686
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+6&category=Shows&tmdb_id=214686
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://303876
-                # https://theposterdb.com/search/advanced/results?term=Shetland+Season+7&category=Shows&tmdb_id=303876        

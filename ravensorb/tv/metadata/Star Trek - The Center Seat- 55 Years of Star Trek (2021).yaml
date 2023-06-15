@@ -12,5 +12,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367794
-                # IDs: tmdb://218249
-                # https://theposterdb.com/search/advanced/results?term=The+Center+Seat%3A+55+Years+of+Star+Trek+Season+1&category=Shows&tmdb_id=218249        

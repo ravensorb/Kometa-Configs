@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/252147
-                # IDs: tmdb://66343, tvdb://606757
-                # https://theposterdb.com/search/advanced/results?term=Mr.+Robot+Season+1&category=Shows&tmdb_id=66343&tvdb_id=606757
             2:
                 url_poster: https://theposterdb.com/api/assets/252148
-                # IDs: tmdb://75658, tvdb://664131
-                # https://theposterdb.com/search/advanced/results?term=Mr.+Robot+Season+2&category=Shows&tmdb_id=75658&tvdb_id=664131
             3:
                 url_poster: https://theposterdb.com/api/assets/252149
-                # IDs: tmdb://91537, tvdb://703652
-                # https://theposterdb.com/search/advanced/results?term=Mr.+Robot+Season+3&category=Shows&tmdb_id=91537&tvdb_id=703652
             4:
                 url_poster: https://theposterdb.com/api/assets/252150
-                # IDs: tmdb://131086
-                # https://theposterdb.com/search/advanced/results?term=Mr.+Robot+Season+4&category=Shows&tmdb_id=131086        

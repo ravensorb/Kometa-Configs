@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://67223, tvdb://613394
-                # https://theposterdb.com/search/advanced/results?term=Humans+%282015%29+Season+1&category=Shows&tmdb_id=67223&tvdb_id=613394
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://80958, tvdb://292124
-                # https://theposterdb.com/search/advanced/results?term=Humans+%282015%29+Season+2&category=Shows&tmdb_id=80958&tvdb_id=292124
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103883
-                # https://theposterdb.com/search/advanced/results?term=Humans+%282015%29+Season+3&category=Shows&tmdb_id=103883        

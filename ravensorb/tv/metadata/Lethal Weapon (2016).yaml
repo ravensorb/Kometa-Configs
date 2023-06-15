@@ -13,14 +13,8 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/350136
-                # IDs: tvdb://670974
-                # https://theposterdb.com/search/advanced/results?term=Lethal+Weapon+Season+1&category=Shows&tvdb_id=670974
             2:
                 url_poster:  https://theposterdb.com/api/assets/350137
-                # IDs: tvdb://717358
-                # https://theposterdb.com/search/advanced/results?term=Lethal+Weapon+Season+2&category=Shows&tvdb_id=717358
             3:
                 url_poster:  https://theposterdb.com/api/assets/350138
-                # IDs: tvdb://770144
-                # https://theposterdb.com/search/advanced/results?term=Lethal+Weapon+Season+3&category=Shows&tvdb_id=770144
         

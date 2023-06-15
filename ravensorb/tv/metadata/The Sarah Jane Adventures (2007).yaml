@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://663
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Specials&category=Shows&tmdb_id=663
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://660, tvdb://17208
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Season+1&category=Shows&tmdb_id=660&tvdb_id=17208
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://659, tvdb://35406
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Season+2&category=Shows&tmdb_id=659&tvdb_id=35406
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://661
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Season+3&category=Shows&tmdb_id=661
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://662
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Season+4&category=Shows&tmdb_id=662
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://664
-                # https://theposterdb.com/search/advanced/results?term=The+Sarah+Jane+Adventures+Season+5&category=Shows&tmdb_id=664        

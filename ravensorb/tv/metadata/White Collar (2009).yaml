@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/247788
-                # IDs: tmdb://31254, tvdb://104251
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+1&category=Shows&tmdb_id=31254&tvdb_id=104251
             2:
                 url_poster: https://theposterdb.com/api/assets/247789
-                # IDs: tmdb://31255, tvdb://242561
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+2&category=Shows&tmdb_id=31255&tvdb_id=242561
             3:
                 url_poster: https://theposterdb.com/api/assets/247790
-                # IDs: tmdb://31256, tvdb://445201
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+3&category=Shows&tmdb_id=31256&tvdb_id=445201
             4:
                 url_poster: https://theposterdb.com/api/assets/247791
-                # IDs: tmdb://31257, tvdb://490425
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+4&category=Shows&tmdb_id=31257&tvdb_id=490425
             5:
                 url_poster: https://theposterdb.com/api/assets/247792
-                # IDs: tmdb://31259, tvdb://526941
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+5&category=Shows&tmdb_id=31259&tvdb_id=526941
             6:
                 url_poster: https://theposterdb.com/api/assets/247793
-                # IDs: tmdb://62839, tvdb://108611
-                # https://theposterdb.com/search/advanced/results?term=White+Collar+Season+6&category=Shows&tmdb_id=62839&tvdb_id=108611        

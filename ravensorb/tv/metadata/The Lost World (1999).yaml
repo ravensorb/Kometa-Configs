@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2589, tvdb://15060
-                # https://theposterdb.com/search/advanced/results?term=The+Lost+World+Season+1&category=Shows&tmdb_id=2589&tvdb_id=15060
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2590, tvdb://15061
-                # https://theposterdb.com/search/advanced/results?term=The+Lost+World+Season+2&category=Shows&tmdb_id=2590&tvdb_id=15061
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2591, tvdb://15062
-                # https://theposterdb.com/search/advanced/results?term=The+Lost+World+Season+3&category=Shows&tmdb_id=2591&tvdb_id=15062        

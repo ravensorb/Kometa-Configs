@@ -14,33 +14,17 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242917
-                # IDs: tmdb://13430, tvdb://2431
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+1&category=Shows&tmdb_id=13430&tvdb_id=2431
             2:
                 url_poster: https://theposterdb.com/api/assets/242918
-                # IDs: tmdb://13433, tvdb://2432
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+2&category=Shows&tmdb_id=13433&tvdb_id=2432
             3:
                 url_poster: https://theposterdb.com/api/assets/242919
-                # IDs: tmdb://13432, tvdb://2433
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+3&category=Shows&tmdb_id=13432&tvdb_id=2433
             4:
                 url_poster: https://theposterdb.com/api/assets/242920
-                # IDs: tmdb://13431, tvdb://2434
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+4&category=Shows&tmdb_id=13431&tvdb_id=2434
             5:
                 url_poster: https://theposterdb.com/api/assets/242921
-                # IDs: tmdb://13436, tvdb://2435
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+5&category=Shows&tmdb_id=13436&tvdb_id=2435
             6:
                 url_poster: https://theposterdb.com/api/assets/242922
-                # IDs: tmdb://13435, tvdb://2436
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+6&category=Shows&tmdb_id=13435&tvdb_id=2436
             7:
                 url_poster: https://theposterdb.com/api/assets/242923
-                # IDs: tmdb://13434, tvdb://2437
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+7&category=Shows&tmdb_id=13434&tvdb_id=2437
             8:
                 url_poster: https://theposterdb.com/api/assets/242924
-                # IDs: tmdb://13437, tvdb://2438
-                # https://theposterdb.com/search/advanced/results?term=Bewitched+Season+8&category=Shows&tmdb_id=13437&tvdb_id=2438        

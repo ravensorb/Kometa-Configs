@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222157
-                # IDs: tmdb://78745, tvdb://716913
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+1&category=Shows&tmdb_id=78745&tvdb_id=716913
             2:
                 url_poster: https://theposterdb.com/api/assets/222158
-                # IDs: tmdb://110143, tvdb://781584
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+2&category=Shows&tmdb_id=110143&tvdb_id=781584
             3:
                 url_poster: https://theposterdb.com/api/assets/222159
-                # IDs: tmdb://157442, tvdb://1857399
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+3&category=Shows&tmdb_id=157442&tvdb_id=1857399
             4:
                 url_poster: https://theposterdb.com/api/assets/222160
-                # IDs: tmdb://204068, tvdb://1954901
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+Discovery+Season+4&category=Shows&tmdb_id=204068&tvdb_id=1954901        

@@ -14,61 +14,31 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7524, tvdb://11566
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+1&category=Shows&tmdb_id=7524&tvdb_id=11566
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7522, tvdb://11573
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+2&category=Shows&tmdb_id=7522&tvdb_id=11573
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7529, tvdb://11574
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+3&category=Shows&tmdb_id=7529&tvdb_id=11574
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7525, tvdb://11575
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+4&category=Shows&tmdb_id=7525&tvdb_id=11575
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7528, tvdb://11576
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+5&category=Shows&tmdb_id=7528&tvdb_id=11576
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7523, tvdb://11577
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+6&category=Shows&tmdb_id=7523&tvdb_id=11577
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7527, tvdb://11578
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+7&category=Shows&tmdb_id=7527&tvdb_id=11578
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7526, tvdb://11579
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+8&category=Shows&tmdb_id=7526&tvdb_id=11579
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7534, tvdb://11580
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+9&category=Shows&tmdb_id=7534&tvdb_id=11580
             # 10:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7531, tvdb://11567
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+10&category=Shows&tmdb_id=7531&tvdb_id=11567
             # 11:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7532, tvdb://11568
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+11&category=Shows&tmdb_id=7532&tvdb_id=11568
             # 12:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7533, tvdb://11569
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+12&category=Shows&tmdb_id=7533&tvdb_id=11569
             # 13:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7530, tvdb://11570
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+13&category=Shows&tmdb_id=7530&tvdb_id=11570
             # 14:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7535, tvdb://11571
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+14&category=Shows&tmdb_id=7535&tvdb_id=11571
             # 15:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7536, tvdb://11572
-                # https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show+Season+15&category=Shows&tmdb_id=7536&tvdb_id=11572        

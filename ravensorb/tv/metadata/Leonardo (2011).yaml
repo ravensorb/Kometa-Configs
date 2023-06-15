@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://51088
-                # https://theposterdb.com/search/advanced/results?term=Leonardo+Season+1&category=Shows&tmdb_id=51088
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://51089
-                # https://theposterdb.com/search/advanced/results?term=Leonardo+Season+2&category=Shows&tmdb_id=51089        

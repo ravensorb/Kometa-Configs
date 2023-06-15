@@ -13,8 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt3487382
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/353514
+                # url_poster: https://theposterdb.com/api/assets/353514
             1:
                 url_poster: https://theposterdb.com/api/assets/353515
-                # IDs: tmdb://60480, tvdb://281535
-                # https://theposterdb.com/search/advanced/results?term=Forever+%282014%29+Season+1&category=Shows&tmdb_id=60480&tvdb_id=281535        

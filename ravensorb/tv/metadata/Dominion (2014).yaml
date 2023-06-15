@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://60323, tvdb://573616
-                # https://theposterdb.com/search/advanced/results?term=Dominion+Season+1&category=Shows&tmdb_id=60323&tvdb_id=573616
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://67017, tvdb://619444
-                # https://theposterdb.com/search/advanced/results?term=Dominion+Season+2&category=Shows&tmdb_id=67017&tvdb_id=619444        

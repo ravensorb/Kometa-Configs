@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5936, tvdb://8446
-                # https://theposterdb.com/search/advanced/results?term=Moonlighting+Season+1&category=Shows&tmdb_id=5936&tvdb_id=8446
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5935, tvdb://8447
-                # https://theposterdb.com/search/advanced/results?term=Moonlighting+Season+2&category=Shows&tmdb_id=5935&tvdb_id=8447
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5934, tvdb://8448
-                # https://theposterdb.com/search/advanced/results?term=Moonlighting+Season+3&category=Shows&tmdb_id=5934&tvdb_id=8448
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5933, tvdb://8449
-                # https://theposterdb.com/search/advanced/results?term=Moonlighting+Season+4&category=Shows&tmdb_id=5933&tvdb_id=8449
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5937, tvdb://8450
-                # https://theposterdb.com/search/advanced/results?term=Moonlighting+Season+5&category=Shows&tmdb_id=5937&tvdb_id=8450        

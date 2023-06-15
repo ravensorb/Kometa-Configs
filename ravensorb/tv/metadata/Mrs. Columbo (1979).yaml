@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2883
-                # https://theposterdb.com/search/advanced/results?term=Mrs.+Columbo+Season+1&category=Shows&tmdb_id=2883
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2884
-                # https://theposterdb.com/search/advanced/results?term=Mrs.+Columbo+Season+2&category=Shows&tmdb_id=2884        

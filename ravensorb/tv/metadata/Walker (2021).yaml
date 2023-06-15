@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367996
-                # IDs: tmdb://142884, tvdb://1877751
-                # https://theposterdb.com/search/advanced/results?term=Walker+Season+1&category=Shows&tmdb_id=142884&tvdb_id=1877751
             2:
                 url_poster: https://theposterdb.com/api/assets/367997
-                # IDs: tmdb://199279, tvdb://1934885
-                # https://theposterdb.com/search/advanced/results?term=Walker+Season+2&category=Shows&tmdb_id=199279&tvdb_id=1934885
             3:
                 url_poster: https://theposterdb.com/api/assets/367998
-                # IDs: tmdb://299786, tvdb://2008659
-                # https://theposterdb.com/search/advanced/results?term=Walker+Season+3&category=Shows&tmdb_id=299786&tvdb_id=2008659        

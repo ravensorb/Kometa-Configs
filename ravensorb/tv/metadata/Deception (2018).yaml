@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/294668
-                # IDs: tmdb://88391, tvdb://328638
-                # https://theposterdb.com/search/advanced/results?term=Deception+%282018%29+Season+1&category=Shows&tmdb_id=88391&tvdb_id=328638        

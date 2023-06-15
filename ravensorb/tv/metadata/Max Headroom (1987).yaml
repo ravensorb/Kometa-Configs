@@ -14,13 +14,7 @@ metadata:
         seasons:
             0:
                 url_poster:  https://theposterdb.com/api/assets/354196
-                # IDs: tmdb://14101
-                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Specials&category=Shows&tmdb_id=14101
             1:
                 url_poster:  https://theposterdb.com/api/assets/354198
-                # IDs: tmdb://14099, tvdb://8787
-                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Season+1&category=Shows&tmdb_id=14099&tvdb_id=8787
             2:
                 url_poster:  https://theposterdb.com/api/assets/354197
-                # IDs: tmdb://14100, tvdb://8788
-                # https://theposterdb.com/search/advanced/results?term=Max+Headroom+Season+2&category=Shows&tmdb_id=14100&tvdb_id=8788        

@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://124520, tvdb://815152
-                # https://theposterdb.com/search/advanced/results?term=Nancy+Drew+%282019%29+Season+1&category=Shows&tmdb_id=124520&tvdb_id=815152
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://170842, tvdb://1877750
-                # https://theposterdb.com/search/advanced/results?term=Nancy+Drew+%282019%29+Season+2&category=Shows&tmdb_id=170842&tvdb_id=1877750
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://199274, tvdb://1932057
-                # https://theposterdb.com/search/advanced/results?term=Nancy+Drew+%282019%29+Season+3&category=Shows&tmdb_id=199274&tvdb_id=1932057        

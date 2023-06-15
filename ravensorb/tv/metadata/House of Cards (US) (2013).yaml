@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/324357
-                # IDs: tmdb://3768, tvdb://502436
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+1&category=Shows&tmdb_id=3768&tvdb_id=502436
             2:
                 url_poster: https://theposterdb.com/api/assets/324358
-                # IDs: tmdb://3767, tvdb://517715
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+2&category=Shows&tmdb_id=3767&tvdb_id=517715
             3:
                 url_poster: https://theposterdb.com/api/assets/324359
-                # IDs: tmdb://63599, tvdb://262980
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+3&category=Shows&tmdb_id=63599&tvdb_id=262980
             4:
                 url_poster: https://theposterdb.com/api/assets/324360
-                # IDs: tmdb://72724
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+4&category=Shows&tmdb_id=72724
             5:
                 url_poster: https://theposterdb.com/api/assets/324361
-                # IDs: tmdb://84188
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+5&category=Shows&tmdb_id=84188
             6:
                 url_poster: https://theposterdb.com/api/assets/324362
-                # IDs: tmdb://99023
-                # https://theposterdb.com/search/advanced/results?term=House+of+Cards+%28US%29+Season+6&category=Shows&tmdb_id=99023        

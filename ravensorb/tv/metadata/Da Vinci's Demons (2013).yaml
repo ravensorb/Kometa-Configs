@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/294084
-                # IDs: tmdb://51265, tvdb://496577
-                # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+1&category=Shows&tmdb_id=51265&tvdb_id=496577
             2:
                 url_poster: https://theposterdb.com/api/assets/294085
-                # IDs: tmdb://51266, tvdb://522561
-                # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+2&category=Shows&tmdb_id=51266&tvdb_id=522561
             3:
                 url_poster: https://theposterdb.com/api/assets/294086
-                # IDs: tmdb://67288, tvdb://621881
-                # https://theposterdb.com/search/advanced/results?term=Da+Vinci%27s+Demons+Season+3&category=Shows&tmdb_id=67288&tvdb_id=621881        

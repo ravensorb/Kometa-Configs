@@ -12,17 +12,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366311
-                # IDs: tmdb://133716, tvdb://830731
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+1&category=Shows&tmdb_id=133716&tvdb_id=830731
             2:
                 url_poster: https://theposterdb.com/api/assets/366312
-                # IDs: tmdb://166425, tvdb://1864197
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+2&category=Shows&tmdb_id=166425&tvdb_id=1864197
             3:
                 url_poster: https://theposterdb.com/api/assets/366313
-                # IDs: tmdb://202000, tvdb://1940630
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+3&category=Shows&tmdb_id=202000&tvdb_id=1940630
             4:
                 url_poster: https://theposterdb.com/api/assets/366314
-                # IDs: tmdb://298430, tvdb://2006871
-                # https://theposterdb.com/search/advanced/results?term=FBI%3A+Most+Wanted+Season+4&category=Shows&tmdb_id=298430&tvdb_id=2006871        

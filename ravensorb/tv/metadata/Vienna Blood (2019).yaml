@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://133080
-                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Season+1&category=Shows&tmdb_id=133080
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://185911
-                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Season+2&category=Shows&tmdb_id=185911
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://317352
-                # https://theposterdb.com/search/advanced/results?term=Vienna+Blood+Series+3&category=Shows&tmdb_id=317352        

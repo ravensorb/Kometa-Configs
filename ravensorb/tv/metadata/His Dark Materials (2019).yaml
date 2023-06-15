@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/309616
-                # IDs: tmdb://81616, tvdb://824786
-                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Season+1&category=Shows&tmdb_id=81616&tvdb_id=824786
             2:
                 url_poster: https://theposterdb.com/api/assets/309617
-                # IDs: tmdb://157147, tvdb://1820053
-                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Season+2&category=Shows&tmdb_id=157147&tvdb_id=1820053
             3:
                 url_poster: https://theposterdb.com/api/assets/309618
-                # IDs: tmdb://311624, tvdb://1888617
-                # https://theposterdb.com/search/advanced/results?term=His+Dark+Materials+Series+3&category=Shows&tmdb_id=311624&tvdb_id=1888617        

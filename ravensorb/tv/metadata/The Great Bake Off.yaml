@@ -14,60 +14,32 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/293222
-                # IDs: tmdb://45294, tvdb://302261
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Specials&category=Shows&tmdb_id=45294&tvdb_id=302261
             1:
                 url_poster: https://theposterdb.com/api/assets/293223
-                # IDs: tmdb://45293, tvdb://302271
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+1&category=Shows&tmdb_id=45293&tvdb_id=302271
             2:
                 url_poster: https://theposterdb.com/api/assets/293224
-                # IDs: tmdb://45296, tvdb://472096
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+2&category=Shows&tmdb_id=45296&tvdb_id=472096
             3:
                 url_poster: https://theposterdb.com/api/assets/293225
-                # IDs: tmdb://45295, tvdb://498436
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+3&category=Shows&tmdb_id=45295&tvdb_id=498436
             4:
                 url_poster: https://theposterdb.com/api/assets/293226
-                # IDs: tmdb://45297, tvdb://525723
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+4&category=Shows&tmdb_id=45297&tvdb_id=525723
             5:
                 url_poster: https://theposterdb.com/api/assets/293227
-                # IDs: tmdb://62219
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+5&category=Shows&tmdb_id=62219
             6:
                 url_poster: https://theposterdb.com/api/assets/293228
-                # IDs: tmdb://69330
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+6&category=Shows&tmdb_id=69330
             7:
                 url_poster: https://theposterdb.com/api/assets/293229
-                # IDs: tmdb://79474
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+7&category=Shows&tmdb_id=79474
             8:
                 url_poster: https://theposterdb.com/api/assets/293231
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+8&category=Shows
             9:
                 url_poster: https://theposterdb.com/api/assets/293232
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+9&category=Shows
             10:
                 url_poster: https://theposterdb.com/api/assets/293233
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+10&category=Shows
             11:
                 url_poster: https://theposterdb.com/api/assets/293234
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+11&category=Shows
             12:
                 url_poster: https://theposterdb.com/api/assets/293235
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+12&category=Shows
             13:
                 url_poster: https://theposterdb.com/api/assets/293236
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off+Season+13&category=Shows        
 
     "The Great Comic Relief Bake Off (2013)":
         year: 2013
@@ -84,8 +56,6 @@ metadata:
         # seasons:
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://118184
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Comic+Relief+Bake+Off+Season+2&category=Shows&tmdb_id=118184        
 
     "The Great British Baking Show Masterclass (2013)":
         year: 2013
@@ -102,16 +72,10 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Baking+Show+Masterclass+Season+1&category=Shows
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Baking+Show+Masterclass+Season+2&category=Shows
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Baking+Show+Masterclass+Season+3&category=Shows        
 
     "The Great British Bake Off: An Extra Slice (2014)":
         year: 2014
@@ -128,36 +92,20 @@ metadata:
         # seasons:
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://95041
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Series+2&category=Shows&tmdb_id=95041
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://79549
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Series+3&category=Shows&tmdb_id=79549
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+4&category=Shows
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+5&category=Shows
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+6&category=Shows
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+7&category=Shows
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+8&category=Shows
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Great+British+Bake+Off%3A+An+Extra+Slice+Season+9&category=Shows        
 
     "The Great American Baking Show (2015)":
         year: 2015
@@ -172,18 +120,16 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=303773
         # imdb: https://www.imdb.com/title/tt5233284
         # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://96212, tvdb://735584
-                # https://theposterdb.com/search/advanced/results?term=The+Great+American+Baking+Show+Season+3&category=Shows&tmdb_id=96212&tvdb_id=735584
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://114036
-                # https://theposterdb.com/search/advanced/results?term=The+Great+American+Baking+Show+Season+4&category=Shows&tmdb_id=114036
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://137991
-                # https://theposterdb.com/search/advanced/results?term=The+Great+American+Baking+Show+Season+5%3A+Holiday+Edition&category=Shows&tmdb_id=137991        
 
     "The Great Celebrity Bake Off for SU2C (2018)":
         year: 2018
@@ -200,25 +146,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://100171
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+1&category=Shows&tmdb_id=100171
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://119364
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+2&category=Shows&tmdb_id=119364
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://144343
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+3&category=Shows&tmdb_id=144343
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://183814
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+4&category=Shows&tmdb_id=183814
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://283048
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+5&category=Shows&tmdb_id=283048
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://332145, tvdb://2052855
-                # https://theposterdb.com/search/advanced/results?term=The+Great+Celebrity+Bake+Off+for+SU2C+Season+6&category=Shows&tmdb_id=332145&tvdb_id=2052855        

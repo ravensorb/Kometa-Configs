@@ -15,10 +15,6 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/349449
             1:
                 url_poster: https://theposterdb.com/api/assets/349450
-                # IDs: tvdb://32558
-                # https://theposterdb.com/search/advanced/results?term=Dollhouse+Season+1&category=Shows&tvdb_id=32558
             2:
                 url_poster: https://theposterdb.com/api/assets/349451
-                # IDs: tvdb://79111
-                # https://theposterdb.com/search/advanced/results?term=Dollhouse+Season+2&category=Shows&tvdb_id=79111
         

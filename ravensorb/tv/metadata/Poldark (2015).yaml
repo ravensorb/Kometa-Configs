@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/243439
-                # IDs: tmdb://65105
-                # https://theposterdb.com/search/advanced/results?term=Poldark+%282015%29+Season+1&category=Shows&tmdb_id=65105
             2:
                 url_poster: https://theposterdb.com/api/assets/243440
-                # IDs: tmdb://79329
-                # https://theposterdb.com/search/advanced/results?term=Poldark+%282015%29+Season+2&category=Shows&tmdb_id=79329
             3:
                 url_poster: https://theposterdb.com/api/assets/243441
-                # IDs: tmdb://89064
-                # https://theposterdb.com/search/advanced/results?term=Poldark+%282015%29+Season+3&category=Shows&tmdb_id=89064
             4:
                 url_poster: https://theposterdb.com/api/assets/243442
-                # IDs: tmdb://104982
-                # https://theposterdb.com/search/advanced/results?term=Poldark+%282015%29+Season+4&category=Shows&tmdb_id=104982
             5:
                 url_poster: https://theposterdb.com/api/assets/243443
-                # IDs: tmdb://126879
-                # https://theposterdb.com/search/advanced/results?term=Poldark+%282015%29+Season+5&category=Shows&tmdb_id=126879        

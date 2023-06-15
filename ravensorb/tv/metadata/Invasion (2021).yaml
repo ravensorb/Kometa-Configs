@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/245401
-                # IDs: tmdb://198668, tvdb://1933168
-                # https://theposterdb.com/search/advanced/results?term=Invasion+%282021%29+Season+1&category=Shows&tmdb_id=198668&tvdb_id=1933168        

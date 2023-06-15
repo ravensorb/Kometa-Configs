@@ -14,45 +14,23 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/327078
-                # IDs: tmdb://12078, tvdb://12715
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+1&category=Shows&tmdb_id=12078&tvdb_id=12715
             2:
                 url_poster: https://theposterdb.com/api/assets/327079
-                # IDs: tmdb://12079, tvdb://12716
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+2&category=Shows&tmdb_id=12079&tvdb_id=12716
             3:
                 url_poster: https://theposterdb.com/api/assets/327080
-                # IDs: tmdb://12080, tvdb://12717
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+3&category=Shows&tmdb_id=12080&tvdb_id=12717
             4:
                 url_poster: https://theposterdb.com/api/assets/327081
-                # IDs: tmdb://12081, tvdb://12718
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+4&category=Shows&tmdb_id=12081&tvdb_id=12718
             5:
                 url_poster: https://theposterdb.com/api/assets/327082
-                # IDs: tmdb://12082, tvdb://12719
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+5&category=Shows&tmdb_id=12082&tvdb_id=12719
             6:
                 url_poster: https://theposterdb.com/api/assets/327083
-                # IDs: tmdb://12083, tvdb://12720
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+6&category=Shows&tmdb_id=12083&tvdb_id=12720
             7:
                 url_poster: https://theposterdb.com/api/assets/327084
-                # IDs: tmdb://12084, tvdb://12721
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+7&category=Shows&tmdb_id=12084&tvdb_id=12721
             8:
                 url_poster: https://theposterdb.com/api/assets/327085
-                # IDs: tmdb://12085, tvdb://12722
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+8&category=Shows&tmdb_id=12085&tvdb_id=12722
             9:
                 url_poster: https://theposterdb.com/api/assets/327086
-                # IDs: tmdb://12086, tvdb://12723
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+9&category=Shows&tmdb_id=12086&tvdb_id=12723
             10:
                 url_poster: https://theposterdb.com/api/assets/327087
-                # IDs: tmdb://68296, tvdb://622944
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+10&category=Shows&tmdb_id=68296&tvdb_id=622944
             11:
                 url_poster: https://theposterdb.com/api/assets/327088
-                # IDs: tmdb://93959, tvdb://737986
-                # https://theposterdb.com/search/advanced/results?term=The+X-Files+Season+11&category=Shows&tmdb_id=93959&tvdb_id=737986        

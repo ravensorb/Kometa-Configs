@@ -13,24 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1474684
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/359949
+                # url_poster: https://theposterdb.com/api/assets/359949
             1:
                 url_poster: https://theposterdb.com/api/assets/359950
-                # IDs: tmdb://3769
-                # https://theposterdb.com/search/advanced/results?term=Luther+Season+1&category=Shows&tmdb_id=3769
             2:
                 url_poster: https://theposterdb.com/api/assets/359951
-                # IDs: tmdb://3770
-                # https://theposterdb.com/search/advanced/results?term=Luther+Season+2&category=Shows&tmdb_id=3770
             3:
                 url_poster: https://theposterdb.com/api/assets/359952
-                # IDs: tmdb://3771
-                # https://theposterdb.com/search/advanced/results?term=Luther+Season+3&category=Shows&tmdb_id=3771
             4:
                 url_poster: https://theposterdb.com/api/assets/359953
-                # IDs: tmdb://72444
-                # https://theposterdb.com/search/advanced/results?term=Luther+Season+4&category=Shows&tmdb_id=72444
             5:
                 url_poster: https://theposterdb.com/api/assets/359954
-                # IDs: tmdb://113142
-                # https://theposterdb.com/search/advanced/results?term=Luther+Season+5&category=Shows&tmdb_id=113142        

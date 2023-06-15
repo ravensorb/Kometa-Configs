@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/200215
-                # IDs: tmdb://110346, tvdb://806365
-                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+1&category=Shows&tmdb_id=110346&tvdb_id=806365
             2:
                 url_poster: https://theposterdb.com/api/assets/200216
-                # IDs: tmdb://153254, tvdb://1864668
-                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+2&category=Shows&tmdb_id=153254&tvdb_id=1864668
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://308088, tvdb://2032829
-                # https://theposterdb.com/search/advanced/results?term=The+Mandalorian+Season+3&category=Shows&tmdb_id=308088&tvdb_id=2032829        
+            3:
+                url_poster: https://theposterdb.com/api/assets/319818

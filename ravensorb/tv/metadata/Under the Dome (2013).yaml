@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328449
-                # IDs: tmdb://54621, tvdb://506312
-                # https://theposterdb.com/search/advanced/results?term=Under+the+Dome+Season+1&category=Shows&tmdb_id=54621&tvdb_id=506312
             2:
                 url_poster: https://theposterdb.com/api/assets/328450
-                # IDs: tmdb://60673, tvdb://573392
-                # https://theposterdb.com/search/advanced/results?term=Under+the+Dome+Season+2&category=Shows&tmdb_id=60673&tvdb_id=573392
             3:
                 url_poster: https://theposterdb.com/api/assets/328451
-                # IDs: tmdb://65568, tvdb://609547
-                # https://theposterdb.com/search/advanced/results?term=Under+the+Dome+Season+3&category=Shows&tmdb_id=65568&tvdb_id=609547        

@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/288251
-                # IDs: tmdb://4833, tvdb://9014
-                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+1&category=Shows&tmdb_id=4833&tvdb_id=9014
             2:
                 url_poster: https://theposterdb.com/api/assets/288252
-                # IDs: tmdb://4836, tvdb://9015
-                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+2&category=Shows&tmdb_id=4836&tvdb_id=9015
             3:
                 url_poster: https://theposterdb.com/api/assets/288253
-                # IDs: tmdb://4835, tvdb://9016
-                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+3&category=Shows&tmdb_id=4835&tvdb_id=9016
             4:
                 url_poster: https://theposterdb.com/api/assets/288254
-                # IDs: tmdb://4834, tvdb://9017
-                # https://theposterdb.com/search/advanced/results?term=Blake%27s+7+Season+4&category=Shows&tmdb_id=4834&tvdb_id=9017        

@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/363198
-                # IDs: tmdb://188661, tvdb://1915015
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Vegas+Season+1&category=Shows&tmdb_id=188661&tvdb_id=1915015
             2:
                 url_poster: https://theposterdb.com/api/assets/363199
-                # IDs: tmdb://298431, tvdb://2006867
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Vegas+Season+2&category=Shows&tmdb_id=298431&tvdb_id=2006867        

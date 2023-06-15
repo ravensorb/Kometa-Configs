@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/353396
-                # IDs: tmdb://78328, tvdb://311876
-                # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+1&category=Shows&tmdb_id=78328&tvdb_id=311876
             2:
                 url_poster: https://theposterdb.com/api/assets/353397
-                # IDs: tmdb://91130, tvdb://718031
-                # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+2&category=Shows&tmdb_id=91130&tvdb_id=718031
             3:
                 url_poster: https://theposterdb.com/api/assets/353398
-                # IDs: tmdb://122914
-                # https://theposterdb.com/search/advanced/results?term=Designated+Survivor+Season+3&category=Shows&tmdb_id=122914        

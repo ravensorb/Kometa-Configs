@@ -14,12 +14,8 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6996, tvdb://10909
-                # https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds+Season+1&category=Shows&tmdb_id=6996&tvdb_id=10909
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://6995, tvdb://10910
-                # https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds+Season+2&category=Shows&tmdb_id=6995&tvdb_id=10910        
 
     "War of the Worlds (2019)":
         year: 2019
@@ -36,13 +32,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/276077
-                # IDs: tmdb://117935, tvdb://7375517
-                # https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds+Season+1&category=Shows&tmdb_id=117935&tvdb_id=7375517
             2:
                 url_poster: https://theposterdb.com/api/assets/276078
-                # IDs: tmdb://190390, tvdb://370139
-                # https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds+Season+2&category=Shows&tmdb_id=190390&tvdb_id=370139
             3:
                 url_poster: https://theposterdb.com/api/assets/276079
-                # IDs: tmdb://301815
-                # https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds+Season+3&category=Shows&tmdb_id=301815        

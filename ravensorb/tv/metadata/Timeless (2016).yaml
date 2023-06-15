@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://77804, tvdb://670815
-                # https://theposterdb.com/search/advanced/results?term=Timeless+%282016%29+Season+1&category=Shows&tmdb_id=77804&tvdb_id=670815
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://98293, tvdb://743720
-                # https://theposterdb.com/search/advanced/results?term=Timeless+%282016%29+Season+2&category=Shows&tmdb_id=98293&tvdb_id=743720        

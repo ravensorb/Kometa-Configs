@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/261831
-                # IDs: tmdb://77323
-                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+1&category=Shows&tmdb_id=77323
             2:
                 url_poster: https://theposterdb.com/api/assets/261832
-                # IDs: tmdb://90945
-                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+2&category=Shows&tmdb_id=90945
             3:
                 url_poster: https://theposterdb.com/api/assets/261833
-                # IDs: tmdb://105508
-                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+3&category=Shows&tmdb_id=105508
             4:
                 url_poster: https://theposterdb.com/api/assets/261834
-                # IDs: tmdb://125516
-                # https://theposterdb.com/search/advanced/results?term=The+Good+Place+Season+4&category=Shows&tmdb_id=125516        

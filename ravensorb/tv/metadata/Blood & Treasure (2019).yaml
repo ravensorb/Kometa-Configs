@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/292853
-                # IDs: tmdb://121528, tvdb://803877
-                # https://theposterdb.com/search/advanced/results?term=Blood+%26+Treasure+Season+1&category=Shows&tmdb_id=121528&tvdb_id=803877
             2:
                 url_poster: https://theposterdb.com/api/assets/292854
-                # IDs: tmdb://294131, tvdb://1938882
-                # https://theposterdb.com/search/advanced/results?term=Blood+%26+Treasure+Season+2&category=Shows&tmdb_id=294131&tvdb_id=1938882        

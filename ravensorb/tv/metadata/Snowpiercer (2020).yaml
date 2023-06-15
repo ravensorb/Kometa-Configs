@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/259026
-                # IDs: tmdb://104013, tvdb://1815108
-                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+1&category=Shows&tmdb_id=104013&tvdb_id=1815108
             2:
                 url_poster: https://theposterdb.com/api/assets/259027
-                # IDs: tmdb://165233
-                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+2&category=Shows&tmdb_id=165233
             3:
                 url_poster: https://theposterdb.com/api/assets/259028
-                # IDs: tmdb://218243
-                # https://theposterdb.com/search/advanced/results?term=Snowpiercer+Season+3&category=Shows&tmdb_id=218243        

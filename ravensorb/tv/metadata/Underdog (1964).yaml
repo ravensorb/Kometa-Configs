@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14758, tvdb://13556
-                # https://theposterdb.com/search/advanced/results?term=Underdog+Season+1&category=Shows&tmdb_id=14758&tvdb_id=13556
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14759, tvdb://43321
-                # https://theposterdb.com/search/advanced/results?term=Underdog+Season+2&category=Shows&tmdb_id=14759&tvdb_id=43321
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14760, tvdb://43351
-                # https://theposterdb.com/search/advanced/results?term=Underdog+Season+3&category=Shows&tmdb_id=14760&tvdb_id=43351        

@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://138103
-                # https://theposterdb.com/search/advanced/results?term=Miss+Scarlet+and+the+Duke+Season+1&category=Shows&tmdb_id=138103
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://294951
-                # https://theposterdb.com/search/advanced/results?term=Miss+Scarlet+and+the+Duke+Season+2&category=Shows&tmdb_id=294951
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://317838
-                # https://theposterdb.com/search/advanced/results?term=Miss+Scarlet+and+the+Duke+Season+3&category=Shows&tmdb_id=317838        

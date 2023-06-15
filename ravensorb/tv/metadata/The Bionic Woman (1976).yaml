@@ -14,17 +14,9 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/261357
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=The+Bionic+Woman+%281976%29+Specials&category=Shows
             1:
                 url_poster: https://theposterdb.com/api/assets/261358
-                # IDs: tmdb://7090
-                # https://theposterdb.com/search/advanced/results?term=The+Bionic+Woman+%281976%29+Season+1&category=Shows&tmdb_id=7090
             2:
                 url_poster: https://theposterdb.com/api/assets/261359
-                # IDs: tmdb://7091
-                # https://theposterdb.com/search/advanced/results?term=The+Bionic+Woman+%281976%29+Season+2&category=Shows&tmdb_id=7091
             3:
                 url_poster: https://theposterdb.com/api/assets/261360
-                # IDs: tmdb://7092
-                # https://theposterdb.com/search/advanced/results?term=The+Bionic+Woman+%281976%29+Season+3&category=Shows&tmdb_id=7092        

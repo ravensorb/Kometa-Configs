@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335535
-                # IDs: tmdb://88733, tvdb://800200
-                # https://theposterdb.com/search/advanced/results?term=The+Wheel+of+Time+Season+1&category=Shows&tmdb_id=88733&tvdb_id=800200        

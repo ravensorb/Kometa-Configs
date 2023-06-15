@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://103695
-                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+1&category=Shows&tmdb_id=103695
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://129337
-                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+2&category=Shows&tmdb_id=129337
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://168939
-                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+3&category=Shows&tmdb_id=168939
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://199276
-                # https://theposterdb.com/search/advanced/results?term=Legacies+Season+4&category=Shows&tmdb_id=199276        

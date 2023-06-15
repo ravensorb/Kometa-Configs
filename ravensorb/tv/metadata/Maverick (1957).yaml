@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2753, tvdb://285
-                # https://theposterdb.com/search/advanced/results?term=Maverick+Season+1&category=Shows&tmdb_id=2753&tvdb_id=285
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59568, tvdb://286
-                # https://theposterdb.com/search/advanced/results?term=Maverick+Season+2&category=Shows&tmdb_id=59568&tvdb_id=286
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59569, tvdb://287
-                # https://theposterdb.com/search/advanced/results?term=Maverick+Season+3&category=Shows&tmdb_id=59569&tvdb_id=287
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59567, tvdb://288
-                # https://theposterdb.com/search/advanced/results?term=Maverick+Season+4&category=Shows&tmdb_id=59567&tvdb_id=288
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59570, tvdb://289
-                # https://theposterdb.com/search/advanced/results?term=Maverick+Season+5&category=Shows&tmdb_id=59570&tvdb_id=289        

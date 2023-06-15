@@ -13,20 +13,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0460690
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/359893
+                # url_poster: https://theposterdb.com/api/assets/359893
             1:
                 url_poster: https://theposterdb.com/api/assets/359894
-                # IDs: tmdb://7259, tvdb://9217
-                # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+1&category=Shows&tmdb_id=7259&tvdb_id=9217
             2:
                 url_poster: https://theposterdb.com/api/assets/359895
-                # IDs: tmdb://7258, tvdb://16302
-                # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+2&category=Shows&tmdb_id=7258&tvdb_id=16302
             3:
                 url_poster: https://theposterdb.com/api/assets/359896
-                # IDs: tmdb://7260, tvdb://28618
-                # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+3&category=Shows&tmdb_id=7260&tvdb_id=28618
             4:
                 url_poster: https://theposterdb.com/api/assets/359897
-                # IDs: tmdb://7261, tvdb://33649
-                # https://theposterdb.com/search/advanced/results?term=The+Unit+Season+4&category=Shows&tmdb_id=7261&tvdb_id=33649        

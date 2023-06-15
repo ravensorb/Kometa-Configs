@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3966, tvdb://5250
-                # https://theposterdb.com/search/advanced/results?term=Kung+Fu+Season+1&category=Shows&tmdb_id=3966&tvdb_id=5250
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3968, tvdb://5251
-                # https://theposterdb.com/search/advanced/results?term=Kung+Fu+Season+2&category=Shows&tmdb_id=3968&tvdb_id=5251
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://3967, tvdb://5252
-                # https://theposterdb.com/search/advanced/results?term=Kung+Fu+Season+3&category=Shows&tmdb_id=3967&tvdb_id=5252        

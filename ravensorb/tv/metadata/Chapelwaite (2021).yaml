@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328581
-                # IDs: tmdb://196390
-                # https://theposterdb.com/search/advanced/results?term=Chapelwaite+Season+1&category=Shows&tmdb_id=196390        

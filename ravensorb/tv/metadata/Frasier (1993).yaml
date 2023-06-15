@@ -13,48 +13,26 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0106004
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/363377
+                # url_poster: https://theposterdb.com/api/assets/363377
             1:
                 url_poster: https://theposterdb.com/api/assets/363378
-                # IDs: tmdb://10550, tvdb://13659
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+1&category=Shows&tmdb_id=10550&tvdb_id=13659
             2:
                 url_poster: https://theposterdb.com/api/assets/363379
-                # IDs: tmdb://10548, tvdb://13662
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+2&category=Shows&tmdb_id=10548&tvdb_id=13662
             3:
                 url_poster: https://theposterdb.com/api/assets/363380
-                # IDs: tmdb://10552, tvdb://13663
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+3&category=Shows&tmdb_id=10552&tvdb_id=13663
             4:
                 url_poster: https://theposterdb.com/api/assets/363381
-                # IDs: tmdb://10549, tvdb://13664
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+4&category=Shows&tmdb_id=10549&tvdb_id=13664
             5:
                 url_poster: https://theposterdb.com/api/assets/363382
-                # IDs: tmdb://10553, tvdb://13665
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+5&category=Shows&tmdb_id=10553&tvdb_id=13665
             6:
                 url_poster: https://theposterdb.com/api/assets/363383
-                # IDs: tmdb://10551, tvdb://13666
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+6&category=Shows&tmdb_id=10551&tvdb_id=13666
             7:
                 url_poster: https://theposterdb.com/api/assets/363384
-                # IDs: tmdb://10554, tvdb://13667
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+7&category=Shows&tmdb_id=10554&tvdb_id=13667
             8:
                 url_poster: https://theposterdb.com/api/assets/363385
-                # IDs: tmdb://10557, tvdb://13668
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+8&category=Shows&tmdb_id=10557&tvdb_id=13668
             9:
                 url_poster: https://theposterdb.com/api/assets/363386
-                # IDs: tmdb://10555, tvdb://13669
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+9&category=Shows&tmdb_id=10555&tvdb_id=13669
             10:
                 url_poster: https://theposterdb.com/api/assets/363387
-                # IDs: tmdb://10556, tvdb://13660
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+10&category=Shows&tmdb_id=10556&tvdb_id=13660
             11:
                 url_poster: https://theposterdb.com/api/assets/363388
-                # IDs: tmdb://10558, tvdb://13661
-                # https://theposterdb.com/search/advanced/results?term=Frasier+Season+11&category=Shows&tmdb_id=10558&tvdb_id=13661        

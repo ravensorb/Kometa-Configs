@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345287
-                # IDs: tmdb://55068
-                # https://theposterdb.com/search/advanced/results?term=Ripper+Street+Season+1&category=Shows&tmdb_id=55068
             2:
                 url_poster: https://theposterdb.com/api/assets/345288
-                # IDs: tmdb://55070
-                # https://theposterdb.com/search/advanced/results?term=Ripper+Street+Season+2&category=Shows&tmdb_id=55070
             3:
                 url_poster: https://theposterdb.com/api/assets/345289
-                # IDs: tmdb://63570
-                # https://theposterdb.com/search/advanced/results?term=Ripper+Street+Season+3&category=Shows&tmdb_id=63570
             4:
                 url_poster: https://theposterdb.com/api/assets/345290
-                # IDs: tmdb://73870
-                # https://theposterdb.com/search/advanced/results?term=Ripper+Street+Season+4&category=Shows&tmdb_id=73870
             5:
                 url_poster: https://theposterdb.com/api/assets/345291
-                # IDs: tmdb://81253
-                # https://theposterdb.com/search/advanced/results?term=Ripper+Street+Season+5&category=Shows&tmdb_id=81253        

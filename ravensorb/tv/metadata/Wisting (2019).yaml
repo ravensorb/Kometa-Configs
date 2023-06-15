@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://122067
-                # https://theposterdb.com/search/advanced/results?term=Wisting+Season+1&category=Shows&tmdb_id=122067
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://236435
-                # https://theposterdb.com/search/advanced/results?term=Wisting+Season+2&category=Shows&tmdb_id=236435
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://243069
-                # https://theposterdb.com/search/advanced/results?term=Wisting+Season+3&category=Shows&tmdb_id=243069        

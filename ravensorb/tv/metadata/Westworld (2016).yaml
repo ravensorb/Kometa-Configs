@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/258849
-                # IDs: tmdb://68638, tvdb://668343
-                # https://theposterdb.com/search/advanced/results?term=Westworld+Season+1&category=Shows&tmdb_id=68638&tvdb_id=668343
             2:
                 url_poster: https://theposterdb.com/api/assets/258850
-                # IDs: tmdb://98895, tvdb://750412
-                # https://theposterdb.com/search/advanced/results?term=Westworld+Season+2&category=Shows&tmdb_id=98895&tvdb_id=750412
             3:
                 url_poster: https://theposterdb.com/api/assets/258851
-                # IDs: tmdb://128116, tvdb://1814431
-                # https://theposterdb.com/search/advanced/results?term=Westworld+Season+3&category=Shows&tmdb_id=128116&tvdb_id=1814431
             4:
                 url_poster: https://theposterdb.com/api/assets/258852
-                # IDs: tmdb://293172, tvdb://1999911
-                # https://theposterdb.com/search/advanced/results?term=Westworld+Season+4&category=Shows&tmdb_id=293172&tvdb_id=1999911        

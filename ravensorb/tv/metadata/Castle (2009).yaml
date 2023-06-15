@@ -11,33 +11,17 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/353309
-                # IDs: tmdb://3741, tvdb://36354
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+1&category=Shows&tmdb_id=3741&tvdb_id=36354
             2:
                 url_poster:  https://theposterdb.com/api/assets/353310
-                # IDs: tmdb://3740, tvdb://82531
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+2&category=Shows&tmdb_id=3740&tvdb_id=82531
             3:
                 url_poster:  https://theposterdb.com/api/assets/353311
-                # IDs: tmdb://3742, tvdb://272911
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+3&category=Shows&tmdb_id=3742&tvdb_id=272911
             4:
                 url_poster:  https://theposterdb.com/api/assets/353312
-                # IDs: tmdb://3743, tvdb://468647
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+4&category=Shows&tmdb_id=3743&tvdb_id=468647
             5:
                 url_poster:  https://theposterdb.com/api/assets/353313
-                # IDs: tmdb://3744, tvdb://496184
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+5&category=Shows&tmdb_id=3744&tvdb_id=496184
             6:
                 url_poster:  https://theposterdb.com/api/assets/353314
-                # IDs: tmdb://3746, tvdb://524533
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+6&category=Shows&tmdb_id=3746&tvdb_id=524533
             7:
                 url_poster:  https://theposterdb.com/api/assets/353315
-                # IDs: tmdb://62048, tvdb://591206
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+7&category=Shows&tmdb_id=62048&tvdb_id=591206
             8:
                 url_poster:  https://theposterdb.com/api/assets/353316
-                # IDs: tmdb://68815, tvdb://625700
-                # https://theposterdb.com/search/advanced/results?term=Castle+%282009%29+Season+8&category=Shows&tmdb_id=68815&tvdb_id=625700        

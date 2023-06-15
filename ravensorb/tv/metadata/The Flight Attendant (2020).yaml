@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/332841
-                # IDs: tmdb://151947, tvdb://1844258
-                # https://theposterdb.com/search/advanced/results?term=The+Flight+Attendant+Season+1&category=Shows&tmdb_id=151947&tvdb_id=1844258
             2:
                 url_poster: https://theposterdb.com/api/assets/332842
-                # IDs: tmdb://245549, tvdb://1972407
-                # https://theposterdb.com/search/advanced/results?term=The+Flight+Attendant+Season+2&category=Shows&tmdb_id=245549&tvdb_id=1972407        

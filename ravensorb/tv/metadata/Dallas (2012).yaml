@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://49089, tvdb://477792
-                # https://theposterdb.com/search/advanced/results?term=Dallas+%282012%29+Season+1&category=Shows&tmdb_id=49089&tvdb_id=477792
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://49090, tvdb://502269
-                # https://theposterdb.com/search/advanced/results?term=Dallas+%282012%29+Season+2&category=Shows&tmdb_id=49090&tvdb_id=502269
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://49092, tvdb://518760
-                # https://theposterdb.com/search/advanced/results?term=Dallas+%282012%29+Season+3&category=Shows&tmdb_id=49092&tvdb_id=518760        

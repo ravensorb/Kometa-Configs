@@ -16,21 +16,11 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/362933
             1:
                 url_poster: https://theposterdb.com/api/assets/362934
-                # IDs: tmdb://7625, tvdb://1545
-                # https://theposterdb.com/search/advanced/results?term=Angel+Season+1&category=Shows&tmdb_id=7625&tvdb_id=1545
             2:
                 url_poster: https://theposterdb.com/api/assets/362935
-                # IDs: tmdb://7623, tvdb://1546
-                # https://theposterdb.com/search/advanced/results?term=Angel+Season+2&category=Shows&tmdb_id=7623&tvdb_id=1546
             3:
                 url_poster: https://theposterdb.com/api/assets/362936
-                # IDs: tmdb://7628, tvdb://1547
-                # https://theposterdb.com/search/advanced/results?term=Angel+Season+3&category=Shows&tmdb_id=7628&tvdb_id=1547
             4:
                 url_poster: https://theposterdb.com/api/assets/362937
-                # IDs: tmdb://7627, tvdb://1548
-                # https://theposterdb.com/search/advanced/results?term=Angel+Season+4&category=Shows&tmdb_id=7627&tvdb_id=1548
             5:
                 url_poster: https://theposterdb.com/api/assets/362938
-                # IDs: tmdb://7626, tvdb://1549
-                # https://theposterdb.com/search/advanced/results?term=Angel+Season+5&category=Shows&tmdb_id=7626&tvdb_id=1549        

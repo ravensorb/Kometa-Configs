@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5510, tvdb://12110
-                # https://theposterdb.com/search/advanced/results?term=Miami+Vice+Season+1&category=Shows&tmdb_id=5510&tvdb_id=12110
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5509, tvdb://12111
-                # https://theposterdb.com/search/advanced/results?term=Miami+Vice+Season+2&category=Shows&tmdb_id=5509&tvdb_id=12111
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5508, tvdb://12112
-                # https://theposterdb.com/search/advanced/results?term=Miami+Vice+Season+3&category=Shows&tmdb_id=5508&tvdb_id=12112
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5512, tvdb://12113
-                # https://theposterdb.com/search/advanced/results?term=Miami+Vice+Season+4&category=Shows&tmdb_id=5512&tvdb_id=12113
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://5511, tvdb://12114
-                # https://theposterdb.com/search/advanced/results?term=Miami+Vice+Season+5&category=Shows&tmdb_id=5511&tvdb_id=12114        

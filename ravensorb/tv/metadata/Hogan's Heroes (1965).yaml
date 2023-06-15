@@ -14,25 +14,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/253672
-                # IDs: tmdb://12043, tvdb://2678
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+1&category=Shows&tmdb_id=12043&tvdb_id=2678
             2:
                 url_poster: https://theposterdb.com/api/assets/253673
-                # IDs: tmdb://12044, tvdb://2679
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+2&category=Shows&tmdb_id=12044&tvdb_id=2679
             3:
                 url_poster: https://theposterdb.com/api/assets/253674
-                # IDs: tmdb://12045, tvdb://2680
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+3&category=Shows&tmdb_id=12045&tvdb_id=2680
             4:
                 url_poster: https://theposterdb.com/api/assets/253675
-                # IDs: tmdb://12046, tvdb://2681
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+4&category=Shows&tmdb_id=12046&tvdb_id=2681
             5:
                 url_poster: https://theposterdb.com/api/assets/253676
-                # IDs: tmdb://12047, tvdb://2682
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+5&category=Shows&tmdb_id=12047&tvdb_id=2682
             6:
                 url_poster: https://theposterdb.com/api/assets/253677
-                # IDs: tmdb://12048, tvdb://2683
-                # https://theposterdb.com/search/advanced/results?term=Hogan%27s+Heroes+Season+6&category=Shows&tmdb_id=12048&tvdb_id=2683        

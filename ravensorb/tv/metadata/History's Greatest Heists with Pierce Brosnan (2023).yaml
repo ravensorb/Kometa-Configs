@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366217
-                # IDs: tmdb://326639, tvdb://2039179
-                # https://theposterdb.com/search/advanced/results?term=History%27s+Greatest+Heists+with+Pierce+Brosnan+Season+1&category=Shows&tmdb_id=326639&tvdb_id=2039179        

@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59876, tvdb://516266
-                # https://theposterdb.com/search/advanced/results?term=Witches+of+East+End+Season+1&category=Shows&tmdb_id=59876&tvdb_id=516266
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://61651, tvdb://584913
-                # https://theposterdb.com/search/advanced/results?term=Witches+of+East+End+Season+2&category=Shows&tmdb_id=61651&tvdb_id=584913        

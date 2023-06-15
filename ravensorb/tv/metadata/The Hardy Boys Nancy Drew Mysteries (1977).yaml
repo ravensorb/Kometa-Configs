@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9461
-                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+1&category=Shows&tmdb_id=9461
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9462
-                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+2&category=Shows&tmdb_id=9462
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9463
-                # https://theposterdb.com/search/advanced/results?term=The+Hardy+Boys+Nancy+Drew+Mysteries+Season+3&category=Shows&tmdb_id=9463        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366483
-                # IDs: tmdb://124518
-                # https://theposterdb.com/search/advanced/results?term=Next+Season+1&category=Shows&tmdb_id=124518        

@@ -5,22 +5,16 @@ metadata:
         alt_title: "The Alfred Hitchcock Hour (1962)"
         orig_title: "The Alfred Hitchcock Hour"
         sort_title: "Alfred Hitchcock Hour"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/362722
         # IDs: imdb://tt0055657, tmdb://21728, tvdb://74488
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Alfred+Hitchcock+Hour&category=Shows&year_filter=equals&yone=1962&tmdb_id=21728&imdb_id=tt0055657&tvdb_id=74488
         # tmdb: https://www.themoviedb.org/tv/21728
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1962&query=74488
         # imdb: https://www.imdb.com/title/tt0055657
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59986, tvdb://7546
-                # https://theposterdb.com/search/advanced/results?term=The+Alfred+Hitchcock+Hour+Season+1&category=Shows&tmdb_id=59986&tvdb_id=7546
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59987, tvdb://7547
-                # https://theposterdb.com/search/advanced/results?term=The+Alfred+Hitchcock+Hour+Season+2&category=Shows&tmdb_id=59987&tvdb_id=7547
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59988, tvdb://7548
-                # https://theposterdb.com/search/advanced/results?term=The+Alfred+Hitchcock+Hour+Season+3&category=Shows&tmdb_id=59988&tvdb_id=7548        
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/362723
+            2:
+                url_poster: https://theposterdb.com/api/assets/362724
+            3:
+                url_poster: https://theposterdb.com/api/assets/362725

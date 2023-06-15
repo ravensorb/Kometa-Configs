@@ -12,13 +12,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/364730
-                # IDs: tmdb://118909, tvdb://814701
-                # https://theposterdb.com/search/advanced/results?term=Evil+Season+1&category=Shows&tmdb_id=118909&tvdb_id=814701
             2:
                 url_poster: https://theposterdb.com/api/assets/364731
-                # IDs: tmdb://196614, tvdb://1928901
-                # https://theposterdb.com/search/advanced/results?term=Evil+Season+2&category=Shows&tmdb_id=196614&tvdb_id=1928901
             3:
                 url_poster: https://theposterdb.com/api/assets/364732
-                # IDs: tmdb://285657, tvdb://1992677
-                # https://theposterdb.com/search/advanced/results?term=Evil+Season+3&category=Shows&tmdb_id=285657&tvdb_id=1992677        

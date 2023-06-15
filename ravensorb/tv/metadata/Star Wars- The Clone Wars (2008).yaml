@@ -14,33 +14,17 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/244766
-                # IDs: tmdb://12281, tvdb://35738
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Specials&category=Shows&tmdb_id=12281&tvdb_id=35738
             1:
                 url_poster: https://theposterdb.com/api/assets/244783
-                # IDs: tmdb://12278, tvdb://35739
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+1&category=Shows&tmdb_id=12278&tvdb_id=35739
             2:
                 url_poster: https://theposterdb.com/api/assets/244768
-                # IDs: tmdb://12279, tvdb://52381
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+2&category=Shows&tmdb_id=12279&tvdb_id=52381
             3:
                 url_poster: https://theposterdb.com/api/assets/244769
-                # IDs: tmdb://12280, tvdb://249271
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+3&category=Shows&tmdb_id=12280&tvdb_id=249271
             4:
                 url_poster: https://theposterdb.com/api/assets/244786
-                # IDs: tmdb://12282, tvdb://472097
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+4&category=Shows&tmdb_id=12282&tvdb_id=472097
             5:
                 url_poster: https://theposterdb.com/api/assets/244787
-                # IDs: tmdb://62850, tvdb://498845
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+5&category=Shows&tmdb_id=62850&tvdb_id=498845
             6:
                 url_poster: https://theposterdb.com/api/assets/244788
-                # IDs: tmdb://62851, tvdb://574144
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+6&category=Shows&tmdb_id=62851&tvdb_id=574144
             7:
                 url_poster: https://theposterdb.com/api/assets/244789
-                # IDs: tmdb://130578, tvdb://823281
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+The+Clone+Wars+Season+7&category=Shows&tmdb_id=130578&tvdb_id=823281        

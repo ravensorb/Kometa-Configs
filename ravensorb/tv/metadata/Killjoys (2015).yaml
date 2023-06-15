@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://65979, tvdb://588889
-                # https://theposterdb.com/search/advanced/results?term=Killjoys+Season+1&category=Shows&tmdb_id=65979&tvdb_id=588889
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://76730, tvdb://648607
-                # https://theposterdb.com/search/advanced/results?term=Killjoys+Season+2&category=Shows&tmdb_id=76730&tvdb_id=648607
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://89043
-                # https://theposterdb.com/search/advanced/results?term=Killjoys+Season+3&category=Shows&tmdb_id=89043
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://106168
-                # https://theposterdb.com/search/advanced/results?term=Killjoys+Season+4&category=Shows&tmdb_id=106168
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://112015
-                # https://theposterdb.com/search/advanced/results?term=Killjoys+Season+5&category=Shows&tmdb_id=112015        

@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2712
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+1&category=Shows&tmdb_id=2712
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165135
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+2&category=Shows&tmdb_id=165135
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165136
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+3&category=Shows&tmdb_id=165136
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165137
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+4&category=Shows&tmdb_id=165137
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165141
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+8&category=Shows&tmdb_id=165141
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://165142
-                # https://theposterdb.com/search/advanced/results?term=Super+Friends+Season+9&category=Shows&tmdb_id=165142        

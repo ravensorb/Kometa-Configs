@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://53157, tvdb://478090
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+1&category=Shows&tmdb_id=53157&tvdb_id=478090
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://53158, tvdb://511790
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+2&category=Shows&tmdb_id=53158&tvdb_id=511790
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://60894, tvdb://579069
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+3&category=Shows&tmdb_id=60894&tvdb_id=579069
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://69425, tvdb://633603
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+4&category=Shows&tmdb_id=69425&tvdb_id=633603
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://78642, tvdb://673260
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+5&category=Shows&tmdb_id=78642&tvdb_id=673260
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://90399
-                # https://theposterdb.com/search/advanced/results?term=Longmire+Season+6&category=Shows&tmdb_id=90399        

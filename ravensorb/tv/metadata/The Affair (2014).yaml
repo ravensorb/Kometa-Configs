@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344879
-                # IDs: tmdb://62950, tvdb://270439
-                # https://theposterdb.com/search/advanced/results?term=The+Affair+Season+1&category=Shows&tmdb_id=62950&tvdb_id=270439
             2:
                 url_poster: https://theposterdb.com/api/assets/344880
-                # IDs: tmdb://68602
-                # https://theposterdb.com/search/advanced/results?term=The+Affair+Season+2&category=Shows&tmdb_id=68602
             3:
                 url_poster: https://theposterdb.com/api/assets/344881
-                # IDs: tmdb://77842
-                # https://theposterdb.com/search/advanced/results?term=The+Affair+Season+3&category=Shows&tmdb_id=77842
             4:
                 url_poster: https://theposterdb.com/api/assets/344882
-                # IDs: tmdb://97585
-                # https://theposterdb.com/search/advanced/results?term=The+Affair+Season+4&category=Shows&tmdb_id=97585
             5:
                 url_poster: https://theposterdb.com/api/assets/344883
-                # IDs: tmdb://125418
-                # https://theposterdb.com/search/advanced/results?term=The+Affair+Season+5&category=Shows&tmdb_id=125418        

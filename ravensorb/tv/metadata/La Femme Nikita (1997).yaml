@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://542, tvdb://15202
-                # https://theposterdb.com/search/advanced/results?term=La+Femme+Nikita+Season+1&category=Shows&tmdb_id=542&tvdb_id=15202
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://541, tvdb://15203
-                # https://theposterdb.com/search/advanced/results?term=La+Femme+Nikita+Season+2&category=Shows&tmdb_id=541&tvdb_id=15203
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://544, tvdb://15204
-                # https://theposterdb.com/search/advanced/results?term=La+Femme+Nikita+Season+3&category=Shows&tmdb_id=544&tvdb_id=15204
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://545, tvdb://15205
-                # https://theposterdb.com/search/advanced/results?term=La+Femme+Nikita+Season+4&category=Shows&tmdb_id=545&tvdb_id=15205
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://543, tvdb://15206
-                # https://theposterdb.com/search/advanced/results?term=La+Femme+Nikita+Season+5&category=Shows&tmdb_id=543&tvdb_id=15206        

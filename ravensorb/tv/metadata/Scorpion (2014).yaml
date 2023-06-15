@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/309702
-                # IDs: tmdb://60764, tvdb://585652
-                # https://theposterdb.com/search/advanced/results?term=Scorpion+Season+1&category=Shows&tmdb_id=60764&tvdb_id=585652
             2:
                 url_poster: https://theposterdb.com/api/assets/309703
-                # IDs: tmdb://70808, tvdb://625575
-                # https://theposterdb.com/search/advanced/results?term=Scorpion+Season+2&category=Shows&tmdb_id=70808&tvdb_id=625575
             3:
                 url_poster: https://theposterdb.com/api/assets/309704
-                # IDs: tmdb://80083, tvdb://671555
-                # https://theposterdb.com/search/advanced/results?term=Scorpion+Season+3&category=Shows&tmdb_id=80083&tvdb_id=671555
             4:
                 url_poster: https://theposterdb.com/api/assets/309705
-                # IDs: tmdb://91013, tvdb://714334
-                # https://theposterdb.com/search/advanced/results?term=Scorpion+Season+4&category=Shows&tmdb_id=91013&tvdb_id=714334        

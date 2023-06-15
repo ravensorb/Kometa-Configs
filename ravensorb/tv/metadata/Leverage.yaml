@@ -13,27 +13,17 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1103987
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/348842
+                # url_poster:  https://theposterdb.com/api/assets/348842
             1:
                 url_poster:  https://theposterdb.com/api/assets/348843
-                # IDs: tmdb://17671, tvdb://33295
-                # https://theposterdb.com/search/advanced/results?term=Leverage+Season+1&category=Shows&tmdb_id=17671&tvdb_id=33295
             2:
                 url_poster:  https://theposterdb.com/api/assets/348844
-                # IDs: tmdb://17672, tvdb://61021
-                # https://theposterdb.com/search/advanced/results?term=Leverage+Season+2&category=Shows&tmdb_id=17672&tvdb_id=61021
             3:
                 url_poster:  https://theposterdb.com/api/assets/348845
-                # IDs: tmdb://17673, tvdb://195571
-                # https://theposterdb.com/search/advanced/results?term=Leverage+Season+3&category=Shows&tmdb_id=17673&tvdb_id=195571
             4:
                 url_poster:  https://theposterdb.com/api/assets/348846
-                # IDs: tmdb://17674, tvdb://396191
-                # https://theposterdb.com/search/advanced/results?term=Leverage+Season+4&category=Shows&tmdb_id=17674&tvdb_id=396191
             5:
                 url_poster:  https://theposterdb.com/api/assets/348847
-                # IDs: tmdb://17676, tvdb://487738
-                # https://theposterdb.com/search/advanced/results?term=Leverage+Season+5&category=Shows&tmdb_id=17676&tvdb_id=487738        
 
     "Leverage: Redemption (2021)":
         year: 2021
@@ -50,9 +40,5 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/367944
-                # IDs: tmdb://157353, tvdb://1924027
-                # https://theposterdb.com/search/advanced/results?term=Leverage%3A+Redemption+Season+1&category=Shows&tmdb_id=157353&tvdb_id=1924027
             2:
                 url_poster:  https://theposterdb.com/api/assets/367945
-                # IDs: tmdb://310577
-                # https://theposterdb.com/search/advanced/results?term=Leverage%3A+Redemption+Season+2&category=Shows&tmdb_id=310577        

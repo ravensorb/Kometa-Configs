@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/200214
-                # IDs: tmdb://173106, tvdb://1959499
-                # https://theposterdb.com/search/advanced/results?term=The+Book+of+Boba+Fett+Season+1&category=Shows&tmdb_id=173106&tvdb_id=1959499        

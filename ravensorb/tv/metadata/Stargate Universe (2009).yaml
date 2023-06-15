@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/228961
-                # IDs: tmdb://15027, tvdb://38594
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Universe+%282009%29+Season+1&category=Shows&tmdb_id=15027&tvdb_id=38594
             2:
                 url_poster: https://theposterdb.com/api/assets/228962
-                # IDs: tmdb://15028, tvdb://202101
-                # https://theposterdb.com/search/advanced/results?term=Stargate+Universe+%282009%29+Season+2&category=Shows&tmdb_id=15028&tvdb_id=202101        

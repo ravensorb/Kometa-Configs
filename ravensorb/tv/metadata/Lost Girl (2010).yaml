@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44685, tvdb://300541
-                # https://theposterdb.com/search/advanced/results?term=Lost+Girl+Season+1&category=Shows&tmdb_id=44685&tvdb_id=300541
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44686, tvdb://415931
-                # https://theposterdb.com/search/advanced/results?term=Lost+Girl+Season+2&category=Shows&tmdb_id=44686&tvdb_id=415931
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44688, tvdb://494019
-                # https://theposterdb.com/search/advanced/results?term=Lost+Girl+Season+3&category=Shows&tmdb_id=44688&tvdb_id=494019
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://44689, tvdb://524532
-                # https://theposterdb.com/search/advanced/results?term=Lost+Girl+Season+4&category=Shows&tmdb_id=44689&tvdb_id=524532
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://63561, tvdb://592576
-                # https://theposterdb.com/search/advanced/results?term=Lost+Girl+Season+5&category=Shows&tmdb_id=63561&tvdb_id=592576        

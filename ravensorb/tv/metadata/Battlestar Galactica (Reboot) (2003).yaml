@@ -14,21 +14,11 @@ metadata:
         seasons:
             0:
                 url_poster: https://theposterdb.com/api/assets/253248
-                # IDs: tmdb://5844, tvdb://5950
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29+Specials&category=Shows&tmdb_id=5844&tvdb_id=5950
             1:
                 url_poster: https://theposterdb.com/api/assets/253249
-                # IDs: tmdb://5840, tvdb://5951
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29+Season+1&category=Shows&tmdb_id=5840&tvdb_id=5951
             2:
                 url_poster: https://theposterdb.com/api/assets/253250
-                # IDs: tmdb://5841, tvdb://5952
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29+Season+2&category=Shows&tmdb_id=5841&tvdb_id=5952
             3:
                 url_poster: https://theposterdb.com/api/assets/253251
-                # IDs: tmdb://5842, tvdb://16358
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29+Season+3&category=Shows&tmdb_id=5842&tvdb_id=16358
             4:
                 url_poster: https://theposterdb.com/api/assets/253252
-                # IDs: tmdb://5843, tvdb://27825
-                # https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29+Season+4&category=Shows&tmdb_id=5843&tvdb_id=27825        

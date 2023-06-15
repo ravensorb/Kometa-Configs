@@ -14,17 +14,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4697, tvdb://882
-                # https://theposterdb.com/search/advanced/results?term=The+Pretender+Season+1&category=Shows&tmdb_id=4697&tvdb_id=882
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4696, tvdb://883
-                # https://theposterdb.com/search/advanced/results?term=The+Pretender+Season+2&category=Shows&tmdb_id=4696&tvdb_id=883
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4699, tvdb://884
-                # https://theposterdb.com/search/advanced/results?term=The+Pretender+Season+3&category=Shows&tmdb_id=4699&tvdb_id=884
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://4698, tvdb://885
-                # https://theposterdb.com/search/advanced/results?term=The+Pretender+Season+4&category=Shows&tmdb_id=4698&tvdb_id=885        

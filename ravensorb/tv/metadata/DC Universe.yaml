@@ -16,16 +16,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242930
-                # IDs: tvdb://13782
-                # https://theposterdb.com/search/advanced/results?term=Batman+Season+1&category=Shows&tvdb_id=13782
             2:
                 url_poster: https://theposterdb.com/api/assets/242931
-                # IDs: tvdb://13783
-                # https://theposterdb.com/search/advanced/results?term=Batman+Season+2&category=Shows&tvdb_id=13783
             3:
                 url_poster: https://theposterdb.com/api/assets/242932
-                # IDs: tvdb://13784
-                # https://theposterdb.com/search/advanced/results?term=Batman+Season+3&category=Shows&tvdb_id=13784
         
 
     "Wonder Woman (1975)":
@@ -44,16 +38,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/364893
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Wonder+Woman+Season+1&category=Shows
             2:
                 url_poster: https://theposterdb.com/api/assets/364894
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Wonder+Woman+Season+2&category=Shows
             3:
                 url_poster: https://theposterdb.com/api/assets/364895
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Wonder+Woman+Season+3&category=Shows
         
 
     "Lois & Clark- The New Adventures of Superman (1993)":
@@ -72,20 +60,12 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+1&category=Shows
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+2&category=Shows
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+3&category=Shows
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman+Season+4&category=Shows
         
 
     "Smallville (2001)":
@@ -104,44 +84,24 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262410
-                # IDs: tvdb://3707
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+1&category=Shows&tvdb_id=3707
             2:
                 url_poster: https://theposterdb.com/api/assets/262411
-                # IDs: tvdb://3708
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+2&category=Shows&tvdb_id=3708
             3:
                 url_poster: https://theposterdb.com/api/assets/262412
-                # IDs: tvdb://3709
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+3&category=Shows&tvdb_id=3709
             4:
                 url_poster: https://theposterdb.com/api/assets/262413
-                # IDs: tvdb://3710
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+4&category=Shows&tvdb_id=3710
             5:
                 url_poster: https://theposterdb.com/api/assets/262414
-                # IDs: tvdb://3711
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+5&category=Shows&tvdb_id=3711
             6:
                 url_poster: https://theposterdb.com/api/assets/262415
-                # IDs: tvdb://16324
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+6&category=Shows&tvdb_id=16324
             7:
                 url_poster: https://theposterdb.com/api/assets/262416
-                # IDs: tvdb://28426
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+7&category=Shows&tvdb_id=28426
             8:
                 url_poster: https://theposterdb.com/api/assets/262417
-                # IDs: tvdb://34609
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+8&category=Shows&tvdb_id=34609
             9:
                 url_poster: https://theposterdb.com/api/assets/262418
-                # IDs: tvdb://80411
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+9&category=Shows&tvdb_id=80411
             10:
                 url_poster: https://theposterdb.com/api/assets/262419
-                # IDs: tvdb://264781
-                # https://theposterdb.com/search/advanced/results?term=Smallville+Season+10&category=Shows&tvdb_id=264781
         
 
     "Arrow (2012)":
@@ -160,36 +120,20 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262364
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+1&category=Shows
             2:
                 url_poster: https://theposterdb.com/api/assets/262365
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+2&category=Shows
             3:
                 url_poster: https://theposterdb.com/api/assets/262367
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+3&category=Shows
             4:
                 url_poster: https://theposterdb.com/api/assets/262368
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+4&category=Shows
             5:
                 url_poster: https://theposterdb.com/api/assets/262370
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+5&category=Shows
             6:
                 url_poster: https://theposterdb.com/api/assets/262371
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+6&category=Shows
             7:
                 url_poster: https://theposterdb.com/api/assets/262373
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+7&category=Shows
             8:
                 url_poster: https://theposterdb.com/api/assets/262374
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Arrow+Season+8&category=Shows
         
 
     "Constantine (2014)":
@@ -208,8 +152,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262391
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Constantine+Season+1&category=Shows
         
 
     "Gotham (2014)":
@@ -228,24 +170,14 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/264353
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Gotham+Season+1&category=Shows
             2:
                 url_poster: https://theposterdb.com/api/assets/264354
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Gotham+Season+2&category=Shows
             3:
                 url_poster: https://theposterdb.com/api/assets/264355
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Gotham+Season+3&category=Shows
             4:
                 url_poster: https://theposterdb.com/api/assets/264356
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Gotham+Season+4&category=Shows
             5:
                 url_poster: https://theposterdb.com/api/assets/264357
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Gotham+Season+5&category=Shows
         
 
     "The Flash (2014)":
@@ -264,40 +196,22 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262434
-                # IDs: tvdb://578373
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+1&category=Shows&tvdb_id=578373
             2:
                 url_poster: https://theposterdb.com/api/assets/262435
-                # IDs: tvdb://626964
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+2&category=Shows&tvdb_id=626964
             3:
                 url_poster: https://theposterdb.com/api/assets/262436
-                # IDs: tvdb://671084
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+3&category=Shows&tvdb_id=671084
             4:
                 url_poster: https://theposterdb.com/api/assets/262437
-                # IDs: tvdb://715402
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+4&category=Shows&tvdb_id=715402
             5:
                 url_poster: https://theposterdb.com/api/assets/262438
-                # IDs: tvdb://769141
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+5&category=Shows&tvdb_id=769141
             6:
                 url_poster: https://theposterdb.com/api/assets/262439
-                # IDs: tvdb://815982
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+6&category=Shows&tvdb_id=815982
             7:
                 url_poster: https://theposterdb.com/api/assets/262440
-                # IDs: tvdb://1877755
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+7&category=Shows&tvdb_id=1877755
             8:
                 url_poster: https://theposterdb.com/api/assets/262441
-                # IDs: tvdb://1934886
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+8&category=Shows&tvdb_id=1934886
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://2033329
-                # https://theposterdb.com/search/advanced/results?term=The+Flash+%282014%29+Season+9&category=Shows&tvdb_id=2033329
         
 
     "Supergirl (2015)":
@@ -316,28 +230,16 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262422
-                # IDs: tvdb://623813
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+1&category=Shows&tvdb_id=623813
             2:
                 url_poster: https://theposterdb.com/api/assets/262423
-                # IDs: tvdb://671086
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+2&category=Shows&tvdb_id=671086
             3:
                 url_poster: https://theposterdb.com/api/assets/262424
-                # IDs: tvdb://715399
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+3&category=Shows&tvdb_id=715399
             4:
                 url_poster: https://theposterdb.com/api/assets/262425
-                # IDs: tvdb://769139
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+4&category=Shows&tvdb_id=769139
             5:
                 url_poster: https://theposterdb.com/api/assets/262426
-                # IDs: tvdb://815983
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+5&category=Shows&tvdb_id=815983
             6:
                 url_poster: https://theposterdb.com/api/assets/262427
-                # IDs: tvdb://1906515
-                # https://theposterdb.com/search/advanced/results?term=Supergirl+Season+6&category=Shows&tvdb_id=1906515
         
 
     "DC's Legends of Tomorrow (2016)":
@@ -356,32 +258,18 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262394
-                # IDs: tvdb://638118
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+1&category=Shows&tvdb_id=638118
             2:
                 url_poster: https://theposterdb.com/api/assets/262395
-                # IDs: tvdb://671087
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+2&category=Shows&tvdb_id=671087
             3:
                 url_poster: https://theposterdb.com/api/assets/262396
-                # IDs: tvdb://715404
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+3&category=Shows&tvdb_id=715404
             4:
                 url_poster: https://theposterdb.com/api/assets/262397
-                # IDs: tvdb://769147
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+4&category=Shows&tvdb_id=769147
             5:
                 url_poster: https://theposterdb.com/api/assets/262398
-                # IDs: tvdb://818954
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+5&category=Shows&tvdb_id=818954
             6:
                 url_poster: https://theposterdb.com/api/assets/262399
-                # IDs: tvdb://1869793
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+6&category=Shows&tvdb_id=1869793
             7:
                 url_poster: https://theposterdb.com/api/assets/262400
-                # IDs: tvdb://1934837
-                # https://theposterdb.com/search/advanced/results?term=DC%27s+Legends+of+Tomorrow+Season+7&category=Shows&tvdb_id=1934837
         
 
     "Lucifer (2016)":
@@ -400,28 +288,16 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/279183
-                # IDs: tvdb://634615
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+1&category=Shows&tvdb_id=634615
             2:
                 url_poster: https://theposterdb.com/api/assets/279184
-                # IDs: tvdb://670970
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+2&category=Shows&tvdb_id=670970
             3:
                 url_poster: https://theposterdb.com/api/assets/279185
-                # IDs: tvdb://714272
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+3&category=Shows&tvdb_id=714272
             4:
                 url_poster: https://theposterdb.com/api/assets/279186
-                # IDs: tvdb://774169
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+4&category=Shows&tvdb_id=774169
             5:
                 url_poster: https://theposterdb.com/api/assets/279187
-                # IDs: tvdb://826594
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+5&category=Shows&tvdb_id=826594
             6:
                 url_poster: https://theposterdb.com/api/assets/279188
-                # IDs: tvdb://1892572
-                # https://theposterdb.com/search/advanced/results?term=Lucifer+Season+6&category=Shows&tvdb_id=1892572
         
 
     "Black Lightning (2018)":
@@ -440,20 +316,12 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262386
-                # IDs: tvdb://722668
-                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+1&category=Shows&tvdb_id=722668
             2:
                 url_poster: https://theposterdb.com/api/assets/262387
-                # IDs: tvdb://769142
-                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+2&category=Shows&tvdb_id=769142
             3:
                 url_poster: https://theposterdb.com/api/assets/262388
-                # IDs: tvdb://815154
-                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+3&category=Shows&tvdb_id=815154
             4:
                 url_poster: https://theposterdb.com/api/assets/262389
-                # IDs: tvdb://1877754
-                # https://theposterdb.com/search/advanced/results?term=Black+Lightning+Season+4&category=Shows&tvdb_id=1877754
         
 
     "Krypton (2018)":
@@ -472,19 +340,15 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/348268
-                # IDs: tvdb://721828
-                # https://theposterdb.com/search/advanced/results?term=Krypton+Season+1&category=Shows&tvdb_id=721828
             2:
                 url_poster: https://theposterdb.com/api/assets/348269
-                # IDs: tvdb://782185
-                # https://theposterdb.com/search/advanced/results?term=Krypton+Season+2&category=Shows&tvdb_id=782185
         
 
     "Titans (2018)":
         year: 2018
         title: "Titans (2018)"
         alt_title: "Titans (2018)"
-        orig_title: "Titans (2018)"
+        orig_title: "Titans"
         sort_title: "Titans (2018)"
         url_poster: https://theposterdb.com/api/assets/239370
         # IDs: imdb://tt1043813, tmdb://75450, tvdb://341663
@@ -496,20 +360,12 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239371
-                # IDs: tvdb://756327
-                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+1&category=Shows&tvdb_id=756327
             2:
                 url_poster: https://theposterdb.com/api/assets/239372
-                # IDs: tvdb://819410
-                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+2&category=Shows&tvdb_id=819410
             3:
                 url_poster: https://theposterdb.com/api/assets/239373
-                # IDs: tvdb://1923124
-                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+3&category=Shows&tvdb_id=1923124
             4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://1999214
-                # https://theposterdb.com/search/advanced/results?term=Titans+%282018%29+Season+4&category=Shows&tvdb_id=1999214
         
 
     "Doom Patrol (2019)":
@@ -528,20 +384,12 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239361
-                # IDs: tvdb://788344
-                # https://theposterdb.com/search/advanced/results?term=Doom+Patrol+Season+1&category=Shows&tvdb_id=788344
             2:
                 url_poster: https://theposterdb.com/api/assets/239362
-                # IDs: tvdb://1842533
-                # https://theposterdb.com/search/advanced/results?term=Doom+Patrol+Season+2&category=Shows&tvdb_id=1842533
             3:
                 url_poster: https://theposterdb.com/api/assets/239363
-                # IDs: tvdb://1885821
-                # https://theposterdb.com/search/advanced/results?term=Doom+Patrol+Season+3&category=Shows&tvdb_id=1885821
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tvdb://2007400
-                # https://theposterdb.com/search/advanced/results?term=Doom+Patrol+Season+4&category=Shows&tvdb_id=2007400
         
 
     "Batwoman (2019)":
@@ -560,16 +408,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/262378
-                # IDs: tvdb://815148
-                # https://theposterdb.com/search/advanced/results?term=Batwoman+Season+1&category=Shows&tvdb_id=815148
             2:
                 url_poster: https://theposterdb.com/api/assets/262379
-                # IDs: tvdb://1877741
-                # https://theposterdb.com/search/advanced/results?term=Batwoman+Season+2&category=Shows&tvdb_id=1877741
             3:
                 url_poster: https://theposterdb.com/api/assets/262381
-                # IDs: tvdb://1934814
-                # https://theposterdb.com/search/advanced/results?term=Batwoman+Season+3&category=Shows&tvdb_id=1934814
         
 
     "Watchmen (2019)":
@@ -588,8 +430,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/258846
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Watchmen+Season+1&category=Shows
         
 
     "Stargirl (2020)":
@@ -608,16 +448,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239358
-                # IDs: tvdb://1825844
-                # https://theposterdb.com/search/advanced/results?term=Stargirl+Season+1&category=Shows&tvdb_id=1825844
             2:
                 url_poster: https://theposterdb.com/api/assets/239359
-                # IDs: tvdb://1923336
-                # https://theposterdb.com/search/advanced/results?term=Stargirl+Season+2&category=Shows&tvdb_id=1923336
             3:
                 url_poster: https://theposterdb.com/api/assets/262488
-                # IDs: tvdb://2008662
-                # https://theposterdb.com/search/advanced/results?term=Stargirl+Season+3&category=Shows&tvdb_id=2008662
         
 
     "Superman & Lois (2021)":
@@ -636,16 +470,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/325564
-                # IDs: tvdb://1814886
-                # https://theposterdb.com/search/advanced/results?term=Superman+%26+Lois+Season+1&category=Shows&tvdb_id=1814886
             2:
                 url_poster: https://theposterdb.com/api/assets/325565
-                # IDs: tvdb://1955972
-                # https://theposterdb.com/search/advanced/results?term=Superman+%26+Lois+Season+2&category=Shows&tvdb_id=1955972
             3:
                 url_poster: https://theposterdb.com/api/assets/337203
-                # IDs: tvdb://2018882
-                # https://theposterdb.com/search/advanced/results?term=Superman+%26+Lois+Season+3&category=Shows&tvdb_id=2018882
         
 
     "The Sandman (2022)":
@@ -664,8 +492,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/273194
-                # IDs: tvdb://1958470
-                # https://theposterdb.com/search/advanced/results?term=The+Sandman+Season+1&category=Shows&tvdb_id=1958470
         
 
     "Superman (1941)":
@@ -683,8 +509,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: 
-                # https://theposterdb.com/search/advanced/results?term=Superman+Season+1&category=Shows        
 
 
     "Pennyworth: The Origin of Batman's Butler (2019)":
@@ -701,13 +525,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344444
-                # IDs: tvdb://807777
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+1&category=Shows&tvdb_id=807777
             2:
                 url_poster: https://theposterdb.com/api/assets/344445
-                # IDs: tvdb://1871760
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+2&category=Shows&tvdb_id=1871760
             3:
                 url_poster: https://theposterdb.com/api/assets/344446
-                # IDs: tvdb://1992955
-                # https://theposterdb.com/search/advanced/results?term=Pennyworth%3A+The%C2%A0Origin%C2%A0of%C2%A0Batman%27s%C2%A0Butler+Season+3&category=Shows&tvdb_id=1992955

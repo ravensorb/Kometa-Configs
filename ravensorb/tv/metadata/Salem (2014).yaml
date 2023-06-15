@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://61166, tvdb://566192
-                # https://theposterdb.com/search/advanced/results?term=Salem+Season+1&category=Shows&tmdb_id=61166&tvdb_id=566192
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://65050, tvdb://611540
-                # https://theposterdb.com/search/advanced/results?term=Salem+Season+2&category=Shows&tmdb_id=65050&tvdb_id=611540
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://79542, tvdb://648621
-                # https://theposterdb.com/search/advanced/results?term=Salem+Season+3&category=Shows&tmdb_id=79542&tvdb_id=648621        

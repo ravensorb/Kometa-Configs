@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/333084
-                # IDs: tmdb://50868, tvdb://467947
-                # https://theposterdb.com/search/advanced/results?term=Transporter+Season+1&category=Shows&tmdb_id=50868&tvdb_id=467947
             2:
                 url_poster: https://theposterdb.com/api/assets/333085
-                # IDs: tmdb://63131, tvdb://596312
-                # https://theposterdb.com/search/advanced/results?term=Transporter+Season+2&category=Shows&tmdb_id=63131&tvdb_id=596312        

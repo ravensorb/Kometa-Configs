@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/339400
-                # IDs: tmdb://122045
-                # https://theposterdb.com/search/advanced/results?term=Virgin+River+Season+1&category=Shows&tmdb_id=122045
             2:
                 url_poster: https://theposterdb.com/api/assets/339401
-                # IDs: tmdb://167130
-                # https://theposterdb.com/search/advanced/results?term=Virgin+River+Season+2&category=Shows&tmdb_id=167130
             3:
                 url_poster: https://theposterdb.com/api/assets/339402
-                # IDs: tmdb://197228
-                # https://theposterdb.com/search/advanced/results?term=Virgin+River+Season+3&category=Shows&tmdb_id=197228
             4:
                 url_poster: https://theposterdb.com/api/assets/339403
-                # IDs: tmdb://212304
-                # https://theposterdb.com/search/advanced/results?term=Virgin+River+Season+4&category=Shows&tmdb_id=212304        

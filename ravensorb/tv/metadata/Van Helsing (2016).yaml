@@ -12,21 +12,11 @@ metadata:
         seasons:
             1:
                 url_poster:  https://theposterdb.com/api/assets/348311
-                # IDs: tmdb://75158
-                # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+1&category=Shows&tmdb_id=75158
             2:
                 url_poster:  https://theposterdb.com/api/assets/348312
-                # IDs: tmdb://91715
-                # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+2&category=Shows&tmdb_id=91715
             3:
                 url_poster:  https://theposterdb.com/api/assets/348313
-                # IDs: tmdb://109623
-                # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+3&category=Shows&tmdb_id=109623
             4:
                 url_poster:  https://theposterdb.com/api/assets/348314
-                # IDs: tmdb://131232
-                # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+4&category=Shows&tmdb_id=131232
             5:
                 url_poster:  https://theposterdb.com/api/assets/348315
-                # IDs: tmdb://186443
-                # https://theposterdb.com/search/advanced/results?term=Van+Helsing+Season+5&category=Shows&tmdb_id=186443        

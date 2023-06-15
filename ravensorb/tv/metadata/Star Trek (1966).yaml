@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/222244
-                # IDs: tmdb://813, tvdb://13044
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+1&category=Shows&tmdb_id=813&tvdb_id=13044
             2:
                 url_poster: https://theposterdb.com/api/assets/222245
-                # IDs: tmdb://814, tvdb://13045
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+2&category=Shows&tmdb_id=814&tvdb_id=13045
             3:
                 url_poster: https://theposterdb.com/api/assets/222246
-                # IDs: tmdb://815, tvdb://13046
-                # https://theposterdb.com/search/advanced/results?term=Star+Trek+Season+3&category=Shows&tmdb_id=815&tvdb_id=13046        

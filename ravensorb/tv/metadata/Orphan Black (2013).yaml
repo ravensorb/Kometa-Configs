@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/238690
-                # IDs: tmdb://58141, tvdb://495508
-                # https://theposterdb.com/search/advanced/results?term=Orphan+Black+Season+1&category=Shows&tmdb_id=58141&tvdb_id=495508
             2:
                 url_poster: https://theposterdb.com/api/assets/238691
-                # IDs: tmdb://58143, tvdb://525661
-                # https://theposterdb.com/search/advanced/results?term=Orphan+Black+Season+2&category=Shows&tmdb_id=58143&tvdb_id=525661
             3:
                 url_poster: https://theposterdb.com/api/assets/238692
-                # IDs: tmdb://64514, tvdb://606625
-                # https://theposterdb.com/search/advanced/results?term=Orphan+Black+Season+3&category=Shows&tmdb_id=64514&tvdb_id=606625
             4:
                 url_poster: https://theposterdb.com/api/assets/238693
-                # IDs: tmdb://72267, tvdb://656263
-                # https://theposterdb.com/search/advanced/results?term=Orphan+Black+Season+4&category=Shows&tmdb_id=72267&tvdb_id=656263
             5:
                 url_poster: https://theposterdb.com/api/assets/238694
-                # IDs: tmdb://80535, tvdb://674819
-                # https://theposterdb.com/search/advanced/results?term=Orphan+Black+Season+5&category=Shows&tmdb_id=80535&tvdb_id=674819        

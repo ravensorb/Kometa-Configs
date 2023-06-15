@@ -5,7 +5,7 @@ metadata:
         alt_title: "The Ready Room (2019)"
         orig_title: "The Ready Room"
         sort_title: "Ready Room"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/347920
         # IDs: imdb://tt13485500, tmdb://100451, tvdb://358781
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Ready+Room&category=Shows&year_filter=equals&yone=2019&tmdb_id=100451&imdb_id=tt13485500&tvdb_id=358781
         # tmdb: https://www.themoviedb.org/tv/100451
@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://181239
-                # https://theposterdb.com/search/advanced/results?term=The+Ready+Room+Season+1&category=Shows&tmdb_id=181239
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://145132
-                # https://theposterdb.com/search/advanced/results?term=The+Ready+Room+Season+2&category=Shows&tmdb_id=145132
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://181240
-                # https://theposterdb.com/search/advanced/results?term=The+Ready+Room+Season+3&category=Shows&tmdb_id=181240
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://227729
-                # https://theposterdb.com/search/advanced/results?term=The+Ready+Room+Season+4&category=Shows&tmdb_id=227729
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://282230
-                # https://theposterdb.com/search/advanced/results?term=The+Ready+Room+Season+5&category=Shows&tmdb_id=282230        

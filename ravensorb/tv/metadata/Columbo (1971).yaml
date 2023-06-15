@@ -14,45 +14,23 @@ metadata:
         # seasons:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://86869
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Specials&category=Shows&tmdb_id=86869
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2545, tvdb://161
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+1&category=Shows&tmdb_id=2545&tvdb_id=161
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2547, tvdb://162
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+2&category=Shows&tmdb_id=2547&tvdb_id=162
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2546, tvdb://163
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+3&category=Shows&tmdb_id=2546&tvdb_id=163
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2549, tvdb://164
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+4&category=Shows&tmdb_id=2549&tvdb_id=164
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2548, tvdb://165
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+5&category=Shows&tmdb_id=2548&tvdb_id=165
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2550, tvdb://166
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+6&category=Shows&tmdb_id=2550&tvdb_id=166
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2551, tvdb://167
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+7&category=Shows&tmdb_id=2551&tvdb_id=167
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2553, tvdb://168
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+8&category=Shows&tmdb_id=2553&tvdb_id=168
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2554, tvdb://169
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+9&category=Shows&tmdb_id=2554&tvdb_id=169
             # 10:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2552
-                # https://theposterdb.com/search/advanced/results?term=Columbo+Season+10&category=Shows&tmdb_id=2552        

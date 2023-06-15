@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43134, tvdb://97211
-                # https://theposterdb.com/search/advanced/results?term=Covert+Affairs+Season+1&category=Shows&tmdb_id=43134&tvdb_id=97211
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43135, tvdb://396181
-                # https://theposterdb.com/search/advanced/results?term=Covert+Affairs+Season+2&category=Shows&tmdb_id=43135&tvdb_id=396181
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43136, tvdb://490426
-                # https://theposterdb.com/search/advanced/results?term=Covert+Affairs+Season+3&category=Shows&tmdb_id=43136&tvdb_id=490426
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://43138, tvdb://516539
-                # https://theposterdb.com/search/advanced/results?term=Covert+Affairs+Season+4&category=Shows&tmdb_id=43138&tvdb_id=516539
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://61702, tvdb://583535
-                # https://theposterdb.com/search/advanced/results?term=Covert+Affairs+Season+5&category=Shows&tmdb_id=61702&tvdb_id=583535        

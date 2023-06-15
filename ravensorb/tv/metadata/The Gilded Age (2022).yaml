@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346113
-                # IDs: tmdb://108018, tvdb://1967925
-                # https://theposterdb.com/search/advanced/results?term=The+Gilded+Age+Season+1&category=Shows&tmdb_id=108018&tvdb_id=1967925        

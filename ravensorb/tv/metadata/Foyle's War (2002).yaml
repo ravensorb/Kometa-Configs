@@ -14,37 +14,19 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9953, tvdb://15734
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+1&category=Shows&tmdb_id=9953&tvdb_id=15734
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9955, tvdb://15735
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+2&category=Shows&tmdb_id=9955&tvdb_id=15735
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9956, tvdb://15736
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+3&category=Shows&tmdb_id=9956&tvdb_id=15736
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9957, tvdb://15737
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+4&category=Shows&tmdb_id=9957&tvdb_id=15737
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9954, tvdb://30024
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+5&category=Shows&tmdb_id=9954&tvdb_id=30024
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9958, tvdb://30025
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+6&category=Shows&tmdb_id=9958&tvdb_id=30025
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9959
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+7&category=Shows&tmdb_id=9959
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://9960
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+8&category=Shows&tmdb_id=9960
             # 9:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64281
-                # https://theposterdb.com/search/advanced/results?term=Foyle%27s+War+Season+9&category=Shows&tmdb_id=64281        

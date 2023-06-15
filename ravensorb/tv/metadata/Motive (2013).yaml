@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/308303
-                # IDs: tmdb://54619, tvdb://501326
-                # https://theposterdb.com/search/advanced/results?term=Motive+Season+1&category=Shows&tmdb_id=54619&tvdb_id=501326
             2:
                 url_poster: https://theposterdb.com/api/assets/308304
-                # IDs: tmdb://61318, tvdb://563582
-                # https://theposterdb.com/search/advanced/results?term=Motive+Season+2&category=Shows&tmdb_id=61318&tvdb_id=563582
             3:
                 url_poster: https://theposterdb.com/api/assets/308305
-                # IDs: tmdb://65266, tvdb://606710
-                # https://theposterdb.com/search/advanced/results?term=Motive+Season+3&category=Shows&tmdb_id=65266&tvdb_id=606710
             4:
                 url_poster: https://theposterdb.com/api/assets/308306
-                # IDs: tmdb://75162, tvdb://654871
-                # https://theposterdb.com/search/advanced/results?term=Motive+Season+4&category=Shows&tmdb_id=75162&tvdb_id=654871        

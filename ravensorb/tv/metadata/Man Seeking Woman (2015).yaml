@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/342234
-                # IDs: tmdb://64501, tvdb://604040
-                # https://theposterdb.com/search/advanced/results?term=Man+Seeking+Woman+Season+1&category=Shows&tmdb_id=64501&tvdb_id=604040
             2:
                 url_poster: https://theposterdb.com/api/assets/342235
-                # IDs: tmdb://73575
-                # https://theposterdb.com/search/advanced/results?term=Man+Seeking+Woman+Season+2&category=Shows&tmdb_id=73575
             3:
                 url_poster: https://theposterdb.com/api/assets/342236
-                # IDs: tmdb://83377
-                # https://theposterdb.com/search/advanced/results?term=Man+Seeking+Woman+Season+3&category=Shows&tmdb_id=83377        

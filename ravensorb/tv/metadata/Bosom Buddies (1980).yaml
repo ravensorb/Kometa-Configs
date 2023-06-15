@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8236, tvdb://13364
-                # https://theposterdb.com/search/advanced/results?term=Bosom+Buddies+Season+1&category=Shows&tmdb_id=8236&tvdb_id=13364
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://8237, tvdb://13365
-                # https://theposterdb.com/search/advanced/results?term=Bosom+Buddies+Season+2&category=Shows&tmdb_id=8237&tvdb_id=13365        

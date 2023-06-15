@@ -14,12 +14,8 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2924, tvdb://9766
-                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%281985%29+Season+1&category=Shows&tmdb_id=2924&tvdb_id=9766
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://2923, tvdb://9767
-                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%281985%29+Season+2&category=Shows&tmdb_id=2923&tvdb_id=9767        
 
     "Amazing Stories (2020)":
         year: 2020
@@ -36,5 +32,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/333609
-                # IDs: tmdb://141338
-                # https://theposterdb.com/search/advanced/results?term=Amazing+Stories+%282020%29+Season+1&category=Shows&tmdb_id=141338        

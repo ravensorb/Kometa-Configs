@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7272, tvdb://4451
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+1&category=Shows&tmdb_id=7272&tvdb_id=4451
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7273, tvdb://4452
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+2&category=Shows&tmdb_id=7273&tvdb_id=4452
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7274, tvdb://4453
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+3&category=Shows&tmdb_id=7274&tvdb_id=4453
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7275, tvdb://4454
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+4&category=Shows&tmdb_id=7275&tvdb_id=4454
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7276, tvdb://4455
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+5&category=Shows&tmdb_id=7276&tvdb_id=4455
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://7277, tvdb://4456
-                # https://theposterdb.com/search/advanced/results?term=Dawson%27s+Creek+Season+6&category=Shows&tmdb_id=7277&tvdb_id=4456        

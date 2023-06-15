@@ -14,25 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14093, tvdb://13637
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+1&category=Shows&tmdb_id=14093&tvdb_id=13637
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14097, tvdb://13638
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+2&category=Shows&tmdb_id=14097&tvdb_id=13638
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14096, tvdb://13639
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+3&category=Shows&tmdb_id=14096&tvdb_id=13639
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14095, tvdb://13640
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+4&category=Shows&tmdb_id=14095&tvdb_id=13640
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14092, tvdb://13641
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+5&category=Shows&tmdb_id=14092&tvdb_id=13641
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://14094, tvdb://13642
-                # https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess+Season+6&category=Shows&tmdb_id=14094&tvdb_id=13642        

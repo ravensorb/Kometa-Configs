@@ -14,17 +14,9 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/216625
-                # IDs: tmdb://86847, tvdb://713454
-                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+1&category=Shows&tmdb_id=86847&tvdb_id=713454
             2:
                 url_poster: https://theposterdb.com/api/assets/216626
-                # IDs: tmdb://107076, tvdb://770855
-                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+2&category=Shows&tmdb_id=107076&tvdb_id=770855
             3:
                 url_poster: https://theposterdb.com/api/assets/216627
-                # IDs: tmdb://142858, tvdb://1821236
-                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+3&category=Shows&tmdb_id=142858&tvdb_id=1821236
             4:
                 url_poster: https://theposterdb.com/api/assets/216628
-                # IDs: tmdb://190844
-                # https://theposterdb.com/search/advanced/results?term=Castlevania+Season+4&category=Shows&tmdb_id=190844        

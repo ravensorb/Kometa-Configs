@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50921
-                # https://theposterdb.com/search/advanced/results?term=Scott+%26+Bailey+Season+1&category=Shows&tmdb_id=50921
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50922
-                # https://theposterdb.com/search/advanced/results?term=Scott+%26+Bailey+Season+2&category=Shows&tmdb_id=50922
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://50923
-                # https://theposterdb.com/search/advanced/results?term=Scott+%26+Bailey+Season+3&category=Shows&tmdb_id=50923
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62891, tvdb://249128
-                # https://theposterdb.com/search/advanced/results?term=Scott+%26+Bailey+Season+4&category=Shows&tmdb_id=62891&tvdb_id=249128
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://76318
-                # https://theposterdb.com/search/advanced/results?term=Scott+%26+Bailey+Season+5&category=Shows&tmdb_id=76318        

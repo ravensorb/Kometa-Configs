@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/332921
-                # IDs: tmdb://60418
-                # https://theposterdb.com/search/advanced/results?term=The+Leftovers+Season+1&category=Shows&tmdb_id=60418
             2:
                 url_poster: https://theposterdb.com/api/assets/332922
-                # IDs: tmdb://69171
-                # https://theposterdb.com/search/advanced/results?term=The+Leftovers+Season+2&category=Shows&tmdb_id=69171
             3:
                 url_poster: https://theposterdb.com/api/assets/332923
-                # IDs: tmdb://84885
-                # https://theposterdb.com/search/advanced/results?term=The+Leftovers+Season+3&category=Shows&tmdb_id=84885        

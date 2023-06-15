@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://316561
-                # https://theposterdb.com/search/advanced/results?term=E%21+True+Hollywood+Story+Season+1&category=Shows&tmdb_id=316561
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://316563
-                # https://theposterdb.com/search/advanced/results?term=E%21+True+Hollywood+Story+Season+2&category=Shows&tmdb_id=316563        

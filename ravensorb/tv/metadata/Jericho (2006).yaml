@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367787
-                # IDs: tmdb://1068
-                # https://theposterdb.com/search/advanced/results?term=Jericho+%282006%29+Season+1&category=Shows&tmdb_id=1068
             2:
                 url_poster: https://theposterdb.com/api/assets/367788
-                # IDs: tmdb://1069
-                # https://theposterdb.com/search/advanced/results?term=Jericho+%282006%29+Season+2&category=Shows&tmdb_id=1069        

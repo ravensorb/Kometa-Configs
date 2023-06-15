@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://26778
-                # https://theposterdb.com/search/advanced/results?term=Tomorrow%27s+World+Season+1&category=Shows&tmdb_id=26778
             # 22:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://26760
-                # https://theposterdb.com/search/advanced/results?term=Tomorrow%27s+World+Season+22&category=Shows&tmdb_id=26760
             # 30:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://26768
-                # https://theposterdb.com/search/advanced/results?term=Tomorrow%27s+World+Season+30&category=Shows&tmdb_id=26768        

@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/339101
-                # IDs: tmdb://116015, tvdb://1897982
-                # https://theposterdb.com/search/advanced/results?term=Shadow+and+Bone+Season+1&category=Shows&tmdb_id=116015&tvdb_id=1897982
             2:
                 url_poster: https://theposterdb.com/api/assets/339102
-                # IDs: tmdb://309966, tvdb://2033772
-                # https://theposterdb.com/search/advanced/results?term=Shadow+and+Bone+Season+2&category=Shows&tmdb_id=309966&tvdb_id=2033772        

@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://74516, tvdb://644884
-                # https://theposterdb.com/search/advanced/results?term=The+Catch+Season+1&category=Shows&tmdb_id=74516&tvdb_id=644884
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://83879
-                # https://theposterdb.com/search/advanced/results?term=The+Catch+Season+2&category=Shows&tmdb_id=83879        

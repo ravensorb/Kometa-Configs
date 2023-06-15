@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/307372
-                # IDs: tmdb://10444, tvdb://12288
-                # https://theposterdb.com/search/advanced/results?term=Charlie%27s+Angels+Season+1&category=Shows&tmdb_id=10444&tvdb_id=12288
             2:
                 url_poster: https://theposterdb.com/api/assets/307373
-                # IDs: tmdb://10443, tvdb://12289
-                # https://theposterdb.com/search/advanced/results?term=Charlie%27s+Angels+Season+2&category=Shows&tmdb_id=10443&tvdb_id=12289
             3:
                 url_poster: https://theposterdb.com/api/assets/307374
-                # IDs: tmdb://10445, tvdb://12290
-                # https://theposterdb.com/search/advanced/results?term=Charlie%27s+Angels+Season+3&category=Shows&tmdb_id=10445&tvdb_id=12290
             4:
                 url_poster: https://theposterdb.com/api/assets/307375
-                # IDs: tmdb://10441, tvdb://12291
-                # https://theposterdb.com/search/advanced/results?term=Charlie%27s+Angels+Season+4&category=Shows&tmdb_id=10441&tvdb_id=12291
             5:
                 url_poster: https://theposterdb.com/api/assets/307376
-                # IDs: tmdb://10442, tvdb://12292
-                # https://theposterdb.com/search/advanced/results?term=Charlie%27s+Angels+Season+5&category=Shows&tmdb_id=10442&tvdb_id=12292        

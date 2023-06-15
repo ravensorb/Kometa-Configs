@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/345631
-                # IDs: tmdb://242799, tvdb://1971859
-                # https://theposterdb.com/search/advanced/results?term=Treason+Season+1&category=Shows&tmdb_id=242799&tvdb_id=1971859        

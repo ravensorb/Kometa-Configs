@@ -13,24 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1399045
         seasons:
             # 0:
-            #     url_poster:  https://theposterdb.com/api/assets/354176
+                # url_poster:  https://theposterdb.com/api/assets/354176
             1:
                 url_poster:  https://theposterdb.com/api/assets/354177
-                # IDs: tmdb://78561, tvdb://670302
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+%282016%29+Season+1&category=Shows&tmdb_id=78561&tvdb_id=670302
             2:
                 url_poster:  https://theposterdb.com/api/assets/354178
-                # IDs: tmdb://91742, tvdb://714340
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+%282016%29+Season+2&category=Shows&tmdb_id=91742&tvdb_id=714340
             3:
                 url_poster:  https://theposterdb.com/api/assets/354179
-                # IDs: tmdb://108331
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+%282016%29+Season+3&category=Shows&tmdb_id=108331
             4:
                 url_poster:  https://theposterdb.com/api/assets/354180
-                # IDs: tmdb://131165
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+%282016%29+Season+4&category=Shows&tmdb_id=131165
             5:
                 url_poster:  https://theposterdb.com/api/assets/354181
-                # IDs: tmdb://168940
-                # https://theposterdb.com/search/advanced/results?term=MacGyver+%282016%29+Season+5&category=Shows&tmdb_id=168940        

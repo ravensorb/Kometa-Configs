@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://146126
-                # https://theposterdb.com/search/advanced/results?term=Biohackers+Season+1&category=Shows&tmdb_id=146126
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://197533
-                # https://theposterdb.com/search/advanced/results?term=Biohackers+Season+2&category=Shows&tmdb_id=197533        

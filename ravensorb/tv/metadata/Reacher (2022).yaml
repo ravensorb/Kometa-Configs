@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/261710
-                # IDs: tmdb://161571, tvdb://1933977
-                # https://theposterdb.com/search/advanced/results?term=Reacher+Season+1&category=Shows&tmdb_id=161571&tvdb_id=1933977        

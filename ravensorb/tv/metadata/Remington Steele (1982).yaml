@@ -14,21 +14,11 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://1790, tvdb://14461
-                # https://theposterdb.com/search/advanced/results?term=Remington+Steele+Season+1&category=Shows&tmdb_id=1790&tvdb_id=14461
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://1794, tvdb://14462
-                # https://theposterdb.com/search/advanced/results?term=Remington+Steele+Season+2&category=Shows&tmdb_id=1794&tvdb_id=14462
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://1792, tvdb://14463
-                # https://theposterdb.com/search/advanced/results?term=Remington+Steele+Season+3&category=Shows&tmdb_id=1792&tvdb_id=14463
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://1791, tvdb://14464
-                # https://theposterdb.com/search/advanced/results?term=Remington+Steele+Season+4&category=Shows&tmdb_id=1791&tvdb_id=14464
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://1793, tvdb://14465
-                # https://theposterdb.com/search/advanced/results?term=Remington+Steele+Season+5&category=Shows&tmdb_id=1793&tvdb_id=14465        

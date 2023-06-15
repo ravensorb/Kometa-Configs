@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/328804
-                # IDs: tmdb://295484, tvdb://2002767
-                # https://theposterdb.com/search/advanced/results?term=Star+Wars%3A+Tales+of+the+Jedi+Season+1&category=Shows&tmdb_id=295484&tvdb_id=2002767        

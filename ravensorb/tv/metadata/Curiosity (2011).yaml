@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://89569
-                # https://theposterdb.com/search/advanced/results?term=Curiosity+Season+1&category=Shows&tmdb_id=89569
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://51253
-                # https://theposterdb.com/search/advanced/results?term=Curiosity+Season+2&category=Shows&tmdb_id=51253        

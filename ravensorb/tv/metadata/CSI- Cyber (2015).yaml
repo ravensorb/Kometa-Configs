@@ -14,9 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/363172
-                # IDs: tmdb://64294, tvdb://605485
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Cyber+Season+1&category=Shows&tmdb_id=64294&tvdb_id=605485
             2:
                 url_poster: https://theposterdb.com/api/assets/363173
-                # IDs: tmdb://71117, tvdb://625589
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Cyber+Season+2&category=Shows&tmdb_id=71117&tvdb_id=625589        

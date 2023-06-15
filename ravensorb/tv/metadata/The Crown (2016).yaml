@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/242968
-                # IDs: tmdb://74331, tvdb://651881
-                # https://theposterdb.com/search/advanced/results?term=The+Crown+Season+1&category=Shows&tmdb_id=74331&tvdb_id=651881
             2:
                 url_poster: https://theposterdb.com/api/assets/242969
-                # IDs: tmdb://85133, tvdb://723798
-                # https://theposterdb.com/search/advanced/results?term=The+Crown+Season+2&category=Shows&tmdb_id=85133&tvdb_id=723798
             3:
                 url_poster: https://theposterdb.com/api/assets/242970
-                # IDs: tmdb://108815, tvdb://821747
-                # https://theposterdb.com/search/advanced/results?term=The+Crown+Season+3&category=Shows&tmdb_id=108815&tvdb_id=821747
             4:
                 url_poster: https://theposterdb.com/api/assets/242971
-                # IDs: tmdb://142451, tvdb://1862097
-                # https://theposterdb.com/search/advanced/results?term=The+Crown+Season+4&category=Shows&tmdb_id=142451&tvdb_id=1862097
             5:
                 url_poster: https://theposterdb.com/api/assets/320126
-                # IDs: tmdb://213012, tvdb://2021737
-                # https://theposterdb.com/search/advanced/results?term=The+Crown+Season+5&category=Shows&tmdb_id=213012&tvdb_id=2021737        

@@ -14,9 +14,5 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://59627, tvdb://505358
-                # https://theposterdb.com/search/advanced/results?term=The+Bridge+%282013%29+Season+1&category=Shows&tmdb_id=59627&tvdb_id=505358
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62092, tvdb://578428
-                # https://theposterdb.com/search/advanced/results?term=The+Bridge+%282013%29+Season+2&category=Shows&tmdb_id=62092&tvdb_id=578428        

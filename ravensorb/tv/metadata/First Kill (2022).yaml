@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/346619
-                # IDs: tmdb://165919
-                # https://theposterdb.com/search/advanced/results?term=First+Kill+Season+1&category=Shows&tmdb_id=165919        

@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/287718
-                # IDs: tmdb://163922, tvdb://1819505
-                # https://theposterdb.com/search/advanced/results?term=Midnight+Mass+%282021%29+Season+1&category=Shows&tmdb_id=163922&tvdb_id=1819505        

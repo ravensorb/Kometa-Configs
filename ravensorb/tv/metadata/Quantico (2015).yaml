@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330379
-                # IDs: tmdb://67207, tvdb://625712
-                # https://theposterdb.com/search/advanced/results?term=Quantico+%282015%29+Season+1&category=Shows&tmdb_id=67207&tvdb_id=625712
             2:
                 url_poster: https://theposterdb.com/api/assets/330380
-                # IDs: tmdb://79249, tvdb://672197
-                # https://theposterdb.com/search/advanced/results?term=Quantico+%282015%29+Season+2&category=Shows&tmdb_id=79249&tvdb_id=672197
             3:
                 url_poster: https://theposterdb.com/api/assets/330381
-                # IDs: tmdb://97518, tvdb://731313
-                # https://theposterdb.com/search/advanced/results?term=Quantico+%282015%29+Season+3&category=Shows&tmdb_id=97518&tvdb_id=731313        

@@ -14,13 +14,7 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://68501, tvdb://624231
-                # https://theposterdb.com/search/advanced/results?term=Shadowhunters+Season+1&category=Shows&tmdb_id=68501&tvdb_id=624231
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://80936, tvdb://683062
-                # https://theposterdb.com/search/advanced/results?term=Shadowhunters+Season+2&category=Shows&tmdb_id=80936&tvdb_id=683062
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://99140
-                # https://theposterdb.com/search/advanced/results?term=Shadowhunters+Season+3&category=Shows&tmdb_id=99140        

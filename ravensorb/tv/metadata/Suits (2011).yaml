@@ -14,37 +14,19 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/330411
-                # IDs: tmdb://49020, tvdb://463443
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+1&category=Shows&tmdb_id=49020&tvdb_id=463443
             2:
                 url_poster: https://theposterdb.com/api/assets/330412
-                # IDs: tmdb://49021, tvdb://486857
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+2&category=Shows&tmdb_id=49021&tvdb_id=486857
             3:
                 url_poster: https://theposterdb.com/api/assets/330413
-                # IDs: tmdb://49022, tvdb://516262
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+3&category=Shows&tmdb_id=49022&tvdb_id=516262
             4:
                 url_poster: https://theposterdb.com/api/assets/330414
-                # IDs: tmdb://61103, tvdb://583534
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+4&category=Shows&tmdb_id=61103&tvdb_id=583534
             5:
                 url_poster: https://theposterdb.com/api/assets/330415
-                # IDs: tmdb://67345, tvdb://619001
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+5&category=Shows&tmdb_id=67345&tvdb_id=619001
             6:
                 url_poster: https://theposterdb.com/api/assets/330416
-                # IDs: tmdb://77763, tvdb://665951
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+6&category=Shows&tmdb_id=77763&tvdb_id=665951
             7:
                 url_poster: https://theposterdb.com/api/assets/330417
-                # IDs: tmdb://90223, tvdb://707728
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+7&category=Shows&tmdb_id=90223&tvdb_id=707728
             8:
                 url_poster: https://theposterdb.com/api/assets/330418
-                # IDs: tmdb://98716
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+8&category=Shows&tmdb_id=98716
             9:
                 url_poster: https://theposterdb.com/api/assets/330419
-                # IDs: tmdb://123740
-                # https://theposterdb.com/search/advanced/results?term=Suits+Season+9&category=Shows&tmdb_id=123740        

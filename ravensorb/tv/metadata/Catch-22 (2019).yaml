@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/344274
-                # IDs: tmdb://110169
-                # https://theposterdb.com/search/advanced/results?term=Catch-22+Season+1&category=Shows&tmdb_id=110169        

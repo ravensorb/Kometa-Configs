@@ -12,5 +12,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/347964
-                # IDs: tmdb://185210, tvdb://813807
-                # https://theposterdb.com/search/advanced/results?term=Dan+Brown%27s+The+Lost+Symbol+Season+1&category=Shows&tmdb_id=185210&tvdb_id=813807        

@@ -14,21 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/366302
-                # IDs: tmdb://106154
-                # https://theposterdb.com/search/advanced/results?term=FBI+Season+1&category=Shows&tmdb_id=106154
             2:
                 url_poster: https://theposterdb.com/api/assets/366303
-                # IDs: tmdb://126157
-                # https://theposterdb.com/search/advanced/results?term=FBI+Season+2&category=Shows&tmdb_id=126157
             3:
                 url_poster: https://theposterdb.com/api/assets/366304
-                # IDs: tmdb://166426
-                # https://theposterdb.com/search/advanced/results?term=FBI+Season+3&category=Shows&tmdb_id=166426
             4:
                 url_poster: https://theposterdb.com/api/assets/366305
-                # IDs: tmdb://201999, tvdb://1940640
-                # https://theposterdb.com/search/advanced/results?term=FBI+Season+4&category=Shows&tmdb_id=201999&tvdb_id=1940640
             5:
                 url_poster: https://theposterdb.com/api/assets/354206
-                # IDs: tmdb://298428, tvdb://2006869
-                # https://theposterdb.com/search/advanced/results?term=FBI+Season+5&category=Shows&tmdb_id=298428&tvdb_id=2006869        

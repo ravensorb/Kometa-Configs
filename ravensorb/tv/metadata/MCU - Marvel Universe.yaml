@@ -14,24 +14,14 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64183
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Season+1&category=Shows&tmdb_id=64183
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://64184
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Season+2&category=Shows&tmdb_id=64184
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://75230
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Ultron+Revolution&category=Shows&tmdb_id=75230
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://89597
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Secret+Wars&category=Shows&tmdb_id=89597
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://109734
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Avengers+Assemble+Black+Panther%27s+Quest&category=Shows&tmdb_id=109734        
 
     "Marvel's Agents of S.H.I.E.L.D. (2013)":
         year: 2013
@@ -48,32 +38,18 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/216599
-                # IDs: tmdb://3648, tvdb://503426
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+1&category=Shows&tmdb_id=3648&tvdb_id=503426
             2:
                 url_poster: https://theposterdb.com/api/assets/216600
-                # IDs: tmdb://62022, tvdb://591138
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+2&category=Shows&tmdb_id=62022&tvdb_id=591138
             3:
                 url_poster: https://theposterdb.com/api/assets/216601
-                # IDs: tmdb://68416, tvdb://625697
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+3&category=Shows&tmdb_id=68416&tvdb_id=625697
             4:
                 url_poster: https://theposterdb.com/api/assets/216602
-                # IDs: tmdb://78514, tvdb://669888
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+4&category=Shows&tmdb_id=78514&tvdb_id=669888
             5:
                 url_poster: https://theposterdb.com/api/assets/216603
-                # IDs: tmdb://93742, tvdb://726439
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+5&category=Shows&tmdb_id=93742&tvdb_id=726439
             6:
                 url_poster: https://theposterdb.com/api/assets/216604
-                # IDs: tmdb://103782
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+6&category=Shows&tmdb_id=103782
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://147976
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agents+of+S.H.I.E.L.D.+Season+7&category=Shows&tmdb_id=147976        
 
     "Marvel's Agent Carter (2015)":
         year: 2015
@@ -90,12 +66,8 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239461
-                # IDs: tmdb://63213, tvdb://585033
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agent+Carter+Season+1&category=Shows&tmdb_id=63213&tvdb_id=585033
             2:
                 url_poster: https://theposterdb.com/api/assets/239462
-                # IDs: tmdb://71006, tvdb://644969
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Agent+Carter+Season+2&category=Shows&tmdb_id=71006&tvdb_id=644969        
 
     "Marvel's Inhumans (2017)":
         year: 2017
@@ -112,8 +84,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239473
-                # IDs: tmdb://82048
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Inhumans+Season+1&category=Shows&tmdb_id=82048        
 
     "Marvel's Runaways (2017)":
         year: 2017
@@ -130,16 +100,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239485
-                # IDs: tmdb://79336, tvdb://721318
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+1&category=Shows&tmdb_id=79336&tvdb_id=721318
             2:
                 url_poster: https://theposterdb.com/api/assets/239486
-                # IDs: tmdb://107889
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+2&category=Shows&tmdb_id=107889
             3:
                 url_poster: https://theposterdb.com/api/assets/239487
-                # IDs: tmdb://128480
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Runaways+Season+3&category=Shows&tmdb_id=128480        
 
     "Marvel's Cloak & Dagger (2018)":
         year: 2018
@@ -156,12 +120,8 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239466
-                # IDs: tmdb://84431, tvdb://747899
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Cloak+%26+Dagger+Season+1&category=Shows&tmdb_id=84431&tvdb_id=747899
             2:
                 url_poster: https://theposterdb.com/api/assets/239467
-                # IDs: tmdb://118377
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Cloak+%26+Dagger+Season+2&category=Shows&tmdb_id=118377        
 
     "Helstrom (2020)":
         year: 2020
@@ -178,8 +138,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239455
-                # IDs: tmdb://123465, tvdb://1857006
-                # https://theposterdb.com/search/advanced/results?term=Helstrom+Season+1&category=Shows&tmdb_id=123465&tvdb_id=1857006        
 
     "Marvel's Legends (2021)":
         year: 2021
@@ -196,12 +154,8 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/287936
-                # IDs: tmdb://172254, tvdb://1887036
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legends+Season+1&category=Shows&tmdb_id=172254&tvdb_id=1887036
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://325885
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legends+Season+2&category=Shows&tmdb_id=325885        
 
     "Marvel's WandaVision (2021)":
         year: 2021
@@ -218,8 +172,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192802
-                # IDs: tmdb://114993, tvdb://1868827
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+WandaVision+Season+1&category=Shows&tmdb_id=114993&tvdb_id=1868827        
 
     "Marvel's Assembled (2021)":
         year: 2021
@@ -236,8 +188,6 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://181890, tvdb://1902223
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Assembled+Season+1&category=Shows&tmdb_id=181890&tvdb_id=1902223        
 
     "Marvel's The Falcon and the Winter Soldier (2021)":
         year: 2021
@@ -254,8 +204,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192801
-                # IDs: tmdb://156676, tvdb://362496
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+The+Falcon+and+the+Winter+Soldier+Season+1&category=Shows&tmdb_id=156676&tvdb_id=362496        
 
     "Marvel's Loki (2021)":
         year: 2021
@@ -272,8 +220,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192800
-                # IDs: tmdb://114355, tvdb://1869163
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Loki+Season+1&category=Shows&tmdb_id=114355&tvdb_id=1869163        
 
     "Marvel's What If...? (2021)":
         year: 2021
@@ -290,8 +236,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192803
-                # IDs: tmdb://134723, tvdb://1909715
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+What+If...%3F+Season+1&category=Shows&tmdb_id=134723&tvdb_id=1909715        
 
     "Marvel's Hawkeye (2021)":
         year: 2021
@@ -308,8 +252,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/192799
-                # IDs: tmdb://122165, tvdb://1909722
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Hawkeye+Season+1&category=Shows&tmdb_id=122165&tvdb_id=1909722        
 
     "Marvel's Ms. Marvel (2022)":
         year: 2022
@@ -326,8 +268,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/241858
-                # IDs: tmdb://130652, tvdb://1909728
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ms.+Marvel+Season+1&category=Shows&tmdb_id=130652&tvdb_id=1909728        
 
     "She-Hulk: Attorney at Law (2022)":
         year: 2022
@@ -344,8 +284,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/258765
-                # IDs: tmdb://163259, tvdb://1909724
-                # https://theposterdb.com/search/advanced/results?term=She-Hulk%3A+Attorney+at+Law+%282022%29+Miniseries&category=Shows&tmdb_id=163259&tvdb_id=1909724        
 
     "Legion (2017)":
         year: 2017
@@ -362,16 +300,10 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/239457
-                # IDs: tmdb://78738, tvdb://691126
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+1&category=Shows&tmdb_id=78738&tvdb_id=691126
             2:
                 url_poster: https://theposterdb.com/api/assets/239458
-                # IDs: tmdb://98949, tvdb://750605
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+2&category=Shows&tmdb_id=98949&tvdb_id=750605
             3:
                 url_poster: https://theposterdb.com/api/assets/239459
-                # IDs: tmdb://123896
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Legion+Season+3&category=Shows&tmdb_id=123896        
 
     "Marvel's Moon Knight (2022)":
         year: 2022
@@ -388,8 +320,6 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/218192
-                # IDs: tmdb://130604, tvdb://1909725
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Moon+Knight+Season+1&category=Shows&tmdb_id=130604&tvdb_id=1909725        
 
     "Marvel's Spider-Man (2017)":
         year: 2017
@@ -406,16 +336,10 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://90209
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Season+1&category=Shows&tmdb_id=90209
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://105352
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Season+2&category=Shows&tmdb_id=105352
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://148444
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Spider-Man+Maximum+Venom&category=Shows&tmdb_id=148444        
 
     "Marvel's Ultimate Spider-Man (2012)":
         year: 2012
@@ -432,17 +356,9 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://45191, tvdb://488822
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+1&category=Shows&tmdb_id=45191&tvdb_id=488822
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://45192, tvdb://508064
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+2&category=Shows&tmdb_id=45192&tvdb_id=508064
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://62572, tvdb://576690
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+3%3A+Web-Warriors&category=Shows&tmdb_id=62572&tvdb_id=576690
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-                # IDs: tmdb://74755, tvdb://653308
-                # https://theposterdb.com/search/advanced/results?term=Marvel%27s+Ultimate+Spider-Man+Season+4%3A+vs+the+Sinister+6&category=Shows&tmdb_id=74755&tvdb_id=653308        

@@ -13,44 +13,24 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0313043
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/363175
+                # url_poster: https://theposterdb.com/api/assets/363175
             1:
                 url_poster: https://theposterdb.com/api/assets/363176
-                # IDs: tmdb://4444, tvdb://14741
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+1&category=Shows&tmdb_id=4444&tvdb_id=14741
             2:
                 url_poster: https://theposterdb.com/api/assets/363177
-                # IDs: tmdb://4439, tvdb://14742
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+2&category=Shows&tmdb_id=4439&tvdb_id=14742
             3:
                 url_poster: https://theposterdb.com/api/assets/363178
-                # IDs: tmdb://4438, tvdb://14743
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+3&category=Shows&tmdb_id=4438&tvdb_id=14743
             4:
                 url_poster: https://theposterdb.com/api/assets/363179
-                # IDs: tmdb://4441, tvdb://14744
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+4&category=Shows&tmdb_id=4441&tvdb_id=14744
             5:
                 url_poster: https://theposterdb.com/api/assets/363180
-                # IDs: tmdb://4442, tvdb://16362
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+5&category=Shows&tmdb_id=4442&tvdb_id=16362
             6:
                 url_poster: https://theposterdb.com/api/assets/363181
-                # IDs: tmdb://4443, tvdb://28606
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+6&category=Shows&tmdb_id=4443&tvdb_id=28606
             7:
                 url_poster: https://theposterdb.com/api/assets/363182
-                # IDs: tmdb://4440, tvdb://35010
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+7&category=Shows&tmdb_id=4440&tvdb_id=35010
             8:
                 url_poster: https://theposterdb.com/api/assets/363183
-                # IDs: tmdb://4445, tvdb://67201
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+8&category=Shows&tmdb_id=4445&tvdb_id=67201
             9:
                 url_poster: https://theposterdb.com/api/assets/363184
-                # IDs: tmdb://4446, tvdb://285401
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+9&category=Shows&tmdb_id=4446&tvdb_id=285401
             10:
                 url_poster: https://theposterdb.com/api/assets/363185
-                # IDs: tmdb://4448, tvdb://468788
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+Miami+Season+10&category=Shows&tmdb_id=4448&tvdb_id=468788        

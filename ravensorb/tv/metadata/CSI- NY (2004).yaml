@@ -11,40 +11,22 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0395843
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/363187
+                # url_poster: https://theposterdb.com/api/assets/363187
             1:
                 url_poster: https://theposterdb.com/api/assets/363188
-                # IDs: tmdb://7765, tvdb://6275
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+1&category=Shows&tmdb_id=7765&tvdb_id=6275
             2:
                 url_poster: https://theposterdb.com/api/assets/363189
-                # IDs: tmdb://7766, tvdb://6277
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+2&category=Shows&tmdb_id=7766&tvdb_id=6277
             3:
                 url_poster: https://theposterdb.com/api/assets/363190
-                # IDs: tmdb://7767, tvdb://16350
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+3&category=Shows&tmdb_id=7767&tvdb_id=16350
             4:
                 url_poster: https://theposterdb.com/api/assets/363191
-                # IDs: tmdb://7768, tvdb://28640
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+4&category=Shows&tmdb_id=7768&tvdb_id=28640
             5:
                 url_poster: https://theposterdb.com/api/assets/363192
-                # IDs: tmdb://7769, tvdb://35000
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+5&category=Shows&tmdb_id=7769&tvdb_id=35000
             6:
                 url_poster: https://theposterdb.com/api/assets/363193
-                # IDs: tmdb://7770, tvdb://67211
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+6&category=Shows&tmdb_id=7770&tvdb_id=67211
             7:
                 url_poster: https://theposterdb.com/api/assets/363194
-                # IDs: tmdb://63765, tvdb://284391
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+7&category=Shows&tmdb_id=63765&tvdb_id=284391
             8:
                 url_poster: https://theposterdb.com/api/assets/363195
-                # IDs: tmdb://63766, tvdb://468787
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+8&category=Shows&tmdb_id=63766&tvdb_id=468787
             9:
                 url_poster: https://theposterdb.com/api/assets/363242
-                # IDs: tmdb://59837, tvdb://496183
-                # https://theposterdb.com/search/advanced/results?term=CSI%3A+NY+Season+9&category=Shows&tmdb_id=59837&tvdb_id=496183        

@@ -13,32 +13,18 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0200276
         seasons:
             # 0:
-            #     url_poster: https://theposterdb.com/api/assets/363994
+                # url_poster: https://theposterdb.com/api/assets/363994
             1:
                 url_poster: https://theposterdb.com/api/assets/363995
-                # IDs: tmdb://2043, tvdb://4359
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+1&category=Shows&tmdb_id=2043&tvdb_id=4359
             2:
                 url_poster: https://theposterdb.com/api/assets/363996
-                # IDs: tmdb://2044, tvdb://4360
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+2&category=Shows&tmdb_id=2044&tvdb_id=4360
             3:
                 url_poster: https://theposterdb.com/api/assets/363997
-                # IDs: tmdb://2045, tvdb://4361
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+3&category=Shows&tmdb_id=2045&tvdb_id=4361
             4:
                 url_poster: https://theposterdb.com/api/assets/363998
-                # IDs: tmdb://2046, tvdb://4362
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+4&category=Shows&tmdb_id=2046&tvdb_id=4362
             5:
                 url_poster: https://theposterdb.com/api/assets/363999
-                # IDs: tmdb://2047, tvdb://4363
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+5&category=Shows&tmdb_id=2047&tvdb_id=4363
             6:
                 url_poster: https://theposterdb.com/api/assets/364000
-                # IDs: tmdb://2048, tvdb://4364
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+6&category=Shows&tmdb_id=2048&tvdb_id=4364
             7:
                 url_poster: https://theposterdb.com/api/assets/364001
-                # IDs: tmdb://2049, tvdb://4365
-                # https://theposterdb.com/search/advanced/results?term=The+West+Wing+Season+7&category=Shows&tmdb_id=2049&tvdb_id=4365        

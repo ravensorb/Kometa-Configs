@@ -14,13 +14,7 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/245389
-                # IDs: tmdb://115624, tvdb://792412
-                # https://theposterdb.com/search/advanced/results?term=Hanna+Season+1&category=Shows&tmdb_id=115624&tvdb_id=792412
             2:
                 url_poster: https://theposterdb.com/api/assets/245390
-                # IDs: tmdb://149536, tvdb://1839087
-                # https://theposterdb.com/search/advanced/results?term=Hanna+Season+2&category=Shows&tmdb_id=149536&tvdb_id=1839087
             3:
                 url_poster: https://theposterdb.com/api/assets/245391
-                # IDs: tmdb://214962, tvdb://1961509
-                # https://theposterdb.com/search/advanced/results?term=Hanna+Season+3&category=Shows&tmdb_id=214962&tvdb_id=1961509        

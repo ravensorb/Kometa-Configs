@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/261638
-                # IDs: tmdb://3320, tvdb://28026
-                # https://theposterdb.com/search/advanced/results?term=Bionic+Woman+%282007%29+Season+1&category=Shows&tmdb_id=3320&tvdb_id=28026        

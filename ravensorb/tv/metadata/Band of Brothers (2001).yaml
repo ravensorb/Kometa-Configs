@@ -14,5 +14,3 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/218220
-                # IDs: tmdb://14070, tvdb://7109
-                # https://theposterdb.com/search/advanced/results?term=Band+of+Brothers+Season+1&category=Shows&tmdb_id=14070&tvdb_id=7109        
