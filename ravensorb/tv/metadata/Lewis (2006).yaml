@@ -1,0 +1,29 @@
+metadata:    
+    "Lewis (2006)":
+        year: 2006
+        title: "Lewis"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0874608, tmdb://2343, tvdb://79864
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lewis&category=Shows&year_filter=equals&yone=2006&tmdb_id=2343&imdb_id=tt0874608&tvdb_id=79864
+        # tmdb: https://www.themoviedb.org/tv/2343
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2006&query=79864
+        # imdb: https://www.imdb.com/title/tt0874608
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 9:
+                # url_poster: https://theposterdb.com/api/assets/

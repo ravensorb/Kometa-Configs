@@ -1,0 +1,25 @@
+metadata:
+    "The Saint (1962)":
+        year: 1962
+        title: "The Saint"
+        alt_title: "The Saint (1962)"
+        sort_title: "Saint"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0055701, tmdb://4333, tvdb://75134
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Saint&category=Shows&year_filter=equals&yone=1962&tmdb_id=4333&imdb_id=tt0055701&tvdb_id=75134
+        # tmdb: https://www.themoviedb.org/tv/4333
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1962&query=75134
+        # imdb: https://www.imdb.com/title/tt0055701
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/        

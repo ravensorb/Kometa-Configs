@@ -1,0 +1,10 @@
+metadata:
+    "Outbreak (1995)":
+        year: 1995
+        title: "Outbreak"
+        url_poster: https://theposterdb.com/api/assets/219930
+        # IDs: imdb://tt0114069, tmdb://6950, tvdb://2723
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Outbreak&category=Movies&year_filter=equals&yone=1995&tmdb_id=6950&imdb_id=tt0114069&tvdb_id=2723
+        # tmdb: https://www.themoviedb.org/movie/6950
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=2723
+        # imdb: https://www.imdb.com/title/tt0114069

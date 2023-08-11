@@ -1,0 +1,36 @@
+metadata:
+    "Red Dwarf (1988)":
+        year: 1988
+        title: "Red Dwarf"
+        alt_title: "Red Dwarf (1988)"
+        url_poster: https://theposterdb.com/api/assets/365797
+        # IDs: imdb://tt0094535, tmdb://326, tvdb://71326
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Red+Dwarf&category=Shows&year_filter=equals&yone=1988&tmdb_id=326&imdb_id=tt0094535&tvdb_id=71326
+        # tmdb: https://www.themoviedb.org/tv/326
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=71326
+        # imdb: https://www.imdb.com/title/tt0094535
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/365799
+            2:
+                url_poster: https://theposterdb.com/api/assets/365800
+            3:
+                url_poster: https://theposterdb.com/api/assets/365801
+            4:
+                url_poster: https://theposterdb.com/api/assets/365802
+            5:
+                url_poster: https://theposterdb.com/api/assets/365803
+            6:
+                url_poster: https://theposterdb.com/api/assets/365804
+            7:
+                url_poster: https://theposterdb.com/api/assets/365805
+            8:
+                url_poster: https://theposterdb.com/api/assets/365806
+            9:
+                url_poster: https://theposterdb.com/api/assets/365807
+            10:
+                url_poster: https://theposterdb.com/api/assets/365808
+            11:
+                url_poster: https://theposterdb.com/api/assets/365809
+            12:
+                url_poster: https://theposterdb.com/api/assets/365810  
