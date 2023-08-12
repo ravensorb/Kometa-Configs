@@ -1,0 +1,14 @@
+metadata:    
+    "The InBetween (2019)":
+        year: 2019
+        title: "The InBetween"
+        sort_title: "InBetween"
+        url_poster: https://theposterdb.com/api/assets/288787
+        # IDs: imdb://tt7861612, tmdb://81947, tvdb://354023
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The+InBetween&category=Shows&year_filter=equals&yone=2019&tmdb_id=81947&imdb_id=tt7861612&tvdb_id=354023
+        # tmdb: https://www.themoviedb.org/tv/81947
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=354023
+        # imdb: https://www.imdb.com/title/tt7861612
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/288788
