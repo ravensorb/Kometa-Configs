@@ -1,0 +1,13 @@
+metadata:    
+    "Ahsoka (2023)":
+        year: 2023
+        title: "Ahsoka"
+        url_poster: https://theposterdb.com/api/assets/392135
+        # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ahsoka&category=Shows&year_filter=equals&yone=2023&tmdb_id=114461&imdb_id=tt13622776&tvdb_id=393187
+        # tmdb: https://www.themoviedb.org/tv/114461
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393187
+        # imdb: https://www.imdb.com/title/tt13622776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/392136
