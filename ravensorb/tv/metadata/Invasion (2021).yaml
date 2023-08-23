@@ -5,7 +5,7 @@ metadata:
         alt_title: "Invasion (2021)"
         orig_title: "Invasion"
         sort_title: "Invasion (2021)"
-        url_poster: https://theposterdb.com/api/assets/245400
+        url_poster: https://theposterdb.com/api/assets/321901
         # IDs: imdb://tt9737326, tmdb://127235, tvdb://404492
         # tpdb: https://theposterdb.com/search/advanced/results?term=Invasion+%282021%29&category=Shows&year_filter=equals&yone=2021&tmdb_id=127235&imdb_id=tt9737326&tvdb_id=404492
         # tmdb: https://www.themoviedb.org/tv/127235
@@ -13,4 +13,4 @@ metadata:
         # imdb: https://www.imdb.com/title/tt9737326
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/245401
+                url_poster: https://theposterdb.com/api/assets/321902
