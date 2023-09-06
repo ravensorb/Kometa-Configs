@@ -5,7 +5,7 @@ metadata:
         alt_title: "Ascension (2014)"
         orig_title: "Ascension"
         sort_title: "Ascension"
-        url_poster:  https://theposterdb.com/api/assets/348076
+        url_poster:  https://theposterdb.com/api/assets/348079
         # IDs: imdb://tt3696720, tmdb://60741, tvdb://279553
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ascension&category=Shows&year_filter=equals&yone=2014&tmdb_id=60741&imdb_id=tt3696720&tvdb_id=279553
         # tmdb: https://www.themoviedb.org/tv/60741
@@ -13,6 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt3696720
         seasons:
             # 0:
-                # url_poster:  https://theposterdb.com/api/assets/348077
+                # url_poster:  https://theposterdb.com/api/assets/348080
             1:
-                url_poster:  https://theposterdb.com/api/assets/348078
+                url_poster:  https://theposterdb.com/api/assets/348081
