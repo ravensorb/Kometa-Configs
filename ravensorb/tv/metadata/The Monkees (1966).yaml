@@ -2,10 +2,8 @@ metadata:
     "The Monkees (1966)":
         year: 1966
         title: "The Monkees"
-        alt_title: "The Monkees (1966)"
-        orig_title: "The Monkees"
         sort_title: "Monkees"
-        url_poster: https://theposterdb.com/api/assets/261003
+        url_poster: https://theposterdb.com/api/assets/322776
         # IDs: imdb://tt0060010, tmdb://7626, tvdb://72109
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Monkees&category=Shows&year_filter=equals&yone=1966&tmdb_id=7626&imdb_id=tt0060010&tvdb_id=72109
         # tmdb: https://www.themoviedb.org/tv/7626
@@ -13,6 +11,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0060010
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/261004
+                url_poster: https://theposterdb.com/api/assets/322777
             2:
-                url_poster: https://theposterdb.com/api/assets/261005
+                url_poster: https://theposterdb.com/api/assets/322778
