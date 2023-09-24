@@ -2,11 +2,8 @@ metadata:
     "Desk Set (1957)":
         year: 1957
         title: "Desk Set"
-        alt_title: "Desk Set (1957)"
-        orig_title: "Desk Set"
-        sort_title: "Desk Set"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/403240
         # IDs: imdb://tt0050307, tmdb://24203, tvdb://14166
         # tpdb: https://theposterdb.com/search/advanced/results?term=Desk+Set&category=Movies&year_filter=equals&yone=1957&tmdb_id=24203&imdb_id=tt0050307&tvdb_id=14166
         # tmdb: https://www.themoviedb.org/movie/24203

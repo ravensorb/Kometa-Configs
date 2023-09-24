@@ -2,9 +2,6 @@ metadata:
     "A Night to Remember (1958)":
         year: 1958
         title: "A Night to Remember"
-        alt_title: "A Night to Remember (1958)"
-        orig_title: "A Night to Remember"
-        sort_title: "Night to Remember"
         
         url_poster: https://theposterdb.com/api/assets/184411
         # IDs: imdb://tt0051994, tmdb://10971, tvdb://8185

@@ -6,7 +6,7 @@ metadata:
         orig_title: "Shanghai"
         sort_title: "Shanghai"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/387553
         # IDs: imdb://tt1092634, tmdb://38407, tvdb://14594
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shanghai&category=Movies&year_filter=equals&yone=2010&tmdb_id=38407&imdb_id=tt1092634&tvdb_id=14594
         # tmdb: https://www.themoviedb.org/movie/38407

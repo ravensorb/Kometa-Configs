@@ -2,9 +2,6 @@ metadata:
     "A Connecticut Yankee in King Arthur's Court (1949)":
         year: 1949
         title: "A Connecticut Yankee in King Arthur's Court"
-        alt_title: "A Connecticut Yankee in King Arthur's Court (1949)"
-        orig_title: "A Connecticut Yankee in King Arthur's Court"
-        sort_title: "Connecticut Yankee in King Arthur's Court"
         
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0041259, tmdb://36848, tvdb://18232

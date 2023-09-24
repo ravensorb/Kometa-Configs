@@ -2,9 +2,6 @@ metadata:
     "Ali (2001)":
         year: 2001
         title: "Ali"
-        alt_title: "Ali (2001)"
-        orig_title: "Ali"
-        sort_title: "Ali"
         
         url_poster: https://theposterdb.com/api/assets/188545
         # IDs: imdb://tt0248667, tmdb://8489, tvdb://8518

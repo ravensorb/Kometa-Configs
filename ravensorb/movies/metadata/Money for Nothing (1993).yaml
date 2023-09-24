@@ -2,11 +2,8 @@ metadata:
     "Money for Nothing (1993)":
         year: 1993
         title: "Money for Nothing"
-        alt_title: "Money for Nothing (1993)"
-        orig_title: "Money for Nothing"
-        sort_title: "Money for Nothing"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/398658
         # IDs: imdb://tt0107594, tmdb://55448, tvdb://35608
         # tpdb: https://theposterdb.com/search/advanced/results?term=Money+for+Nothing&category=Movies&year_filter=equals&yone=1993&tmdb_id=55448&imdb_id=tt0107594&tvdb_id=35608
         # tmdb: https://www.themoviedb.org/movie/55448

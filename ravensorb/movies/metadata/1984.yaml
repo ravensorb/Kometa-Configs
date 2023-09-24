@@ -2,9 +2,6 @@ metadata:
     "1984":
         year: 1984
         title: "1984"
-        alt_title: "1984"
-        orig_title: "1984"
-        sort_title: "1984"
         
         url_poster: https://theposterdb.com/api/assets/187062
         # IDs: imdb://tt0087803, tmdb://9314, tvdb://5369

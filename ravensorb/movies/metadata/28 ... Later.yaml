@@ -2,9 +2,6 @@ metadata:
     "28 Days Later (2002)":
         year: 2002
         title: "28 Days Later"
-        alt_title: "28 Days Later (2002)"
-        orig_title: "28 Days Later"
-        sort_title: "28 Days Later"
         
         url_poster: https://theposterdb.com/api/assets/173432
         # IDs: imdb://tt0289043, tmdb://170, tvdb://871

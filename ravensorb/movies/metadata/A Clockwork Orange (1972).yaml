@@ -2,8 +2,6 @@ metadata:
     "A Clockwork Orange (1972)":
         year: 1972
         title: "A Clockwork Orange"
-        alt_title: "A Clockwork Orange (1972)"
-        orig_title: "A Clockwork Orange"
         sort_title: "Clockwork Orange"
         
         url_poster: https://theposterdb.com/api/assets/226353

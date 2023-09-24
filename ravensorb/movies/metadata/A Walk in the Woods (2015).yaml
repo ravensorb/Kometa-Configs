@@ -2,9 +2,6 @@ metadata:
     "A Walk in the Woods (2015)":
         year: 2015
         title: "A Walk in the Woods"
-        alt_title: "A Walk in the Woods (2015)"
-        orig_title: "A Walk in the Woods"
-        sort_title: "Walk in the Woods"
         
         url_poster: https://theposterdb.com/api/assets/193749
         # IDs: imdb://tt1178665, tmdb://232572, tvdb://7582

@@ -2,11 +2,7 @@ metadata:
     "Three Days of the Condor (1975)":
         year: 1975
         title: "Three Days of the Condor"
-        alt_title: "Three Days of the Condor (1975)"
-        orig_title: "Three Days of the Condor"
-        sort_title: "Three Days of the Condor"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/228065
         # IDs: imdb://tt0073802, tmdb://11963, tvdb://4264
         # tpdb: https://theposterdb.com/search/advanced/results?term=Three+Days+of+the+Condor&category=Movies&year_filter=equals&yone=1975&tmdb_id=11963&imdb_id=tt0073802&tvdb_id=4264
         # tmdb: https://www.themoviedb.org/movie/11963

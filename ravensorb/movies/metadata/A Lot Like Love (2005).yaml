@@ -2,9 +2,6 @@ metadata:
     "A Lot Like Love (2005)":
         year: 2005
         title: "A Lot Like Love"
-        alt_title: "A Lot Like Love (2005)"
-        orig_title: "A Lot Like Love"
-        sort_title: "Lot Like Love"
         
         url_poster: https://theposterdb.com/api/assets/216862
         # IDs: imdb://tt0391304, tmdb://8976, tvdb://3498

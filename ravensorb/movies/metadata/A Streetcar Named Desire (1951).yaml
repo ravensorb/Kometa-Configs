@@ -2,9 +2,6 @@ metadata:
     "A Streetcar Named Desire (1951)":
         year: 1951
         title: "A Streetcar Named Desire"
-        alt_title: "A Streetcar Named Desire (1951)"
-        orig_title: "A Streetcar Named Desire"
-        sort_title: "Streetcar Named Desire"
         
         url_poster: https://theposterdb.com/api/assets/248964
         # IDs: imdb://tt0044081, tmdb://702, tvdb://2368

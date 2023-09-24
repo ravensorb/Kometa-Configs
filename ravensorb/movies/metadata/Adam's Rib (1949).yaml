@@ -2,9 +2,6 @@ metadata:
     "Adam's Rib (1949)":
         year: 1949
         title: "Adam's Rib"
-        alt_title: "Adam's Rib (1949)"
-        orig_title: "Adam's Rib"
-        sort_title: "Adam's Rib"
         
         url_poster: https://theposterdb.com/api/assets/234396
         # IDs: imdb://tt0041090, tmdb://25431, tvdb://12308

@@ -2,11 +2,7 @@ metadata:
     "Sherlock: The Abominable Bride (2016)":
         year: 2016
         title: "Sherlock: The Abominable Bride"
-        alt_title: "Sherlock: The Abominable Bride (2016)"
-        orig_title: "Sherlock: The Abominable Bride"
-        sort_title: "Sherlock: The Abominable Bride"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/413737
         # IDs: tmdb://379170, tvdb://3894
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock%3A+The+Abominable+Bride&category=Movies&year_filter=equals&yone=2016&tmdb_id=379170&tvdb_id=3894
         # tmdb: https://www.themoviedb.org/movie/379170

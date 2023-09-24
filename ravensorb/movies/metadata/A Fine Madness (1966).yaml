@@ -2,9 +2,6 @@ metadata:
     "A Fine Madness (1966)":
         year: 1966
         title: "A Fine Madness"
-        alt_title: "A Fine Madness (1966)"
-        orig_title: "A Fine Madness"
-        sort_title: "Fine Madness"
         
         url_poster: https://theposterdb.com/api/assets/331754
         # IDs: imdb://tt0060414, tmdb://70498, tvdb://49798

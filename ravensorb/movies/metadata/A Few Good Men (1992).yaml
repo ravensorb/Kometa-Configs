@@ -2,9 +2,6 @@ metadata:
     "A Few Good Men (1992)":
         year: 1992
         title: "A Few Good Men"
-        alt_title: "A Few Good Men (1992)"
-        orig_title: "A Few Good Men"
-        sort_title: "A Few Good Men"
         
         url_poster: https://theposterdb.com/api/assets/196064
         # IDs: imdb://tt0104257, tmdb://881, tvdb://1668

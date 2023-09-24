@@ -2,9 +2,6 @@ metadata:
     "A River Runs Through It (1992)":
         year: 1992
         title: "A River Runs Through It"
-        alt_title: "A River Runs Through It (1992)"
-        orig_title: "A River Runs Through It"
-        sort_title: "River Runs Through It"
         
         url_poster: https://theposterdb.com/api/assets/220219
         # IDs: imdb://tt0105265, tmdb://293, tvdb://3474

@@ -2,9 +2,6 @@ metadata:
     "A Good Man in Africa (1994)":
         year: 1994
         title: "A Good Man in Africa"
-        alt_title: "A Good Man in Africa (1994)"
-        orig_title: "A Good Man in Africa"
-        sort_title: "Good Man in Africa"
         
         url_poster: https://theposterdb.com/api/assets/333256
         # IDs: imdb://tt0109920, tmdb://41006, tvdb://35652

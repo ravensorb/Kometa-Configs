@@ -2,11 +2,8 @@ metadata:
     "Game of Death (2011)":
         year: 2011
         title: "Game of Death"
-        alt_title: "Game of Death (2011)"
-        orig_title: "Game of Death"
-        sort_title: "Game of Death"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/385829
         # IDs: imdb://tt1446072, tmdb://46541, tvdb://12024
         # tpdb: https://theposterdb.com/search/advanced/results?term=Game+of+Death&category=Movies&year_filter=equals&yone=2011&tmdb_id=46541&imdb_id=tt1446072&tvdb_id=12024
         # tmdb: https://www.themoviedb.org/movie/46541

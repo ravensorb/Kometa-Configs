@@ -50,22 +50,22 @@ metadata:
         alt_title: "Lois & Clark- The New Adventures of Superman (1993)"
         orig_title: "Lois & Clark: The New Adventures of Superman"
         sort_title: "Lois & Clark: The New Adventures of Superman"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/408645
         # IDs: 
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lois+%26+Clark%3A+The+New+Adventures+of+Superman&category=Shows&year_filter=equals&yone=1993
         # tmdb: 
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1993&query=72468
         # imdb: 
         # trakt: https://trakt.tv/search/shows?query=Lois%20%26%20Clark%3A%20The%20New%20Adventures%20of%20Superman
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/408647
+            2:
+                url_poster: https://theposterdb.com/api/assets/408648
+            3:
+                url_poster: https://theposterdb.com/api/assets/408649
+            4:
+                url_poster: https://theposterdb.com/api/assets/408650
         
 
     "Smallville (2001)":

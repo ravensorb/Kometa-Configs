@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Shootist"
         sort_title: "Shootist"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/386688
         # IDs: imdb://tt0075213, tmdb://12584, tvdb://9389
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Shootist&category=Movies&year_filter=equals&yone=1976&tmdb_id=12584&imdb_id=tt0075213&tvdb_id=9389
         # tmdb: https://www.themoviedb.org/movie/12584

@@ -384,7 +384,7 @@ metadata:
         orig_title: "Becoming Bond"
         sort_title: "Becoming Bond"
         
-        url_poster: https://theposterdb.com/api/assets/73973
+        url_poster: https://theposterdb.com/api/assets/402115
         # IDs: imdb://tt6110504, tmdb://438493, tvdb://31308
         # tpdb: https://theposterdb.com/search/advanced/results?term=Becoming+Bond&category=Movies&year_filter=equals&yone=2017&tmdb_id=438493&imdb_id=tt6110504&tvdb_id=31308
         # tmdb: https://www.themoviedb.org/movie/438493
@@ -398,7 +398,7 @@ metadata:
         orig_title: "Being James Bond: The Daniel Craig Story"
         sort_title: "Being James Bond: The Daniel Craig Story"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/176012
         # IDs: imdb://tt15346636, tmdb://869250, tvdb://267951
         # tpdb: https://theposterdb.com/search/advanced/results?term=Being+James+Bond%3A+The+Daniel+Craig+Story&category=Movies&year_filter=equals&yone=2021&tmdb_id=869250&imdb_id=tt15346636&tvdb_id=267951
         # tmdb: https://www.themoviedb.org/movie/869250

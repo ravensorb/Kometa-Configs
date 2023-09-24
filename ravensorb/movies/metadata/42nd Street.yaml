@@ -2,9 +2,6 @@ metadata:
     "42nd Street (1933)":
         year: 1933
         title: "42nd Street"
-        alt_title: "42nd Street (1933)"
-        orig_title: "42nd Street"
-        sort_title: "42nd Street"
         
         url_poster: https://theposterdb.com/api/assets/200267
         # IDs: imdb://tt0024034, tmdb://3062, tvdb://12772
@@ -16,9 +13,6 @@ metadata:
     "42nd Street: The Musical (2019)":
         year: 2019
         title: "42nd Street: The Musical"
-        alt_title: "42nd Street: The Musical (2019)"
-        orig_title: "42nd Street: The Musical"
-        sort_title: "42nd Street: The Musical"
         
         url_poster: https://theposterdb.com/api/assets/200268
         # IDs: imdb://tt10140002, tmdb://594345, tvdb://147524

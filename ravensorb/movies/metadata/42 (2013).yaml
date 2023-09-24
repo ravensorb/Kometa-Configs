@@ -2,9 +2,6 @@ metadata:
     "42 (2013)":
         year: 2013
         title: "42"
-        alt_title: "42 (2013)"
-        orig_title: "42"
-        sort_title: "42"
         
         url_poster: https://theposterdb.com/api/assets/188358
         # IDs: imdb://tt0453562, tmdb://109410, tvdb://4168

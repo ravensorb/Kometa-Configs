@@ -2,9 +2,6 @@ metadata:
     "Ad Astra (2019)":
         year: 2019
         title: "Ad Astra"
-        alt_title: "Ad Astra (2019)"
-        orig_title: "Ad Astra"
-        sort_title: "Ad Astra"
         
         url_poster: https://theposterdb.com/api/assets/183811
         # IDs: imdb://tt2935510, tmdb://419704, tvdb://9229

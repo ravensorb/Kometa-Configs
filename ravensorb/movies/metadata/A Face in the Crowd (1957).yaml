@@ -2,9 +2,6 @@ metadata:
     "A Face in the Crowd (1957)":
         year: 1957
         title: "A Face in the Crowd"
-        alt_title: "A Face in the Crowd (1957)"
-        orig_title: "A Face in the Crowd"
-        sort_title: "Face in the Crowd"
         
         url_poster: https://theposterdb.com/api/assets/331535
         # IDs: imdb://tt0050371, tmdb://21849, tvdb://16534

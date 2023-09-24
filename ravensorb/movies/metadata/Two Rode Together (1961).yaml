@@ -2,11 +2,7 @@ metadata:
     "Two Rode Together (1961)":
         year: 1961
         title: "Two Rode Together"
-        alt_title: "Two Rode Together (1961)"
-        orig_title: "Two Rode Together"
-        sort_title: "Two Rode Together"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/387679
         # IDs: imdb://tt0055558, tmdb://32634, tvdb://14164
         # tpdb: https://theposterdb.com/search/advanced/results?term=Two+Rode+Together&category=Movies&year_filter=equals&yone=1961&tmdb_id=32634&imdb_id=tt0055558&tvdb_id=14164
         # tmdb: https://www.themoviedb.org/movie/32634

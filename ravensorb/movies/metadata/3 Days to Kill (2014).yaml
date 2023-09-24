@@ -2,9 +2,6 @@ metadata:
     "3 Days to Kill (2014)":
         year: 2014
         title: "3 Days to Kill"
-        alt_title: "3 Days to Kill (2014)"
-        orig_title: "3 Days to Kill"
-        sort_title: "3 Days to Kill"
         
         url_poster: https://theposterdb.com/api/assets/200126
         # IDs: imdb://tt2172934, tmdb://192102, tvdb://1260

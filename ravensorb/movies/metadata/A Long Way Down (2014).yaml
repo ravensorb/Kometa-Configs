@@ -2,9 +2,6 @@ metadata:
     "A Long Way Down (2014)":
         year: 2014
         title: "A Long Way Down"
-        alt_title: "A Long Way Down (2014)"
-        orig_title: "A Long Way Down"
-        sort_title: "Long Way Down"
         
         url_poster: https://theposterdb.com/api/assets/46703
         # IDs: imdb://tt0458413, tmdb://141043, tvdb://9722

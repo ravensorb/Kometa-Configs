@@ -2,9 +2,6 @@ metadata:
     "Air (2015)":
         year: 2015
         title: "Air"
-        alt_title: "Air (2015)"
-        orig_title: "Air"
-        sort_title: "Air"
         
         url_poster: https://theposterdb.com/api/assets/225637
         # IDs: imdb://tt2091478, tmdb://284674, tvdb://8584

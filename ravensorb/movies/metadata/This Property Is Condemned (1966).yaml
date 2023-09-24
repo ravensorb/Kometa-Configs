@@ -2,11 +2,7 @@ metadata:
     "This Property Is Condemned (1966)":
         year: 1966
         title: "This Property Is Condemned"
-        alt_title: "This Property Is Condemned (1966)"
-        orig_title: "This Property Is Condemned"
-        sort_title: "This Property Is Condemned"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/387640
         # IDs: imdb://tt0061089, tmdb://65012, tvdb://18491
         # tpdb: https://theposterdb.com/search/advanced/results?term=This+Property+Is+Condemned&category=Movies&year_filter=equals&yone=1966&tmdb_id=65012&imdb_id=tt0061089&tvdb_id=18491
         # tmdb: https://www.themoviedb.org/movie/65012

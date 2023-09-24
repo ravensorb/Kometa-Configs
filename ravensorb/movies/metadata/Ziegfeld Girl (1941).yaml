@@ -2,11 +2,7 @@ metadata:
     "Ziegfeld Girl (1941)":
         year: 1941
         title: "Ziegfeld Girl"
-        alt_title: "Ziegfeld Girl (1941)"
-        orig_title: "Ziegfeld Girl"
-        sort_title: "Ziegfeld Girl"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/388320
         # IDs: imdb://tt0034415, tmdb://32619, tvdb://41585
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ziegfeld+Girl&category=Movies&year_filter=equals&yone=1941&tmdb_id=32619&imdb_id=tt0034415&tvdb_id=41585
         # tmdb: https://www.themoviedb.org/movie/32619

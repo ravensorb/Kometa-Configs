@@ -2,11 +2,7 @@ metadata:
     "Suddenly (1954)":
         year: 1954
         title: "Suddenly"
-        alt_title: "Suddenly (1954)"
-        orig_title: "Suddenly"
-        sort_title: "Suddenly"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/388095
         # IDs: imdb://tt0047542, tmdb://18398, tvdb://17358
         # tpdb: https://theposterdb.com/search/advanced/results?term=Suddenly&category=Movies&year_filter=equals&yone=1954&tmdb_id=18398&imdb_id=tt0047542&tvdb_id=17358
         # tmdb: https://www.themoviedb.org/movie/18398

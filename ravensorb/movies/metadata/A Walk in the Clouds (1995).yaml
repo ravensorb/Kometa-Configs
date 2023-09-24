@@ -2,9 +2,6 @@ metadata:
     "A Walk in the Clouds (1995)":
         year: 1995
         title: "A Walk in the Clouds"
-        alt_title: "A Walk in the Clouds (1995)"
-        orig_title: "A Walk in the Clouds"
-        sort_title: "Walk in the Clouds"
         
         url_poster: https://theposterdb.com/api/assets/221888
         # IDs: imdb://tt0114887, tmdb://9560, tvdb://2916

@@ -2,11 +2,7 @@ metadata:
     "The Sentinel (2006)":
         year: 2006
         title: "The Sentinel"
-        alt_title: "The Sentinel (2006)"
-        orig_title: "The Sentinel"
-        sort_title: "Sentinel"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/386076
         # IDs: imdb://tt0443632, tmdb://5820, tvdb://7989
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sentinel&category=Movies&year_filter=equals&yone=2006&tmdb_id=5820&imdb_id=tt0443632&tvdb_id=7989
         # tmdb: https://www.themoviedb.org/movie/5820

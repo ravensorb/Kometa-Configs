@@ -2,9 +2,6 @@ metadata:
     "A Perfect Murder (1998)":
         year: 1998
         title: "A Perfect Murder"
-        alt_title: "A Perfect Murder (1998)"
-        orig_title: "A Perfect Murder"
-        sort_title: "Perfect Murder"
         
         url_poster: https://theposterdb.com/api/assets/281399
         # IDs: imdb://tt0120787, tmdb://1965, tvdb://2867

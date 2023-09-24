@@ -2,9 +2,6 @@ metadata:
     "A League of Their Own (1992)":
         year: 1992
         title: "A League of Their Own"
-        alt_title: "A League of Their Own (1992)"
-        orig_title: "A League of Their Own"
-        sort_title: "League of Their Own"
         
         url_poster: https://theposterdb.com/api/assets/188369
         # IDs: imdb://tt0104694, tmdb://11287, tvdb://2608

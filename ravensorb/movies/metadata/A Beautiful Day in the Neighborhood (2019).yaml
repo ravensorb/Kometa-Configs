@@ -2,9 +2,6 @@ metadata:
     "A Beautiful Day in the Neighborhood (2019)":
         year: 2019
         title: "A Beautiful Day in the Neighborhood"
-        alt_title: "A Beautiful Day in the Neighborhood (2019)"
-        orig_title: "A Beautiful Day in the Neighborhood"
-        sort_title: "Beautiful Day in the Neighborhood"
         
         url_poster: https://theposterdb.com/api/assets/195345
         # IDs: imdb://tt3224458, tmdb://501907, tvdb://131096

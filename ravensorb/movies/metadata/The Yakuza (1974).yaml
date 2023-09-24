@@ -6,7 +6,7 @@ metadata:
         orig_title: "The Yakuza"
         sort_title: "Yakuza"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/372184
         # IDs: imdb://tt0073918, tmdb://28415, tvdb://16614
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Yakuza&category=Movies&year_filter=equals&yone=1974&tmdb_id=28415&imdb_id=tt0073918&tvdb_id=16614
         # tmdb: https://www.themoviedb.org/movie/28415

@@ -2,9 +2,6 @@ metadata:
     "A Series of Unfortunate Events (2004)":
         year: 2004
         title: "A Series of Unfortunate Events"
-        alt_title: "A Series of Unfortunate Events (2004)"
-        orig_title: "A Series of Unfortunate Events"
-        sort_title: "Series of Unfortunate Events"
         
         url_poster: https://theposterdb.com/api/assets/174834
         # IDs: imdb://tt0339291, tmdb://11774, tvdb://923

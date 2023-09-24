@@ -2,11 +2,8 @@ metadata:
     "Robin and the 7 Hoods (1964)":
         year: 1964
         title: "Robin and the 7 Hoods"
-        alt_title: "Robin and the 7 Hoods (1964)"
-        orig_title: "Robin and the 7 Hoods"
-        sort_title: "Robin and the 7 Hoods"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/403614
         # IDs: imdb://tt0058529, tmdb://17696, tvdb://38469
         # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+and+the+7+Hoods&category=Movies&year_filter=equals&yone=1964&tmdb_id=17696&imdb_id=tt0058529&tvdb_id=38469
         # tmdb: https://www.themoviedb.org/movie/17696

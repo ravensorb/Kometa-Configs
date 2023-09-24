@@ -2,11 +2,8 @@ metadata:
     "Night Passage (1957)":
         year: 1957
         title: "Night Passage"
-        alt_title: "Night Passage (1957)"
-        orig_title: "Night Passage"
-        sort_title: "Night Passage"
         
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/388051
         # IDs: imdb://tt0050763, tmdb://25381, tvdb://29326
         # tpdb: https://theposterdb.com/search/advanced/results?term=Night+Passage&category=Movies&year_filter=equals&yone=1957&tmdb_id=25381&imdb_id=tt0050763&tvdb_id=29326
         # tmdb: https://www.themoviedb.org/movie/25381

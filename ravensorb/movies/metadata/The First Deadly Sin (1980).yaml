@@ -2,11 +2,7 @@ metadata:
     "The First Deadly Sin (1980)":
         year: 1980
         title: "The First Deadly Sin"
-        alt_title: "The First Deadly Sin (1980)"
-        orig_title: "The First Deadly Sin"
-        sort_title: "First Deadly Sin"
-        
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/386661
         # IDs: imdb://tt0080738, tmdb://28614, tvdb://32589
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+First+Deadly+Sin&category=Movies&year_filter=equals&yone=1980&tmdb_id=28614&imdb_id=tt0080738&tvdb_id=32589
         # tmdb: https://www.themoviedb.org/movie/28614

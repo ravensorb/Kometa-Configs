@@ -2,9 +2,6 @@ metadata:
     "After the Sunset (2004)":
         year: 2004
         title: "After the Sunset"
-        alt_title: "After the Sunset (2004)"
-        orig_title: "After the Sunset"
-        sort_title: "After the Sunset"
         
         url_poster: https://theposterdb.com/api/assets/203174
         # IDs: imdb://tt0367479, tmdb://10589, tvdb://2817
