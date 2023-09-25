@@ -2,39 +2,36 @@ metadata:
     "Murder, She Wrote (1984)":
         year: 1984
         title: "Murder, She Wrote"
-        alt_title: "Murder, She Wrote (1984)"
-        orig_title: "Murder, She Wrote"
-        sort_title: "Murder, She Wrote"
-        url_poster: https://theposterdb.com/api/assets/172446
+        url_poster: https://theposterdb.com/api/assets/411378
         # IDs: imdb://tt0086765, tmdb://484, tvdb://78049
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%2C+She+Wrote&category=Shows&year_filter=equals&yone=1984&tmdb_id=484&imdb_id=tt0086765&tvdb_id=78049
         # tmdb: https://www.themoviedb.org/tv/484
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=78049
         # imdb: https://www.imdb.com/title/tt0086765
-        # seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 11:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 12:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/411379
+            1:
+                url_poster: https://theposterdb.com/api/assets/411380
+            2:
+                url_poster: https://theposterdb.com/api/assets/411381
+            3:
+                url_poster: https://theposterdb.com/api/assets/411382
+            4:
+                url_poster: https://theposterdb.com/api/assets/411383
+            5:
+                url_poster: https://theposterdb.com/api/assets/411384
+            6:
+                url_poster: https://theposterdb.com/api/assets/411385
+            7:
+                url_poster: https://theposterdb.com/api/assets/411386
+            8:
+                url_poster: https://theposterdb.com/api/assets/411387
+            9:
+                url_poster: https://theposterdb.com/api/assets/411388
+            10:
+                url_poster: https://theposterdb.com/api/assets/411389
+            11:
+                url_poster: https://theposterdb.com/api/assets/411390
+            12:
+                url_poster: https://theposterdb.com/api/assets/411391

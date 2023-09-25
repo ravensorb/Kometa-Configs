@@ -2,23 +2,20 @@ metadata:
     "Killjoys (2015)":
         year: 2015
         title: "Killjoys"
-        alt_title: "Killjoys (2015)"
-        orig_title: "Killjoys"
-        sort_title: "Killjoys"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/380555
         # IDs: imdb://tt3952222, tmdb://62413, tvdb://281534
         # tpdb: https://theposterdb.com/search/advanced/results?term=Killjoys&category=Shows&year_filter=equals&yone=2015&tmdb_id=62413&imdb_id=tt3952222&tvdb_id=281534
         # tmdb: https://www.themoviedb.org/tv/62413
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=281534
         # imdb: https://www.imdb.com/title/tt3952222
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/380556
+            2:
+                url_poster: https://theposterdb.com/api/assets/380557
+            3:
+                url_poster: https://theposterdb.com/api/assets/380558
+            4:
+                url_poster: https://theposterdb.com/api/assets/380559
+            5:
+                url_poster: https://theposterdb.com/api/assets/380560

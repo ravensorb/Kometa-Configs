@@ -2,15 +2,12 @@ metadata:
     "Harry Wild (2022)":
         year: 2022
         title: "Harry Wild"
-        alt_title: "Harry Wild (2022)"
-        orig_title: "Harry Wild"
-        sort_title: "Harry Wild"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/409590
         # IDs: imdb://tt14527610, tmdb://156993, tvdb://402730
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry+Wild&category=Shows&year_filter=equals&yone=2022&tmdb_id=156993&imdb_id=tt14527610&tvdb_id=402730
         # tmdb: https://www.themoviedb.org/tv/156993
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=402730
         # imdb: https://www.imdb.com/title/tt14527610
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/409591

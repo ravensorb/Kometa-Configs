@@ -1,13 +1,11 @@
 metadata:
-    "The Murdoch Mysteries (2004)":
-        year: 2004
-        title: "The Murdoch Mysteries"
-        alt_title: "The Murdoch Mysteries (2004)"
-        orig_title: "The Murdoch Mysteries"
-        sort_title: "Murdoch Mysteries (2004)"
+    "Murdoch Mysteries (2008)":
+        year: 2008
+        title: "Murdoch Mysteries"
+        sort_title: "Murdoch Mysteries (2008)"
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0386955, tmdb://30684, tvdb://102291
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Murdoch+Mysteries+%282004%29&category=Shows&year_filter=equals&yone=2004&tmdb_id=30684&imdb_id=tt0386955&tvdb_id=102291
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murdoch+Mysteries+%282008%29&category=Shows&year_filter=equals&yone=2008
         # tmdb: https://www.themoviedb.org/tv/30684
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2004&query=102291
         # imdb: https://www.imdb.com/title/tt0386955
@@ -22,7 +20,6 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-                # https://theposterdb.com/search/advanced/results?term=The+Murdoch+Mysteries+%282004%29+Season+5&category=Shows
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
             # 7:

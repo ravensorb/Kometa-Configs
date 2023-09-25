@@ -2,8 +2,7 @@ metadata:
     "Sherlock Holmes (1984)":
         year: 1984
         title: "Sherlock Holmes (1984)"
-        alt_title: "Sherlock Holmes (1984)"
-        orig_title: "Sherlock Holmes (1984)"
+        alt_title: "Sherlock Holmes"
         sort_title: "Sherlock Holmes (1984)"
         url_poster: https://theposterdb.com/api/assets/364793
         # IDs: imdb://tt0086661, tmdb://799, tvdb://77728

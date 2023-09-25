@@ -2,23 +2,20 @@ metadata:
     "Moonlighting (1985)":
         year: 1985
         title: "Moonlighting"
-        alt_title: "Moonlighting (1985)"
-        orig_title: "Moonlighting"
-        sort_title: "Moonlighting"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/411102
         # IDs: imdb://tt0088571, tmdb://1998, tvdb://75078
         # tpdb: https://theposterdb.com/search/advanced/results?term=Moonlighting&category=Shows&year_filter=equals&yone=1985&tmdb_id=1998&imdb_id=tt0088571&tvdb_id=75078
         # tmdb: https://www.themoviedb.org/tv/1998
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=75078
         # imdb: https://www.imdb.com/title/tt0088571
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/411104
+            2:
+                url_poster: https://theposterdb.com/api/assets/411105
+            3:
+                url_poster: https://theposterdb.com/api/assets/411106
+            4:
+                url_poster: https://theposterdb.com/api/assets/411107
+            5:
+                url_poster: https://theposterdb.com/api/assets/411108

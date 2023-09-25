@@ -5,12 +5,12 @@ metadata:
         alt_title: "The White Queen (2013)"
         orig_title: "The White Queen"
         sort_title: "White Queen"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/402148
         # IDs: imdb://tt2372220, tmdb://57092, tvdb://266092
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+White+Queen&category=Shows&year_filter=equals&yone=2013&tmdb_id=57092&imdb_id=tt2372220&tvdb_id=266092
         # tmdb: https://www.themoviedb.org/tv/57092
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=266092
         # imdb: https://www.imdb.com/title/tt2372220
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/402149

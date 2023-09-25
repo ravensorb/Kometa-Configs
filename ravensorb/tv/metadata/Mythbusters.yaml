@@ -2,57 +2,51 @@ metadata:
     "MythBusters (2003)":
         year: 2003
         title: "MythBusters"
-        alt_title: "MythBusters (2003)"
-        orig_title: "MythBusters"
-        sort_title: "MythBusters"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/411453-
         # IDs: imdb://tt0383126, tmdb://1428, tvdb://73388
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters&category=Shows&year_filter=equals&yone=2003&tmdb_id=1428&imdb_id=tt0383126&tvdb_id=73388
         # tmdb: https://www.themoviedb.org/tv/1428
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2003&query=73388
         # imdb: https://www.imdb.com/title/tt0383126
-        # seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2003:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2004:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2005:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2006:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2007:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2008:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2009:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2010:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2011:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2012:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2013:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2014:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2015:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2016:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2017:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2018:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/411454
+            2003:
+                url_poster: https://theposterdb.com/api/assets/411455
+            2004:
+                url_poster: https://theposterdb.com/api/assets/411456
+            2005:
+                url_poster: https://theposterdb.com/api/assets/411457
+            2006:
+                url_poster: https://theposterdb.com/api/assets/411458
+            2007:
+                url_poster: https://theposterdb.com/api/assets/411459
+            2008:
+                url_poster: https://theposterdb.com/api/assets/411460
+            2009:
+                url_poster: https://theposterdb.com/api/assets/411461
+            2010:
+                url_poster: https://theposterdb.com/api/assets/411462
+            2011:
+                url_poster: https://theposterdb.com/api/assets/411463
+            2012:
+                url_poster: https://theposterdb.com/api/assets/411464
+            2013:
+                url_poster: https://theposterdb.com/api/assets/411465
+            2014:
+                url_poster: https://theposterdb.com/api/assets/411466
+            2015:
+                url_poster: https://theposterdb.com/api/assets/411467
+            2016:
+                url_poster: https://theposterdb.com/api/assets/411468
+            2017:
+                url_poster: https://theposterdb.com/api/assets/411469
+            2018:
+                url_poster: https://theposterdb.com/api/assets/411470
 
     "MythBusters: The Search (2017)":
         year: 2017
         title: "MythBusters: The Search"
-        alt_title: "MythBusters: The Search (2017)"
-        orig_title: "MythBusters: The Search"
-        sort_title: "MythBusters: The Search"
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt5612722, tmdb://69144, tvdb://320910
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%3A+The+Search&category=Shows&year_filter=equals&yone=2017&tmdb_id=69144&imdb_id=tt5612722&tvdb_id=320910
@@ -66,9 +60,6 @@ metadata:
     "MythBusters Jr. (2019)":
         year: 2019
         title: "MythBusters Jr."
-        alt_title: "MythBusters Jr. (2019)"
-        orig_title: "MythBusters Jr."
-        sort_title: "MythBusters Jr."
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt8265286, tmdb://85200, tvdb://350679
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters+Jr.&category=Shows&year_filter=equals&yone=2019&tmdb_id=85200&imdb_id=tt8265286&tvdb_id=350679

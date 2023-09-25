@@ -2,10 +2,8 @@ metadata:
     "The Marvelous Mrs. Maisel (2017)":
         year: 2017
         title: "The Marvelous Mrs. Maisel"
-        alt_title: "The Marvelous Mrs. Maisel (2017)"
-        orig_title: "The Marvelous Mrs. Maisel"
         sort_title: "Marvelous Mrs. Maisel"
-        url_poster: https://theposterdb.com/api/assets/252134
+        url_poster: https://theposterdb.com/api/assets/323880
         # IDs: imdb://tt5788792, tmdb://70796, tvdb://326791
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Marvelous+Mrs.+Maisel&category=Shows&year_filter=equals&yone=2017&tmdb_id=70796&imdb_id=tt5788792&tvdb_id=326791
         # tmdb: https://www.themoviedb.org/tv/70796
@@ -13,12 +11,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt5788792
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/252135
+                url_poster: https://theposterdb.com/api/assets/323881
             2:
-                url_poster: https://theposterdb.com/api/assets/252136
+                url_poster: https://theposterdb.com/api/assets/323882
             3:
-                url_poster: https://theposterdb.com/api/assets/252137
+                url_poster: https://theposterdb.com/api/assets/323883
             4:
-                url_poster: https://theposterdb.com/api/assets/252138
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/323884
+            5:
+                url_poster: https://theposterdb.com/api/assets/394991

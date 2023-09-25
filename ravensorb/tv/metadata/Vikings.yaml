@@ -2,7 +2,7 @@ metadata:
     "Vikings (2013)":
         year: 2013
         title: "Vikings"
-        url_poster: https://theposterdb.com/api/assets/222379
+        url_poster: https://theposterdb.com/api/assets/323898
         # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
         # tmdb: https://www.themoviedb.org/tv/44217
@@ -10,25 +10,22 @@ metadata:
         # imdb: https://www.imdb.com/title/tt2306299
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/222381
+                url_poster: https://theposterdb.com/api/assets/323900
             2:
-                url_poster: https://theposterdb.com/api/assets/222382
+                url_poster: https://theposterdb.com/api/assets/323901
             3:
-                url_poster: https://theposterdb.com/api/assets/222383
+                url_poster: https://theposterdb.com/api/assets/323902
             4:
-                url_poster: https://theposterdb.com/api/assets/222384
+                url_poster: https://theposterdb.com/api/assets/323903
             5:
-                url_poster: https://theposterdb.com/api/assets/222385
+                url_poster: https://theposterdb.com/api/assets/323904
             6:
-                url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/323905
 
     "Vikings: Valhalla (2022)":
         year: 2022
         title: "Vikings: Valhalla"
-        alt_title: "Vikings: Valhalla"
-        orig_title: "Vikings: Valhalla"
-        sort_title: "Vikings: Valhalla"
-        url_poster: https://theposterdb.com/api/assets/222388
+        url_poster: https://theposterdb.com/api/assets/323906
         # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A+Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
         # tmdb: https://www.themoviedb.org/tv/116135
@@ -36,6 +33,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt11311302
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/222389
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/323907
+            2:
+                url_poster: https://theposterdb.com/api/assets/323908

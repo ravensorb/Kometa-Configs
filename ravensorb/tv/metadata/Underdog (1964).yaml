@@ -2,19 +2,16 @@ metadata:
     "Underdog (1964)":
         year: 1964
         title: "Underdog"
-        alt_title: "Underdog (1964)"
-        orig_title: "Underdog"
-        sort_title: "Underdog"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/401924
         # IDs: imdb://tt0060037, tmdb://4979, tvdb://77763
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underdog&category=Shows&year_filter=equals&yone=1964&tmdb_id=4979&imdb_id=tt0060037&tvdb_id=77763
         # tmdb: https://www.themoviedb.org/tv/4979
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1964&query=77763
         # imdb: https://www.imdb.com/title/tt0060037
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/401926
+            2:
+                url_poster: https://theposterdb.com/api/assets/401927
+            3:
+                url_poster: https://theposterdb.com/api/assets/401928

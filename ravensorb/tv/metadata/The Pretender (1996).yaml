@@ -2,21 +2,19 @@ metadata:
     "The Pretender (1996)":
         year: 1996
         title: "The Pretender"
-        alt_title: "The Pretender (1996)"
-        orig_title: "The Pretender"
         sort_title: "Pretender"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/411923
         # IDs: imdb://tt0115320, tmdb://1706, tvdb://70704
         # tpdb: https://theposterdb.com/search/advanced/results?term=The+Pretender&category=Shows&year_filter=equals&yone=1996&tmdb_id=1706&imdb_id=tt0115320&tvdb_id=70704
         # tmdb: https://www.themoviedb.org/tv/1706
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1996&query=70704
         # imdb: https://www.imdb.com/title/tt0115320
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/411925
+            2:
+                url_poster: https://theposterdb.com/api/assets/411926
+            3:
+                url_poster: https://theposterdb.com/api/assets/411927
+            4:
+                url_poster: https://theposterdb.com/api/assets/411928
