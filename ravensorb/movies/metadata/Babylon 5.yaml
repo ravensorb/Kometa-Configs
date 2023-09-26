@@ -1,0 +1,89 @@
+metadata:
+    "Babylon 5: The Gathering (1993)":
+        year: 1993
+        title: "Babylon 5: The Gathering"
+        sort_title: "Babylon 5 (1993): 1 - The Gathering"
+        url_poster: https://theposterdb.com/api/assets/295299
+        # IDs: imdb://, tmdb://10942, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Gathering&category=Movies&year_filter=equals&yone=1993&tmdb_id=10942&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/10942
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1993&query=
+        # imdb: https://www.imdb.com/title/
+
+    "Babylon 5: In The Begining (1998)":
+        year: 1998
+        title: "Babylon 5: In The Begining"
+        sort_title: "Babylon 5 (1998): 2 - In The Begining"
+        url_poster: https://theposterdb.com/api/assets/295298
+        # IDs: imdb://, tmdb://10940, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+In+The+Begining&category=Movies&year_filter=equals&yone=1998&tmdb_id=10940&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/10940
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
+        # imdb: https://www.imdb.com/title/
+
+    "Babylon 5: Thirdspace (1998)":
+        year: 1998
+        title: "Babylon 5: Thirdspace"
+        sort_title: "Babylon 5 (1998): 3 - Thirdspace"
+        url_poster: https://theposterdb.com/api/assets/295299
+        # IDs: imdb://, tmdb://10941, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+Thirdspace&category=Movies&year_filter=equals&yone=1998&tmdb_id=10941&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/10941
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
+        # imdb: https://www.imdb.com/title/
+
+    "Babylon 5: The River of Souls (1998)":
+        year: 1998
+        title: "Babylon 5: The River of Souls"
+        sort_title: "Babylon 5 (1998): 4 - The River of Souls"
+        url_poster: https://theposterdb.com/api/assets/295300
+        # IDs: imdb://, tmdb://10921, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+River+of+Souls&category=Movies&year_filter=equals&yone=1998&tmdb_id=10921&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/10921
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
+        # imdb: https://www.imdb.com/title
+
+    "Babylon 5: A Call to Arms (1999)":
+        year: 1999
+        title: "Babylon 5: A Call to Arms"
+        sort_title: "Babylon 5 (1999): 5 - A Call to Arms"
+        url_poster: https://theposterdb.com/api/assets/295301
+        # IDs: imdb://, tmdb://10916, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+A+Call+to+Arms&category=Movies&year_filter=equals&yone=1999&tmdb_id=10916&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/10916
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=
+        # imdb: https://www.imdb.com/title
+
+    "Babylon 5: The Legend of the Rangers - To Live and Die in Starlight (2002)":
+        year: 2002
+        title: "Babylon 5: The Legend of the Rangers - To Live and Die in Starlight"
+        alt_title: "Babylon 5: The Legend of the Rangers"
+        sort_title: "Babylon 5 (2002): 6 - The Legend of the Rangers - To Live and Die in Starlight"
+        url_poster: https://theposterdb.com/api/assets/295302
+        # IDs: imdb://, tmdb://16068, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Legend+of+the+Rangers&category=Movies&year_filter=equals&yone=2002&tmdb_id=16068&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/16068
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=
+        # imdb: https://www.imdb.com/title
+
+    "Babylon 5: The Lost Tales - Voices in the Dark (2007)":
+        year: 2007
+        title: "Babylon 5: The Lost Tales - Voices in the Dark"
+        sort_title: "Babylon 5 (2007): 7 - The Lost Tales - Voices in the Dark"
+        url_poster: https://theposterdb.com/api/assets/295295
+        # IDs: imdb://, tmdb://15289, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Lost+Tales+-+Voices+in+the+Dark&category=Movies&year_filter=equals&yone=2007&tmdb_id=15289&imdb_id=&tvdb_id=
+        # tmdb: https://www.themoviedb.org/movie/15289
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=
+        # imdb: https://www.imdb.com/title
+
+    "Babylon 5: The Road Home (2023)":
+        year: 2023
+        title: "Babylon 5: The Road Home"
+        sort_title: "Babylon 5 (2023): 12 - The Road Home"
+        url_poster: https://theposterdb.com/api/assets/395505
+        # IDs: imdb://tt27712788, tmdb://1121575, tvdb://346426
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Road+Home&category=Movies&year_filter=equals&yone=2023&tmdb_id=1121575&imdb_id=tt27712788&tvdb_id=346426
+        # tmdb: https://www.themoviedb.org/movie/1121575
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=346426
+        # imdb: https://www.imdb.com/title/tt27712788
