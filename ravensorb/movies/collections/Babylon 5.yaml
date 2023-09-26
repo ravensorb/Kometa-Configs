@@ -1,6 +1,6 @@
 collections:
   "Babylon 5":
-    variables: { list: "10441", poster: https://theposterdb.com/api/assets/295296 }
+    variables: { poster: https://theposterdb.com/api/assets/295296 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
