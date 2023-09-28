@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "War of the Worlds (1988)":
         year: 1988
         title: "War of the Worlds"
-        alt_title: "War of the Worlds (1988)"
-        orig_title: "War of the Worlds"
-        sort_title: "War of the Worlds"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 76616
         # IDs: imdb://tt0094578, tmdb://2255, tvdb://76616
-        # tpdb: https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds&category=Shows&year_filter=equals&yone=1988&tmdb_id=2255&imdb_id=tt0094578&tvdb_id=76616
+        # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20the%20Worlds&category=Shows&year_filter=equals&yone=1988&tmdb_id=2255&imdb_id=tt0094578&tvdb_id=76616
         # tmdb: https://www.themoviedb.org/tv/2255
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=76616
         # imdb: https://www.imdb.com/title/tt0094578
@@ -16,16 +15,16 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-
+    
     "War of the Worlds (2019)":
         year: 2019
         title: "War of the Worlds"
-        alt_title: "War of the Worlds (2019)"
-        orig_title: "War of the Worlds"
         sort_title: "War of the Worlds (2019)"
         url_poster: https://theposterdb.com/api/assets/276076
+        match:
+          mapping_id: 370139
         # IDs: imdb://tt9686194, tmdb://86374, tvdb://370139
-        # tpdb: https://theposterdb.com/search/advanced/results?term=War+of+the+Worlds&category=Shows&year_filter=equals&yone=2019&tmdb_id=86374&imdb_id=tt9686194&tvdb_id=370139
+        # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20the%20Worlds&category=Shows&year_filter=equals&yone=2019&tmdb_id=86374&imdb_id=tt9686194&tvdb_id=370139
         # tmdb: https://www.themoviedb.org/tv/86374
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=370139
         # imdb: https://www.imdb.com/title/tt9686194

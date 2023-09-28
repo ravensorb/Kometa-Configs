@@ -1,6 +1,6 @@
 collections:
   "Elvira":
-    variables: { movie: "5680, 21597, 548921, 421944, 421849, 1099388, 982498", poster: https://theposterdb.com/poster/371206 }
+    variables: { movie: "548921, 421849, 421944, 5680, 1099388, 982498, 21597", poster: https://theposterdb.com/poster/371206 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,12 +8,12 @@ collections:
     ]
     summary: |
       Get your boarding passes ready, you may not survive the flight but you'll have fun getting there
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Airplane&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Airplane
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Airplane
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Airplane
-    # trakt: https://trakt.tv/search/lists?query=Airplane
-    # collection_mode: hide
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Elvira&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Elvira
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Elvira
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Elvira
+    # trakt: https://trakt.tv/search/lists?query=Elvira
+    collection_mode: hide
     # trakt_list:
     #   -
 

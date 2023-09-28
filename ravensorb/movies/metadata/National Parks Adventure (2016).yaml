@@ -2,11 +2,11 @@ metadata:
     "National Parks Adventure (2016)":
         year: 2016
         title: "National Parks Adventure"
-        
+        match:
+          mapping_id: 384043
         url_poster: https://theposterdb.com/api/assets/341114
         # IDs: imdb://tt5568164, tmdb://384043, tvdb://60988
-        # tpdb: https://theposterdb.com/search/advanced/results?term=National+Parks+Adventure&category=Movies&year_filter=equals&yone=2016&tmdb_id=384043&imdb_id=tt5568164&tvdb_id=60988
+        # tpdb: https://theposterdb.com/search/advanced/results?term=National%20Parks%20Adventure&category=Movies&year_filter=equals&yone=2016&tmdb_id=384043&imdb_id=tt5568164&tvdb_id=60988
         # tmdb: https://www.themoviedb.org/movie/384043
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=60988
         # imdb: https://www.imdb.com/title/tt5568164
-    

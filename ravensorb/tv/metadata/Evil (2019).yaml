@@ -1,9 +1,10 @@
-metadata:
+metadata:    
     "Evil (2019)":
         year: 2019
         title: "Evil"
-        alt_title: "Evil"
         url_poster: https://theposterdb.com/api/assets/364729
+        match:
+          mapping_id: 363955
         # IDs: imdb://tt9055008, tmdb://86848, tvdb://363955
         # tpdb: https://theposterdb.com/search/advanced/results?term=Evil&category=Shows&year_filter=equals&yone=2019&tmdb_id=86848&imdb_id=tt9055008&tvdb_id=363955
         # tmdb: https://www.themoviedb.org/tv/86848

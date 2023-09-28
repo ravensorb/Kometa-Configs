@@ -2,14 +2,11 @@ metadata:
     "Amadeus (1984)":
         year: 1984
         title: "Amadeus"
-        alt_title: "Amadeus (1984)"
-        orig_title: "Amadeus"
-        sort_title: "Amadeus"
-        
+        match:
+          mapping_id: 279
         url_poster: https://theposterdb.com/api/assets/184616
         # IDs: imdb://tt0086879, tmdb://279, tvdb://3982
         # tpdb: https://theposterdb.com/search/advanced/results?term=Amadeus&category=Movies&year_filter=equals&yone=1984&tmdb_id=279&imdb_id=tt0086879&tvdb_id=3982
         # tmdb: https://www.themoviedb.org/movie/279
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=3982
         # imdb: https://www.imdb.com/title/tt0086879
-    

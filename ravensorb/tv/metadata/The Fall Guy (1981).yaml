@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The Fall Guy (1981)":
         year: 1981
         title: "The Fall Guy"
-        alt_title: "The Fall Guy (1981)"
-        orig_title: "The Fall Guy"
         sort_title: "Fall Guy"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 71932
         # IDs: imdb://tt0081859, tmdb://5031, tvdb://71932
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Fall+Guy&category=Shows&year_filter=equals&yone=1981&tmdb_id=5031&imdb_id=tt0081859&tvdb_id=71932
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Fall%20Guy&category=Shows&year_filter=equals&yone=1981&tmdb_id=5031&imdb_id=tt0081859&tvdb_id=71932
         # tmdb: https://www.themoviedb.org/tv/5031
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=71932
         # imdb: https://www.imdb.com/title/tt0081859

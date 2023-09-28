@@ -2,42 +2,37 @@ metadata:
     "Olympus Has Fallen (2013)":
         year: 2013
         title: "Olympus Has Fallen"
-        alt_title: "Olympus Has Fallen (2013)"
-        orig_title: "Olympus Has Fallen"
-        sort_title: "Olympus Has Fallen"
-        
+        match:
+          mapping_id: 117263
         url_poster: https://theposterdb.com/api/assets/191075
         # IDs: imdb://tt2302755, tmdb://117263, tvdb://1633
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Olympus+Has+Fallen&category=Movies&year_filter=equals&yone=2013&tmdb_id=117263&imdb_id=tt2302755&tvdb_id=1633
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Olympus%20Has%20Fallen&category=Movies&year_filter=equals&yone=2013&tmdb_id=117263&imdb_id=tt2302755&tvdb_id=1633
         # tmdb: https://www.themoviedb.org/movie/117263
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1633
         # imdb: https://www.imdb.com/title/tt2302755
-    
+
     "London Has Fallen (2016)":
         year: 2016
         title: "London Has Fallen"
-        alt_title: "London Has Fallen (2016)"
-        orig_title: "London Has Fallen"
         sort_title: "Has Fallen - 02 - London Has Fallen"
-        
+        match:
+          mapping_id: 267860
         url_poster: https://theposterdb.com/api/assets/191076
         # IDs: imdb://tt3300542, tmdb://267860, tvdb://1296
-        # tpdb: https://theposterdb.com/search/advanced/results?term=London+Has+Fallen&category=Movies&year_filter=equals&yone=2016&tmdb_id=267860&imdb_id=tt3300542&tvdb_id=1296
+        # tpdb: https://theposterdb.com/search/advanced/results?term=London%20Has%20Fallen&category=Movies&year_filter=equals&yone=2016&tmdb_id=267860&imdb_id=tt3300542&tvdb_id=1296
         # tmdb: https://www.themoviedb.org/movie/267860
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=1296
         # imdb: https://www.imdb.com/title/tt3300542
-    
+
     "Angel Has Fallen (2019)":
         year: 2019
         title: "Angel Has Fallen"
-        alt_title: "Angel Has Fallen (2019)"
-        orig_title: "Angel Has Fallen"
         sort_title: "Has Fallen - 02 - Angel Has Fallen"
-        
+        match:
+          mapping_id: 423204
         url_poster: https://theposterdb.com/api/assets/191077
         # IDs: imdb://tt6189022, tmdb://423204, tvdb://22547
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Angel+Has+Fallen&category=Movies&year_filter=equals&yone=2019&tmdb_id=423204&imdb_id=tt6189022&tvdb_id=22547
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Angel%20Has%20Fallen&category=Movies&year_filter=equals&yone=2019&tmdb_id=423204&imdb_id=tt6189022&tvdb_id=22547
         # tmdb: https://www.themoviedb.org/movie/423204
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=22547
         # imdb: https://www.imdb.com/title/tt6189022
-    

@@ -2,14 +2,11 @@ metadata:
     "Tenet (2020)":
         year: 2020
         title: "Tenet"
-        alt_title: "Tenet (2020)"
-        orig_title: "Tenet"
-        sort_title: "Tenet"
-        
+        match:
+          mapping_id: 577922
         url_poster: https://theposterdb.com/api/assets/194733
         # IDs: imdb://tt6723592, tmdb://577922, tvdb://131281
         # tpdb: https://theposterdb.com/search/advanced/results?term=Tenet&category=Movies&year_filter=equals&yone=2020&tmdb_id=577922&imdb_id=tt6723592&tvdb_id=131281
         # tmdb: https://www.themoviedb.org/movie/577922
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=131281
         # imdb: https://www.imdb.com/title/tt6723592
-    

@@ -2,14 +2,11 @@ metadata:
     "Valerian and the City of a Thousand Planets (2017)":
         year: 2017
         title: "Valerian and the City of a Thousand Planets"
-        alt_title: "Valerian and the City of a Thousand Planets (2017)"
-        orig_title: "Valerian and the City of a Thousand Planets"
-        sort_title: "Valerian and the City of a Thousand Planets"
-        
+        match:
+          mapping_id: 339964
         url_poster: https://theposterdb.com/api/assets/184325
         # IDs: imdb://tt2239822, tmdb://339964, tvdb://464
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Valerian+and+the+City+of+a+Thousand+Planets&category=Movies&year_filter=equals&yone=2017&tmdb_id=339964&imdb_id=tt2239822&tvdb_id=464
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Valerian%20and%20the%20City%20of%20a%20Thousand%20Planets&category=Movies&year_filter=equals&yone=2017&tmdb_id=339964&imdb_id=tt2239822&tvdb_id=464
         # tmdb: https://www.themoviedb.org/movie/339964
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=464
         # imdb: https://www.imdb.com/title/tt2239822
-    

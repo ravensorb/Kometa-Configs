@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The American West (2016)":
         year: 2016
         title: "The American West"
-        alt_title: "The American West (2016)"
-        orig_title: "The American West"
         sort_title: "American West"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 310911
         # IDs: imdb://tt3738872, tmdb://66737, tvdb://310911
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+American+West&category=Shows&year_filter=equals&yone=2016&tmdb_id=66737&imdb_id=tt3738872&tvdb_id=310911
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20American%20West&category=Shows&year_filter=equals&yone=2016&tmdb_id=66737&imdb_id=tt3738872&tvdb_id=310911
         # tmdb: https://www.themoviedb.org/tv/66737
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=310911
         # imdb: https://www.imdb.com/title/tt3738872

@@ -2,28 +2,23 @@ metadata:
     "Shrek 2 (2004)":
         year: 2004
         title: "Shrek 2"
-        alt_title: "Shrek 2 (2004)"
-        orig_title: "Shrek 2"
-        sort_title: "Shrek 2"
-        
+        match:
+          mapping_id: 809
         url_poster: https://theposterdb.com/api/assets/190630
         # IDs: imdb://tt0298148, tmdb://809, tvdb://402
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Shrek+2&category=Movies&year_filter=equals&yone=2004&tmdb_id=809&imdb_id=tt0298148&tvdb_id=402
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shrek%202&category=Movies&year_filter=equals&yone=2004&tmdb_id=809&imdb_id=tt0298148&tvdb_id=402
         # tmdb: https://www.themoviedb.org/movie/809
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=402
         # imdb: https://www.imdb.com/title/tt0298148
-    
+
     "Shrek the Third (2007)":
         year: 2007
         title: "Shrek the Third"
-        alt_title: "Shrek the Third (2007)"
-        orig_title: "Shrek the Third"
-        sort_title: "Shrek the Third"
-        
+        match:
+          mapping_id: 810
         url_poster: https://theposterdb.com/api/assets/190631
         # IDs: imdb://tt0413267, tmdb://810, tvdb://1014
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Shrek+the+Third&category=Movies&year_filter=equals&yone=2007&tmdb_id=810&imdb_id=tt0413267&tvdb_id=1014
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shrek%20the%20Third&category=Movies&year_filter=equals&yone=2007&tmdb_id=810&imdb_id=tt0413267&tvdb_id=1014
         # tmdb: https://www.themoviedb.org/movie/810
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=1014
         # imdb: https://www.imdb.com/title/tt0413267
-    

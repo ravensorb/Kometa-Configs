@@ -1,19 +1,16 @@
-metadata:
+metadata:    
     "Alfred Hitchcock Presents (1955)":
         year: 1955
         title: "Alfred Hitchcock Presents"
-        alt_title: "Alfred Hitchcock Presents (1955)"
-        orig_title: "Alfred Hitchcock Presents"
-        sort_title: "Alfred Hitchcock Presents"
         url_poster: https://theposterdb.com/api/assets/324773
+        match:
+          mapping_id: 73614
         # IDs: imdb://tt0047708, tmdb://5273, tvdb://73614
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Alfred+Hitchcock+Presents&category=Shows&year_filter=equals&yone=1955&tmdb_id=5273&imdb_id=tt0047708&tvdb_id=73614
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Alfred%20Hitchcock%20Presents&category=Shows&year_filter=equals&yone=1955&tmdb_id=5273&imdb_id=tt0047708&tvdb_id=73614
         # tmdb: https://www.themoviedb.org/tv/5273
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1955&query=73614
         # imdb: https://www.imdb.com/title/tt0047708
         seasons:
-            0:
-                url_poster: https://theposterdb.com/api/assets/324774
             1:
                 url_poster: https://theposterdb.com/api/assets/324775
             2:

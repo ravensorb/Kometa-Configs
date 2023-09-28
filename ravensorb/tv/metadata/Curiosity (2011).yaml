@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Curiosity (2011)":
         year: 2011
         title: "Curiosity"
-        alt_title: "Curiosity (2011)"
-        orig_title: "Curiosity"
-        sort_title: "Curiosity"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 250572
         # IDs: imdb://tt1564623, tmdb://40268, tvdb://250572
         # tpdb: https://theposterdb.com/search/advanced/results?term=Curiosity&category=Shows&year_filter=equals&yone=2011&tmdb_id=40268&imdb_id=tt1564623&tvdb_id=250572
         # tmdb: https://www.themoviedb.org/tv/40268

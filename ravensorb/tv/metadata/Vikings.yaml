@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "Vikings (2013)":
         year: 2013
         title: "Vikings"
         url_poster: https://theposterdb.com/api/assets/323898
+        match:
+          mapping_id: 260449
         # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
         # tmdb: https://www.themoviedb.org/tv/44217
@@ -21,13 +23,15 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/323904
             6:
                 url_poster: https://theposterdb.com/api/assets/323905
-
+    
     "Vikings: Valhalla (2022)":
         year: 2022
         title: "Vikings: Valhalla"
         url_poster: https://theposterdb.com/api/assets/323906
+        match:
+          mapping_id: 372700
         # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A+Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A%20Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700
         # tmdb: https://www.themoviedb.org/tv/116135
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=372700
         # imdb: https://www.imdb.com/title/tt11311302

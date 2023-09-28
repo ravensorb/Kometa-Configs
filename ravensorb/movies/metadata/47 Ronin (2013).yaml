@@ -2,10 +2,11 @@ metadata:
     "47 Ronin (2013)":
         year: 2013
         title: "47 Ronin"
-        
+        match:
+          mapping_id: 64686
         url_poster: https://theposterdb.com/api/assets/200170
         # IDs: imdb://tt1335975, tmdb://64686, tvdb://1535
-        # tpdb: https://theposterdb.com/search/advanced/results?term=47+Ronin&category=Movies&year_filter=equals&yone=2013&tmdb_id=64686&imdb_id=tt1335975&tvdb_id=1535
+        # tpdb: https://theposterdb.com/search/advanced/results?term=47%20Ronin&category=Movies&year_filter=equals&yone=2013&tmdb_id=64686&imdb_id=tt1335975&tvdb_id=1535
         # tmdb: https://www.themoviedb.org/movie/64686
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1535
         # imdb: https://www.imdb.com/title/tt1335975

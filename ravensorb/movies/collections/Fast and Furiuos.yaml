@@ -1,6 +1,6 @@
 collections:
   "Fast and Furiuos":
-    variables: { movie: "385128, 9615, 9799, 13804, 337339, 168259, 51497, 584, 82992, 384018, 385687", poster: https://theposterdb.com/api/assets/164783 }
+    variables: { movie: "51497, 385687, 13804, 82992, 168259, 384018, 385128, 584, 9615, 9799, 337339", poster: https://theposterdb.com/api/assets/164783 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       An action film series centered on illegal street racing and heists.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Fast+and+Furiuos&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Fast%20and%20Furiuos&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Fast%20and%20Furiuos%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Fast%20and%20Furiuos
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Fast%20and%20Furiuos

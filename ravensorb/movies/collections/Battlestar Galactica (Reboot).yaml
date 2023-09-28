@@ -1,6 +1,6 @@
 collections:
   "Battlestar Galactica (Reboot)":
-    variables: { label: "Battlestar Galactica", movie: "69315, 853248, 105077, 257368, 968709", poster: https://theposterdb.com/api/assets/186153 }
+    variables: { label: "Battlestar Galactica", movie: "853248, 257368, 69315, 968709, 105077", poster: https://theposterdb.com/api/assets/186153 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Battlestar Galactica (Reboot) Collection
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar+Galactica+%28Reboot%29&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Reboot%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Battlestar%20Galactica%20%28Reboot%29%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Battlestar%20Galactica%20%28Reboot%29
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Battlestar%20Galactica%20%28Reboot%29

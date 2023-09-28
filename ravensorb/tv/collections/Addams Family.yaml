@@ -1,6 +1,6 @@
 collections:
-   "Addams Family":
-    variables: { show: "14009, 12925, 21036, 13015", poster: https://theposterdb.com/api/assets/160785 }
+  "Addams Family":
+    variables: { show: "12925, 21036, 13015, 14009, 119051", poster: https://theposterdb.com/api/assets/160785 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,16 +8,16 @@ collections:
     ]
     summary: |
       Addams Family
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Addams+Family&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Addams%20Family&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Addams%20Family%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Addams%20Family
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Addams%20Family
     # trakt: https://trakt.tv/search/lists?query=Addams%20Family
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/addams-family?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/addams-family?sort=released,desc 
 
-    ########################################################################################################################
+########################################################################################################################
 ########################################################################################################################
 
 

@@ -2,14 +2,12 @@ metadata:
     "The Nephew (1998)":
         year: 1998
         title: "The Nephew"
-        alt_title: "The Nephew (1998)"
-        orig_title: "The Nephew"
         sort_title: "Nephew"
-        
+        match:
+          mapping_id: 78784
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0119772, tmdb://78784, tvdb://82965
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Nephew&category=Movies&year_filter=equals&yone=1998&tmdb_id=78784&imdb_id=tt0119772&tvdb_id=82965
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Nephew&category=Movies&year_filter=equals&yone=1998&tmdb_id=78784&imdb_id=tt0119772&tvdb_id=82965
         # tmdb: https://www.themoviedb.org/movie/78784
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=82965
         # imdb: https://www.imdb.com/title/tt0119772
-    

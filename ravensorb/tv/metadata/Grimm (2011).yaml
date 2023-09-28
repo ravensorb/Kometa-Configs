@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Grimm (2011)":
         year: 2011
         title: "Grimm"
-        alt_title: "Grimm (2011)"
-        orig_title: "Grimm"
-        sort_title: "Grimm"
         url_poster: https://theposterdb.com/api/assets/210365
+        match:
+          mapping_id: 248736
         # IDs: imdb://tt1830617, tmdb://39351, tvdb://248736
         # tpdb: https://theposterdb.com/search/advanced/results?term=Grimm&category=Shows&year_filter=equals&yone=2011&tmdb_id=39351&imdb_id=tt1830617&tvdb_id=248736
         # tmdb: https://www.themoviedb.org/tv/39351

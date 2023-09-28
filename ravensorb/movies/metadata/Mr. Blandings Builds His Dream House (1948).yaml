@@ -2,14 +2,11 @@ metadata:
     "Mr. Blandings Builds His Dream House (1948)":
         year: 1948
         title: "Mr. Blandings Builds His Dream House"
-        alt_title: "Mr. Blandings Builds His Dream House (1948)"
-        orig_title: "Mr. Blandings Builds His Dream House"
-        sort_title: "Mr. Blandings Builds His Dream House"
-        
+        match:
+          mapping_id: 32294
         url_poster: https://theposterdb.com/api/assets/242418
         # IDs: imdb://tt0040613, tmdb://32294, tvdb://12603
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.+Blandings+Builds+His+Dream+House&category=Movies&year_filter=equals&yone=1948&tmdb_id=32294&imdb_id=tt0040613&tvdb_id=12603
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.%20Blandings%20Builds%20His%20Dream%20House&category=Movies&year_filter=equals&yone=1948&tmdb_id=32294&imdb_id=tt0040613&tvdb_id=12603
         # tmdb: https://www.themoviedb.org/movie/32294
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1948&query=12603
         # imdb: https://www.imdb.com/title/tt0040613
-    

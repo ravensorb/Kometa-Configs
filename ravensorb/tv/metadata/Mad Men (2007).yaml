@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Mad Men (2007)":
         year: 2007
         title: "Mad Men"
-        alt_title: "Mad Men (2007)"
-        orig_title: "Mad Men"
-        sort_title: "Mad Men"
         url_poster: https://theposterdb.com/api/assets/335702
+        match:
+          mapping_id: 80337
         # IDs: imdb://tt0804503, tmdb://1104, tvdb://80337
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Mad+Men&category=Shows&year_filter=equals&yone=2007&tmdb_id=1104&imdb_id=tt0804503&tvdb_id=80337
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mad%20Men&category=Shows&year_filter=equals&yone=2007&tmdb_id=1104&imdb_id=tt0804503&tvdb_id=80337
         # tmdb: https://www.themoviedb.org/tv/1104
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80337
         # imdb: https://www.imdb.com/title/tt0804503

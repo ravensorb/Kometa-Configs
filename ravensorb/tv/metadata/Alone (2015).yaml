@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Alone (2015)":
         year: 2015
         title: "Alone"
-        alt_title: "Alone (2015)"
-        orig_title: "Alone"
-        sort_title: "Alone"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 295936
         # IDs: imdb://tt4803766, tmdb://63726, tvdb://295936
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alone&category=Shows&year_filter=equals&yone=2015&tmdb_id=63726&imdb_id=tt4803766&tvdb_id=295936
         # tmdb: https://www.themoviedb.org/tv/63726
@@ -29,4 +28,6 @@ metadata:
             # 8:
                 # url_poster: https://theposterdb.com/api/assets/
             # 9:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 10:
                 # url_poster: https://theposterdb.com/api/assets/

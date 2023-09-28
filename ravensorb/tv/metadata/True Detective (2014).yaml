@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "True Detective (2014)":
         year: 2014
         title: "True Detective"
-        alt_title: "True Detective (2014)"
-        orig_title: "True Detective"
-        sort_title: "True Detective"
         url_poster: https://theposterdb.com/api/assets/258834
+        match:
+          mapping_id: 270633
         # IDs: imdb://tt2356777, tmdb://46648, tvdb://270633
-        # tpdb: https://theposterdb.com/search/advanced/results?term=True+Detective&category=Shows&year_filter=equals&yone=2014&tmdb_id=46648&imdb_id=tt2356777&tvdb_id=270633
+        # tpdb: https://theposterdb.com/search/advanced/results?term=True%20Detective&category=Shows&year_filter=equals&yone=2014&tmdb_id=46648&imdb_id=tt2356777&tvdb_id=270633
         # tmdb: https://www.themoviedb.org/tv/46648
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=270633
         # imdb: https://www.imdb.com/title/tt2356777

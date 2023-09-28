@@ -2,6 +2,8 @@ metadata:
     "Invictus (2009)":
         year: 2009
         title: "Invictus"
+        match:
+          mapping_id: 22954
         url_poster: https://theposterdb.com/api/assets/189406
         # IDs: imdb://tt1057500, tmdb://22954, tvdb://2910
         # tpdb: https://theposterdb.com/search/advanced/results?term=Invictus&category=Movies&year_filter=equals&yone=2009&tmdb_id=22954&imdb_id=tt1057500&tvdb_id=2910

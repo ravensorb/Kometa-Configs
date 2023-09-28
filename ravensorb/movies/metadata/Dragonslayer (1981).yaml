@@ -2,6 +2,8 @@ metadata:
     "Dragonslayer (1981)":
         year: 1981
         title: "Dragonslayer"
+        match:
+          mapping_id: 848
         url_poster: https://theposterdb.com/api/assets/187982
         # IDs: imdb://tt0082288, tmdb://848, tvdb://4334
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dragonslayer&category=Movies&year_filter=equals&yone=1981&tmdb_id=848&imdb_id=tt0082288&tvdb_id=4334

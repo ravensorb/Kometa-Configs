@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Sanctuary (2008)":
         year: 2008
         title: "Sanctuary"
-        alt_title: "Sanctuary (2008)"
-        orig_title: "Sanctuary"
-        sort_title: "Sanctuary"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 80159
         # IDs: imdb://tt0965394, tmdb://1310, tvdb://80159
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sanctuary&category=Shows&year_filter=equals&yone=2008&tmdb_id=1310&imdb_id=tt0965394&tvdb_id=80159
         # tmdb: https://www.themoviedb.org/tv/1310

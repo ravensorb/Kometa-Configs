@@ -1,11 +1,11 @@
-metadata:
+metadata:    
     "Demons (2009)":
         year: 2009
         title: "Demons"
-        alt_title: "Demons (2009)"
         orig_title: "Demons (The Last Van Helsing)"
-        sort_title: "Demons"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 84347
         # IDs: imdb://tt1157595, tmdb://8168, tvdb://84347
         # tpdb: https://theposterdb.com/search/advanced/results?term=Demons&category=Shows&year_filter=equals&yone=2009&tmdb_id=8168&imdb_id=tt1157595&tvdb_id=84347
         # tmdb: https://www.themoviedb.org/tv/8168

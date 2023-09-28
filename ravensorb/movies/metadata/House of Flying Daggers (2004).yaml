@@ -2,14 +2,12 @@ metadata:
     "House of Flying Daggers (2004)":
         year: 2004
         title: "House of Flying Daggers"
-        alt_title: "House of Flying Daggers (2004)"
         orig_title: "十面埋伏"
-        sort_title: "House of Flying Daggers"
-        
+        match:
+          mapping_id: 9550
         url_poster: https://theposterdb.com/api/assets/293258
         # IDs: imdb://tt0385004, tmdb://9550, tvdb://8278
-        # tpdb: https://theposterdb.com/search/advanced/results?term=House+of+Flying+Daggers&category=Movies&year_filter=equals&yone=2004&tmdb_id=9550&imdb_id=tt0385004&tvdb_id=8278
+        # tpdb: https://theposterdb.com/search/advanced/results?term=House%20of%20Flying%20Daggers&category=Movies&year_filter=equals&yone=2004&tmdb_id=9550&imdb_id=tt0385004&tvdb_id=8278
         # tmdb: https://www.themoviedb.org/movie/9550
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=8278
         # imdb: https://www.imdb.com/title/tt0385004
-    

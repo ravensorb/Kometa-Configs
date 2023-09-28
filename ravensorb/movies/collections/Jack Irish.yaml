@@ -1,6 +1,6 @@
 collections:
   "Jack Irish":
-    variables: { movie: "141095, 141099, 264578", poster: https://i.imgur.com/ZqOa3NF.jpg }
+    variables: { movie: "141095, 264578, 141099", poster: https://i.imgur.com/ZqOa3NF.jpg }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Jack Irish is a series of Australian television movies adapted from the detective novels by Peter Temple.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Jack+Irish&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Jack%20Irish&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Jack%20Irish%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Jack%20Irish
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Jack%20Irish

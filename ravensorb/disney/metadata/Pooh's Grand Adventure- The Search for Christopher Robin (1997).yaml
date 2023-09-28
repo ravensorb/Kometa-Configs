@@ -2,14 +2,11 @@ metadata:
     "Pooh's Grand Adventure: The Search for Christopher Robin (1997)":
         year: 1997
         title: "Pooh's Grand Adventure: The Search for Christopher Robin"
-        alt_title: "Pooh's Grand Adventure: The Search for Christopher Robin (1997)"
-        orig_title: "Pooh's Grand Adventure: The Search for Christopher Robin"
-        sort_title: "Pooh's Grand Adventure: The Search for Christopher Robin"
-        
+        match:
+          mapping_id: 14903
         url_poster: https://theposterdb.com/api/assets/232742
         # IDs: imdb://tt0119918, tmdb://14903, tvdb://6742
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Pooh%27s+Grand+Adventure%3A+The+Search+for+Christopher+Robin&category=Movies&year_filter=equals&yone=1997&tmdb_id=14903&imdb_id=tt0119918&tvdb_id=6742
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pooh%27s%20Grand%20Adventure%3A%20The%20Search%20for%20Christopher%20Robin&category=Movies&year_filter=equals&yone=1997&tmdb_id=14903&imdb_id=tt0119918&tvdb_id=6742
         # tmdb: https://www.themoviedb.org/movie/14903
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=6742
         # imdb: https://www.imdb.com/title/tt0119918
-    

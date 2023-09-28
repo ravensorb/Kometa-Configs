@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "Bosch (2014)":
         year: 2014
         title: "Bosch"
         url_poster: https://theposterdb.com/api/assets/335424
+        match:
+          mapping_id: 277928
         # IDs: imdb://tt3502248, tmdb://60585, tvdb://277928
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch&category=Shows&year_filter=equals&yone=2014&tmdb_id=60585&imdb_id=tt3502248&tvdb_id=277928
         # tmdb: https://www.themoviedb.org/tv/60585
@@ -23,13 +25,15 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/335431
             7:
                 url_poster: https://theposterdb.com/api/assets/335432
-
+    
     "Bosch: Legacy (2022)":
         year: 2022
         title: "Bosch: Legacy"
         url_poster: https://theposterdb.com/api/assets/335442
+        match:
+          mapping_id: 414553
         # IDs: imdb://tt14168162, tmdb://153657, tvdb://414553
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch%3A+Legacy&category=Shows&year_filter=equals&yone=2022&tmdb_id=153657&imdb_id=tt14168162&tvdb_id=414553
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch%3A%20Legacy&category=Shows&year_filter=equals&yone=2022&tmdb_id=153657&imdb_id=tt14168162&tvdb_id=414553
         # tmdb: https://www.themoviedb.org/tv/153657
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=414553
         # imdb: https://www.imdb.com/title/tt14168162

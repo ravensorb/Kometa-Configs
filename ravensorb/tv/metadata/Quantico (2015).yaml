@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Quantico (2015)":
         year: 2015
         title: "Quantico"
-        alt_title: "Quantico (2015)"
-        orig_title: "Quantico"
         sort_title: "Quantico (2015)"
         url_poster: https://theposterdb.com/api/assets/330378
+        match:
+          mapping_id: 295515
         # IDs: imdb://tt4428122, tmdb://62816, tvdb://295515
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Quantico+%282015%29&category=Shows&year_filter=equals&yone=2015&tmdb_id=62816&imdb_id=tt4428122&tvdb_id=295515
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Quantico&category=Shows&year_filter=equals&yone=2015&tmdb_id=62816&imdb_id=tt4428122&tvdb_id=295515
         # tmdb: https://www.themoviedb.org/tv/62816
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=295515
         # imdb: https://www.imdb.com/title/tt4428122

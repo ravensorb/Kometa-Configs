@@ -2,14 +2,11 @@ metadata:
     "Five Easy Pieces (1970)":
         year: 1970
         title: "Five Easy Pieces"
-        alt_title: "Five Easy Pieces (1970)"
-        orig_title: "Five Easy Pieces"
-        sort_title: "Five Easy Pieces"
-        
+        match:
+          mapping_id: 26617
         url_poster: https://theposterdb.com/api/assets/211762
         # IDs: imdb://tt0065724, tmdb://26617, tvdb://9285
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Five+Easy+Pieces&category=Movies&year_filter=equals&yone=1970&tmdb_id=26617&imdb_id=tt0065724&tvdb_id=9285
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Five%20Easy%20Pieces&category=Movies&year_filter=equals&yone=1970&tmdb_id=26617&imdb_id=tt0065724&tvdb_id=9285
         # tmdb: https://www.themoviedb.org/movie/26617
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1970&query=9285
         # imdb: https://www.imdb.com/title/tt0065724
-    

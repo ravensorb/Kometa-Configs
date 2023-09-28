@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The A-Team (1983)":
         year: 1983
         title: "The A-Team"
-        alt_title: "The A-Team (1983)"
-        orig_title: "The A-Team"
         sort_title: "A-Team"
         url_poster: https://theposterdb.com/api/assets/276635
+        match:
+          mapping_id: 77904
         # IDs: imdb://tt0084967, tmdb://1516, tvdb://77904
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+A-Team&category=Shows&year_filter=equals&yone=1983&tmdb_id=1516&imdb_id=tt0084967&tvdb_id=77904
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20A-Team&category=Shows&year_filter=equals&yone=1983&tmdb_id=1516&imdb_id=tt0084967&tvdb_id=77904
         # tmdb: https://www.themoviedb.org/tv/1516
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1983&query=77904
         # imdb: https://www.imdb.com/title/tt0084967

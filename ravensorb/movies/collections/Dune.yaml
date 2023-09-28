@@ -1,6 +1,6 @@
 collections:
   "Dune":
-    variables: { movie: "841, 438631, 693134", poster: https://theposterdb.com/api/assets/208231 }
+    variables: { movie: "841, 693134, 438631", poster: https://theposterdb.com/api/assets/208231 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

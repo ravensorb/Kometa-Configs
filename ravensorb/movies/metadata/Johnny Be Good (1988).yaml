@@ -2,14 +2,11 @@ metadata:
     "Johnny Be Good (1988)":
         year: 1988
         title: "Johnny Be Good"
-        alt_title: "Johnny Be Good (1988)"
-        orig_title: "Johnny Be Good"
-        sort_title: "Johnny Be Good"
-        
+        match:
+          mapping_id: 20443
         url_poster: https://theposterdb.com/api/assets/188415
         # IDs: imdb://tt0095409, tmdb://20443, tvdb://16578
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Johnny+Be+Good&category=Movies&year_filter=equals&yone=1988&tmdb_id=20443&imdb_id=tt0095409&tvdb_id=16578
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Johnny%20Be%20Good&category=Movies&year_filter=equals&yone=1988&tmdb_id=20443&imdb_id=tt0095409&tvdb_id=16578
         # tmdb: https://www.themoviedb.org/movie/20443
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=16578
         # imdb: https://www.imdb.com/title/tt0095409
-    

@@ -2,14 +2,11 @@ metadata:
     "Charlie and the Chocolate Factory (2005)":
         year: 2005
         title: "Charlie and the Chocolate Factory"
-        alt_title: "Charlie and the Chocolate Factory (2005)"
-        orig_title: "Charlie and the Chocolate Factory"
-        sort_title: "Charlie and the Chocolate Factory"
-        
+        match:
+          mapping_id: 118
         url_poster: https://theposterdb.com/api/assets/173740
         # IDs: imdb://tt0367594, tmdb://118, tvdb://564
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie+and+the+Chocolate+Factory&category=Movies&year_filter=equals&yone=2005&tmdb_id=118&imdb_id=tt0367594&tvdb_id=564
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie%20and%20the%20Chocolate%20Factory&category=Movies&year_filter=equals&yone=2005&tmdb_id=118&imdb_id=tt0367594&tvdb_id=564
         # tmdb: https://www.themoviedb.org/movie/118
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=564
         # imdb: https://www.imdb.com/title/tt0367594
-    

@@ -1,6 +1,6 @@
 collections:
   "Top Gun":
-    variables: { movie: "744, 361743", poster: https://theposterdb.com/api/assets/196947 }
+    variables: { movie: "361743, 744", poster: https://theposterdb.com/api/assets/196947 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Top Gun Movies
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Top+Gun&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Top%20Gun&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Top%20Gun%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Top%20Gun
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Top%20Gun

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Strike (2017)":
         year: 2017
         title: "Strike"
-        alt_title: "Strike (2017)"
-        orig_title: "Strike"
-        sort_title: "Strike"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 319742
         # IDs: imdb://tt4276618, tmdb://72748, tvdb://319742
         # tpdb: https://theposterdb.com/search/advanced/results?term=Strike&category=Shows&year_filter=equals&yone=2017&tmdb_id=72748&imdb_id=tt4276618&tvdb_id=319742
         # tmdb: https://www.themoviedb.org/tv/72748

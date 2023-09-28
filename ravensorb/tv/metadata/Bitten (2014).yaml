@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Bitten (2014)":
         year: 2014
         title: "Bitten"
-        alt_title: "Bitten (2014)"
-        orig_title: "Bitten"
-        sort_title: "Bitten"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 269550
         # IDs: imdb://tt2365946, tmdb://60556, tvdb://269550
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bitten&category=Shows&year_filter=equals&yone=2014&tmdb_id=60556&imdb_id=tt2365946&tvdb_id=269550
         # tmdb: https://www.themoviedb.org/tv/60556

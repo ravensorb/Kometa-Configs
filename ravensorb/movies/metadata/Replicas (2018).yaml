@@ -2,10 +2,8 @@ metadata:
     "Replicas (2018)":
         year: 2018
         title: "Replicas"
-        alt_title: "Replicas (2018)"
-        orig_title: "Replicas"
-        sort_title: "Replicas"
-        
+        match:
+          mapping_id: 300681
         url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt4154916, tmdb://300681, tvdb://238
         # tpdb: https://theposterdb.com/search/advanced/results?term=Replicas&category=Movies&year_filter=equals&yone=2018&tmdb_id=300681&imdb_id=tt4154916&tvdb_id=238

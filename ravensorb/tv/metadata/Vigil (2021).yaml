@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Vigil (2021)":
         year: 2021
         title: "Vigil"
-        alt_title: "Vigil (2021)"
-        orig_title: "Vigil"
-        sort_title: "Vigil"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 384968
         # IDs: imdb://tt11846996, tmdb://126167, tvdb://384968
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vigil&category=Shows&year_filter=equals&yone=2021&tmdb_id=126167&imdb_id=tt11846996&tvdb_id=384968
         # tmdb: https://www.themoviedb.org/tv/126167

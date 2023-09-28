@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "A Small Light (2023)":
         year: 2023
         title: "A Small Light"
-        alt_title: "A Small Light (2023)"
-        orig_title: "A Small Light"
         sort_title: "Small Light"
         url_poster: https://theposterdb.com/api/assets/382272
+        match:
+          mapping_id: 428632
         # IDs: imdb://tt17921714, tmdb://157160, tvdb://428632
-        # tpdb: https://theposterdb.com/search/advanced/results?term=A+Small+Light&category=Shows&year_filter=equals&yone=2023&tmdb_id=157160&imdb_id=tt17921714&tvdb_id=428632
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Small%20Light&category=Shows&year_filter=equals&yone=2023&tmdb_id=157160&imdb_id=tt17921714&tvdb_id=428632
         # tmdb: https://www.themoviedb.org/tv/157160
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=428632
         # imdb: https://www.imdb.com/title/tt17921714

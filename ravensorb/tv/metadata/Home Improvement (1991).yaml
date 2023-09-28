@@ -1,32 +1,29 @@
-metadata:
+metadata:    
     "Home Improvement (1991)":
         year: 1991
         title: "Home Improvement"
-        alt_title: "Home Improvement (1991)"
-        orig_title: "Home Improvement"
-        sort_title: "Home Improvement"
-        url_poster:  https://theposterdb.com/api/assets/354065
+        url_poster: https://theposterdb.com/api/assets/354065
+        match:
+          mapping_id: 77537
         # IDs: imdb://tt0101120, tmdb://1558, tvdb://77537
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Home+Improvement&category=Shows&year_filter=equals&yone=1991&tmdb_id=1558&imdb_id=tt0101120&tvdb_id=77537
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Home%20Improvement&category=Shows&year_filter=equals&yone=1991&tmdb_id=1558&imdb_id=tt0101120&tvdb_id=77537
         # tmdb: https://www.themoviedb.org/tv/1558
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1991&query=77537
         # imdb: https://www.imdb.com/title/tt0101120
         seasons:
-            # 0:
-                # url_poster:  https://theposterdb.com/api/assets/354066
             1:
-                url_poster:  https://theposterdb.com/api/assets/354067
+                url_poster: https://theposterdb.com/api/assets/354067
             2:
-                url_poster:  https://theposterdb.com/api/assets/354068
+                url_poster: https://theposterdb.com/api/assets/354068
             3:
-                url_poster:  https://theposterdb.com/api/assets/354069
+                url_poster: https://theposterdb.com/api/assets/354069
             4:
-                url_poster:  https://theposterdb.com/api/assets/354070
+                url_poster: https://theposterdb.com/api/assets/354070
             5:
-                url_poster:  https://theposterdb.com/api/assets/354071
+                url_poster: https://theposterdb.com/api/assets/354071
             6:
-                url_poster:  https://theposterdb.com/api/assets/354072
+                url_poster: https://theposterdb.com/api/assets/354072
             7:
-                url_poster:  https://theposterdb.com/api/assets/354073
+                url_poster: https://theposterdb.com/api/assets/354073
             8:
-                url_poster:  https://theposterdb.com/api/assets/354074
+                url_poster: https://theposterdb.com/api/assets/354074

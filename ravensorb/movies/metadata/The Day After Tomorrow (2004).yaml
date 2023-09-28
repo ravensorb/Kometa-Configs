@@ -2,14 +2,12 @@ metadata:
     "The Day After Tomorrow (2004)":
         year: 2004
         title: "The Day After Tomorrow"
-        alt_title: "The Day After Tomorrow (2004)"
-        orig_title: "The Day After Tomorrow"
         sort_title: "Day After Tomorrow"
-        
+        match:
+          mapping_id: 435
         url_poster: https://theposterdb.com/api/assets/185410
         # IDs: imdb://tt0319262, tmdb://435, tvdb://2778
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Day+After+Tomorrow&category=Movies&year_filter=equals&yone=2004&tmdb_id=435&imdb_id=tt0319262&tvdb_id=2778
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Day%20After%20Tomorrow&category=Movies&year_filter=equals&yone=2004&tmdb_id=435&imdb_id=tt0319262&tvdb_id=2778
         # tmdb: https://www.themoviedb.org/movie/435
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=2778
         # imdb: https://www.imdb.com/title/tt0319262
-    

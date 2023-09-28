@@ -2,14 +2,11 @@ metadata:
     "My Favorite Spy (1951)":
         year: 1951
         title: "My Favorite Spy"
-        alt_title: "My Favorite Spy (1951)"
-        orig_title: "My Favorite Spy"
-        sort_title: "My Favorite Spy"
-        
+        match:
+          mapping_id: 103165
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0043827, tmdb://103165, tvdb://23737
-        # tpdb: https://theposterdb.com/search/advanced/results?term=My+Favorite+Spy&category=Movies&year_filter=equals&yone=1951&tmdb_id=103165&imdb_id=tt0043827&tvdb_id=23737
+        # tpdb: https://theposterdb.com/search/advanced/results?term=My%20Favorite%20Spy&category=Movies&year_filter=equals&yone=1951&tmdb_id=103165&imdb_id=tt0043827&tvdb_id=23737
         # tmdb: https://www.themoviedb.org/movie/103165
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1951&query=23737
         # imdb: https://www.imdb.com/title/tt0043827
-    

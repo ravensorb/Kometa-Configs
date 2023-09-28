@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Traitors (2019)":
         year: 2019
         title: "Traitors"
-        alt_title: "Traitors (2019)"
-        orig_title: "Traitors"
-        sort_title: "Traitors"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 358884
         # IDs: imdb://tt7371896, tmdb://86733, tvdb://358884
         # tpdb: https://theposterdb.com/search/advanced/results?term=Traitors&category=Shows&year_filter=equals&yone=2019&tmdb_id=86733&imdb_id=tt7371896&tvdb_id=358884
         # tmdb: https://www.themoviedb.org/tv/86733

@@ -2,6 +2,8 @@ metadata:
     "Nirvana (1997)":
         year: 1997
         title: "Nirvana"
+        match:
+          mapping_id: 8765
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0119794, tmdb://8765, tvdb://10692
         # tpdb: https://theposterdb.com/search/advanced/results?term=Nirvana&category=Movies&year_filter=equals&yone=1997&tmdb_id=8765&imdb_id=tt0119794&tvdb_id=10692

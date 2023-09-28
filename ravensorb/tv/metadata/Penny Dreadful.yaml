@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Penny Dreadful (2014)":
         year: 2014
         title: "Penny Dreadful"
-        alt_title: "Penny Dreadful (2014)"
-        orig_title: "Penny Dreadful"
-        sort_title: "Penny Dreadful"
         url_poster: https://theposterdb.com/api/assets/344979
+        match:
+          mapping_id: 265766
         # IDs: imdb://tt2628232, tmdb://54671, tvdb://265766
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Penny+Dreadful&category=Shows&year_filter=equals&yone=2014&tmdb_id=54671&imdb_id=tt2628232&tvdb_id=265766
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Penny%20Dreadful&category=Shows&year_filter=equals&yone=2014&tmdb_id=54671&imdb_id=tt2628232&tvdb_id=265766
         # tmdb: https://www.themoviedb.org/tv/54671
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=265766
         # imdb: https://www.imdb.com/title/tt2628232
@@ -18,16 +17,15 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/344982
             3:
                 url_poster: https://theposterdb.com/api/assets/344983
-
+    
     "Penny Dreadful: City of Angels (2020)":
         year: 2020
         title: "Penny Dreadful: City of Angels"
-        alt_title: "Penny Dreadful: City of Angels (2020)"
-        orig_title: "Penny Dreadful: City of Angels"
-        sort_title: "Penny Dreadful: City of Angels"
         url_poster: https://theposterdb.com/api/assets/344984
+        match:
+          mapping_id: 360892
         # IDs: imdb://tt10361016, tmdb://83685, tvdb://360892
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Penny+Dreadful%3A+City+of+Angels&category=Shows&year_filter=equals&yone=2020&tmdb_id=83685&imdb_id=tt10361016&tvdb_id=360892
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Penny%20Dreadful%3A%20City%20of%20Angels&category=Shows&year_filter=equals&yone=2020&tmdb_id=83685&imdb_id=tt10361016&tvdb_id=360892
         # tmdb: https://www.themoviedb.org/tv/83685
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=360892
         # imdb: https://www.imdb.com/title/tt10361016

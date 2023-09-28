@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "Automan (1983)":
         year: 1983
         title: "Automan"
         url_poster: https://theposterdb.com/api/assets/386866
+        match:
+          mapping_id: 72589
         # IDs: imdb://tt0084978, tmdb://12751, tvdb://72589
         # tpdb: https://theposterdb.com/search/advanced/results?term=Automan&category=Shows&year_filter=equals&yone=1983&tmdb_id=12751&imdb_id=tt0084978&tvdb_id=72589
         # tmdb: https://www.themoviedb.org/tv/12751

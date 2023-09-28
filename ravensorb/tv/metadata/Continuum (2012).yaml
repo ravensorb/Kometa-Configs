@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Continuum (2012)":
         year: 2012
         title: "Continuum"
-        alt_title: "Continuum (2012)"
-        orig_title: "Continuum"
-        sort_title: "Continuum"
         url_poster: https://theposterdb.com/api/assets/293355
+        match:
+          mapping_id: 258171
         # IDs: imdb://tt1954347, tmdb://43020, tvdb://258171
         # tpdb: https://theposterdb.com/search/advanced/results?term=Continuum&category=Shows&year_filter=equals&yone=2012&tmdb_id=43020&imdb_id=tt1954347&tvdb_id=258171
         # tmdb: https://www.themoviedb.org/tv/43020

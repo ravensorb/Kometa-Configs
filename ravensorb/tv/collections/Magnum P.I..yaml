@@ -1,6 +1,6 @@
 collections:
   "Magnum P.I.":
-    variables: { show: "79593, 734", poster: https://theposterdb.com/api/assets/21473 }
+    variables: { show: "734, 79593", poster: https://theposterdb.com/api/assets/21473 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Magnum P.I. Collection
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum+P.I.&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum%20P.I.&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Magnum%20P.I.%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Magnum%20P.I.
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Magnum%20P.I.

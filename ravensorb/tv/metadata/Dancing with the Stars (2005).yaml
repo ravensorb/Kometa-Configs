@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Dancing with the Stars (2005)":
         year: 2005
         title: "Dancing with the Stars"
-        alt_title: "Dancing with the Stars (2005)"
-        orig_title: "Dancing with the Stars"
-        sort_title: "Dancing with the Stars"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 79590
         # IDs: imdb://tt0463398, tmdb://1508, tvdb://79590
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Dancing+with+the+Stars&category=Shows&year_filter=equals&yone=2005&tmdb_id=1508&imdb_id=tt0463398&tvdb_id=79590
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dancing%20with%20the%20Stars&category=Shows&year_filter=equals&yone=2005&tmdb_id=1508&imdb_id=tt0463398&tvdb_id=79590
         # tmdb: https://www.themoviedb.org/tv/1508
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=79590
         # imdb: https://www.imdb.com/title/tt0463398

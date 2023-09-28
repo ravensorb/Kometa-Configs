@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Killer Women (2014)":
         year: 2014
         title: "Killer Women"
-        alt_title: "Killer Women (2014)"
-        orig_title: "Killer Women"
-        sort_title: "Killer Women"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 267889
         # IDs: imdb://tt2657258, tmdb://51036, tvdb://267889
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Killer+Women&category=Shows&year_filter=equals&yone=2014&tmdb_id=51036&imdb_id=tt2657258&tvdb_id=267889
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Killer%20Women&category=Shows&year_filter=equals&yone=2014&tmdb_id=51036&imdb_id=tt2657258&tvdb_id=267889
         # tmdb: https://www.themoviedb.org/tv/51036
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=267889
         # imdb: https://www.imdb.com/title/tt2657258

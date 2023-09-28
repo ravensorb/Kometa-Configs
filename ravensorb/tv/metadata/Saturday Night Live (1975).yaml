@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Saturday Night Live (1975)":
         year: 1975
         title: "Saturday Night Live"
-        alt_title: "Saturday Night Live (1975)"
-        orig_title: "Saturday Night Live"
-        sort_title: "Saturday Night Live"
         url_poster: https://theposterdb.com/api/assets/365429
+        match:
+          mapping_id: 76177
         # IDs: imdb://tt0072562, tmdb://1667, tvdb://76177
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Saturday+Night+Live&category=Shows&year_filter=equals&yone=1975&tmdb_id=1667&imdb_id=tt0072562&tvdb_id=76177
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Saturday%20Night%20Live&category=Shows&year_filter=equals&yone=1975&tmdb_id=1667&imdb_id=tt0072562&tvdb_id=76177
         # tmdb: https://www.themoviedb.org/tv/1667
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1975&query=76177
         # imdb: https://www.imdb.com/title/tt0072562
@@ -32,16 +31,10 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/365439
             10:
                 url_poster: https://theposterdb.com/api/assets/365440
-            11:
-                url_poster: https://theposterdb.com/api/assets/365441
-            12:
-                url_poster: https://theposterdb.com/api/assets/365442
             13:
                 url_poster: https://theposterdb.com/api/assets/365443
             14:
                 url_poster: https://theposterdb.com/api/assets/365444
-            15:
-                url_poster: https://theposterdb.com/api/assets/365445
             16:
                 url_poster: https://theposterdb.com/api/assets/365446
             17:
@@ -52,59 +45,15 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/365449
             20:
                 url_poster: https://theposterdb.com/api/assets/365450
-            21:
-                url_poster: https://theposterdb.com/api/assets/365451
             22:
                 url_poster: https://theposterdb.com/api/assets/365452
-            23:
-                url_poster: https://theposterdb.com/api/assets/365453
             24:
                 url_poster: https://theposterdb.com/api/assets/365454
             25:
                 url_poster: https://theposterdb.com/api/assets/365455
-            26:
-                url_poster: https://theposterdb.com/api/assets/365456
-            27:
-                url_poster: https://theposterdb.com/api/assets/365457
             28:
                 url_poster: https://theposterdb.com/api/assets/365458
-            29:
-                url_poster: https://theposterdb.com/api/assets/365459
-            30:
-                url_poster: https://theposterdb.com/api/assets/365460
-            31:
-                url_poster: https://theposterdb.com/api/assets/365461
-            32:
-                url_poster: https://theposterdb.com/api/assets/365462
-            33:
-                url_poster: https://theposterdb.com/api/assets/365463
-            34:
-                url_poster: https://theposterdb.com/api/assets/365464
-            35:
-                url_poster: https://theposterdb.com/api/assets/365465
-            36:
-                url_poster: https://theposterdb.com/api/assets/365466
-            37:
-                url_poster: https://theposterdb.com/api/assets/365467
             38:
                 url_poster: https://theposterdb.com/api/assets/365468
-            39:
-                url_poster: https://theposterdb.com/api/assets/365469
-            40:
-                url_poster: https://theposterdb.com/api/assets/365470
-            41:
-                url_poster: https://theposterdb.com/api/assets/365471
-            42:
-                url_poster: https://theposterdb.com/api/assets/365472
-            43:
-                url_poster: https://theposterdb.com/api/assets/365473
-            44:
-                url_poster: https://theposterdb.com/api/assets/365474
-            45:
-                url_poster: https://theposterdb.com/api/assets/365475
-            46:
-                url_poster: https://theposterdb.com/api/assets/365476
-            47:
-                url_poster: https://theposterdb.com/api/assets/365477
             48:
                 url_poster: https://theposterdb.com/api/assets/365478

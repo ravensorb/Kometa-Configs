@@ -2,14 +2,12 @@ metadata:
     "The Last Boy Scout (1991)":
         year: 1991
         title: "The Last Boy Scout"
-        alt_title: "The Last Boy Scout (1991)"
-        orig_title: "The Last Boy Scout"
         sort_title: "Last Boy Scout"
-        
+        match:
+          mapping_id: 9319
         url_poster: https://theposterdb.com/api/assets/213820
         # IDs: imdb://tt0102266, tmdb://9319, tvdb://2163
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Last+Boy+Scout&category=Movies&year_filter=equals&yone=1991&tmdb_id=9319&imdb_id=tt0102266&tvdb_id=2163
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Last%20Boy%20Scout&category=Movies&year_filter=equals&yone=1991&tmdb_id=9319&imdb_id=tt0102266&tvdb_id=2163
         # tmdb: https://www.themoviedb.org/movie/9319
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=2163
         # imdb: https://www.imdb.com/title/tt0102266
-    

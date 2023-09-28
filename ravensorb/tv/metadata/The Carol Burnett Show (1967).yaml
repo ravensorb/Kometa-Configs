@@ -1,27 +1,17 @@
-metadata:
+metadata:    
     "The Carol Burnett Show (1967)":
         year: 1967
         title: "The Carol Burnett Show"
-        alt_title: "The Carol Burnett Show (1967)"
-        orig_title: "The Carol Burnett Show"
         sort_title: "Carol Burnett Show"
         url_poster: https://theposterdb.com/api/assets/379365
+        match:
+          mapping_id: 70657
         # IDs: imdb://tt0061240, tmdb://1027, tvdb://70657
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Carol+Burnett+Show&category=Shows&year_filter=equals&yone=1967&tmdb_id=1027&imdb_id=tt0061240&tvdb_id=70657
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Carol%20Burnett%20Show&category=Shows&year_filter=equals&yone=1967&tmdb_id=1027&imdb_id=tt0061240&tvdb_id=70657
         # tmdb: https://www.themoviedb.org/tv/1027
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1967&query=70657
         # imdb: https://www.imdb.com/title/tt0061240
         seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/379367
-            2:
-                url_poster: https://theposterdb.com/api/assets/379368
-            3:
-                url_poster: https://theposterdb.com/api/assets/379369
-            4:
-                url_poster: https://theposterdb.com/api/assets/379370
-            5:
-                url_poster: https://theposterdb.com/api/assets/379371
             6:
                 url_poster: https://theposterdb.com/api/assets/379372
             7:

@@ -1,6 +1,6 @@
 collections:
   "Wallace & Gromit":
-    variables: { movie: "211798, 303577, 532, 530, 533, 531, 14447", poster: https://theposterdb.com/api/assets/162952 }
+    variables: { movie: "303577, 530, 211798, 14447, 533, 532, 531", poster: https://theposterdb.com/api/assets/162952 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       An award-winning, British, stop-motion animated, series of short films and features following the comedic adventures of the eccentric, absent-minded, inventor Wallace and his loyal, anthropomorphic dog Gromit.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace+%26+Gromit&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Wallace%20%26%20Gromit%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Wallace%20%26%20Gromit
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Wallace%20%26%20Gromit

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Switch (1975)":
         year: 1975
         title: "Switch"
-        alt_title: "Switch (1975)"
-        orig_title: "Switch"
-        sort_title: "Switch"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 74892
         # IDs: imdb://tt0072574, tmdb://9865, tvdb://74892
         # tpdb: https://theposterdb.com/search/advanced/results?term=Switch&category=Shows&year_filter=equals&yone=1975&tmdb_id=9865&imdb_id=tt0072574&tvdb_id=74892
         # tmdb: https://www.themoviedb.org/tv/9865

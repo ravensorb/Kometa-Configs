@@ -2,14 +2,11 @@ metadata:
     "Big Trouble in Little China (1986)":
         year: 1986
         title: "Big Trouble in Little China"
-        alt_title: "Big Trouble in Little China (1986)"
-        orig_title: "Big Trouble in Little China"
-        sort_title: "Big Trouble in Little China"
-        
+        match:
+          mapping_id: 6978
         url_poster: https://theposterdb.com/api/assets/177652
         # IDs: imdb://tt0090728, tmdb://6978, tvdb://1876
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Big+Trouble+in+Little+China&category=Movies&year_filter=equals&yone=1986&tmdb_id=6978&imdb_id=tt0090728&tvdb_id=1876
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Big%20Trouble%20in%20Little%20China&category=Movies&year_filter=equals&yone=1986&tmdb_id=6978&imdb_id=tt0090728&tvdb_id=1876
         # tmdb: https://www.themoviedb.org/movie/6978
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=1876
         # imdb: https://www.imdb.com/title/tt0090728
-    

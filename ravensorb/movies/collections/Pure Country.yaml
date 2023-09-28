@@ -1,6 +1,6 @@
 collections:
   "Pure Country":
-    variables: { movie: "468201, 22627", poster: https://theposterdb.com/api/assets/313655 }
+    variables: { movie: "468201, 58936, 22627", poster: https://theposterdb.com/api/assets/313655 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Dusty Chandler is a super star in the country music world, but his shows have the style of a '70s rock concert. One day he takes a walk - out of his overdone concerts to find his real country roots. He's helped and hindered by friends and staff, but pushes on in his search for a real music style as well as a real romance.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Pure+Country&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Pure%20Country&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Pure%20Country%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Pure%20Country
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Pure%20Country

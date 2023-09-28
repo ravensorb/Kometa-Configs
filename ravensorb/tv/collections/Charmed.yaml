@@ -1,6 +1,6 @@
 collections:
   "Charmed":
-    variables: { show: "79611, 1981", poster: https://theposterdb.com/api/assets/163157 }
+    variables: { show: "1981, 79611", poster: https://theposterdb.com/api/assets/163157 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

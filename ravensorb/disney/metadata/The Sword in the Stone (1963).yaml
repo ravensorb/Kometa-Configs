@@ -2,14 +2,12 @@ metadata:
     "The Sword in the Stone (1963)":
         year: 1963
         title: "The Sword in the Stone"
-        alt_title: "The Sword in the Stone (1963)"
-        orig_title: "The Sword in the Stone"
         sort_title: "Sword in the Stone"
-        
+        match:
+          mapping_id: 9078
         url_poster: https://theposterdb.com/api/assets/191980
         # IDs: imdb://tt0057546, tmdb://9078, tvdb://1976
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sword+in+the+Stone&category=Movies&year_filter=equals&yone=1963&tmdb_id=9078&imdb_id=tt0057546&tvdb_id=1976
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Sword%20in%20the%20Stone&category=Movies&year_filter=equals&yone=1963&tmdb_id=9078&imdb_id=tt0057546&tvdb_id=1976
         # tmdb: https://www.themoviedb.org/movie/9078
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1963&query=1976
         # imdb: https://www.imdb.com/title/tt0057546
-    

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Super/Natural (2022)":
         year: 2022
         title: "Super/Natural"
-        alt_title: "Super/Natural (2022)"
-        orig_title: "Super/Natural"
-        sort_title: "Super/Natural"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 423144
         # IDs: imdb://tt21441286, tmdb://157202, tvdb://423144
         # tpdb: https://theposterdb.com/search/advanced/results?term=Super%2FNatural&category=Shows&year_filter=equals&yone=2022&tmdb_id=157202&imdb_id=tt21441286&tvdb_id=423144
         # tmdb: https://www.themoviedb.org/tv/157202

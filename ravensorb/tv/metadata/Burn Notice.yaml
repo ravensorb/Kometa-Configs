@@ -1,19 +1,16 @@
-metadata:
+metadata:    
     "Burn Notice (2007)":
         year: 2007
         title: "Burn Notice"
-        alt_title: "Burn Notice (2007)"
-        orig_title: "Burn Notice"
-        sort_title: "Burn Notice"
         url_poster: https://theposterdb.com/api/assets/362679
+        match:
+          mapping_id: 80270
         # IDs: imdb://tt0810788, tmdb://2919, tvdb://80270
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Burn+Notice&category=Shows&year_filter=equals&yone=2007&tmdb_id=2919&imdb_id=tt0810788&tvdb_id=80270
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Burn%20Notice&category=Shows&year_filter=equals&yone=2007&tmdb_id=2919&imdb_id=tt0810788&tvdb_id=80270
         # tmdb: https://www.themoviedb.org/tv/2919
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80270
         # imdb: https://www.imdb.com/title/tt0810788
         seasons:
-            0:
-                url_poster: https://theposterdb.com/api/assets/362680
             1:
                 url_poster: https://theposterdb.com/api/assets/362681
             2:

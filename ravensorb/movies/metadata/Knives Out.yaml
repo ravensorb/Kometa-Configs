@@ -2,28 +2,24 @@ metadata:
     "Knives Out (2019)":
         year: 2019
         title: "Knives Out"
-        alt_title: "Knives Out (2019)"
-        orig_title: "Knives Out"
-        sort_title: "Knives Out"
-        
+        match:
+          mapping_id: 546554
         url_poster: https://theposterdb.com/api/assets/198777
         # IDs: imdb://tt8946378, tmdb://546554, tvdb://35214
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Knives+Out&category=Movies&year_filter=equals&yone=2019&tmdb_id=546554&imdb_id=tt8946378&tvdb_id=35214
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Knives%20Out&category=Movies&year_filter=equals&yone=2019&tmdb_id=546554&imdb_id=tt8946378&tvdb_id=35214
         # tmdb: https://www.themoviedb.org/movie/546554
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=35214
         # imdb: https://www.imdb.com/title/tt8946378
-    
+
     "Glass Onion: A Knives Out Mystery (2022)":
         year: 2022
         title: "Glass Onion: A Knives Out Mystery"
-        alt_title: "Glass Onion"
-        orig_title: "Glass Onion"
         sort_title: "Knives Out: Glass Onion"
-        
+        match:
+          mapping_id: 661374
         url_poster: https://theposterdb.com/api/assets/291318
         # IDs: imdb://tt11564570, tmdb://661374, tvdb://166019
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Glass+Onion%3A+A+Knives+Out+Mystery&category=Movies&year_filter=equals&yone=2022&tmdb_id=661374&imdb_id=tt11564570&tvdb_id=166019
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Glass%20Onion%3A%20A%20Knives%20Out%20Mystery&category=Movies&year_filter=equals&yone=2022&tmdb_id=661374&imdb_id=tt11564570&tvdb_id=166019
         # tmdb: https://www.themoviedb.org/movie/661374
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=166019
         # imdb: https://www.imdb.com/title/tt11564570
-    

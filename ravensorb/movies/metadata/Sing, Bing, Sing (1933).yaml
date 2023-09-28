@@ -2,14 +2,11 @@ metadata:
     "Sing, Bing, Sing (1933)":
         year: 1933
         title: "Sing, Bing, Sing"
-        alt_title: "Sing, Bing, Sing (1933)"
-        orig_title: "Sing, Bing, Sing"
-        sort_title: "Sing, Bing, Sing"
-        
+        match:
+          mapping_id: 164222
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0024563, tmdb://164222, tvdb://111761
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Sing%2C+Bing%2C+Sing&category=Movies&year_filter=equals&yone=1933&tmdb_id=164222&imdb_id=tt0024563&tvdb_id=111761
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sing%2C%20Bing%2C%20Sing&category=Movies&year_filter=equals&yone=1933&tmdb_id=164222&imdb_id=tt0024563&tvdb_id=111761
         # tmdb: https://www.themoviedb.org/movie/164222
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1933&query=111761
         # imdb: https://www.imdb.com/title/tt0024563
-    

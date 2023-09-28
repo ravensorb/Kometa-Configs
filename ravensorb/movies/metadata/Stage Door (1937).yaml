@@ -2,14 +2,11 @@ metadata:
     "Stage Door (1937)":
         year: 1937
         title: "Stage Door"
-        alt_title: "Stage Door (1937)"
-        orig_title: "Stage Door"
-        sort_title: "Stage Door"
-        
+        match:
+          mapping_id: 43864
         url_poster: https://theposterdb.com/api/assets/248961
         # IDs: imdb://tt0029604, tmdb://43864, tvdb://19309
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Stage+Door&category=Movies&year_filter=equals&yone=1937&tmdb_id=43864&imdb_id=tt0029604&tvdb_id=19309
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stage%20Door&category=Movies&year_filter=equals&yone=1937&tmdb_id=43864&imdb_id=tt0029604&tvdb_id=19309
         # tmdb: https://www.themoviedb.org/movie/43864
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1937&query=19309
         # imdb: https://www.imdb.com/title/tt0029604
-    

@@ -2,14 +2,12 @@ metadata:
     "The Help (2011)":
         year: 2011
         title: "The Help"
-        alt_title: "The Help (2011)"
-        orig_title: "The Help"
         sort_title: "Help"
-        
+        match:
+          mapping_id: 50014
         url_poster: https://theposterdb.com/api/assets/210177
         # IDs: imdb://tt1454029, tmdb://50014, tvdb://970
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Help&category=Movies&year_filter=equals&yone=2011&tmdb_id=50014&imdb_id=tt1454029&tvdb_id=970
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Help&category=Movies&year_filter=equals&yone=2011&tmdb_id=50014&imdb_id=tt1454029&tvdb_id=970
         # tmdb: https://www.themoviedb.org/movie/50014
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=970
         # imdb: https://www.imdb.com/title/tt1454029
-    

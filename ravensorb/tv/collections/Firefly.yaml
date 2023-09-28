@@ -1,5 +1,5 @@
 collections:
-   "Firefly":
+  "Firefly":
     variables: { show: "1437", poster: https://theposterdb.com/api/assets/119045 }
     template: [ 
       { name: tplCommonBase }, 
@@ -9,7 +9,7 @@ collections:
     summary: |
       Firefly
     # tpdb: https://theposterdb.com/search/advanced/results?term=Firefly&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Firefly%22
+    # tmdb: https://www.themoviedb.org/search/collection?query=Firefly
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Firefly
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Firefly
     # trakt: https://trakt.tv/search/lists?query=Firefly

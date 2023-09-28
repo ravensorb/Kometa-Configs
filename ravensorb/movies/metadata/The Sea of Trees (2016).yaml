@@ -2,14 +2,12 @@ metadata:
     "The Sea of Trees (2016)":
         year: 2016
         title: "The Sea of Trees"
-        alt_title: "The Sea of Trees (2016)"
-        orig_title: "The Sea of Trees"
         sort_title: "Sea of Trees"
-        
+        match:
+          mapping_id: 291351
         url_poster: https://theposterdb.com/api/assets/240076
         # IDs: imdb://tt3450900, tmdb://291351, tvdb://11900
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Sea+of+Trees&category=Movies&year_filter=equals&yone=2016&tmdb_id=291351&imdb_id=tt3450900&tvdb_id=11900
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Sea%20of%20Trees&category=Movies&year_filter=equals&yone=2016&tmdb_id=291351&imdb_id=tt3450900&tvdb_id=11900
         # tmdb: https://www.themoviedb.org/movie/291351
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=11900
         # imdb: https://www.imdb.com/title/tt3450900
-    

@@ -2,14 +2,11 @@ metadata:
     "Weird Science (1985)":
         year: 1985
         title: "Weird Science"
-        alt_title: "Weird Science (1985)"
-        orig_title: "Weird Science"
-        sort_title: "Weird Science"
-        
+        match:
+          mapping_id: 11814
         url_poster: https://theposterdb.com/api/assets/186948
         # IDs: imdb://tt0090305, tmdb://11814, tvdb://1098
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Weird+Science&category=Movies&year_filter=equals&yone=1985&tmdb_id=11814&imdb_id=tt0090305&tvdb_id=1098
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Weird%20Science&category=Movies&year_filter=equals&yone=1985&tmdb_id=11814&imdb_id=tt0090305&tvdb_id=1098
         # tmdb: https://www.themoviedb.org/movie/11814
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=1098
         # imdb: https://www.imdb.com/title/tt0090305
-    

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Tom Clancy's Jack Ryan (2018)":
         year: 2018
         title: "Tom Clancy's Jack Ryan"
-        alt_title: "Tom Clancy's Jack Ryan (2018)"
-        orig_title: "Tom Clancy's Jack Ryan"
-        sort_title: "Tom Clancy's Jack Ryan"
         url_poster: https://theposterdb.com/api/assets/300708
+        match:
+          mapping_id: 336261
         # IDs: imdb://tt5057054, tmdb://73375, tvdb://336261
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Tom+Clancy%27s+Jack+Ryan&category=Shows&year_filter=equals&yone=2018&tmdb_id=73375&imdb_id=tt5057054&tvdb_id=336261
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Tom%20Clancy%27s%20Jack%20Ryan&category=Shows&year_filter=equals&yone=2018&tmdb_id=73375&imdb_id=tt5057054&tvdb_id=336261
         # tmdb: https://www.themoviedb.org/tv/73375
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=336261
         # imdb: https://www.imdb.com/title/tt5057054
@@ -18,3 +17,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/300710
             3:
                 url_poster: https://theposterdb.com/api/assets/300711
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

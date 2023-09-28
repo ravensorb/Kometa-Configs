@@ -1,6 +1,6 @@
 collections:
   "James Bond":
-    variables: { movie: "668, 660, 707, 698, 10764, 34079, 691, 714, 36670, 681, 37724, 700, 682, 438493, 710, 646, 253, 709, 667, 370172, 708, 657, 36557, 699, 206647, 36669, 36643, 869250, 12208, 658", poster: https://theposterdb.com/api/assets/164797 }
+    variables: { movie: "12208, 660, 36643, 698, 34079, 700, 253, 36669, 699, 869250, 681, 714, 707, 710, 657, 682, 658, 708, 709, 691, 206647, 36670, 36557, 438493, 667, 37724, 10764, 370172, 646, 668", poster: https://theposterdb.com/api/assets/164797 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       The James Bond film series is a British series of spy films based on the fictional character of MI6 agent James Bond, codename '007'. With all of the action, adventure, gadgetry & film scores that Bond is famous for.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=James+Bond&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=James%20Bond&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22James%20Bond%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=James%20Bond
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=James%20Bond

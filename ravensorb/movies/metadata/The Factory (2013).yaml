@@ -2,14 +2,12 @@ metadata:
     "The Factory (2013)":
         year: 2013
         title: "The Factory"
-        alt_title: "The Factory (2013)"
-        orig_title: "The Factory"
         sort_title: "Factory"
-        
+        match:
+          mapping_id: 136911
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1132285, tmdb://136911, tvdb://4031
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Factory&category=Movies&year_filter=equals&yone=2013&tmdb_id=136911&imdb_id=tt1132285&tvdb_id=4031
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Factory&category=Movies&year_filter=equals&yone=2013&tmdb_id=136911&imdb_id=tt1132285&tvdb_id=4031
         # tmdb: https://www.themoviedb.org/movie/136911
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=4031
         # imdb: https://www.imdb.com/title/tt1132285
-    

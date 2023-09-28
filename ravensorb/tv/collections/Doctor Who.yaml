@@ -1,6 +1,6 @@
 collections:
-   "Doctor Who":
-    variables: { sort_prefix: "Doctor Who", sort_order: "00", sort_separator: " - ", poster: https://theposterdb.com/api/assets/163698 }
+  "Doctor Who":
+    variables: { sort_prefix: "Doctor Who", sort_order: "00", sort_separator: " - ", show: "64073, 1056, 203, 454, 121, 424, 57243", poster: https://theposterdb.com/api/assets/163698 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Doctor Who
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor+Who&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Doctor%20Who
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Doctor%20Who
@@ -17,47 +17,7 @@ collections:
     trakt_list:
        - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc 
        - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc 
-       - https://trakt.tv/users/ravensorb/lists/dr-who-spin-offs?sort=released,desc  
-
-   "Doctor Who (Classic)":
-    variables: { sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/163698 }
-    template: [ 
-      { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
-    ]
-    summary: |
-      Doctor Who (Classic)
-    # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/dr-who-classic?sort=released,desc 
-
-   "Doctor Who (2005)":
-    variables: { sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/163698 }
-    template: [ 
-      { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
-    ]
-    summary: |
-      Doctor Who (2005)
-    # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc 
-
-   "Doctor Who (Spin-Offs)":
-    variables: { sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/163698 }
-    template: [ 
-      { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection, show: "129387" },
-      { name: tplTVDBCollection, show: "37564" },
-    ]
-    summary: |
-      Doctor Who Spin-Offs
-    # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/dr-who-spin-offs?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/dr-who-spin-offs?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################
@@ -91,7 +51,9 @@ templates:
     tvdb_list: https://www.thetvdb.com/lists/<<list>>
     tvdb_list_details: https://www.thetvdb.com/lists/<<list>>
     tvdb_movie: <<movie>>
+    tvdb_movie_details: <<movie>>
     tvdb_show: <<show>>
+    tvdb_show_details: <<show>>
 
   tplTMDBCollection:
     optional:

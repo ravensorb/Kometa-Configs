@@ -2,14 +2,12 @@ metadata:
     "The American President (1995)":
         year: 1995
         title: "The American President"
-        alt_title: "The American President (1995)"
-        orig_title: "The American President"
         sort_title: "American President"
-        
+        match:
+          mapping_id: 9087
         url_poster: https://theposterdb.com/api/assets/203524
         # IDs: imdb://tt0112346, tmdb://9087, tvdb://5390
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+American+President&category=Movies&year_filter=equals&yone=1995&tmdb_id=9087&imdb_id=tt0112346&tvdb_id=5390
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20American%20President&category=Movies&year_filter=equals&yone=1995&tmdb_id=9087&imdb_id=tt0112346&tvdb_id=5390
         # tmdb: https://www.themoviedb.org/movie/9087
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=5390
         # imdb: https://www.imdb.com/title/tt0112346
-    

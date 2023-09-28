@@ -1,6 +1,6 @@
 collections:
-   "Holmes":
-    variables: { show: "12261, 55513, 31134, 153402, 118394, 79092, 209975, 58967", poster: https://theposterdb.com/api/assets/183489 }
+  "Holmes":
+    variables: { show: "118394, 153402, 58967, 31134, 79092, 12261, 55513, 80977, 209975", poster: https://theposterdb.com/api/assets/183489 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -9,13 +9,13 @@ collections:
     summary: |
       Holmes
     # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Holmes%22
+    # tmdb: https://www.themoviedb.org/search/collection?query=Holmes
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Holmes
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Holmes
     # trakt: https://trakt.tv/search/lists?query=Holmes
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/holmes?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/holmes?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

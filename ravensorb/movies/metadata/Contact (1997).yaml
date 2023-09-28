@@ -2,14 +2,11 @@ metadata:
     "Contact (1997)":
         year: 1997
         title: "Contact"
-        alt_title: "Contact (1997)"
-        orig_title: "Contact"
-        sort_title: "Contact"
-        
+        match:
+          mapping_id: 686
         url_poster: https://theposterdb.com/api/assets/186800
         # IDs: imdb://tt0118884, tmdb://686, tvdb://1801
         # tpdb: https://theposterdb.com/search/advanced/results?term=Contact&category=Movies&year_filter=equals&yone=1997&tmdb_id=686&imdb_id=tt0118884&tvdb_id=1801
         # tmdb: https://www.themoviedb.org/movie/686
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=1801
         # imdb: https://www.imdb.com/title/tt0118884
-    

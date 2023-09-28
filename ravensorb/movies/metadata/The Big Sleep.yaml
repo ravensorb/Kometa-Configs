@@ -1,0 +1,26 @@
+metadata:
+    "The Big Sleep (1946)":
+        year: 1946
+        title: "The Big Sleep"
+        sort_title: "Big Sleep"
+        match:
+          mapping_id: 910
+        url_poster: https://theposterdb.com/api/assets/235240
+        # IDs: imdb://tt0038355, tmdb://910, tvdb://4727
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Big%20Sleep&category=Movies&year_filter=equals&yone=1946&tmdb_id=910&imdb_id=tt0038355&tvdb_id=4727
+        # tmdb: https://www.themoviedb.org/movie/910
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1946&query=4727
+        # imdb: https://www.imdb.com/title/tt0038355
+
+    "The Big Sleep (1978)":
+        year: 1978
+        title: "The Big Sleep"
+        sort_title: "Big Sleep"
+        match:
+          mapping_id: 1815
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0077234, tmdb://1815, tvdb://62077
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Big%20Sleep&category=Movies&year_filter=equals&yone=1978&tmdb_id=1815&imdb_id=tt0077234&tvdb_id=62077
+        # tmdb: https://www.themoviedb.org/movie/1815
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1978&query=62077
+        # imdb: https://www.imdb.com/title/tt0077234

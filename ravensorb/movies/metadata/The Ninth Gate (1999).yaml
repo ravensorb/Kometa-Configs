@@ -2,14 +2,12 @@ metadata:
     "The Ninth Gate (1999)":
         year: 1999
         title: "The Ninth Gate"
-        alt_title: "The Ninth Gate (1999)"
-        orig_title: "The Ninth Gate"
         sort_title: "Ninth Gate"
-        
+        match:
+          mapping_id: 622
         url_poster: https://theposterdb.com/api/assets/180688
         # IDs: imdb://tt0142688, tmdb://622, tvdb://2523
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Ninth+Gate&category=Movies&year_filter=equals&yone=1999&tmdb_id=622&imdb_id=tt0142688&tvdb_id=2523
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Ninth%20Gate&category=Movies&year_filter=equals&yone=1999&tmdb_id=622&imdb_id=tt0142688&tvdb_id=2523
         # tmdb: https://www.themoviedb.org/movie/622
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=2523
         # imdb: https://www.imdb.com/title/tt0142688
-    

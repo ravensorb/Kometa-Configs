@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Absentia (2017)":
         year: 2017
         title: "Absentia"
-        alt_title: "Absentia (2017)"
-        orig_title: "Absentia"
-        sort_title: "Absentia"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 330500
         # IDs: imdb://tt6794990, tmdb://72755, tvdb://330500
         # tpdb: https://theposterdb.com/search/advanced/results?term=Absentia&category=Shows&year_filter=equals&yone=2017&tmdb_id=72755&imdb_id=tt6794990&tvdb_id=330500
         # tmdb: https://www.themoviedb.org/tv/72755

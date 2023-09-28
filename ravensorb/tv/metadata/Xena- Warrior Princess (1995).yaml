@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Xena: Warrior Princess (1995)":
         year: 1995
         title: "Xena: Warrior Princess"
-        alt_title: "Xena: Warrior Princess (1995)"
-        orig_title: "Xena: Warrior Princess"
-        sort_title: "Xena: Warrior Princess"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 77799
         # IDs: imdb://tt0112230, tmdb://4616, tvdb://77799
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Xena%3A+Warrior+Princess&category=Shows&year_filter=equals&yone=1995&tmdb_id=4616&imdb_id=tt0112230&tvdb_id=77799
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Xena%3A%20Warrior%20Princess&category=Shows&year_filter=equals&yone=1995&tmdb_id=4616&imdb_id=tt0112230&tvdb_id=77799
         # tmdb: https://www.themoviedb.org/tv/4616
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1995&query=77799
         # imdb: https://www.imdb.com/title/tt0112230

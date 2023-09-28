@@ -1,5 +1,5 @@
 collections:
-   "Good Witch":
+  "Good Witch":
     variables: { show: "61864", poster: https://theposterdb.com/api/assets/159954 }
     template: [ 
       { name: tplCommonBase }, 
@@ -8,14 +8,14 @@ collections:
     ]
     summary: |
       Good Witch
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Good+Witch&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Good%20Witch&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Good%20Witch%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Good%20Witch
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Good%20Witch
     # trakt: https://trakt.tv/search/lists?query=Good%20Witch
-    # collection_mode: hide
+    collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/the-good-witch?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/the-good-witch?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

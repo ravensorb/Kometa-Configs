@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Eureka (2006)":
         year: 2006
         title: "Eureka"
-        alt_title: "Eureka (2006)"
-        orig_title: "Eureka"
-        sort_title: "Eureka"
         url_poster: https://theposterdb.com/api/assets/325849
+        match:
+          mapping_id: 79334
         # IDs: imdb://tt0796264, tmdb://4620, tvdb://79334
         # tpdb: https://theposterdb.com/search/advanced/results?term=Eureka&category=Shows&year_filter=equals&yone=2006&tmdb_id=4620&imdb_id=tt0796264&tvdb_id=79334
         # tmdb: https://www.themoviedb.org/tv/4620

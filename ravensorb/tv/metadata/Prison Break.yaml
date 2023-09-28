@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Prison Break (2005)":
         year: 2005
         title: "Prison Break"
-        alt_title: "Prison Break (2005)"
-        orig_title: "Prison Break"
-        sort_title: "Prison Break"
         url_poster: https://theposterdb.com/api/assets/263873
+        match:
+          mapping_id: 360115
         # IDs: imdb://tt0455275, tmdb://2288, tvdb://360115
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Prison+Break&category=Shows&year_filter=equals&yone=2005&tmdb_id=2288&imdb_id=tt0455275&tvdb_id=360115
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Prison%20Break&category=Shows&year_filter=equals&yone=2005&tmdb_id=2288&imdb_id=tt0455275&tvdb_id=360115
         # tmdb: https://www.themoviedb.org/tv/2288
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=360115
         # imdb: https://www.imdb.com/title/tt0455275

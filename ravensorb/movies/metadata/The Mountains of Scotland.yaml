@@ -1,53 +1,36 @@
 metadata:
     "The Mountains of Scotland Nevis and Glencoe":
         title: "The Mountains of Scotland Nevis and Glencoe"
-        alt_title: "The Mountains of Scotland Nevis and Glencoe"
-        orig_title: "The Mountains of Scotland Nevis and Glencoe"
-        sort_title: "Mountains of Scotland Nevis and Glencoe"
-        
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mountains+of+Scotland+Nevis+and+Glencoe&category=Movies&year_filter=equals&yone=None
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mountains%20of%20Scotland%20Nevis%20and%20Glencoe&category=Movies&year_filter=equals&yone=None
         # tmdb: 
         # tvdb: 
         # imdb: 
-    
+
     "The Mountains of Scotland the Grampians":
         title: "The Mountains of Scotland the Grampians"
-        alt_title: "The Mountains of Scotland the Grampians"
-        orig_title: "The Mountains of Scotland the Grampians"
-        sort_title: "Mountains of Scotland the Grampians"
-        
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mountains+of+Scotland+the+Grampians&category=Movies&year_filter=equals&yone=None
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mountains%20of%20Scotland%20the%20Grampians&category=Movies&year_filter=equals&yone=None
         # tmdb: 
         # tvdb: 
         # imdb: 
-    
+
     "The Mountains of Scotland the Trossachs to Rannoch Moor":
         title: "The Mountains of Scotland the Trossachs to Rannoch Moor"
-        alt_title: "The Mountains of Scotland the Trossachs to Rannoch Moor"
-        orig_title: "The Mountains of Scotland the Trossachs to Rannoch Moor"
-        sort_title: "Mountains of Scotland the Trossachs to Rannoch Moor"
-        
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mountains+of+Scotland+the+Trossachs+to+Rannoch+Moor&category=Movies&year_filter=equals&yone=None
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mountains%20of%20Scotland%20the%20Trossachs%20to%20Rannoch%20Moor&category=Movies&year_filter=equals&yone=None
         # tmdb: 
         # tvdb: 
         # imdb: 
-    
+
     "The Mountains of Scotland Torridon and the Far North":
         title: "The Mountains of Scotland Torridon and the Far North"
-        alt_title: "The Mountains of Scotland Torridon and the Far North"
-        orig_title: "The Mountains of Scotland Torridon and the Far North"
-        sort_title: "Mountains of Scotland Torridon and the Far North"
-        
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mountains+of+Scotland+Torridon+and+the+Far+North&category=Movies&year_filter=equals&yone=None
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mountains%20of%20Scotland%20Torridon%20and%20the%20Far%20North&category=Movies&year_filter=equals&yone=None
         # tmdb: 
         # tvdb: 
         # imdb: 
-    

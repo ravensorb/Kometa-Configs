@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Treason (2022)":
         year: 2022
         title: "Treason"
-        alt_title: "Treason (2022)"
-        orig_title: "Treason"
-        sort_title: "Treason"
         url_poster: https://theposterdb.com/api/assets/345630
+        match:
+          mapping_id: 413526
         # IDs: imdb://tt16450274, tmdb://157080, tvdb://413526
         # tpdb: https://theposterdb.com/search/advanced/results?term=Treason&category=Shows&year_filter=equals&yone=2022&tmdb_id=157080&imdb_id=tt16450274&tvdb_id=413526
         # tmdb: https://www.themoviedb.org/tv/157080

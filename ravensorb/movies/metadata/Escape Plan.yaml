@@ -2,42 +2,35 @@ metadata:
     "Escape Plan (2013)":
         year: 2013
         title: "Escape Plan"
-        alt_title: "Escape Plan (2013)"
-        orig_title: "Escape Plan"
-        sort_title: "Escape Plan"
-        
+        match:
+          mapping_id: 107846
         url_poster: https://theposterdb.com/api/assets/198726
         # IDs: imdb://tt1211956, tmdb://107846, tvdb://1454
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape+Plan&category=Movies&year_filter=equals&yone=2013&tmdb_id=107846&imdb_id=tt1211956&tvdb_id=1454
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20Plan&category=Movies&year_filter=equals&yone=2013&tmdb_id=107846&imdb_id=tt1211956&tvdb_id=1454
         # tmdb: https://www.themoviedb.org/movie/107846
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1454
         # imdb: https://www.imdb.com/title/tt1211956
-    
+
     "Escape Plan 2: Hades (2018)":
         year: 2018
         title: "Escape Plan 2: Hades"
-        alt_title: "Escape Plan 2: Hades (2018)"
-        orig_title: "Escape Plan 2: Hades"
-        sort_title: "Escape Plan 2: Hades"
-        
+        match:
+          mapping_id: 440471
         url_poster: https://theposterdb.com/api/assets/198727
         # IDs: imdb://tt6513656, tmdb://440471, tvdb://394
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape+Plan+2%3A+Hades&category=Movies&year_filter=equals&yone=2018&tmdb_id=440471&imdb_id=tt6513656&tvdb_id=394
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20Plan%202%3A%20Hades&category=Movies&year_filter=equals&yone=2018&tmdb_id=440471&imdb_id=tt6513656&tvdb_id=394
         # tmdb: https://www.themoviedb.org/movie/440471
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=394
         # imdb: https://www.imdb.com/title/tt6513656
-    
+
     "Escape Plan: The Extractors (2019)":
         year: 2019
         title: "Escape Plan: The Extractors"
-        alt_title: "Escape Plan: The Extractors (2019)"
-        orig_title: "Escape Plan: The Extractors"
-        sort_title: "Escape Plan: The Extractors"
-        
+        match:
+          mapping_id: 480042
         url_poster: https://theposterdb.com/api/assets/198728
         # IDs: imdb://tt6772804, tmdb://480042, tvdb://12078
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape+Plan%3A+The+Extractors&category=Movies&year_filter=equals&yone=2019&tmdb_id=480042&imdb_id=tt6772804&tvdb_id=12078
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20Plan%3A%20The%20Extractors&category=Movies&year_filter=equals&yone=2019&tmdb_id=480042&imdb_id=tt6772804&tvdb_id=12078
         # tmdb: https://www.themoviedb.org/movie/480042
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=12078
         # imdb: https://www.imdb.com/title/tt6772804
-    

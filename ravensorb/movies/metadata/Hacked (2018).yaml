@@ -2,12 +2,11 @@ metadata:
     "Hacked (2018)":
         year: 2018
         title: "Hacked"
-        alt_title: "Hacked"
-        
+        match:
+          mapping_id: 530381
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tmdb://530381
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hacked&category=Movies&year_filter=equals&yone=2018&tmdb_id=530381
         # tmdb: https://www.themoviedb.org/movie/530381
         # tvdb: 
         # imdb: 
-    

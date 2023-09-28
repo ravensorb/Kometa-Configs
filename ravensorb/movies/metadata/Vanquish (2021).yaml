@@ -2,6 +2,8 @@ metadata:
     "Vanquish (2021)":
         year: 2021
         title: "Vanquish"
+        match:
+          mapping_id: 804435
         url_poster: https://theposterdb.com/api/assets/188282
         # IDs: imdb://tt5932368, tmdb://804435, tvdb://158740
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vanquish&category=Movies&year_filter=equals&yone=2021&tmdb_id=804435&imdb_id=tt5932368&tvdb_id=158740

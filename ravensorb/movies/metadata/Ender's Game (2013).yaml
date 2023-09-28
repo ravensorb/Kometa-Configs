@@ -2,14 +2,11 @@ metadata:
     "Ender's Game (2013)":
         year: 2013
         title: "Ender's Game"
-        alt_title: "Ender's Game (2013)"
-        orig_title: "Ender's Game"
-        sort_title: "Ender's Game"
-        
+        match:
+          mapping_id: 80274
         url_poster: https://theposterdb.com/api/assets/185059
         # IDs: imdb://tt1731141, tmdb://80274, tvdb://1131
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Ender%27s+Game&category=Movies&year_filter=equals&yone=2013&tmdb_id=80274&imdb_id=tt1731141&tvdb_id=1131
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ender%27s%20Game&category=Movies&year_filter=equals&yone=2013&tmdb_id=80274&imdb_id=tt1731141&tvdb_id=1131
         # tmdb: https://www.themoviedb.org/movie/80274
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=1131
         # imdb: https://www.imdb.com/title/tt1731141
-    

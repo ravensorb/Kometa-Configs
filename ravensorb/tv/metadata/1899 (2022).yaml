@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "1899 (2022)":
         year: 2022
         title: "1899"
-        alt_title: "1899 (2022)"
-        orig_title: "1899"
-        sort_title: "1899"
         url_poster: https://theposterdb.com/api/assets/293636
+        match:
+          mapping_id: 384429
         # IDs: imdb://tt9319668, tmdb://90669, tvdb://384429
         # tpdb: https://theposterdb.com/search/advanced/results?term=1899&category=Shows&year_filter=equals&yone=2022&tmdb_id=90669&imdb_id=tt9319668&tvdb_id=384429
         # tmdb: https://www.themoviedb.org/tv/90669

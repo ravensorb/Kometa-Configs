@@ -1,0 +1,33 @@
+metadata:    
+    "The Addams Family (1964)":
+        year: 1964
+        title: "The Addams Family"
+        sort_title: "Addams Family (1964)"
+        url_poster: https://theposterdb.com/api/assets/173458
+        match:
+          mapping_id: 77137
+        # IDs: imdb://tt0057729, tmdb://14009, tvdb://77137
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Shows&year_filter=equals&yone=1964&tmdb_id=14009&imdb_id=tt0057729&tvdb_id=77137
+        # tmdb: https://www.themoviedb.org/tv/14009
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1964&query=77137
+        # imdb: https://www.imdb.com/title/tt0057729
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/242942
+            2:
+                url_poster: https://theposterdb.com/api/assets/242943
+    
+    "Wednesday (2022)":
+        year: 2022
+        title: "Wednesday"
+        url_poster: https://theposterdb.com/api/assets/292774
+        match:
+          mapping_id: 397060
+        # IDs: imdb://tt13443470, tmdb://119051, tvdb://397060
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wednesday&category=Shows&year_filter=equals&yone=2022&tmdb_id=119051&imdb_id=tt13443470&tvdb_id=397060
+        # tmdb: https://www.themoviedb.org/tv/119051
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=397060
+        # imdb: https://www.imdb.com/title/tt13443470
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/292775

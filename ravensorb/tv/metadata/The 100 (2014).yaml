@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The 100 (2014)":
         year: 2014
         title: "The 100"
-        alt_title: "The 100 (2014)"
-        orig_title: "The 100"
         sort_title: "100"
         url_poster: https://theposterdb.com/api/assets/273214
+        match:
+          mapping_id: 268592
         # IDs: imdb://tt2661044, tmdb://48866, tvdb://268592
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+100&category=Shows&year_filter=equals&yone=2014&tmdb_id=48866&imdb_id=tt2661044&tvdb_id=268592
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20100&category=Shows&year_filter=equals&yone=2014&tmdb_id=48866&imdb_id=tt2661044&tvdb_id=268592
         # tmdb: https://www.themoviedb.org/tv/48866
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=268592
         # imdb: https://www.imdb.com/title/tt2661044

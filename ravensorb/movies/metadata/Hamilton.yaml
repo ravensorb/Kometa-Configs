@@ -2,28 +2,23 @@ metadata:
     "Hamilton's America (2016)":
         year: 2016
         title: "Hamilton's America"
-        alt_title: "Hamilton's America (2016)"
-        orig_title: "Hamilton's America"
-        sort_title: "Hamilton's America"
-        
+        match:
+          mapping_id: 415078
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt6146460, tmdb://415078, tvdb://46425
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hamilton%27s+America&category=Movies&year_filter=equals&yone=2016&tmdb_id=415078&imdb_id=tt6146460&tvdb_id=46425
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hamilton%27s%20America&category=Movies&year_filter=equals&yone=2016&tmdb_id=415078&imdb_id=tt6146460&tvdb_id=46425
         # tmdb: https://www.themoviedb.org/movie/415078
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=46425
         # imdb: https://www.imdb.com/title/tt6146460
-    
+
     "Hamilton (2020)":
         year: 2020
         title: "Hamilton"
-        alt_title: "Hamilton (2020)"
-        orig_title: "Hamilton"
-        sort_title: "Hamilton"
-        
+        match:
+          mapping_id: 556574
         url_poster: https://theposterdb.com/api/assets/200272
         # IDs: imdb://tt8503618, tmdb://556574, tvdb://134531
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hamilton&category=Movies&year_filter=equals&yone=2020&tmdb_id=556574&imdb_id=tt8503618&tvdb_id=134531
         # tmdb: https://www.themoviedb.org/movie/556574
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=134531
         # imdb: https://www.imdb.com/title/tt8503618
-    

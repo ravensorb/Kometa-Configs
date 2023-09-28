@@ -2,14 +2,12 @@ metadata:
     "The Dark Tower (2017)":
         year: 2017
         title: "The Dark Tower"
-        alt_title: "The Dark Tower (2017)"
-        orig_title: "The Dark Tower"
         sort_title: "Dark Tower"
-        
+        match:
+          mapping_id: 353491
         url_poster: https://theposterdb.com/api/assets/330141
         # IDs: imdb://tt1648190, tmdb://353491, tvdb://595
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Dark+Tower&category=Movies&year_filter=equals&yone=2017&tmdb_id=353491&imdb_id=tt1648190&tvdb_id=595
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dark%20Tower&category=Movies&year_filter=equals&yone=2017&tmdb_id=353491&imdb_id=tt1648190&tvdb_id=595
         # tmdb: https://www.themoviedb.org/movie/353491
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=595
         # imdb: https://www.imdb.com/title/tt1648190
-    

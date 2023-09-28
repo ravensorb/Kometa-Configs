@@ -2,14 +2,12 @@ metadata:
     "The Tourist (2010)":
         year: 2010
         title: "The Tourist"
-        alt_title: "The Tourist (2010)"
-        orig_title: "The Tourist"
         sort_title: "Tourist"
-        
+        match:
+          mapping_id: 37710
         url_poster: https://theposterdb.com/api/assets/213111
         # IDs: imdb://tt1243957, tmdb://37710, tvdb://2438
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Tourist&category=Movies&year_filter=equals&yone=2010&tmdb_id=37710&imdb_id=tt1243957&tvdb_id=2438
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Tourist&category=Movies&year_filter=equals&yone=2010&tmdb_id=37710&imdb_id=tt1243957&tvdb_id=2438
         # tmdb: https://www.themoviedb.org/movie/37710
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=2438
         # imdb: https://www.imdb.com/title/tt1243957
-    

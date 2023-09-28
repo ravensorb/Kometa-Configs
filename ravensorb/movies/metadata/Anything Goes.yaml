@@ -1,0 +1,24 @@
+metadata:
+    "Anything Goes (1936)":
+        year: 1936
+        title: "Anything Goes"
+        match:
+          mapping_id: 204948
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0027302, tmdb://204948, tvdb://66004
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Anything%20Goes&category=Movies&year_filter=equals&yone=1936&tmdb_id=204948&imdb_id=tt0027302&tvdb_id=66004
+        # tmdb: https://www.themoviedb.org/movie/204948
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1936&query=66004
+        # imdb: https://www.imdb.com/title/tt0027302
+
+    "Anything Goes (1956)":
+        year: 1956
+        title: "Anything Goes"
+        match:
+          mapping_id: 46007
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0048954, tmdb://46007, tvdb://98289
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Anything%20Goes&category=Movies&year_filter=equals&yone=1956&tmdb_id=46007&imdb_id=tt0048954&tvdb_id=98289
+        # tmdb: https://www.themoviedb.org/movie/46007
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1956&query=98289
+        # imdb: https://www.imdb.com/title/tt0048954

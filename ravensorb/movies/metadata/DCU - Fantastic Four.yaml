@@ -2,42 +2,35 @@ metadata:
     "Fantastic Four (2005)":
         year: 2005
         title: "Fantastic Four"
-        alt_title: "Fantastic Four (2005)"
-        orig_title: "Fantastic Four"
-        sort_title: "Fantastic Four"
-        
+        match:
+          mapping_id: 9738
         url_poster: https://theposterdb.com/api/assets/171130
         # IDs: imdb://tt0120667, tmdb://9738, tvdb://900
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Four&category=Movies&year_filter=equals&yone=2005&tmdb_id=9738&imdb_id=tt0120667&tvdb_id=900
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic%20Four&category=Movies&year_filter=equals&yone=2005&tmdb_id=9738&imdb_id=tt0120667&tvdb_id=900
         # tmdb: https://www.themoviedb.org/movie/9738
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=900
         # imdb: https://www.imdb.com/title/tt0120667
-    
+
     "Fantastic Four: Rise of the Silver Surfer (2007)":
         year: 2007
         title: "Fantastic Four: Rise of the Silver Surfer"
-        alt_title: "Fantastic Four: Rise of the Silver Surfer (2007)"
-        orig_title: "Fantastic Four: Rise of the Silver Surfer"
-        sort_title: "Fantastic Four: Rise of the Silver Surfer"
-        
+        match:
+          mapping_id: 1979
         url_poster: https://theposterdb.com/api/assets/171131
         # IDs: imdb://tt0486576, tmdb://1979, tvdb://811
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Four%3A+Rise+of+the+Silver+Surfer&category=Movies&year_filter=equals&yone=2007&tmdb_id=1979&imdb_id=tt0486576&tvdb_id=811
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic%20Four%3A%20Rise%20of%20the%20Silver%20Surfer&category=Movies&year_filter=equals&yone=2007&tmdb_id=1979&imdb_id=tt0486576&tvdb_id=811
         # tmdb: https://www.themoviedb.org/movie/1979
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=811
         # imdb: https://www.imdb.com/title/tt0486576
-    
+
     "Fantastic Four (2015)":
         year: 2015
         title: "Fantastic Four"
-        alt_title: "Fantastic Four (2015)"
-        orig_title: "Fantastic Four"
-        sort_title: "Fantastic Four"
-        
+        match:
+          mapping_id: 166424
         url_poster: https://theposterdb.com/api/assets/171132
         # IDs: imdb://tt1502712, tmdb://166424, tvdb://1295
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic+Four&category=Movies&year_filter=equals&yone=2015&tmdb_id=166424&imdb_id=tt1502712&tvdb_id=1295
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic%20Four&category=Movies&year_filter=equals&yone=2015&tmdb_id=166424&imdb_id=tt1502712&tvdb_id=1295
         # tmdb: https://www.themoviedb.org/movie/166424
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=1295
         # imdb: https://www.imdb.com/title/tt1502712
-    

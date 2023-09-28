@@ -1,6 +1,6 @@
 collections:
   "Saint":
-    variables: { label: "Saint", movie: "88955, 54756, 463906, 10003", poster: https://theposterdb.com/api/assets/220576 }
+    variables: { label: "Saint", movie: "10003, 463906, 54756, 88955", poster: https://theposterdb.com/api/assets/220576 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

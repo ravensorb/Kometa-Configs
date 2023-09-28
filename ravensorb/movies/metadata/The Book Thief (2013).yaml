@@ -2,14 +2,12 @@ metadata:
     "The Book Thief (2013)":
         year: 2013
         title: "The Book Thief"
-        alt_title: "The Book Thief (2013)"
-        orig_title: "The Book Thief"
         sort_title: "Book Thief"
-        
+        match:
+          mapping_id: 203833
         url_poster: https://theposterdb.com/api/assets/195582
         # IDs: imdb://tt0816442, tmdb://203833, tvdb://2051
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Book+Thief&category=Movies&year_filter=equals&yone=2013&tmdb_id=203833&imdb_id=tt0816442&tvdb_id=2051
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Book%20Thief&category=Movies&year_filter=equals&yone=2013&tmdb_id=203833&imdb_id=tt0816442&tvdb_id=2051
         # tmdb: https://www.themoviedb.org/movie/203833
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=2051
         # imdb: https://www.imdb.com/title/tt0816442
-    

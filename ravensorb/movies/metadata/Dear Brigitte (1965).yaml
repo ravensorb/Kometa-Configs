@@ -2,14 +2,11 @@ metadata:
     "Dear Brigitte (1965)":
         year: 1965
         title: "Dear Brigitte"
-        alt_title: "Dear Brigitte (1965)"
-        orig_title: "Dear Brigitte"
-        sort_title: "Dear Brigitte"
-        
+        match:
+          mapping_id: 42734
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0059094, tmdb://42734, tvdb://85927
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Dear+Brigitte&category=Movies&year_filter=equals&yone=1965&tmdb_id=42734&imdb_id=tt0059094&tvdb_id=85927
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dear%20Brigitte&category=Movies&year_filter=equals&yone=1965&tmdb_id=42734&imdb_id=tt0059094&tvdb_id=85927
         # tmdb: https://www.themoviedb.org/movie/42734
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1965&query=85927
         # imdb: https://www.imdb.com/title/tt0059094
-    

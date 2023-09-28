@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Looney Tunes (1929)":
         year: 1929
         title: "Looney Tunes"
-        alt_title: "Looney Tunes (1929)"
-        orig_title: "Looney Tunes"
-        sort_title: "Looney Tunes"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 72514
         # IDs: imdb://tt21241746, tvdb://72514
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Looney+Tunes&category=Shows&year_filter=equals&yone=1929&imdb_id=tt21241746&tvdb_id=72514
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Looney%20Tunes&category=Shows&year_filter=equals&yone=1929&imdb_id=tt21241746&tvdb_id=72514
         # tmdb: 
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1929&query=72514
         # imdb: https://www.imdb.com/title/tt21241746

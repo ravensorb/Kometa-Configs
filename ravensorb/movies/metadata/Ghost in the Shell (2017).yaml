@@ -2,14 +2,11 @@ metadata:
     "Ghost in the Shell (2017)":
         year: 2017
         title: "Ghost in the Shell"
-        alt_title: "Ghost in the Shell (2017)"
-        orig_title: "Ghost in the Shell"
-        sort_title: "Ghost in the Shell"
-        
+        match:
+          mapping_id: 315837
         url_poster: https://theposterdb.com/api/assets/184331
         # IDs: imdb://tt1219827, tmdb://315837, tvdb://535
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Ghost+in+the+Shell&category=Movies&year_filter=equals&yone=2017&tmdb_id=315837&imdb_id=tt1219827&tvdb_id=535
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ghost%20in%20the%20Shell&category=Movies&year_filter=equals&yone=2017&tmdb_id=315837&imdb_id=tt1219827&tvdb_id=535
         # tmdb: https://www.themoviedb.org/movie/315837
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=535
         # imdb: https://www.imdb.com/title/tt1219827
-    

@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The Leftovers (2014)":
         year: 2014
         title: "The Leftovers"
-        alt_title: "The Leftovers (2014)"
-        orig_title: "The Leftovers"
         sort_title: "Leftovers"
         url_poster: https://theposterdb.com/api/assets/332919
+        match:
+          mapping_id: 269689
         # IDs: imdb://tt2699128, tmdb://54344, tvdb://269689
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Leftovers&category=Shows&year_filter=equals&yone=2014&tmdb_id=54344&imdb_id=tt2699128&tvdb_id=269689
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Leftovers&category=Shows&year_filter=equals&yone=2014&tmdb_id=54344&imdb_id=tt2699128&tvdb_id=269689
         # tmdb: https://www.themoviedb.org/tv/54344
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=269689
         # imdb: https://www.imdb.com/title/tt2699128

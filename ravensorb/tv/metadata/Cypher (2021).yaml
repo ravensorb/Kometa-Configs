@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Cypher (2021)":
         year: 2021
         title: "Cypher"
-        alt_title: "Cypher (2021)"
-        orig_title: "Cypher"
-        sort_title: "Cypher"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 389636
         # IDs: imdb://tt7759130, tmdb://110829, tvdb://389636
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cypher&category=Shows&year_filter=equals&yone=2021&tmdb_id=110829&imdb_id=tt7759130&tvdb_id=389636
         # tmdb: https://www.themoviedb.org/tv/110829

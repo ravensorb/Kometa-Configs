@@ -2,14 +2,11 @@ metadata:
     "Golden Years (1991)":
         year: 1991
         title: "Golden Years"
-        alt_title: "Golden Years (1991)"
-        orig_title: "Golden Years"
-        sort_title: "Golden Years"
-        
+        match:
+          mapping_id: 36560
         url_poster: https://theposterdb.com/api/assets/172247
         # IDs: tmdb://36560
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Golden+Years&category=Movies&year_filter=equals&yone=1991&tmdb_id=36560
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Golden%20Years&category=Movies&year_filter=equals&yone=1991&tmdb_id=36560
         # tmdb: https://www.themoviedb.org/movie/36560
         # tvdb: 
         # imdb: 
-    

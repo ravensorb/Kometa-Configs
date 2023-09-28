@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Suits (2011)":
         year: 2011
         title: "Suits"
-        alt_title: "Suits (2011)"
-        orig_title: "Suits"
-        sort_title: "Suits"
         url_poster: https://theposterdb.com/api/assets/330409
+        match:
+          mapping_id: 247808
         # IDs: imdb://tt1632701, tmdb://37680, tvdb://247808
         # tpdb: https://theposterdb.com/search/advanced/results?term=Suits&category=Shows&year_filter=equals&yone=2011&tmdb_id=37680&imdb_id=tt1632701&tvdb_id=247808
         # tmdb: https://www.themoviedb.org/tv/37680

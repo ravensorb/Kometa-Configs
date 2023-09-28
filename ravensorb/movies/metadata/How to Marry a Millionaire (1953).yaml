@@ -2,14 +2,11 @@ metadata:
     "How to Marry a Millionaire (1953)":
         year: 1953
         title: "How to Marry a Millionaire"
-        alt_title: "How to Marry a Millionaire (1953)"
-        orig_title: "How to Marry a Millionaire"
-        sort_title: "How to Marry a Millionaire"
-        
+        match:
+          mapping_id: 10297
         url_poster: https://theposterdb.com/api/assets/237594
         # IDs: imdb://tt0045891, tmdb://10297, tvdb://1819
-        # tpdb: https://theposterdb.com/search/advanced/results?term=How+to+Marry+a+Millionaire&category=Movies&year_filter=equals&yone=1953&tmdb_id=10297&imdb_id=tt0045891&tvdb_id=1819
+        # tpdb: https://theposterdb.com/search/advanced/results?term=How%20to%20Marry%20a%20Millionaire&category=Movies&year_filter=equals&yone=1953&tmdb_id=10297&imdb_id=tt0045891&tvdb_id=1819
         # tmdb: https://www.themoviedb.org/movie/10297
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1953&query=1819
         # imdb: https://www.imdb.com/title/tt0045891
-    

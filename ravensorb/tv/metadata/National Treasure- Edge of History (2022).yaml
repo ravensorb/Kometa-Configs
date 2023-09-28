@@ -1,0 +1,15 @@
+metadata:    
+    "National Treasure: Edge of History (2022)":
+        year: 2022
+        title: "National Treasure: Edge of History"
+        url_poster: https://theposterdb.com/api/assets/330288
+        match:
+          mapping_id: 382210
+        # IDs: imdb://tt12580982, tmdb://137437, tvdb://382210
+        # tpdb: https://theposterdb.com/search/advanced/results?term=National%20Treasure%3A%20Edge%20of%20History&category=Shows&year_filter=equals&yone=2022&tmdb_id=137437&imdb_id=tt12580982&tvdb_id=382210
+        # tmdb: https://www.themoviedb.org/tv/137437
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=382210
+        # imdb: https://www.imdb.com/title/tt12580982
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/330289

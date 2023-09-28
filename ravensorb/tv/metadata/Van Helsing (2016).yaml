@@ -1,22 +1,23 @@
-metadata:
+metadata:    
     "Van Helsing (2016)":
         year: 2016
         title: "Van Helsing"
-        alt_title: "Van Helsing"
-        url_poster:  https://theposterdb.com/api/assets/348310
+        url_poster: https://theposterdb.com/api/assets/348310
+        match:
+          mapping_id: 308772
         # IDs: imdb://tt5197820, tmdb://65820, tvdb://308772
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Van+Helsing&category=Shows&year_filter=equals&yone=2016&tmdb_id=65820&imdb_id=tt5197820&tvdb_id=308772
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Van%20Helsing&category=Shows&year_filter=equals&yone=2016&tmdb_id=65820&imdb_id=tt5197820&tvdb_id=308772
         # tmdb: https://www.themoviedb.org/tv/65820
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=308772
         # imdb: https://www.imdb.com/title/tt5197820
         seasons:
             1:
-                url_poster:  https://theposterdb.com/api/assets/348311
+                url_poster: https://theposterdb.com/api/assets/348311
             2:
-                url_poster:  https://theposterdb.com/api/assets/348312
+                url_poster: https://theposterdb.com/api/assets/348312
             3:
-                url_poster:  https://theposterdb.com/api/assets/348313
+                url_poster: https://theposterdb.com/api/assets/348313
             4:
-                url_poster:  https://theposterdb.com/api/assets/348314
+                url_poster: https://theposterdb.com/api/assets/348314
             5:
-                url_poster:  https://theposterdb.com/api/assets/348315
+                url_poster: https://theposterdb.com/api/assets/348315

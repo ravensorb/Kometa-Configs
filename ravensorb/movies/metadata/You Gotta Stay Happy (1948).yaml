@@ -2,14 +2,11 @@ metadata:
     "You Gotta Stay Happy (1948)":
         year: 1948
         title: "You Gotta Stay Happy"
-        alt_title: "You Gotta Stay Happy (1948)"
-        orig_title: "You Gotta Stay Happy"
-        sort_title: "You Gotta Stay Happy"
-        
+        match:
+          mapping_id: 33122
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0040982, tmdb://33122, tvdb://97123
-        # tpdb: https://theposterdb.com/search/advanced/results?term=You+Gotta+Stay+Happy&category=Movies&year_filter=equals&yone=1948&tmdb_id=33122&imdb_id=tt0040982&tvdb_id=97123
+        # tpdb: https://theposterdb.com/search/advanced/results?term=You%20Gotta%20Stay%20Happy&category=Movies&year_filter=equals&yone=1948&tmdb_id=33122&imdb_id=tt0040982&tvdb_id=97123
         # tmdb: https://www.themoviedb.org/movie/33122
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1948&query=97123
         # imdb: https://www.imdb.com/title/tt0040982
-    

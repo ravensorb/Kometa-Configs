@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Devs (2020)":
         year: 2020
         title: "Devs"
-        alt_title: "Devs (2020)"
-        orig_title: "Devs"
-        sort_title: "Devs"
         url_poster: https://theposterdb.com/api/assets/346735
+        match:
+          mapping_id: 364149
         # IDs: imdb://tt8134186, tmdb://81349, tvdb://364149
         # tpdb: https://theposterdb.com/search/advanced/results?term=Devs&category=Shows&year_filter=equals&yone=2020&tmdb_id=81349&imdb_id=tt8134186&tvdb_id=364149
         # tmdb: https://www.themoviedb.org/tv/81349

@@ -2,14 +2,12 @@ metadata:
     "The Gray Man (2022)":
         year: 2022
         title: "The Gray Man"
-        alt_title: "The Gray Man (2022)"
-        orig_title: "The Gray Man"
         sort_title: "Gray Man"
-        
+        match:
+          mapping_id: 725201
         url_poster: https://theposterdb.com/api/assets/255277
         # IDs: imdb://tt1649418, tmdb://725201, tvdb://137131
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Gray+Man&category=Movies&year_filter=equals&yone=2022&tmdb_id=725201&imdb_id=tt1649418&tvdb_id=137131
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gray%20Man&category=Movies&year_filter=equals&yone=2022&tmdb_id=725201&imdb_id=tt1649418&tvdb_id=137131
         # tmdb: https://www.themoviedb.org/movie/725201
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=137131
         # imdb: https://www.imdb.com/title/tt1649418
-    

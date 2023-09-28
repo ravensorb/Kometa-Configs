@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Raised by Wolves (2020)":
         year: 2020
         title: "Raised by Wolves"
-        alt_title: "Raised by Wolves (2020)"
-        orig_title: "Raised by Wolves"
         sort_title: "Raised by Wolves (2020)"
         url_poster: https://theposterdb.com/api/assets/333004
+        match:
+          mapping_id: 368643
         # IDs: imdb://tt9170108, tmdb://85723, tvdb://368643
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Raised+by+Wolves+%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=85723&imdb_id=tt9170108&tvdb_id=368643
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Raised%20by%20Wolves&category=Shows&year_filter=equals&yone=2020&tmdb_id=85723&imdb_id=tt9170108&tvdb_id=368643
         # tmdb: https://www.themoviedb.org/tv/85723
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=368643
         # imdb: https://www.imdb.com/title/tt9170108

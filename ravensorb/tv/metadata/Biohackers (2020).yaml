@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Biohackers (2020)":
         year: 2020
         title: "Biohackers"
-        alt_title: "Biohackers (2020)"
-        orig_title: "Biohackers"
-        sort_title: "Biohackers"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 381016
         # IDs: imdb://tt9849210, tmdb://100074, tvdb://381016
         # tpdb: https://theposterdb.com/search/advanced/results?term=Biohackers&category=Shows&year_filter=equals&yone=2020&tmdb_id=100074&imdb_id=tt9849210&tvdb_id=381016
         # tmdb: https://www.themoviedb.org/tv/100074

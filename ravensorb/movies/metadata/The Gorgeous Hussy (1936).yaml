@@ -2,14 +2,12 @@ metadata:
     "The Gorgeous Hussy (1936)":
         year: 1936
         title: "The Gorgeous Hussy"
-        alt_title: "The Gorgeous Hussy (1936)"
-        orig_title: "The Gorgeous Hussy"
         sort_title: "Gorgeous Hussy"
-        
+        match:
+          mapping_id: 112284
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0027690, tmdb://112284, tvdb://76721
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Gorgeous+Hussy&category=Movies&year_filter=equals&yone=1936&tmdb_id=112284&imdb_id=tt0027690&tvdb_id=76721
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gorgeous%20Hussy&category=Movies&year_filter=equals&yone=1936&tmdb_id=112284&imdb_id=tt0027690&tvdb_id=76721
         # tmdb: https://www.themoviedb.org/movie/112284
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1936&query=76721
         # imdb: https://www.imdb.com/title/tt0027690
-    

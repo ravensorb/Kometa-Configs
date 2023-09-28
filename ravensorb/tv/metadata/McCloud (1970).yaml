@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "McCloud (1970)":
         year: 1970
         title: "McCloud"
-        alt_title: "McCloud (1970)"
-        orig_title: "McCloud"
-        sort_title: "McCloud"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 70532
         # IDs: imdb://tt0065317, tmdb://10309, tvdb://70532
         # tpdb: https://theposterdb.com/search/advanced/results?term=McCloud&category=Shows&year_filter=equals&yone=1970&tmdb_id=10309&imdb_id=tt0065317&tvdb_id=70532
         # tmdb: https://www.themoviedb.org/tv/10309

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Covert Affairs (2010)":
         year: 2010
         title: "Covert Affairs"
-        alt_title: "Covert Affairs (2010)"
-        orig_title: "Covert Affairs"
-        sort_title: "Covert Affairs"
         url_poster: https://theposterdb.com/api/assets/380067
+        match:
+          mapping_id: 104281
         # IDs: imdb://tt1495708, tmdb://31631, tvdb://104281
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Covert+Affairs&category=Shows&year_filter=equals&yone=2010&tmdb_id=31631&imdb_id=tt1495708&tvdb_id=104281
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Covert%20Affairs&category=Shows&year_filter=equals&yone=2010&tmdb_id=31631&imdb_id=tt1495708&tvdb_id=104281
         # tmdb: https://www.themoviedb.org/tv/31631
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=104281
         # imdb: https://www.imdb.com/title/tt1495708

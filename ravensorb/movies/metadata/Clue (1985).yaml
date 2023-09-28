@@ -2,14 +2,11 @@ metadata:
     "Clue (1985)":
         year: 1985
         title: "Clue"
-        alt_title: "Clue (1985)"
-        orig_title: "Clue"
-        sort_title: "Clue"
-        
+        match:
+          mapping_id: 15196
         url_poster: https://theposterdb.com/api/assets/197344
         # IDs: imdb://tt0088930, tmdb://15196, tvdb://4655
         # tpdb: https://theposterdb.com/search/advanced/results?term=Clue&category=Movies&year_filter=equals&yone=1985&tmdb_id=15196&imdb_id=tt0088930&tvdb_id=4655
         # tmdb: https://www.themoviedb.org/movie/15196
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=4655
         # imdb: https://www.imdb.com/title/tt0088930
-    

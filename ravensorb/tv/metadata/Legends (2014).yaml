@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Legends (2014)":
         year: 2014
         title: "Legends"
-        alt_title: "Legends (2014)"
-        orig_title: "Legends"
         sort_title: "Legends (2014)"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 265074
         # IDs: imdb://tt2402137, tmdb://60855, tvdb://265074
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Legends+%282014%29&category=Shows&year_filter=equals&yone=2014&tmdb_id=60855&imdb_id=tt2402137&tvdb_id=265074
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Legends&category=Shows&year_filter=equals&yone=2014&tmdb_id=60855&imdb_id=tt2402137&tvdb_id=265074
         # tmdb: https://www.themoviedb.org/tv/60855
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=265074
         # imdb: https://www.imdb.com/title/tt2402137

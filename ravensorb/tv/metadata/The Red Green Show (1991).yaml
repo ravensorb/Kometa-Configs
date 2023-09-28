@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The Red Green Show (1991)":
         year: 1991
         title: "The Red Green Show"
-        alt_title: "The Red Green Show (1991)"
-        orig_title: "The Red Green Show"
         sort_title: "Red Green Show"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 76863
         # IDs: imdb://tt0101177, tmdb://2400, tvdb://76863
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Red+Green+Show&category=Shows&year_filter=equals&yone=1991&tmdb_id=2400&imdb_id=tt0101177&tvdb_id=76863
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Red%20Green%20Show&category=Shows&year_filter=equals&yone=1991&tmdb_id=2400&imdb_id=tt0101177&tvdb_id=76863
         # tmdb: https://www.themoviedb.org/tv/2400
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1991&query=76863
         # imdb: https://www.imdb.com/title/tt0101177

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Hawaii Five-O (1968)":
         year: 1968
         title: "Hawaii Five-O"
-        alt_title: "Hawaii Five-O (1968)"
-        orig_title: "Hawaii Five-O"
-        sort_title: "Hawaii Five-O"
         url_poster: https://theposterdb.com/api/assets/365298
+        match:
+          mapping_id: 71223
         # IDs: imdb://tt0062568, tmdb://2303, tvdb://71223
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii+Five-O&category=Shows&year_filter=equals&yone=1968&tmdb_id=2303&imdb_id=tt0062568&tvdb_id=71223
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii%20Five-O&category=Shows&year_filter=equals&yone=1968&tmdb_id=2303&imdb_id=tt0062568&tvdb_id=71223
         # tmdb: https://www.themoviedb.org/tv/2303
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1968&query=71223
         # imdb: https://www.imdb.com/title/tt0062568
@@ -36,20 +35,19 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/365310
             12:
                 url_poster: https://theposterdb.com/api/assets/365311
-
+    
     "Hawaii Five-0 (2010)":
         year: 2010
         title: "Hawaii Five-0"
-        alt_title: "Hawaii Five-0"
         url_poster: https://theposterdb.com/api/assets/360785
+        match:
+          mapping_id: 164541
         # IDs: imdb://tt1600194, tmdb://32798, tvdb://164541
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii+Five-0&category=Shows&year_filter=equals&yone=2010&tmdb_id=32798&imdb_id=tt1600194&tvdb_id=164541
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii%20Five-0&category=Shows&year_filter=equals&yone=2010&tmdb_id=32798&imdb_id=tt1600194&tvdb_id=164541
         # tmdb: https://www.themoviedb.org/tv/32798
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=164541
         # imdb: https://www.imdb.com/title/tt1600194
         seasons:
-            0:
-                url_poster: https://theposterdb.com/api/assets/360786
             1:
                 url_poster: https://theposterdb.com/api/assets/360787
             2:

@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Brave New World (2020)":
         year: 2020
         title: "Brave New World"
-        alt_title: "Brave New World (2020)"
-        orig_title: "Brave New World"
         sort_title: "Brave New World (2020)"
         url_poster: https://theposterdb.com/api/assets/348006
+        match:
+          mapping_id: 359606
         # IDs: imdb://tt9814116, tmdb://93289, tvdb://359606
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Brave+New+World+%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=93289&imdb_id=tt9814116&tvdb_id=359606
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Brave%20New%20World&category=Shows&year_filter=equals&yone=2020&tmdb_id=93289&imdb_id=tt9814116&tvdb_id=359606
         # tmdb: https://www.themoviedb.org/tv/93289
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=359606
         # imdb: https://www.imdb.com/title/tt9814116

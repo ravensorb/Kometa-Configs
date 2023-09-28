@@ -1,0 +1,26 @@
+metadata:
+    "The Day the Earth Stood Still (1951)":
+        year: 1951
+        title: "The Day the Earth Stood Still"
+        sort_title: "Day the Earth Stood Still"
+        match:
+          mapping_id: 828
+        url_poster: https://theposterdb.com/api/assets/185480
+        # IDs: imdb://tt0043456, tmdb://828, tvdb://588
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Day%20the%20Earth%20Stood%20Still&category=Movies&year_filter=equals&yone=1951&tmdb_id=828&imdb_id=tt0043456&tvdb_id=588
+        # tmdb: https://www.themoviedb.org/movie/828
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1951&query=588
+        # imdb: https://www.imdb.com/title/tt0043456
+
+    "The Day the Earth Stood Still (2008)":
+        year: 2008
+        title: "The Day the Earth Stood Still"
+        sort_title: "Day the Earth Stood Still"
+        match:
+          mapping_id: 10200
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0970416, tmdb://10200, tvdb://988
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Day%20the%20Earth%20Stood%20Still&category=Movies&year_filter=equals&yone=2008&tmdb_id=10200&imdb_id=tt0970416&tvdb_id=988
+        # tmdb: https://www.themoviedb.org/movie/10200
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=988
+        # imdb: https://www.imdb.com/title/tt0970416

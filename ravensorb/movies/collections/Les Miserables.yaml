@@ -1,6 +1,6 @@
 collections:
   "Les Miserables":
-    variables: { movie: "4415, 82695, 37445, 196241", poster: https://theposterdb.com/api/assets/209428 }
+    variables: { movie: "196241, 82695, 158675, 4415, 37445", poster: https://theposterdb.com/api/assets/209428 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Jean Valjean, a Frenchman imprisoned for stealing bread, must flee a police officer named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Les+Miserables&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Les%20Miserables&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Les%20Miserables%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Les%20Miserables
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Les%20Miserables

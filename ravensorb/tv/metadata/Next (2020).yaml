@@ -1,11 +1,11 @@
-metadata:
+metadata:    
     "Next (2020)":
         year: 2020
         title: "Next"
-        alt_title: "Next (2020)"
         orig_title: "neXt (2020)"
-        sort_title: "Next"
         url_poster: https://theposterdb.com/api/assets/366482
+        match:
+          mapping_id: 359350
         # IDs: imdb://tt9315054, tmdb://89571, tvdb://359350
         # tpdb: https://theposterdb.com/search/advanced/results?term=Next&category=Shows&year_filter=equals&yone=2020&tmdb_id=89571&imdb_id=tt9315054&tvdb_id=359350
         # tmdb: https://www.themoviedb.org/tv/89571

@@ -2,14 +2,11 @@ metadata:
     "Scared Stiff (1953)":
         year: 1953
         title: "Scared Stiff"
-        alt_title: "Scared Stiff (1953)"
-        orig_title: "Scared Stiff"
-        sort_title: "Scared Stiff"
-        
+        match:
+          mapping_id: 33754
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0046280, tmdb://33754, tvdb://46259
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Scared+Stiff&category=Movies&year_filter=equals&yone=1953&tmdb_id=33754&imdb_id=tt0046280&tvdb_id=46259
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scared%20Stiff&category=Movies&year_filter=equals&yone=1953&tmdb_id=33754&imdb_id=tt0046280&tvdb_id=46259
         # tmdb: https://www.themoviedb.org/movie/33754
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1953&query=46259
         # imdb: https://www.imdb.com/title/tt0046280
-    

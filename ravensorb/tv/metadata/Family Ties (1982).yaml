@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Family Ties (1982)":
         year: 1982
         title: "Family Ties"
-        alt_title: "Family Ties (1982)"
-        orig_title: "Family Ties"
-        sort_title: "Family Ties"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 74409
         # IDs: imdb://tt0083413, tmdb://496, tvdb://74409
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Family+Ties&category=Shows&year_filter=equals&yone=1982&tmdb_id=496&imdb_id=tt0083413&tvdb_id=74409
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Family%20Ties&category=Shows&year_filter=equals&yone=1982&tmdb_id=496&imdb_id=tt0083413&tvdb_id=74409
         # tmdb: https://www.themoviedb.org/tv/496
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1982&query=74409
         # imdb: https://www.imdb.com/title/tt0083413

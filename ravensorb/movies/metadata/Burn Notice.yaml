@@ -2,14 +2,11 @@ metadata:
     "Burn Notice: The Fall of Sam Axe (2011)":
         year: 2011
         title: "Burn Notice: The Fall of Sam Axe"
-        alt_title: "Burn Notice: The Fall of Sam Axe (2011)"
-        orig_title: "Burn Notice: The Fall of Sam Axe"
-        sort_title: "Burn Notice: The Fall of Sam Axe"
-        
+        match:
+          mapping_id: 61537
         url_poster: https://theposterdb.com/api/assets/326931
         # IDs: imdb://tt1697851, tmdb://61537, tvdb://15195
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Burn+Notice%3A+The+Fall+of+Sam+Axe&category=Movies&year_filter=equals&yone=2011&tmdb_id=61537&imdb_id=tt1697851&tvdb_id=15195
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Burn%20Notice%3A%20The%20Fall%20of%20Sam%20Axe&category=Movies&year_filter=equals&yone=2011&tmdb_id=61537&imdb_id=tt1697851&tvdb_id=15195
         # tmdb: https://www.themoviedb.org/movie/61537
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=15195
         # imdb: https://www.imdb.com/title/tt1697851
-    

@@ -2,28 +2,23 @@ metadata:
     "Enola Holmes (2020)":
         year: 2020
         title: "Enola Holmes"
-        alt_title: "Enola Holmes (2020)"
-        orig_title: "Enola Holmes"
-        sort_title: "Enola Holmes"
-        
+        match:
+          mapping_id: 497582
         url_poster: https://theposterdb.com/api/assets/198186
         # IDs: imdb://tt7846844, tmdb://497582, tvdb://131678
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Enola+Holmes&category=Movies&year_filter=equals&yone=2020&tmdb_id=497582&imdb_id=tt7846844&tvdb_id=131678
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Enola%20Holmes&category=Movies&year_filter=equals&yone=2020&tmdb_id=497582&imdb_id=tt7846844&tvdb_id=131678
         # tmdb: https://www.themoviedb.org/movie/497582
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=131678
         # imdb: https://www.imdb.com/title/tt7846844
-    
+
     "Enola Holmes 2 (2022)":
         year: 2022
         title: "Enola Holmes 2"
-        alt_title: "Enola Holmes 2 (2022)"
-        orig_title: "Enola Holmes 2"
-        sort_title: "Enola Holmes 2"
-        
+        match:
+          mapping_id: 829280
         url_poster: https://theposterdb.com/api/assets/283513
         # IDs: imdb://tt14641788, tmdb://829280, tvdb://166087
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Enola+Holmes+2&category=Movies&year_filter=equals&yone=2022&tmdb_id=829280&imdb_id=tt14641788&tvdb_id=166087
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Enola%20Holmes%202&category=Movies&year_filter=equals&yone=2022&tmdb_id=829280&imdb_id=tt14641788&tvdb_id=166087
         # tmdb: https://www.themoviedb.org/movie/829280
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=166087
         # imdb: https://www.imdb.com/title/tt14641788
-    

@@ -2,14 +2,11 @@ metadata:
     "Girlfriend in a Coma (2012)":
         year: 2012
         title: "Girlfriend in a Coma"
-        alt_title: "Girlfriend in a Coma (2012)"
-        orig_title: "Girlfriend in a Coma"
-        sort_title: "Girlfriend in a Coma"
-        
+        match:
+          mapping_id: 170170
         url_poster: https://theposterdb.com/api/assets/370347
         # IDs: imdb://tt2315588, tmdb://170170, tvdb://88804
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Girlfriend+in+a+Coma&category=Movies&year_filter=equals&yone=2012&tmdb_id=170170&imdb_id=tt2315588&tvdb_id=88804
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Girlfriend%20in%20a%20Coma&category=Movies&year_filter=equals&yone=2012&tmdb_id=170170&imdb_id=tt2315588&tvdb_id=88804
         # tmdb: https://www.themoviedb.org/movie/170170
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=88804
         # imdb: https://www.imdb.com/title/tt2315588
-    

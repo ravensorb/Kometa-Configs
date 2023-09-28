@@ -1,6 +1,6 @@
 collections:
   "Riddick":
-    variables: { movie: "2787, 87421, 2789, 244839", poster: https://theposterdb.com/api/assets/163647 }
+    variables: { movie: "87421, 244839, 2789, 2787", poster: https://theposterdb.com/api/assets/163647 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

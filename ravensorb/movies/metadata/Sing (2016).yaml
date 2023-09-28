@@ -2,14 +2,11 @@ metadata:
     "Sing (2016)":
         year: 2016
         title: "Sing"
-        alt_title: "Sing (2016)"
-        orig_title: "Sing"
-        sort_title: "Sing"
-        
+        match:
+          mapping_id: 335797
         url_poster: https://theposterdb.com/api/assets/192204
         # IDs: imdb://tt3470600, tmdb://335797, tvdb://674
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sing&category=Movies&year_filter=equals&yone=2016&tmdb_id=335797&imdb_id=tt3470600&tvdb_id=674
         # tmdb: https://www.themoviedb.org/movie/335797
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=674
         # imdb: https://www.imdb.com/title/tt3470600
-    

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Defiance (2013)":
         year: 2013
         title: "Defiance"
-        alt_title: "Defiance (2013)"
-        orig_title: "Defiance"
-        sort_title: "Defiance"
         url_poster: https://theposterdb.com/api/assets/380181
+        match:
+          mapping_id: 255326
         # IDs: imdb://tt2189221, tmdb://51704, tvdb://255326
         # tpdb: https://theposterdb.com/search/advanced/results?term=Defiance&category=Shows&year_filter=equals&yone=2013&tmdb_id=51704&imdb_id=tt2189221&tvdb_id=255326
         # tmdb: https://www.themoviedb.org/tv/51704

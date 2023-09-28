@@ -2,14 +2,11 @@ metadata:
     "Wrong Is Right (1982)":
         year: 1982
         title: "Wrong Is Right"
-        alt_title: "Wrong Is Right (1982)"
-        orig_title: "Wrong Is Right"
-        sort_title: "Wrong Is Right"
-        
+        match:
+          mapping_id: 31661
         url_poster: https://theposterdb.com/api/assets/225529
         # IDs: imdb://tt0084920, tmdb://31661, tvdb://69065
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Wrong+Is+Right&category=Movies&year_filter=equals&yone=1982&tmdb_id=31661&imdb_id=tt0084920&tvdb_id=69065
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wrong%20Is%20Right&category=Movies&year_filter=equals&yone=1982&tmdb_id=31661&imdb_id=tt0084920&tvdb_id=69065
         # tmdb: https://www.themoviedb.org/movie/31661
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=69065
         # imdb: https://www.imdb.com/title/tt0084920
-    

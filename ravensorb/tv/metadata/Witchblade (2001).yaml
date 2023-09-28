@@ -1,0 +1,17 @@
+metadata:    
+    "Witchblade (2001)":
+        year: 2001
+        title: "Witchblade"
+        # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 79072
+        # IDs: imdb://tt0274298, tmdb://10190, tvdb://79072
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Witchblade&category=Shows&year_filter=equals&yone=2001&tmdb_id=10190&imdb_id=tt0274298&tvdb_id=79072
+        # tmdb: https://www.themoviedb.org/tv/10190
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=79072
+        # imdb: https://www.imdb.com/title/tt0274298
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

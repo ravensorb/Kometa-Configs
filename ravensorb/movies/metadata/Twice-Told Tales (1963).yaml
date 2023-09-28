@@ -2,14 +2,11 @@ metadata:
     "Twice-Told Tales (1963)":
         year: 1963
         title: "Twice-Told Tales"
-        alt_title: "Twice-Told Tales (1963)"
-        orig_title: "Twice-Told Tales"
-        sort_title: "Twice-Told Tales"
-        
+        match:
+          mapping_id: 47553
         url_poster: https://theposterdb.com/api/assets/182016
         # IDs: imdb://tt0057608, tmdb://47553, tvdb://28255
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Twice-Told+Tales&category=Movies&year_filter=equals&yone=1963&tmdb_id=47553&imdb_id=tt0057608&tvdb_id=28255
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Twice-Told%20Tales&category=Movies&year_filter=equals&yone=1963&tmdb_id=47553&imdb_id=tt0057608&tvdb_id=28255
         # tmdb: https://www.themoviedb.org/movie/47553
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1963&query=28255
         # imdb: https://www.imdb.com/title/tt0057608
-    

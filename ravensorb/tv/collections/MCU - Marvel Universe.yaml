@@ -1,6 +1,6 @@
 collections:
   "Marvel Universe":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "67466, 1403, 84958, 88329, 85271, 114695, 88987, 61550, 59427, 66190, 118924, 92783, 92782, 68716, 91363, 88396, 67195, 92749, 72705, 34391", poster: https://theposterdb.com/api/assets/201425 }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", show: "67466, 114472, 92783, 85271, 92749, 91363, 88987, 92782, 66190, 72705, 88396, 88329, 118924, 67195, 1403, 68716, 61550, 84958, 114695, 59427, 34391", poster: https://theposterdb.com/api/assets/201425 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Marvel Universe
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel+Universe&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%20Universe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Marvel%20Universe%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Marvel%20Universe
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Marvel%20Universe

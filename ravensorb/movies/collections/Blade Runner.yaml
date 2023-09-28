@@ -1,6 +1,6 @@
 collections:
   "Blade Runner":
-    variables: { movie: "335984, 78, 57656", poster: https://theposterdb.com/api/assets/163611 }
+    variables: { movie: "57656, 335984, 78", poster: https://theposterdb.com/api/assets/163611 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       An American neo-noir science-fiction film series set in a dystopian Los Angeles, depicting a future in which synthetic humans known as "replicants" are bio-engineered by the powerful Tyrell Corporation, to work on off-world colonies. Based on the novel ‘Do Androids Dream of Electric Sheep?’
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Blade+Runner&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Blade%20Runner&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Blade%20Runner%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Blade%20Runner
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Blade%20Runner

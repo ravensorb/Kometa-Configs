@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The Orville (2017)":
         year: 2017
         title: "The Orville"
-        alt_title: "The Orville (2017)"
-        orig_title: "The Orville"
         sort_title: "Orville"
         url_poster: https://theposterdb.com/api/assets/351009
+        match:
+          mapping_id: 328487
         # IDs: imdb://tt5691552, tmdb://71738, tvdb://328487
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Orville&category=Shows&year_filter=equals&yone=2017&tmdb_id=71738&imdb_id=tt5691552&tvdb_id=328487
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Orville&category=Shows&year_filter=equals&yone=2017&tmdb_id=71738&imdb_id=tt5691552&tvdb_id=328487
         # tmdb: https://www.themoviedb.org/tv/71738
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328487
         # imdb: https://www.imdb.com/title/tt5691552

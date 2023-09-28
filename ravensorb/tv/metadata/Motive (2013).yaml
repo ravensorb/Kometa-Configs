@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Motive (2013)":
         year: 2013
         title: "Motive"
-        alt_title: "Motive (2013)"
-        orig_title: "Motive"
-        sort_title: "Motive"
         url_poster: https://theposterdb.com/api/assets/308302
+        match:
+          mapping_id: 262569
         # IDs: imdb://tt2443340, tmdb://46316, tvdb://262569
         # tpdb: https://theposterdb.com/search/advanced/results?term=Motive&category=Shows&year_filter=equals&yone=2013&tmdb_id=46316&imdb_id=tt2443340&tvdb_id=262569
         # tmdb: https://www.themoviedb.org/tv/46316

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Rizzoli & Isles (2010)":
         year: 2010
         title: "Rizzoli & Isles"
-        alt_title: "Rizzoli & Isles (2010)"
-        orig_title: "Rizzoli & Isles"
-        sort_title: "Rizzoli & Isles"
         url_poster: https://theposterdb.com/api/assets/309511
+        match:
+          mapping_id: 161461
         # IDs: imdb://tt1551632, tmdb://32895, tvdb://161461
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Rizzoli+%26+Isles&category=Shows&year_filter=equals&yone=2010&tmdb_id=32895&imdb_id=tt1551632&tvdb_id=161461
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Rizzoli%20%26%20Isles&category=Shows&year_filter=equals&yone=2010&tmdb_id=32895&imdb_id=tt1551632&tvdb_id=161461
         # tmdb: https://www.themoviedb.org/tv/32895
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=161461
         # imdb: https://www.imdb.com/title/tt1551632

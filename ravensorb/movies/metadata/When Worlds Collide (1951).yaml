@@ -2,14 +2,11 @@ metadata:
     "When Worlds Collide (1951)":
         year: 1951
         title: "When Worlds Collide"
-        alt_title: "When Worlds Collide (1951)"
-        orig_title: "When Worlds Collide"
-        sort_title: "When Worlds Collide"
-        
+        match:
+          mapping_id: 16380
         url_poster: https://theposterdb.com/api/assets/187327
         # IDs: imdb://tt0044207, tmdb://16380, tvdb://18681
-        # tpdb: https://theposterdb.com/search/advanced/results?term=When+Worlds+Collide&category=Movies&year_filter=equals&yone=1951&tmdb_id=16380&imdb_id=tt0044207&tvdb_id=18681
+        # tpdb: https://theposterdb.com/search/advanced/results?term=When%20Worlds%20Collide&category=Movies&year_filter=equals&yone=1951&tmdb_id=16380&imdb_id=tt0044207&tvdb_id=18681
         # tmdb: https://www.themoviedb.org/movie/16380
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1951&query=18681
         # imdb: https://www.imdb.com/title/tt0044207
-    

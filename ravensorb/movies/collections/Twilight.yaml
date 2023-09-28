@@ -1,6 +1,6 @@
 collections:
   "Twilight":
-    variables: { movie: "18239, 8966, 50620, 24021, 50619", poster: https://theposterdb.com/api/assets/161853 }
+    variables: { movie: "24021, 50620, 50619, 18239, 8966", poster: https://theposterdb.com/api/assets/161853 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

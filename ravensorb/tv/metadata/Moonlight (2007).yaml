@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Moonlight (2007)":
         year: 2007
         title: "Moonlight"
-        alt_title: "Moonlight (2007)"
-        orig_title: "Moonlight"
-        sort_title: "Moonlight"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 80512
         # IDs: imdb://tt0955346, tmdb://5690, tvdb://80512
         # tpdb: https://theposterdb.com/search/advanced/results?term=Moonlight&category=Shows&year_filter=equals&yone=2007&tmdb_id=5690&imdb_id=tt0955346&tvdb_id=80512
         # tmdb: https://www.themoviedb.org/tv/5690

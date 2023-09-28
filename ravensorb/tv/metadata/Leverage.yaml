@@ -1,44 +1,40 @@
-metadata:
+metadata:    
     "Leverage (2008)":
         year: 2008
         title: "Leverage"
-        alt_title: "Leverage (2008)"
-        orig_title: "Leverage"
-        sort_title: "Leverage"
-        url_poster:  https://theposterdb.com/api/assets/348841
+        url_poster: https://theposterdb.com/api/assets/348841
+        match:
+          mapping_id: 82339
         # IDs: imdb://tt1103987, tmdb://7482, tvdb://82339
         # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage&category=Shows&year_filter=equals&yone=2008&tmdb_id=7482&imdb_id=tt1103987&tvdb_id=82339
         # tmdb: https://www.themoviedb.org/tv/7482
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=82339
         # imdb: https://www.imdb.com/title/tt1103987
         seasons:
-            # 0:
-                # url_poster:  https://theposterdb.com/api/assets/348842
             1:
-                url_poster:  https://theposterdb.com/api/assets/348843
+                url_poster: https://theposterdb.com/api/assets/348843
             2:
-                url_poster:  https://theposterdb.com/api/assets/348844
+                url_poster: https://theposterdb.com/api/assets/348844
             3:
-                url_poster:  https://theposterdb.com/api/assets/348845
+                url_poster: https://theposterdb.com/api/assets/348845
             4:
-                url_poster:  https://theposterdb.com/api/assets/348846
+                url_poster: https://theposterdb.com/api/assets/348846
             5:
-                url_poster:  https://theposterdb.com/api/assets/348847
-
+                url_poster: https://theposterdb.com/api/assets/348847
+    
     "Leverage: Redemption (2021)":
         year: 2021
         title: "Leverage: Redemption"
-        alt_title: "Leverage: Redemption (2021)"
-        orig_title: "Leverage: Redemption"
-        sort_title: "Leverage: Redemption"
-        url_poster:  https://theposterdb.com/api/assets/367943
+        url_poster: https://theposterdb.com/api/assets/367943
+        match:
+          mapping_id: 402166
         # IDs: imdb://tt12197698, tmdb://106502, tvdb://402166
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage%3A+Redemption&category=Shows&year_filter=equals&yone=2021&tmdb_id=106502&imdb_id=tt12197698&tvdb_id=402166
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage%3A%20Redemption&category=Shows&year_filter=equals&yone=2021&tmdb_id=106502&imdb_id=tt12197698&tvdb_id=402166
         # tmdb: https://www.themoviedb.org/tv/106502
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=402166
         # imdb: https://www.imdb.com/title/tt12197698
         seasons:
             1:
-                url_poster:  https://theposterdb.com/api/assets/367944
+                url_poster: https://theposterdb.com/api/assets/367944
             2:
-                url_poster:  https://theposterdb.com/api/assets/367945
+                url_poster: https://theposterdb.com/api/assets/367945

@@ -2,14 +2,12 @@ metadata:
     "The Cold Light of Day (2012)":
         year: 2012
         title: "The Cold Light of Day"
-        alt_title: "The Cold Light of Day (2012)"
-        orig_title: "The Cold Light of Day"
         sort_title: "Cold Light of Day"
-        
+        match:
+          mapping_id: 77948
         url_poster: https://theposterdb.com/api/assets/209391
         # IDs: imdb://tt1366365, tmdb://77948, tvdb://9117
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Cold+Light+of+Day&category=Movies&year_filter=equals&yone=2012&tmdb_id=77948&imdb_id=tt1366365&tvdb_id=9117
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Cold%20Light%20of%20Day&category=Movies&year_filter=equals&yone=2012&tmdb_id=77948&imdb_id=tt1366365&tvdb_id=9117
         # tmdb: https://www.themoviedb.org/movie/77948
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=9117
         # imdb: https://www.imdb.com/title/tt1366365
-    

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Virgin River (2019)":
         year: 2019
         title: "Virgin River"
-        alt_title: "Virgin River (2019)"
-        orig_title: "Virgin River"
-        sort_title: "Virgin River"
         url_poster: https://theposterdb.com/api/assets/339399
+        match:
+          mapping_id: 371972
         # IDs: imdb://tt9077530, tmdb://88324, tvdb://371972
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Virgin+River&category=Shows&year_filter=equals&yone=2019&tmdb_id=88324&imdb_id=tt9077530&tvdb_id=371972
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Virgin%20River&category=Shows&year_filter=equals&yone=2019&tmdb_id=88324&imdb_id=tt9077530&tvdb_id=371972
         # tmdb: https://www.themoviedb.org/tv/88324
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=371972
         # imdb: https://www.imdb.com/title/tt9077530
@@ -20,3 +19,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/339402
             4:
                 url_poster: https://theposterdb.com/api/assets/339403
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/

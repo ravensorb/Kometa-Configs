@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Revenge (2011)":
         year: 2011
         title: "Revenge"
-        alt_title: "Revenge (2011)"
-        orig_title: "Revenge"
-        sort_title: "Revenge"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 248837
         # IDs: imdb://tt1837642, tmdb://39358, tvdb://248837
         # tpdb: https://theposterdb.com/search/advanced/results?term=Revenge&category=Shows&year_filter=equals&yone=2011&tmdb_id=39358&imdb_id=tt1837642&tvdb_id=248837
         # tmdb: https://www.themoviedb.org/tv/39358

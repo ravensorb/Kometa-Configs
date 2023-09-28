@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Misfits of Science (1985)":
         year: 1985
         title: "Misfits of Science"
-        alt_title: "Misfits of Science (1985)"
-        orig_title: "Misfits of Science"
-        sort_title: "Misfits of Science"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 76951
         # IDs: imdb://tt0088568, tmdb://10141, tvdb://76951
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Misfits+of+Science&category=Shows&year_filter=equals&yone=1985&tmdb_id=10141&imdb_id=tt0088568&tvdb_id=76951
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Misfits%20of%20Science&category=Shows&year_filter=equals&yone=1985&tmdb_id=10141&imdb_id=tt0088568&tvdb_id=76951
         # tmdb: https://www.themoviedb.org/tv/10141
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=76951
         # imdb: https://www.imdb.com/title/tt0088568

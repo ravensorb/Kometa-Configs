@@ -1,19 +1,16 @@
-metadata:
+metadata:    
     "Luther (2010)":
         year: 2010
         title: "Luther"
-        alt_title: "Luther (2010)"
-        orig_title: "Luther"
-        sort_title: "Luther"
         url_poster: https://theposterdb.com/api/assets/359948
+        match:
+          mapping_id: 159591
         # IDs: imdb://tt1474684, tmdb://1426, tvdb://159591
         # tpdb: https://theposterdb.com/search/advanced/results?term=Luther&category=Shows&year_filter=equals&yone=2010&tmdb_id=1426&imdb_id=tt1474684&tvdb_id=159591
         # tmdb: https://www.themoviedb.org/tv/1426
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=159591
         # imdb: https://www.imdb.com/title/tt1474684
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/359949
             1:
                 url_poster: https://theposterdb.com/api/assets/359950
             2:

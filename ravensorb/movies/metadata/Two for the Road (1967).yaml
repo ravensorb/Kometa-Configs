@@ -2,14 +2,11 @@ metadata:
     "Two for the Road (1967)":
         year: 1967
         title: "Two for the Road"
-        alt_title: "Two for the Road (1967)"
-        orig_title: "Two for the Road"
-        sort_title: "Two for the Road"
-        
+        match:
+          mapping_id: 5767
         url_poster: https://theposterdb.com/api/assets/229906
         # IDs: imdb://tt0062407, tmdb://5767, tvdb://10061
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Two+for+the+Road&category=Movies&year_filter=equals&yone=1967&tmdb_id=5767&imdb_id=tt0062407&tvdb_id=10061
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Two%20for%20the%20Road&category=Movies&year_filter=equals&yone=1967&tmdb_id=5767&imdb_id=tt0062407&tvdb_id=10061
         # tmdb: https://www.themoviedb.org/movie/5767
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1967&query=10061
         # imdb: https://www.imdb.com/title/tt0062407
-    

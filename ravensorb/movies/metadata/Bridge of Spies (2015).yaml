@@ -2,14 +2,11 @@ metadata:
     "Bridge of Spies (2015)":
         year: 2015
         title: "Bridge of Spies"
-        alt_title: "Bridge of Spies (2015)"
-        orig_title: "Bridge of Spies"
-        sort_title: "Bridge of Spies"
-        
+        match:
+          mapping_id: 296098
         url_poster: https://theposterdb.com/api/assets/179242
         # IDs: imdb://tt3682448, tmdb://296098, tvdb://1082
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Bridge+of+Spies&category=Movies&year_filter=equals&yone=2015&tmdb_id=296098&imdb_id=tt3682448&tvdb_id=1082
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bridge%20of%20Spies&category=Movies&year_filter=equals&yone=2015&tmdb_id=296098&imdb_id=tt3682448&tvdb_id=1082
         # tmdb: https://www.themoviedb.org/movie/296098
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=1082
         # imdb: https://www.imdb.com/title/tt3682448
-    

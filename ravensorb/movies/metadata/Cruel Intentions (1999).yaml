@@ -2,14 +2,11 @@ metadata:
     "Cruel Intentions (1999)":
         year: 1999
         title: "Cruel Intentions"
-        alt_title: "Cruel Intentions (1999)"
-        orig_title: "Cruel Intentions"
-        sort_title: "Cruel Intentions"
-        
+        match:
+          mapping_id: 796
         url_poster: https://theposterdb.com/api/assets/207757
         # IDs: imdb://tt0139134, tmdb://796, tvdb://3393
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Cruel+Intentions&category=Movies&year_filter=equals&yone=1999&tmdb_id=796&imdb_id=tt0139134&tvdb_id=3393
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cruel%20Intentions&category=Movies&year_filter=equals&yone=1999&tmdb_id=796&imdb_id=tt0139134&tvdb_id=3393
         # tmdb: https://www.themoviedb.org/movie/796
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=3393
         # imdb: https://www.imdb.com/title/tt0139134
-    

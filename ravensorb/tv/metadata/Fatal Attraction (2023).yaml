@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Fatal Attraction (2023)":
         year: 2023
         title: "Fatal Attraction"
-        alt_title: "Fatal Attraction (2023)"
-        orig_title: "Fatal Attraction"
         sort_title: "Fatal Attraction (2023)"
         url_poster: https://theposterdb.com/api/assets/382299
+        match:
+          mapping_id: 397426
         # IDs: imdb://tt14351748, tmdb://138455, tvdb://397426
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Fatal+Attraction+%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=138455&imdb_id=tt14351748&tvdb_id=397426
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Fatal%20Attraction&category=Shows&year_filter=equals&yone=2023&tmdb_id=138455&imdb_id=tt14351748&tvdb_id=397426
         # tmdb: https://www.themoviedb.org/tv/138455
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=397426
         # imdb: https://www.imdb.com/title/tt14351748

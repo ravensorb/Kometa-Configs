@@ -1,6 +1,6 @@
 collections:
   "Peanuts":
-    variables: { movie: "40489, 37490, 836919, 15374, 55443, 15242, 13479, 117333, 31112, 23998, 51940, 31718, 429577, 13187, 387436, 69770, 13353, 60897, 28550, 52952, 31726, 31732", poster: https://theposterdb.com/api/assets/188207 }
+    variables: { movie: "31726, 55443, 23998, 37490, 387436, 28069, 69770, 31732, 13187, 15242, 117333, 51940, 51528, 60897, 141933, 13353, 15374, 31718, 40489, 31112, 13479, 429577, 836919, 28550, 52952", poster: https://theposterdb.com/api/assets/188207 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

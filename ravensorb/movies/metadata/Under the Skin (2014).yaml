@@ -2,14 +2,11 @@ metadata:
     "Under the Skin (2014)":
         year: 2014
         title: "Under the Skin"
-        alt_title: "Under the Skin (2014)"
-        orig_title: "Under the Skin"
-        sort_title: "Under the Skin"
-        
+        match:
+          mapping_id: tt12736824
         url_poster: https://theposterdb.com/api/assets/179653
         # IDs: imdb://tt12736824
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Under+the+Skin&category=Movies&year_filter=equals&yone=2014&imdb_id=tt12736824
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Under%20the%20Skin&category=Movies&year_filter=equals&yone=2014&imdb_id=tt12736824
         # tmdb: 
         # tvdb: 
         # imdb: https://www.imdb.com/title/tt12736824
-    

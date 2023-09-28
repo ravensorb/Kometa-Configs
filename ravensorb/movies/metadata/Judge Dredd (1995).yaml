@@ -2,14 +2,11 @@ metadata:
     "Judge Dredd (1995)":
         year: 1995
         title: "Judge Dredd"
-        alt_title: "Judge Dredd (1995)"
-        orig_title: "Judge Dredd"
-        sort_title: "Judge Dredd"
-        
+        match:
+          mapping_id: 9482
         url_poster: https://theposterdb.com/api/assets/171688
         # IDs: imdb://tt0113492, tmdb://9482, tvdb://2184
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Judge+Dredd&category=Movies&year_filter=equals&yone=1995&tmdb_id=9482&imdb_id=tt0113492&tvdb_id=2184
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Judge%20Dredd&category=Movies&year_filter=equals&yone=1995&tmdb_id=9482&imdb_id=tt0113492&tvdb_id=2184
         # tmdb: https://www.themoviedb.org/movie/9482
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1995&query=2184
         # imdb: https://www.imdb.com/title/tt0113492
-    

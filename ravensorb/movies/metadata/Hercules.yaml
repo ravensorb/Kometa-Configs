@@ -2,70 +2,59 @@ metadata:
     "Hercules and the Amazon Women (1994)":
         year: 1994
         title: "Hercules and the Amazon Women"
-        alt_title: "Hercules and the Amazon Women (1994)"
-        orig_title: "Hercules and the Amazon Women"
-        sort_title: "Hercules and the Amazon Women"
-        
+        match:
+          mapping_id: 37404
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0110015, tmdb://37404, tvdb://14001
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules+and+the+Amazon+Women&category=Movies&year_filter=equals&yone=1994&tmdb_id=37404&imdb_id=tt0110015&tvdb_id=14001
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%20and%20the%20Amazon%20Women&category=Movies&year_filter=equals&yone=1994&tmdb_id=37404&imdb_id=tt0110015&tvdb_id=14001
         # tmdb: https://www.themoviedb.org/movie/37404
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=14001
         # imdb: https://www.imdb.com/title/tt0110015
-    
+
     "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom (1994)":
         year: 1994
         title: "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom"
-        alt_title: "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom (1994)"
-        orig_title: "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom"
-        sort_title: "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom"
-        
+        match:
+          mapping_id: 75826
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0110017, tmdb://75826, tvdb://19371
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+-+Hercules+and+the+Lost+Kingdom&category=Movies&year_filter=equals&yone=1994&tmdb_id=75826&imdb_id=tt0110017&tvdb_id=19371
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A%20The%20Legendary%20Journeys%20-%20Hercules%20and%20the%20Lost%20Kingdom&category=Movies&year_filter=equals&yone=1994&tmdb_id=75826&imdb_id=tt0110017&tvdb_id=19371
         # tmdb: https://www.themoviedb.org/movie/75826
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=19371
         # imdb: https://www.imdb.com/title/tt0110017
-    
+
     "Hercules: The Legendary Journeys - The Circle of Fire (1994)":
         year: 1994
         title: "Hercules: The Legendary Journeys - The Circle of Fire"
-        alt_title: "Hercules: The Legendary Journeys - The Circle of Fire (1994)"
-        orig_title: "Hercules: The Legendary Journeys - The Circle of Fire"
-        sort_title: "Hercules: The Legendary Journeys - The Circle of Fire"
-        
+        match:
+          mapping_id: 75822
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0110016, tmdb://75822, tvdb://23338
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A+The+Legendary+Journeys+-+The+Circle+of+Fire&category=Movies&year_filter=equals&yone=1994&tmdb_id=75822&imdb_id=tt0110016&tvdb_id=23338
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A%20The%20Legendary%20Journeys%20-%20The%20Circle%20of%20Fire&category=Movies&year_filter=equals&yone=1994&tmdb_id=75822&imdb_id=tt0110016&tvdb_id=23338
         # tmdb: https://www.themoviedb.org/movie/75822
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=23338
         # imdb: https://www.imdb.com/title/tt0110016
-    
+
     "Hercules in the Underworld (1994)":
         year: 1994
         title: "Hercules in the Underworld"
-        alt_title: "Hercules in the Underworld (1994)"
-        orig_title: "Hercules in the Underworld"
-        sort_title: "Hercules in the Underworld"
-        
+        match:
+          mapping_id: 75834
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0110019, tmdb://75834, tvdb://15813
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules+in+the+Underworld&category=Movies&year_filter=equals&yone=1994&tmdb_id=75834&imdb_id=tt0110019&tvdb_id=15813
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%20in%20the%20Underworld&category=Movies&year_filter=equals&yone=1994&tmdb_id=75834&imdb_id=tt0110019&tvdb_id=15813
         # tmdb: https://www.themoviedb.org/movie/75834
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=15813
         # imdb: https://www.imdb.com/title/tt0110019
-    
+
     "Hercules in the Maze of the Minotaur (1994)":
         year: 1994
         title: "Hercules in the Maze of the Minotaur"
-        alt_title: "Hercules in the Maze of the Minotaur (1994)"
-        orig_title: "Hercules in the Maze of the Minotaur"
-        sort_title: "Hercules in the Maze of the Minotaur"
-        
+        match:
+          mapping_id: 70811
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0110018, tmdb://70811, tvdb://28373
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules+in+the+Maze+of+the+Minotaur&category=Movies&year_filter=equals&yone=1994&tmdb_id=70811&imdb_id=tt0110018&tvdb_id=28373
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%20in%20the%20Maze%20of%20the%20Minotaur&category=Movies&year_filter=equals&yone=1994&tmdb_id=70811&imdb_id=tt0110018&tvdb_id=28373
         # tmdb: https://www.themoviedb.org/movie/70811
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=28373
         # imdb: https://www.imdb.com/title/tt0110018
-    

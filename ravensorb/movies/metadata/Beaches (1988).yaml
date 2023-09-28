@@ -2,14 +2,11 @@ metadata:
     "Beaches (1988)":
         year: 1988
         title: "Beaches"
-        alt_title: "Beaches (1988)"
-        orig_title: "Beaches"
-        sort_title: "Beaches"
-        
+        match:
+          mapping_id: 15592
         url_poster: https://theposterdb.com/api/assets/206456
         # IDs: imdb://tt0094715, tmdb://15592, tvdb://7951
         # tpdb: https://theposterdb.com/search/advanced/results?term=Beaches&category=Movies&year_filter=equals&yone=1988&tmdb_id=15592&imdb_id=tt0094715&tvdb_id=7951
         # tmdb: https://www.themoviedb.org/movie/15592
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=7951
         # imdb: https://www.imdb.com/title/tt0094715
-    

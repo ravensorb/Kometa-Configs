@@ -1,0 +1,15 @@
+metadata:    
+    "Firefly (2002)":
+        year: 2002
+        title: "Firefly"
+        url_poster: https://theposterdb.com/api/assets/185523
+        match:
+          mapping_id: 78874
+        # IDs: imdb://tt0303461, tmdb://1437, tvdb://78874
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Firefly&category=Shows&year_filter=equals&yone=2002&tmdb_id=1437&imdb_id=tt0303461&tvdb_id=78874
+        # tmdb: https://www.themoviedb.org/tv/1437
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2002&query=78874
+        # imdb: https://www.imdb.com/title/tt0303461
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/253228

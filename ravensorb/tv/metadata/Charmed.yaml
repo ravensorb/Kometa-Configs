@@ -1,19 +1,16 @@
-metadata:
+metadata:    
     "Charmed (1998)":
         year: 1998
         title: "Charmed"
-        alt_title: "Charmed (1998)"
-        orig_title: "Charmed"
-        sort_title: "Charmed"
         url_poster: https://theposterdb.com/api/assets/363960
+        match:
+          mapping_id: 70626
         # IDs: imdb://tt0158552, tmdb://1981, tvdb://70626
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed&category=Shows&year_filter=equals&yone=1998&tmdb_id=1981&imdb_id=tt0158552&tvdb_id=70626
         # tmdb: https://www.themoviedb.org/tv/1981
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=70626
         # imdb: https://www.imdb.com/title/tt0158552
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/363961
             1:
                 url_poster: https://theposterdb.com/api/assets/363962
             2:
@@ -30,16 +27,16 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363968
             8:
                 url_poster: https://theposterdb.com/api/assets/363969
-
+    
     "Charmed (2018)":
         year: 2018
         title: "Charmed"
-        alt_title: "Charmed (2018)"
-        orig_title: "Charmed"
         sort_title: "Charmed (2018)"
         url_poster: https://theposterdb.com/api/assets/380152
+        match:
+          mapping_id: 349317
         # IDs: imdb://tt6394324, tmdb://79611, tvdb://349317
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed+%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=79611&imdb_id=tt6394324&tvdb_id=349317
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed&category=Shows&year_filter=equals&yone=2018&tmdb_id=79611&imdb_id=tt6394324&tvdb_id=349317
         # tmdb: https://www.themoviedb.org/tv/79611
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=349317
         # imdb: https://www.imdb.com/title/tt6394324

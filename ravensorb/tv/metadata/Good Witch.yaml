@@ -1,0 +1,29 @@
+metadata:    
+    "Good Witch (2015)":
+        year: 2015
+        title: "Good Witch"
+        # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 289855
+        # IDs: imdb://tt3906732, tmdb://61864, tvdb://289855
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Good%20Witch&category=Shows&year_filter=equals&yone=2015&tmdb_id=61864&imdb_id=tt3906732&tvdb_id=289855
+        # tmdb: https://www.themoviedb.org/tv/61864
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=289855
+        # imdb: https://www.imdb.com/title/tt3906732
+        # seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/

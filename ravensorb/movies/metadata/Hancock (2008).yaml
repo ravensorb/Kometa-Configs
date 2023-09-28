@@ -2,6 +2,8 @@ metadata:
     "Hancock (2008)":
         year: 2008
         title: "Hancock"
+        match:
+          mapping_id: 8960
         url_poster: https://theposterdb.com/api/assets/171829
         # IDs: imdb://tt0448157, tmdb://8960, tvdb://1168
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hancock&category=Movies&year_filter=equals&yone=2008&tmdb_id=8960&imdb_id=tt0448157&tvdb_id=1168

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Maverick (1957)":
         year: 1957
         title: "Maverick"
-        alt_title: "Maverick (1957)"
-        orig_title: "Maverick"
-        sort_title: "Maverick"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 70443
         # IDs: imdb://tt0050037, tmdb://953, tvdb://70443
         # tpdb: https://theposterdb.com/search/advanced/results?term=Maverick&category=Shows&year_filter=equals&yone=1957&tmdb_id=953&imdb_id=tt0050037&tvdb_id=70443
         # tmdb: https://www.themoviedb.org/tv/953

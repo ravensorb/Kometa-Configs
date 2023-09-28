@@ -1,6 +1,6 @@
 collections:
   "Robin Williams (Stand-Up)":
-    variables: { movie: "586571, 493100, 381276, 20211, 21586, 21585, 26621", poster: https://theposterdb.com/api/assets/278010 }
+    variables: { movie: "493100, 586571, 381276, 21586, 21585, 26621, 20211", poster: https://theposterdb.com/api/assets/278010 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Declared to be the funniest Robin Williams video made, this is a don't-miss comedy.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Robin+Williams+%28Stand-Up%29&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Robin%20Williams%20%28Stand-Up%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Robin%20Williams%20%28Stand-Up%29%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Robin%20Williams%20%28Stand-Up%29
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Robin%20Williams%20%28Stand-Up%29

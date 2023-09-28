@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Masters of Science Fiction (2007)":
         year: 2007
         title: "Masters of Science Fiction"
-        alt_title: "Masters of Science Fiction (2007)"
-        orig_title: "Masters of Science Fiction"
-        sort_title: "Masters of Science Fiction"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 80415
         # IDs: imdb://tt0772139, tmdb://3962, tvdb://80415
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Masters+of+Science+Fiction&category=Shows&year_filter=equals&yone=2007&tmdb_id=3962&imdb_id=tt0772139&tvdb_id=80415
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Masters%20of%20Science%20Fiction&category=Shows&year_filter=equals&yone=2007&tmdb_id=3962&imdb_id=tt0772139&tvdb_id=80415
         # tmdb: https://www.themoviedb.org/tv/3962
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80415
         # imdb: https://www.imdb.com/title/tt0772139

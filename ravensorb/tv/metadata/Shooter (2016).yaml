@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Shooter (2016)":
         year: 2016
         title: "Shooter"
-        alt_title: "Shooter (2016)"
-        orig_title: "Shooter"
-        sort_title: "Shooter"
         url_poster: https://theposterdb.com/api/assets/243444
+        match:
+          mapping_id: 311900
         # IDs: imdb://tt4181172, tmdb://66857, tvdb://311900
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shooter&category=Shows&year_filter=equals&yone=2016&tmdb_id=66857&imdb_id=tt4181172&tvdb_id=311900
         # tmdb: https://www.themoviedb.org/tv/66857

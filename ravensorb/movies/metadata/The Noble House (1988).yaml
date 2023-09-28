@@ -1,15 +1,15 @@
 metadata:
-    "The Noble House (1988)":
+    "Noble House (1988)":
         year: 1988
-        title: "The Noble House"
-        alt_title: "The Noble House (1988)"
-        orig_title: "The Noble House"
-        sort_title: "Noble House"
-        
+        title: "Noble House"
+        match:
+            mapping_id: 13841
+            title: 
+                - The Noble House
+                - Noble House
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Noble+House&category=Movies&year_filter=equals&yone=1988
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Noble%20House&category=Movies&year_filter=equals&yone=1988
         # tmdb: 
         # tvdb: 
         # imdb: 
-    

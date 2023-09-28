@@ -1,0 +1,95 @@
+metadata:    
+    "Stargate SG-1 (1997)":
+        year: 1997
+        title: "Stargate SG-1"
+        orig_title: "Stargate SG 1"
+        sort_title: "Stargate SG-1 (1997)"
+        url_poster: https://theposterdb.com/api/assets/228947
+        match:
+          mapping_id: 72449
+        # IDs: imdb://tt0118480, tmdb://4629, tvdb://72449
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20SG-1&category=Shows&year_filter=equals&yone=1997&tmdb_id=4629&imdb_id=tt0118480&tvdb_id=72449
+        # tmdb: https://www.themoviedb.org/tv/4629
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1997&query=72449
+        # imdb: https://www.imdb.com/title/tt0118480
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/228948
+            1:
+                url_poster: https://theposterdb.com/api/assets/228949
+            2:
+                url_poster: https://theposterdb.com/api/assets/228950
+            3:
+                url_poster: https://theposterdb.com/api/assets/228951
+            4:
+                url_poster: https://theposterdb.com/api/assets/228952
+            5:
+                url_poster: https://theposterdb.com/api/assets/228953
+            6:
+                url_poster: https://theposterdb.com/api/assets/228954
+            7:
+                url_poster: https://theposterdb.com/api/assets/228955
+            8:
+                url_poster: https://theposterdb.com/api/assets/228956
+            9:
+                url_poster: https://theposterdb.com/api/assets/228957
+            10:
+                url_poster: https://theposterdb.com/api/assets/228958
+    
+    "Stargate Atlantis (2004)":
+        year: 2004
+        title: "Stargate Atlantis"
+        sort_title: "Stargate Atlantis (2004)"
+        url_poster: https://theposterdb.com/api/assets/228935
+        match:
+          mapping_id: 70851
+        # IDs: imdb://tt0374455, tmdb://2290, tvdb://70851
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Atlantis&category=Shows&year_filter=equals&yone=2004&tmdb_id=2290&imdb_id=tt0374455&tvdb_id=70851
+        # tmdb: https://www.themoviedb.org/tv/2290
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2004&query=70851
+        # imdb: https://www.imdb.com/title/tt0374455
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/228937
+            2:
+                url_poster: https://theposterdb.com/api/assets/228938
+            3:
+                url_poster: https://theposterdb.com/api/assets/228939
+            4:
+                url_poster: https://theposterdb.com/api/assets/228940
+            5:
+                url_poster: https://theposterdb.com/api/assets/228941
+    
+    "Stargate Universe (2009)":
+        year: 2009
+        title: "Stargate Universe"
+        sort_title: "Stargate Universe (2009)"
+        url_poster: https://theposterdb.com/api/assets/228959
+        match:
+          mapping_id: 83237
+        # IDs: imdb://tt1286039, tmdb://5148, tvdb://83237
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Universe&category=Shows&year_filter=equals&yone=2009&tmdb_id=5148&imdb_id=tt1286039&tvdb_id=83237
+        # tmdb: https://www.themoviedb.org/tv/5148
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=83237
+        # imdb: https://www.imdb.com/title/tt1286039
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/228961
+            2:
+                url_poster: https://theposterdb.com/api/assets/228962
+    
+    "Stargate Origins (2018)":
+        year: 2018
+        title: "Stargate Origins"
+        sort_title: "Stargate Origins (2018)"
+        url_poster: https://theposterdb.com/api/assets/228944
+        match:
+          mapping_id: 339552
+        # IDs: imdb://tt7161862, tmdb://72925, tvdb://339552
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Origins&category=Shows&year_filter=equals&yone=2018&tmdb_id=72925&imdb_id=tt7161862&tvdb_id=339552
+        # tmdb: https://www.themoviedb.org/tv/72925
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=339552
+        # imdb: https://www.imdb.com/title/tt7161862
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/228946

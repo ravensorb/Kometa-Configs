@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Leonardo (2011)":
         year: 2011
         title: "Leonardo"
-        alt_title: "Leonardo (2011)"
-        orig_title: "Leonardo"
-        sort_title: "Leonardo"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 248073
         # IDs: imdb://tt1745588, tmdb://39888, tvdb://248073
         # tpdb: https://theposterdb.com/search/advanced/results?term=Leonardo&category=Shows&year_filter=equals&yone=2011&tmdb_id=39888&imdb_id=tt1745588&tvdb_id=248073
         # tmdb: https://www.themoviedb.org/tv/39888

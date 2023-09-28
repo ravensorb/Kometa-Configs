@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Lost (2004)":
         year: 2004
         title: "Lost"
-        alt_title: "Lost (2004)"
-        orig_title: "Lost"
-        sort_title: "Lost"
         url_poster: https://theposterdb.com/api/assets/278597
+        match:
+          mapping_id: 73739
         # IDs: imdb://tt0411008, tmdb://4607, tvdb://73739
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lost&category=Shows&year_filter=equals&yone=2004&tmdb_id=4607&imdb_id=tt0411008&tvdb_id=73739
         # tmdb: https://www.themoviedb.org/tv/4607

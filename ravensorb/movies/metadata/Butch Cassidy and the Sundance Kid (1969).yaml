@@ -2,14 +2,11 @@ metadata:
     "Butch Cassidy and the Sundance Kid (1969)":
         year: 1969
         title: "Butch Cassidy and the Sundance Kid"
-        alt_title: "Butch Cassidy and the Sundance Kid (1969)"
-        orig_title: "Butch Cassidy and the Sundance Kid"
-        sort_title: "Butch Cassidy and the Sundance Kid"
-        
+        match:
+          mapping_id: 642
         url_poster: https://theposterdb.com/api/assets/207464
         # IDs: imdb://tt0064115, tmdb://642, tvdb://1049
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Butch+Cassidy+and+the+Sundance+Kid&category=Movies&year_filter=equals&yone=1969&tmdb_id=642&imdb_id=tt0064115&tvdb_id=1049
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Butch%20Cassidy%20and%20the%20Sundance%20Kid&category=Movies&year_filter=equals&yone=1969&tmdb_id=642&imdb_id=tt0064115&tvdb_id=1049
         # tmdb: https://www.themoviedb.org/movie/642
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1969&query=1049
         # imdb: https://www.imdb.com/title/tt0064115
-    

@@ -1,6 +1,6 @@
 collections:
   "Quantum Leap":
-    variables: { show: "4018, 202102", poster: https://theposterdb.com/api/assets/272440 }
+    variables: { show: "202102, 4018", poster: https://theposterdb.com/api/assets/272440 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Theorizing that one could time travel within his own lifetime, Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished... He woke to find himself trapped in the past, facing mirror images that were not his own and driven by an unknown force to change history for the better. His only guide on this journey is Al, an observer from his own time, who appears in the form of a hologram that only Sam can see and hear. And so Dr. Beckett finds himself leaping from life to life, striving to put right what once went wrong and hoping each time that his next leap will be the leap home.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum+Leap&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum%20Leap&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Quantum%20Leap%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Quantum%20Leap
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Quantum%20Leap

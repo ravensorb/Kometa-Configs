@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Inspector Morse (1987)":
         year: 1987
         title: "Inspector Morse"
-        alt_title: "Inspector Morse (1987)"
-        orig_title: "Inspector Morse"
-        sort_title: "Inspector Morse"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 76582
         # IDs: imdb://tt0092379, tmdb://3476, tvdb://76582
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Inspector+Morse&category=Shows&year_filter=equals&yone=1987&tmdb_id=3476&imdb_id=tt0092379&tvdb_id=76582
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Inspector%20Morse&category=Shows&year_filter=equals&yone=1987&tmdb_id=3476&imdb_id=tt0092379&tvdb_id=76582
         # tmdb: https://www.themoviedb.org/tv/3476
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1987&query=76582
         # imdb: https://www.imdb.com/title/tt0092379

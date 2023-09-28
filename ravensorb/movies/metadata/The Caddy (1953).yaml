@@ -2,14 +2,12 @@ metadata:
     "The Caddy (1953)":
         year: 1953
         title: "The Caddy"
-        alt_title: "The Caddy (1953)"
-        orig_title: "The Caddy"
         sort_title: "Caddy"
-        
+        match:
+          mapping_id: 44747
         url_poster: https://theposterdb.com/api/assets/189018
         # IDs: imdb://tt0045589, tmdb://44747, tvdb://41012
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Caddy&category=Movies&year_filter=equals&yone=1953&tmdb_id=44747&imdb_id=tt0045589&tvdb_id=41012
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Caddy&category=Movies&year_filter=equals&yone=1953&tmdb_id=44747&imdb_id=tt0045589&tvdb_id=41012
         # tmdb: https://www.themoviedb.org/movie/44747
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1953&query=41012
         # imdb: https://www.imdb.com/title/tt0045589
-    

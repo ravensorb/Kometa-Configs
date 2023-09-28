@@ -2,14 +2,12 @@ metadata:
     "The Rendezvous (2017)":
         year: 2017
         title: "The Rendezvous"
-        alt_title: "The Rendezvous (2017)"
-        orig_title: "The Rendezvous"
         sort_title: "Rendezvous"
-        
+        match:
+          mapping_id: 347872
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt4827878, tmdb://347872, tvdb://111306
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Rendezvous&category=Movies&year_filter=equals&yone=2017&tmdb_id=347872&imdb_id=tt4827878&tvdb_id=111306
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Rendezvous&category=Movies&year_filter=equals&yone=2017&tmdb_id=347872&imdb_id=tt4827878&tvdb_id=111306
         # tmdb: https://www.themoviedb.org/movie/347872
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=111306
         # imdb: https://www.imdb.com/title/tt4827878
-    

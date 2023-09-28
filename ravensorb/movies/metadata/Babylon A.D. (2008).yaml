@@ -2,14 +2,11 @@ metadata:
     "Babylon A.D. (2008)":
         year: 2008
         title: "Babylon A.D."
-        alt_title: "Babylon A.D. (2008)"
-        orig_title: "Babylon A.D."
-        sort_title: "Babylon A.D."
-        
+        match:
+          mapping_id: 9381
         url_poster: https://theposterdb.com/api/assets/185357
         # IDs: imdb://tt0364970, tmdb://9381, tvdb://3677
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+A.D.&category=Movies&year_filter=equals&yone=2008&tmdb_id=9381&imdb_id=tt0364970&tvdb_id=3677
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%20A.D.&category=Movies&year_filter=equals&yone=2008&tmdb_id=9381&imdb_id=tt0364970&tvdb_id=3677
         # tmdb: https://www.themoviedb.org/movie/9381
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=3677
         # imdb: https://www.imdb.com/title/tt0364970
-    

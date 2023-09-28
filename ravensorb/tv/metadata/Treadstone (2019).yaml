@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Treadstone (2019)":
         year: 2019
         title: "Treadstone"
-        alt_title: "Treadstone (2019)"
-        orig_title: "Treadstone"
-        sort_title: "Treadstone"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 366090
         # IDs: imdb://tt8289480, tmdb://83949, tvdb://366090
         # tpdb: https://theposterdb.com/search/advanced/results?term=Treadstone&category=Shows&year_filter=equals&yone=2019&tmdb_id=83949&imdb_id=tt8289480&tvdb_id=366090
         # tmdb: https://www.themoviedb.org/tv/83949

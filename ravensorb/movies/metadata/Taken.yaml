@@ -2,42 +2,35 @@ metadata:
     "Taken (2008)":
         year: 2008
         title: "Taken"
-        alt_title: "Taken (2008)"
-        orig_title: "Taken"
-        sort_title: "Taken"
-        
+        match:
+          mapping_id: 8681
         url_poster: https://theposterdb.com/api/assets/205751
         # IDs: imdb://tt0936501, tmdb://8681, tvdb://525
         # tpdb: https://theposterdb.com/search/advanced/results?term=Taken&category=Movies&year_filter=equals&yone=2008&tmdb_id=8681&imdb_id=tt0936501&tvdb_id=525
         # tmdb: https://www.themoviedb.org/movie/8681
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=525
         # imdb: https://www.imdb.com/title/tt0936501
-    
+
     "Taken 2 (2012)":
         year: 2012
         title: "Taken 2"
-        alt_title: "Taken 2 (2012)"
-        orig_title: "Taken 2"
-        sort_title: "Taken 2"
-        
+        match:
+          mapping_id: 82675
         url_poster: https://theposterdb.com/api/assets/205752
         # IDs: imdb://tt1397280, tmdb://82675, tvdb://1148
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Taken+2&category=Movies&year_filter=equals&yone=2012&tmdb_id=82675&imdb_id=tt1397280&tvdb_id=1148
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Taken%202&category=Movies&year_filter=equals&yone=2012&tmdb_id=82675&imdb_id=tt1397280&tvdb_id=1148
         # tmdb: https://www.themoviedb.org/movie/82675
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=1148
         # imdb: https://www.imdb.com/title/tt1397280
-    
+
     "Taken 3 (2015)":
         year: 2015
         title: "Taken 3"
-        alt_title: "Taken 3 (2015)"
-        orig_title: "Taken 3"
-        sort_title: "Taken 3"
-        
+        match:
+          mapping_id: 260346
         url_poster: https://theposterdb.com/api/assets/205753
         # IDs: imdb://tt2446042, tmdb://260346, tvdb://254
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Taken+3&category=Movies&year_filter=equals&yone=2015&tmdb_id=260346&imdb_id=tt2446042&tvdb_id=254
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Taken%203&category=Movies&year_filter=equals&yone=2015&tmdb_id=260346&imdb_id=tt2446042&tvdb_id=254
         # tmdb: https://www.themoviedb.org/movie/260346
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=254
         # imdb: https://www.imdb.com/title/tt2446042
-    

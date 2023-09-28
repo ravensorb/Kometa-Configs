@@ -1,0 +1,13 @@
+metadata:
+    "The Country Girl (2019)":
+        year: 2019
+        title: "The Country Girl"
+        sort_title: "Country Girl"
+        match:
+          mapping_id: tt0342110
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0342110
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Country%20Girl&category=Movies&year_filter=equals&yone=2019&imdb_id=tt0342110
+        # tmdb: 
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0342110

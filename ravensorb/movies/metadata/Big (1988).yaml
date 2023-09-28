@@ -2,14 +2,11 @@ metadata:
     "Big (1988)":
         year: 1988
         title: "Big"
-        alt_title: "Big (1988)"
-        orig_title: "Big"
-        sort_title: "Big"
-        
+        match:
+          mapping_id: 2280
         url_poster: https://theposterdb.com/api/assets/187725
         # IDs: imdb://tt0094737, tmdb://2280, tvdb://1973
         # tpdb: https://theposterdb.com/search/advanced/results?term=Big&category=Movies&year_filter=equals&yone=1988&tmdb_id=2280&imdb_id=tt0094737&tvdb_id=1973
         # tmdb: https://www.themoviedb.org/movie/2280
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=1973
         # imdb: https://www.imdb.com/title/tt0094737
-    

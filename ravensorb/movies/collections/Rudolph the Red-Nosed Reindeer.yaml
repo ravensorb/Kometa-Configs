@@ -1,6 +1,6 @@
 collections:
   "Rudolph the Red-Nosed Reindeer":
-    variables: { movie: "13382, 40246, 30059", poster: https://theposterdb.com/api/assets/313834 }
+    variables: { movie: "40246, 13382, 30059", poster: https://theposterdb.com/api/assets/313834 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       The collection of Christmas classic movies featuring everyone's favorite one of Santa's reindeer.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph+the+Red-Nosed+Reindeer&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph%20the%20Red-Nosed%20Reindeer&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Rudolph%20the%20Red-Nosed%20Reindeer%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Rudolph%20the%20Red-Nosed%20Reindeer
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Rudolph%20the%20Red-Nosed%20Reindeer

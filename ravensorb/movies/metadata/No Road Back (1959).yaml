@@ -2,14 +2,11 @@ metadata:
     "No Road Back (1959)":
         year: 1959
         title: "No Road Back"
-        alt_title: "No Road Back (1959)"
-        orig_title: "No Road Back"
-        sort_title: "No Road Back"
-        
+        match:
+          mapping_id: 408526
         url_poster: https://theposterdb.com/api/assets/352053
         # IDs: imdb://tt0050772, tmdb://408526, tvdb://321955
-        # tpdb: https://theposterdb.com/search/advanced/results?term=No+Road+Back&category=Movies&year_filter=equals&yone=1959&tmdb_id=408526&imdb_id=tt0050772&tvdb_id=321955
+        # tpdb: https://theposterdb.com/search/advanced/results?term=No%20Road%20Back&category=Movies&year_filter=equals&yone=1959&tmdb_id=408526&imdb_id=tt0050772&tvdb_id=321955
         # tmdb: https://www.themoviedb.org/movie/408526
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1959&query=321955
         # imdb: https://www.imdb.com/title/tt0050772
-    

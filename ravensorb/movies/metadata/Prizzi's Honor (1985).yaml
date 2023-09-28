@@ -2,14 +2,11 @@ metadata:
     "Prizzi's Honor (1985)":
         year: 1985
         title: "Prizzi's Honor"
-        alt_title: "Prizzi's Honor (1985)"
-        orig_title: "Prizzi's Honor"
-        sort_title: "Prizzi's Honor"
-        
+        match:
+          mapping_id: 2075
         url_poster: https://theposterdb.com/api/assets/224172
         # IDs: imdb://tt0089841, tmdb://2075, tvdb://7286
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Prizzi%27s+Honor&category=Movies&year_filter=equals&yone=1985&tmdb_id=2075&imdb_id=tt0089841&tvdb_id=7286
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Prizzi%27s%20Honor&category=Movies&year_filter=equals&yone=1985&tmdb_id=2075&imdb_id=tt0089841&tvdb_id=7286
         # tmdb: https://www.themoviedb.org/movie/2075
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=7286
         # imdb: https://www.imdb.com/title/tt0089841
-    

@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Lupin (2021)":
         year: 2021
         title: "Lupin"
-        alt_title: "Lupin (2021)"
-        orig_title: "Lupin"
-        sort_title: "Lupin"
         url_poster: https://theposterdb.com/api/assets/337631
+        match:
+          mapping_id: 375921
         # IDs: imdb://tt2531336, tmdb://96677, tvdb://375921
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lupin&category=Shows&year_filter=equals&yone=2021&tmdb_id=96677&imdb_id=tt2531336&tvdb_id=375921
         # tmdb: https://www.themoviedb.org/tv/96677

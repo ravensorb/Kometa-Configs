@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "MythBusters (2003)":
         year: 2003
         title: "MythBusters"
         url_poster: https://theposterdb.com/api/assets/411453-
+        match:
+          mapping_id: 73388
         # IDs: imdb://tt0383126, tmdb://1428, tvdb://73388
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters&category=Shows&year_filter=equals&yone=2003&tmdb_id=1428&imdb_id=tt0383126&tvdb_id=73388
         # tmdb: https://www.themoviedb.org/tv/1428
@@ -43,26 +45,30 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/411469
             2018:
                 url_poster: https://theposterdb.com/api/assets/411470
-
+    
     "MythBusters: The Search (2017)":
         year: 2017
         title: "MythBusters: The Search"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 320910
         # IDs: imdb://tt5612722, tmdb://69144, tvdb://320910
-        # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%3A+The+Search&category=Shows&year_filter=equals&yone=2017&tmdb_id=69144&imdb_id=tt5612722&tvdb_id=320910
+        # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%3A%20The%20Search&category=Shows&year_filter=equals&yone=2017&tmdb_id=69144&imdb_id=tt5612722&tvdb_id=320910
         # tmdb: https://www.themoviedb.org/tv/69144
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=320910
         # imdb: https://www.imdb.com/title/tt5612722
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-
+    
     "MythBusters Jr. (2019)":
         year: 2019
         title: "MythBusters Jr."
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 350679
         # IDs: imdb://tt8265286, tmdb://85200, tvdb://350679
-        # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters+Jr.&category=Shows&year_filter=equals&yone=2019&tmdb_id=85200&imdb_id=tt8265286&tvdb_id=350679
+        # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%20Jr.&category=Shows&year_filter=equals&yone=2019&tmdb_id=85200&imdb_id=tt8265286&tvdb_id=350679
         # tmdb: https://www.themoviedb.org/tv/85200
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=350679
         # imdb: https://www.imdb.com/title/tt8265286

@@ -1,6 +1,6 @@
 collections:
-   "Star Wars":
-    variables: { poster: https://theposterdb.com/api/assets/244730 }
+  "Star Wars":
+    variables: { show: "115036, 82856, 203085, 83867, 114461, 92830, 4194", poster: https://theposterdb.com/api/assets/244730 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,14 +8,14 @@ collections:
     ]
     summary: |
       Star Wars
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Wars&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Wars%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Wars
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Star%20Wars
     # trakt: https://trakt.tv/search/lists?query=Star%20Wars
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/star-wars?sort=released,desc  
+       - https://trakt.tv/users/ravensorb/lists/star-wars?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

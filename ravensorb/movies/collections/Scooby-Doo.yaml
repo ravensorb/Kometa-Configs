@@ -1,6 +1,6 @@
 collections:
   "Scooby-Doo":
-    variables: { movie: "260825, 489939, 12902, 37211, 13354, 13355, 13350, 21956, 24615, 287757, 13351, 24787, 30074, 20558, 16390, 295421, 12903", poster: https://theposterdb.com/api/assets/161874 }
+    variables: { movie: "295421, 12903, 489939, 13350, 287757, 24787, 260825, 13354, 21956, 13355, 16390, 24615, 20558, 13351, 12902, 30074, 37211", poster: https://theposterdb.com/api/assets/161874 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

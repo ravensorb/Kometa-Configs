@@ -1,6 +1,6 @@
 collections:
   "Ocean's":
-    variables: { movie: "163, 299, 298, 161", poster: https://theposterdb.com/api/assets/95346 }
+    variables: { movie: "299, 161, 163, 298", poster: https://theposterdb.com/api/assets/95346 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

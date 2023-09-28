@@ -1,19 +1,16 @@
-metadata:
+metadata:    
     "Happy Days (1974)":
         year: 1974
         title: "Happy Days"
-        alt_title: "Happy Days (1974)"
-        orig_title: "Happy Days"
-        sort_title: "Happy Days"
         url_poster: https://theposterdb.com/api/assets/356819
+        match:
+          mapping_id: 74475
         # IDs: imdb://tt0070992, tmdb://3845, tvdb://74475
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Happy+Days&category=Shows&year_filter=equals&yone=1974&tmdb_id=3845&imdb_id=tt0070992&tvdb_id=74475
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Happy%20Days&category=Shows&year_filter=equals&yone=1974&tmdb_id=3845&imdb_id=tt0070992&tvdb_id=74475
         # tmdb: https://www.themoviedb.org/tv/3845
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1974&query=74475
         # imdb: https://www.imdb.com/title/tt0070992
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/356820
             1:
                 url_poster: https://theposterdb.com/api/assets/356821
             2:

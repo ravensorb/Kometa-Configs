@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Shetland (2013)":
         year: 2013
         title: "Shetland"
-        alt_title: "Shetland (2013)"
-        orig_title: "Shetland"
-        sort_title: "Shetland"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 261109
         # IDs: imdb://tt2396135, tmdb://46923, tvdb://261109
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shetland&category=Shows&year_filter=equals&yone=2013&tmdb_id=46923&imdb_id=tt2396135&tvdb_id=261109
         # tmdb: https://www.themoviedb.org/tv/46923

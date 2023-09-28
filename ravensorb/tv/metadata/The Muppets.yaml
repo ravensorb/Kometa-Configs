@@ -1,52 +1,47 @@
-metadata:
-    "The Muppet Show (1968)":
-        year: 1968
-        title: "The Muppet Show"
-        alt_title: "The Muppet Show (1968)"
-        orig_title: "The Muppet Show"
-        sort_title: "Muppet Show"
-        url_poster: https://theposterdb.com/api/assets/262572
-        # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppet+Show&category=Shows&year_filter=equals&yone=1968
-        # tmdb: 
-        # tvdb: 
-        # imdb: 
-        seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/262510
-            1:
-                url_poster: https://theposterdb.com/api/assets/262511
-            2:
-                url_poster: https://theposterdb.com/api/assets/262512
-            3:
-                url_poster: https://theposterdb.com/api/assets/262513
-            4:
-                url_poster: https://theposterdb.com/api/assets/262514
-            5:
-                url_poster: https://theposterdb.com/api/assets/262515
-
-
+metadata:    
     "The Muppets (2015)":
         year: 2015
         title: "The Muppets"
-        alt_title: "The Muppets (2015)"
-        orig_title: "The Muppets"
         sort_title: "Muppets"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 295721
         # IDs: imdb://tt4651824, tmdb://62815, tvdb://295721
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Muppets&category=Shows&year_filter=equals&yone=2015&tmdb_id=62815&imdb_id=tt4651824&tvdb_id=295721
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppets&category=Shows&year_filter=equals&yone=2015&tmdb_id=62815&imdb_id=tt4651824&tvdb_id=295721
         # tmdb: https://www.themoviedb.org/tv/62815
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=295721
         # imdb: https://www.imdb.com/title/tt4651824
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-
-
+    
+    "Muppets Now (2020)":
+        year: 2020
+        title: "Muppets Now"
+        # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 368781
+        # IDs: imdb://tt10857210, tmdb://92824, tvdb://368781
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Muppets%20Now&category=Shows&year_filter=equals&yone=2020&tmdb_id=92824&imdb_id=tt10857210&tvdb_id=368781
+        # tmdb: https://www.themoviedb.org/tv/92824
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=368781
+        # imdb: https://www.imdb.com/title/tt10857210
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+    
     "The Muppets Mayhem (2023)":
         year: 2023
         title: "The Muppets Mayhem"
+        sort_title: "Muppets Mayhem"
         url_poster: https://theposterdb.com/api/assets/360007
+        match:
+          mapping_id: 417543
+        # IDs: imdb://tt18545980, tmdb://194573, tvdb://417543
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppets%20Mayhem&category=Shows&year_filter=equals&yone=2023&tmdb_id=194573&imdb_id=tt18545980&tvdb_id=417543
+        # tmdb: https://www.themoviedb.org/tv/194573
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=417543
+        # imdb: https://www.imdb.com/title/tt18545980
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/360008

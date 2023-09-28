@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "Funny Woman (2023)":
         year: 2023
         title: "Funny Woman"
-        alt_title: "Funny Woman (2023)"
-        orig_title: "Funny Woman"
         sort_title: "Funny Woman (2023)"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 421805
         # IDs: imdb://tt15309272, tmdb://156644, tvdb://421805
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Funny+Woman+%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=156644&imdb_id=tt15309272&tvdb_id=421805
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Funny%20Woman&category=Shows&year_filter=equals&yone=2023&tmdb_id=156644&imdb_id=tt15309272&tvdb_id=421805
         # tmdb: https://www.themoviedb.org/tv/156644
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=421805
         # imdb: https://www.imdb.com/title/tt15309272

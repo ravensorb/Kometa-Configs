@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Emergence (2019)":
         year: 2019
         title: "Emergence"
-        alt_title: "Emergence (2019)"
-        orig_title: "Emergence"
-        sort_title: "Emergence"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 354963
         # IDs: imdb://tt9169658, tmdb://91962, tvdb://354963
         # tpdb: https://theposterdb.com/search/advanced/results?term=Emergence&category=Shows&year_filter=equals&yone=2019&tmdb_id=91962&imdb_id=tt9169658&tvdb_id=354963
         # tmdb: https://www.themoviedb.org/tv/91962

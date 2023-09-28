@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "First Wave (1998)":
         year: 1998
         title: "First Wave"
-        alt_title: "First Wave (1998)"
-        orig_title: "First Wave"
-        sort_title: "First Wave"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 74476
         # IDs: imdb://tt0160277, tmdb://2203, tvdb://74476
-        # tpdb: https://theposterdb.com/search/advanced/results?term=First+Wave&category=Shows&year_filter=equals&yone=1998&tmdb_id=2203&imdb_id=tt0160277&tvdb_id=74476
+        # tpdb: https://theposterdb.com/search/advanced/results?term=First%20Wave&category=Shows&year_filter=equals&yone=1998&tmdb_id=2203&imdb_id=tt0160277&tvdb_id=74476
         # tmdb: https://www.themoviedb.org/tv/2203
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=74476
         # imdb: https://www.imdb.com/title/tt0160277

@@ -1,10 +1,13 @@
-metadata:
+metadata:    
     "The Capture (2019)":
         year: 2019
         title: "The Capture"
+        sort_title: "Capture"
         url_poster: https://theposterdb.com/api/assets/382661
+        match:
+          mapping_id: 354800
         # IDs: imdb://tt8201186, tmdb://93166, tvdb://354800
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Capture&category=Shows&year_filter=equals&yone=2019&tmdb_id=93166&imdb_id=tt8201186&tvdb_id=354800
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Capture&category=Shows&year_filter=equals&yone=2019&tmdb_id=93166&imdb_id=tt8201186&tvdb_id=354800
         # tmdb: https://www.themoviedb.org/tv/93166
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=354800
         # imdb: https://www.imdb.com/title/tt8201186

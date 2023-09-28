@@ -2,14 +2,12 @@ metadata:
     "The Debt (2011)":
         year: 2011
         title: "The Debt"
-        alt_title: "The Debt (2011)"
-        orig_title: "The Debt"
         sort_title: "Debt"
-        
+        match:
+          mapping_id: 48289
         url_poster: https://theposterdb.com/api/assets/213036
         # IDs: imdb://tt1226753, tmdb://48289, tvdb://6964
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Debt&category=Movies&year_filter=equals&yone=2011&tmdb_id=48289&imdb_id=tt1226753&tvdb_id=6964
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Debt&category=Movies&year_filter=equals&yone=2011&tmdb_id=48289&imdb_id=tt1226753&tvdb_id=6964
         # tmdb: https://www.themoviedb.org/movie/48289
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=6964
         # imdb: https://www.imdb.com/title/tt1226753
-    

@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "Salem (2014)":
         year: 2014
         title: "Salem"
         url_poster: https://theposterdb.com/api/assets/411321
+        match:
+          mapping_id: 274897
         # IDs: imdb://tt2963254, tmdb://60905, tvdb://274897
         # tpdb: https://theposterdb.com/search/advanced/results?term=Salem&category=Shows&year_filter=equals&yone=2014&tmdb_id=60905&imdb_id=tt2963254&tvdb_id=274897
         # tmdb: https://www.themoviedb.org/tv/60905

@@ -3,9 +3,11 @@ metadata:
         year: 1990
         title: "The Bonfire of the Vanities"
         sort_title: "Bonfire of the Vanities"
+        match:
+          mapping_id: 9586
         url_poster: https://theposterdb.com/api/assets/207025
         # IDs: imdb://tt0099165, tmdb://9586, tvdb://4288
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Bonfire+of+the+Vanities&category=Movies&year_filter=equals&yone=1990&tmdb_id=9586&imdb_id=tt0099165&tvdb_id=4288
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bonfire%20of%20the%20Vanities&category=Movies&year_filter=equals&yone=1990&tmdb_id=9586&imdb_id=tt0099165&tvdb_id=4288
         # tmdb: https://www.themoviedb.org/movie/9586
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1990&query=4288
         # imdb: https://www.imdb.com/title/tt0099165

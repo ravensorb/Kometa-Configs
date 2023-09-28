@@ -2,28 +2,23 @@ metadata:
     "Westworld (1973)":
         year: 1973
         title: "Westworld"
-        alt_title: "Westworld (1973)"
-        orig_title: "Westworld"
-        sort_title: "Westworld"
-        
+        match:
+          mapping_id: 2362
         url_poster: https://theposterdb.com/api/assets/187332
         # IDs: imdb://tt0070909, tmdb://2362, tvdb://6073
         # tpdb: https://theposterdb.com/search/advanced/results?term=Westworld&category=Movies&year_filter=equals&yone=1973&tmdb_id=2362&imdb_id=tt0070909&tvdb_id=6073
         # tmdb: https://www.themoviedb.org/movie/2362
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=6073
         # imdb: https://www.imdb.com/title/tt0070909
-    
+
     "Futureworld (1976)":
         year: 1976
         title: "Futureworld"
-        alt_title: "Futureworld (1976)"
-        orig_title: "Futureworld"
-        sort_title: "Futureworld"
-        
+        match:
+          mapping_id: 10640
         url_poster: https://theposterdb.com/api/assets/187333
         # IDs: imdb://tt0074559, tmdb://10640, tvdb://7408
         # tpdb: https://theposterdb.com/search/advanced/results?term=Futureworld&category=Movies&year_filter=equals&yone=1976&tmdb_id=10640&imdb_id=tt0074559&tvdb_id=7408
         # tmdb: https://www.themoviedb.org/movie/10640
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1976&query=7408
         # imdb: https://www.imdb.com/title/tt0074559
-    

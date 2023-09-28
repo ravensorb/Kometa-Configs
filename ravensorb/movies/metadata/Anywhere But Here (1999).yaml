@@ -2,14 +2,11 @@ metadata:
     "Anywhere But Here (1999)":
         year: 1999
         title: "Anywhere But Here"
-        alt_title: "Anywhere But Here (1999)"
-        orig_title: "Anywhere But Here"
-        sort_title: "Anywhere But Here"
-        
+        match:
+          mapping_id: 21349
         url_poster: https://theposterdb.com/api/assets/203879
         # IDs: imdb://tt0149691, tmdb://21349, tvdb://9226
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Anywhere+But+Here&category=Movies&year_filter=equals&yone=1999&tmdb_id=21349&imdb_id=tt0149691&tvdb_id=9226
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Anywhere%20But%20Here&category=Movies&year_filter=equals&yone=1999&tmdb_id=21349&imdb_id=tt0149691&tvdb_id=9226
         # tmdb: https://www.themoviedb.org/movie/21349
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=9226
         # imdb: https://www.imdb.com/title/tt0149691
-    

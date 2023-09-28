@@ -1,6 +1,6 @@
 collections:
   "Total Recall":
-    variables: { movie: "861, 64653", poster: https://theposterdb.com/api/assets/164125 }
+    variables: { movie: "64635, 861", poster: https://theposterdb.com/api/assets/164125 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,12 +8,12 @@ collections:
     ]
     summary: |
       Welcome to Rekall, the company that can turn your dreams into real memories. For a factory worker named Douglas Quaid, even though he's got a beautiful wife who he loves, the mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man. Finding himself on the run from the police - controlled by Chancellor Cohaagen, the leader of the free world - Quaid teams up with a rebel fighter to find the head of the underground resistance and stop Cohaagen. The line between fantasy and reality gets blurred and the fate of his world hangs in the balance as Quaid discovers his true identity, his true love, and his true fate.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Total+Recall&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Total%20Recall&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Total%20Recall%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Total%20Recall
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Total%20Recall
     # trakt: https://trakt.tv/search/lists?query=Total%20Recall
-    # collection_mode: hide
+    collection_mode: hide
     # trakt_list:
     #   -
 

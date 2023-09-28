@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Gunpowder (2017)":
         year: 2017
         title: "Gunpowder"
-        alt_title: "Gunpowder (2017)"
-        orig_title: "Gunpowder"
-        sort_title: "Gunpowder"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 334069
         # IDs: imdb://tt6128262, tmdb://73550, tvdb://334069
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gunpowder&category=Shows&year_filter=equals&yone=2017&tmdb_id=73550&imdb_id=tt6128262&tvdb_id=334069
         # tmdb: https://www.themoviedb.org/tv/73550

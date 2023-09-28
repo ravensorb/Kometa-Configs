@@ -1,13 +1,13 @@
-metadata:
+metadata:    
     "The Twilight Zone (1959)":
         year: 1959
         title: "The Twilight Zone"
-        alt_title: "The Twilight Zone (1959)"
-        orig_title: "The Twilight Zone"
         sort_title: "Twilight Zone"
         url_poster: https://theposterdb.com/api/assets/179766
+        match:
+          mapping_id: 73587
         # IDs: imdb://tt0052520, tmdb://6357, tvdb://73587
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone&category=Shows&year_filter=equals&yone=1959&tmdb_id=6357&imdb_id=tt0052520&tvdb_id=73587
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone&category=Shows&year_filter=equals&yone=1959&tmdb_id=6357&imdb_id=tt0052520&tvdb_id=73587
         # tmdb: https://www.themoviedb.org/tv/6357
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1959&query=73587
         # imdb: https://www.imdb.com/title/tt0052520
@@ -22,16 +22,17 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/238707
             5:
                 url_poster: https://theposterdb.com/api/assets/238708
-
+    
     "The Twilight Zone (1985)":
         year: 1985
         title: "The Twilight Zone (1985)"
-        alt_title: "The Twilight Zone (1985)"
         orig_title: "The Twilight Zone"
         sort_title: "Twilight Zone (1985)"
         url_poster: https://theposterdb.com/api/assets/362732
+        match:
+          mapping_id: 72176
         # IDs: imdb://tt0088634, tmdb://1918, tvdb://72176
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%281985%29&category=Shows&year_filter=equals&yone=1985&tmdb_id=1918&imdb_id=tt0088634&tvdb_id=72176
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone%20%281985%29&category=Shows&year_filter=equals&yone=1985&tmdb_id=1918&imdb_id=tt0088634&tvdb_id=72176
         # tmdb: https://www.themoviedb.org/tv/1918
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1985&query=72176
         # imdb: https://www.imdb.com/title/tt0088634
@@ -42,16 +43,16 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/362735
             3:
                 url_poster: https://theposterdb.com/api/assets/362736
-
+    
     "The Twilight Zone (2019)":
         year: 2019
         title: "The Twilight Zone (2019)"
-        alt_title: "The Twilight Zone (2019)"
-        orig_title: "The Twilight Zone (2019)"
         sort_title: "Twilight Zone (2019)"
         url_poster: https://theposterdb.com/api/assets/179767
+        match:
+          mapping_id: 358915
         # IDs: imdb://tt2583620, tmdb://83135, tvdb://358915
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Twilight+Zone+%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=83135&imdb_id=tt2583620&tvdb_id=358915
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=83135&imdb_id=tt2583620&tvdb_id=358915
         # tmdb: https://www.themoviedb.org/tv/83135
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=358915
         # imdb: https://www.imdb.com/title/tt2583620

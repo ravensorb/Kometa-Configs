@@ -2,10 +2,8 @@ metadata:
     "Parker (2013)":
         year: 2013
         title: "Parker"
-        alt_title: "Parker (2013)"
-        orig_title: "Parker"
-        sort_title: "Parker"
-        
+        match:
+          mapping_id: 119283
         url_poster: https://theposterdb.com/api/assets/208903
         # IDs: imdb://tt1904996, tmdb://119283, tvdb://2596
         # tpdb: https://theposterdb.com/search/advanced/results?term=Parker&category=Movies&year_filter=equals&yone=2013&tmdb_id=119283&imdb_id=tt1904996&tvdb_id=2596

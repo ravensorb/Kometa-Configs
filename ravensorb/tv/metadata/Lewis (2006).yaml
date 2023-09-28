@@ -3,6 +3,8 @@ metadata:
         year: 2006
         title: "Lewis"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 79864
         # IDs: imdb://tt0874608, tmdb://2343, tvdb://79864
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lewis&category=Shows&year_filter=equals&yone=2006&tmdb_id=2343&imdb_id=tt0874608&tvdb_id=79864
         # tmdb: https://www.themoviedb.org/tv/2343

@@ -2,14 +2,11 @@ metadata:
     "Gentleman's Agreement (1947)":
         year: 1947
         title: "Gentleman's Agreement"
-        alt_title: "Gentleman's Agreement (1947)"
-        orig_title: "Gentleman's Agreement"
-        sort_title: "Gentleman's Agreement"
-        
+        match:
+          mapping_id: 33667
         url_poster: https://theposterdb.com/api/assets/186610
         # IDs: imdb://tt0039416, tmdb://33667, tvdb://15190
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Gentleman%27s+Agreement&category=Movies&year_filter=equals&yone=1947&tmdb_id=33667&imdb_id=tt0039416&tvdb_id=15190
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Gentleman%27s%20Agreement&category=Movies&year_filter=equals&yone=1947&tmdb_id=33667&imdb_id=tt0039416&tvdb_id=15190
         # tmdb: https://www.themoviedb.org/movie/33667
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1947&query=15190
         # imdb: https://www.imdb.com/title/tt0039416
-    

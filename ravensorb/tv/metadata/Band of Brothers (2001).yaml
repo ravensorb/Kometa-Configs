@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Band of Brothers (2001)":
         year: 2001
         title: "Band of Brothers"
-        alt_title: "Band of Brothers (2001)"
-        orig_title: "Band of Brothers"
-        sort_title: "Band of Brothers"
         url_poster: https://theposterdb.com/api/assets/218218
+        match:
+          mapping_id: 74205
         # IDs: imdb://tt0185906, tmdb://4613, tvdb://74205
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Band+of+Brothers&category=Shows&year_filter=equals&yone=2001&tmdb_id=4613&imdb_id=tt0185906&tvdb_id=74205
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Band%20of%20Brothers&category=Shows&year_filter=equals&yone=2001&tmdb_id=4613&imdb_id=tt0185906&tvdb_id=74205
         # tmdb: https://www.themoviedb.org/tv/4613
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=74205
         # imdb: https://www.imdb.com/title/tt0185906

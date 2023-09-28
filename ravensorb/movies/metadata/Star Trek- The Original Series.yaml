@@ -2,100 +2,85 @@ metadata:
     "Star Trek: The Motion Picture (1979)":
         year: 1979
         title: "Star Trek: The Motion Picture"
-        alt_title: "Star Trek: The Motion Picture (1979)"
-        orig_title: "Star Trek: The Motion Picture"
-        sort_title: "Star Trek: The Motion Picture"
-        
+        match:
+          mapping_id: 152
         url_poster: https://theposterdb.com/api/assets/175956
         # IDs: imdb://tt0079945, tmdb://152, tvdb://1928
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek%3A+The+Motion+Picture&category=Movies&year_filter=equals&yone=1979&tmdb_id=152&imdb_id=tt0079945&tvdb_id=1928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Motion%20Picture&category=Movies&year_filter=equals&yone=1979&tmdb_id=152&imdb_id=tt0079945&tvdb_id=1928
         # tmdb: https://www.themoviedb.org/movie/152
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1979&query=1928
         # imdb: https://www.imdb.com/title/tt0079945
-    
-    "Star Trek: The Motion Picture (1979) : Original Release":
-        edition: "Original Release"
+
+    "Star Trek: The Motion Picture (1979) : Original Release  [Original Release]":
         year: 1979
         title: "Star Trek: The Motion Picture (1979) : Original Release"
-        alt_title: "Star Trek the Motion Picture Original Release 1979"
-        orig_title: "Star Trek the Motion Picture Original Release 1979"
-        sort_title: "Star Trek: The Motion Picture (1979) : Original Release"
-        
+        edition_filter: Original Release
+        match:
+          mapping_id: 152
+          edition: Original Release
         url_poster: https://theposterdb.com/api/assets/175956
-        # IDs: 
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+the+Motion+Picture+Original+Release+1979&category=Movies&year_filter=equals&yone=None
-        # tmdb: 
-        # tvdb: 
-        # imdb: 
-    
+        # IDs: imdb://tt0079945, tmdb://152, tvdb://1928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Motion%20Picture&category=Movies&year_filter=equals&yone=1979&tmdb_id=152&imdb_id=tt0079945&tvdb_id=1928
+        # tmdb: https://www.themoviedb.org/movie/152
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1979&query=1928
+        # imdb: https://www.imdb.com/title/tt0079945
 
     "Star Trek II: The Wrath of Khan (1982)":
         year: 1982
         title: "Star Trek II: The Wrath of Khan"
-        alt_title: "Star Trek II: The Wrath of Khan (1982)"
-        orig_title: "Star Trek II: The Wrath of Khan"
-        sort_title: "Star Trek II: The Wrath of Khan"
-        
+        match:
+          mapping_id: 154
         url_poster: https://theposterdb.com/api/assets/175957
         # IDs: imdb://tt0084726, tmdb://154, tvdb://3201
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+II%3A+The+Wrath+of+Khan&category=Movies&year_filter=equals&yone=1982&tmdb_id=154&imdb_id=tt0084726&tvdb_id=3201
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20II%3A%20The%20Wrath%20of%20Khan&category=Movies&year_filter=equals&yone=1982&tmdb_id=154&imdb_id=tt0084726&tvdb_id=3201
         # tmdb: https://www.themoviedb.org/movie/154
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=3201
         # imdb: https://www.imdb.com/title/tt0084726
-    
+
     "Star Trek III: The Search for Spock (1984)":
         year: 1984
         title: "Star Trek III: The Search for Spock"
-        alt_title: "Star Trek III: The Search for Spock (1984)"
-        orig_title: "Star Trek III: The Search for Spock"
-        sort_title: "Star Trek III: The Search for Spock"
-        
+        match:
+          mapping_id: 157
         url_poster: https://theposterdb.com/api/assets/175958
         # IDs: imdb://tt0088170, tmdb://157, tvdb://4606
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+III%3A+The+Search+for+Spock&category=Movies&year_filter=equals&yone=1984&tmdb_id=157&imdb_id=tt0088170&tvdb_id=4606
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20III%3A%20The%20Search%20for%20Spock&category=Movies&year_filter=equals&yone=1984&tmdb_id=157&imdb_id=tt0088170&tvdb_id=4606
         # tmdb: https://www.themoviedb.org/movie/157
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=4606
         # imdb: https://www.imdb.com/title/tt0088170
-    
+
     "Star Trek IV: The Voyage Home (1986)":
         year: 1986
         title: "Star Trek IV: The Voyage Home"
-        alt_title: "Star Trek IV: The Voyage Home (1986)"
-        orig_title: "Star Trek IV: The Voyage Home"
-        sort_title: "Star Trek IV: The Voyage Home"
-        
+        match:
+          mapping_id: 168
         url_poster: https://theposterdb.com/api/assets/175959
         # IDs: imdb://tt0092007, tmdb://168, tvdb://2464
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+IV%3A+The+Voyage+Home&category=Movies&year_filter=equals&yone=1986&tmdb_id=168&imdb_id=tt0092007&tvdb_id=2464
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20IV%3A%20The%20Voyage%20Home&category=Movies&year_filter=equals&yone=1986&tmdb_id=168&imdb_id=tt0092007&tvdb_id=2464
         # tmdb: https://www.themoviedb.org/movie/168
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=2464
         # imdb: https://www.imdb.com/title/tt0092007
-    
+
     "Star Trek V: The Final Frontier (1989)":
         year: 1989
         title: "Star Trek V: The Final Frontier"
-        alt_title: "Star Trek V: The Final Frontier (1989)"
-        orig_title: "Star Trek V: The Final Frontier"
-        sort_title: "Star Trek V: The Final Frontier"
-        
+        match:
+          mapping_id: 172
         url_poster: https://theposterdb.com/api/assets/175960
         # IDs: imdb://tt0098382, tmdb://172, tvdb://2722
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+V%3A+The+Final+Frontier&category=Movies&year_filter=equals&yone=1989&tmdb_id=172&imdb_id=tt0098382&tvdb_id=2722
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20V%3A%20The%20Final%20Frontier&category=Movies&year_filter=equals&yone=1989&tmdb_id=172&imdb_id=tt0098382&tvdb_id=2722
         # tmdb: https://www.themoviedb.org/movie/172
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=2722
         # imdb: https://www.imdb.com/title/tt0098382
-    
+
     "Star Trek VI: The Undiscovered Country (1991)":
         year: 1991
         title: "Star Trek VI: The Undiscovered Country"
-        alt_title: "Star Trek VI: The Undiscovered Country (1991)"
-        orig_title: "Star Trek VI: The Undiscovered Country"
-        sort_title: "Star Trek VI: The Undiscovered Country"
-        
+        match:
+          mapping_id: 174
         url_poster: https://theposterdb.com/api/assets/175961
         # IDs: imdb://tt0102975, tmdb://174, tvdb://5792
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star+Trek+VI%3A+The+Undiscovered+Country&category=Movies&year_filter=equals&yone=1991&tmdb_id=174&imdb_id=tt0102975&tvdb_id=5792
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20VI%3A%20The%20Undiscovered%20Country&category=Movies&year_filter=equals&yone=1991&tmdb_id=174&imdb_id=tt0102975&tvdb_id=5792
         # tmdb: https://www.themoviedb.org/movie/174
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=5792
         # imdb: https://www.imdb.com/title/tt0102975
-    

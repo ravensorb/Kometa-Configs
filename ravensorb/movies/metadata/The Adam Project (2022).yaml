@@ -2,14 +2,12 @@ metadata:
     "The Adam Project (2022)":
         year: 2022
         title: "The Adam Project"
-        alt_title: "The Adam Project (2022)"
-        orig_title: "The Adam Project"
         sort_title: "Adam Project"
-        
+        match:
+          mapping_id: 696806
         url_poster: https://theposterdb.com/api/assets/222423
         # IDs: imdb://tt2463208, tmdb://696806, tvdb://147304
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Adam+Project&category=Movies&year_filter=equals&yone=2022&tmdb_id=696806&imdb_id=tt2463208&tvdb_id=147304
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Adam%20Project&category=Movies&year_filter=equals&yone=2022&tmdb_id=696806&imdb_id=tt2463208&tvdb_id=147304
         # tmdb: https://www.themoviedb.org/movie/696806
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=147304
         # imdb: https://www.imdb.com/title/tt2463208
-    

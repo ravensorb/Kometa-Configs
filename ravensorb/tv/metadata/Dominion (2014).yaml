@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "Dominion (2014)":
         year: 2014
         title: "Dominion"
-        alt_title: "Dominion (2014)"
-        orig_title: "Dominion"
-        sort_title: "Dominion"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 277462
         # IDs: imdb://tt3079768, tmdb://60685, tvdb://277462
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dominion&category=Shows&year_filter=equals&yone=2014&tmdb_id=60685&imdb_id=tt3079768&tvdb_id=277462
         # tmdb: https://www.themoviedb.org/tv/60685

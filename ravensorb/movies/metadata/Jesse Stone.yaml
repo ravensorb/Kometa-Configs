@@ -2,126 +2,107 @@ metadata:
     "Jesse Stone: Stone Cold (2005)":
         year: 2005
         title: "Jesse Stone: Stone Cold"
-        alt_title: "Jesse Stone: Stone Cold (2005)"
-        orig_title: "Jesse Stone: Stone Cold"
-        sort_title: "Jesse Stone: Stone Cold"
-        
+        match:
+          mapping_id: 31046
         url_poster: https://theposterdb.com/api/assets/313276
         # IDs: imdb://tt0431420, tmdb://31046, tvdb://9222
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Stone+Cold&category=Movies&year_filter=equals&yone=2005&tmdb_id=31046&imdb_id=tt0431420&tvdb_id=9222
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Stone%20Cold&category=Movies&year_filter=equals&yone=2005&tmdb_id=31046&imdb_id=tt0431420&tvdb_id=9222
         # tmdb: https://www.themoviedb.org/movie/31046
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=9222
         # imdb: https://www.imdb.com/title/tt0431420
-    
+
     "Jesse Stone: Night Passage (2006)":
         year: 2006
         title: "Jesse Stone: Night Passage"
-        alt_title: "Jesse Stone: Night Passage (2006)"
-        orig_title: "Jesse Stone: Night Passage"
-        sort_title: "Jesse Stone: Night Passage"
-        
+        match:
+          mapping_id: 31047
         url_poster: https://theposterdb.com/api/assets/313277
         # IDs: imdb://tt0498360, tmdb://31047, tvdb://8393
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Night+Passage&category=Movies&year_filter=equals&yone=2006&tmdb_id=31047&imdb_id=tt0498360&tvdb_id=8393
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Night%20Passage&category=Movies&year_filter=equals&yone=2006&tmdb_id=31047&imdb_id=tt0498360&tvdb_id=8393
         # tmdb: https://www.themoviedb.org/movie/31047
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=8393
         # imdb: https://www.imdb.com/title/tt0498360
-    
+
     "Jesse Stone: Death in Paradise (2006)":
         year: 2006
         title: "Jesse Stone: Death in Paradise"
-        alt_title: "Jesse Stone: Death in Paradise (2006)"
-        orig_title: "Jesse Stone: Death in Paradise"
-        sort_title: "Jesse Stone: Death in Paradise"
-        
+        match:
+          mapping_id: 30347
         url_poster: https://theposterdb.com/api/assets/313284
         # IDs: imdb://tt0800095, tmdb://30347, tvdb://14937
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Death+in+Paradise&category=Movies&year_filter=equals&yone=2006&tmdb_id=30347&imdb_id=tt0800095&tvdb_id=14937
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Death%20in%20Paradise&category=Movies&year_filter=equals&yone=2006&tmdb_id=30347&imdb_id=tt0800095&tvdb_id=14937
         # tmdb: https://www.themoviedb.org/movie/30347
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=14937
         # imdb: https://www.imdb.com/title/tt0800095
-    
+
     "Jesse Stone: Sea Change (2007)":
         year: 2007
         title: "Jesse Stone: Sea Change"
-        alt_title: "Jesse Stone: Sea Change (2007)"
-        orig_title: "Jesse Stone: Sea Change"
-        sort_title: "Jesse Stone: Sea Change"
-        
+        match:
+          mapping_id: 26114
         url_poster: https://theposterdb.com/api/assets/313279
         # IDs: imdb://tt0905345, tmdb://26114, tvdb://16625
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Sea+Change&category=Movies&year_filter=equals&yone=2007&tmdb_id=26114&imdb_id=tt0905345&tvdb_id=16625
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Sea%20Change&category=Movies&year_filter=equals&yone=2007&tmdb_id=26114&imdb_id=tt0905345&tvdb_id=16625
         # tmdb: https://www.themoviedb.org/movie/26114
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=16625
         # imdb: https://www.imdb.com/title/tt0905345
-    
+
     "Jesse Stone: Thin Ice (2009)":
         year: 2009
         title: "Jesse Stone: Thin Ice"
-        alt_title: "Jesse Stone: Thin Ice (2009)"
-        orig_title: "Jesse Stone: Thin Ice"
-        sort_title: "Jesse Stone: Thin Ice"
-        
+        match:
+          mapping_id: 22555
         url_poster: https://theposterdb.com/api/assets/313280
         # IDs: imdb://tt1064884, tmdb://22555, tvdb://18101
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Thin+Ice&category=Movies&year_filter=equals&yone=2009&tmdb_id=22555&imdb_id=tt1064884&tvdb_id=18101
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Thin%20Ice&category=Movies&year_filter=equals&yone=2009&tmdb_id=22555&imdb_id=tt1064884&tvdb_id=18101
         # tmdb: https://www.themoviedb.org/movie/22555
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=18101
         # imdb: https://www.imdb.com/title/tt1064884
-    
+
     "Jesse Stone: No Remorse (2010)":
         year: 2010
         title: "Jesse Stone: No Remorse"
-        alt_title: "Jesse Stone: No Remorse (2010)"
-        orig_title: "Jesse Stone: No Remorse"
-        sort_title: "Jesse Stone: No Remorse"
-        
+        match:
+          mapping_id: 43263
         url_poster: https://theposterdb.com/api/assets/313281
         # IDs: imdb://tt1315216, tmdb://43263, tvdb://24864
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+No+Remorse&category=Movies&year_filter=equals&yone=2010&tmdb_id=43263&imdb_id=tt1315216&tvdb_id=24864
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20No%20Remorse&category=Movies&year_filter=equals&yone=2010&tmdb_id=43263&imdb_id=tt1315216&tvdb_id=24864
         # tmdb: https://www.themoviedb.org/movie/43263
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=24864
         # imdb: https://www.imdb.com/title/tt1315216
-    
+
     "Jesse Stone: Innocents Lost (2011)":
         year: 2011
         title: "Jesse Stone: Innocents Lost"
-        alt_title: "Jesse Stone: Innocents Lost (2011)"
-        orig_title: "Jesse Stone: Innocents Lost"
-        sort_title: "Jesse Stone: Innocents Lost"
-        
+        match:
+          mapping_id: 59238
         url_poster: https://theposterdb.com/api/assets/313282
         # IDs: imdb://tt1710573, tmdb://59238, tvdb://25061
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Innocents+Lost&category=Movies&year_filter=equals&yone=2011&tmdb_id=59238&imdb_id=tt1710573&tvdb_id=25061
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Innocents%20Lost&category=Movies&year_filter=equals&yone=2011&tmdb_id=59238&imdb_id=tt1710573&tvdb_id=25061
         # tmdb: https://www.themoviedb.org/movie/59238
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=25061
         # imdb: https://www.imdb.com/title/tt1710573
-    
+
     "Jesse Stone: Benefit of the Doubt (2012)":
         year: 2012
         title: "Jesse Stone: Benefit of the Doubt"
-        alt_title: "Jesse Stone: Benefit of the Doubt (2012)"
-        orig_title: "Jesse Stone: Benefit of the Doubt"
-        sort_title: "Jesse Stone: Benefit of the Doubt"
-        
+        match:
+          mapping_id: 110148
         url_poster: https://theposterdb.com/api/assets/313283
         # IDs: imdb://tt2004262, tmdb://110148, tvdb://17466
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Benefit+of+the+Doubt&category=Movies&year_filter=equals&yone=2012&tmdb_id=110148&imdb_id=tt2004262&tvdb_id=17466
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Benefit%20of%20the%20Doubt&category=Movies&year_filter=equals&yone=2012&tmdb_id=110148&imdb_id=tt2004262&tvdb_id=17466
         # tmdb: https://www.themoviedb.org/movie/110148
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=17466
         # imdb: https://www.imdb.com/title/tt2004262
-    
+
     "Jesse Stone: Lost in Paradise (2015)":
         year: 2015
         title: "Jesse Stone: Lost in Paradise"
-        alt_title: "Jesse Stone: Lost in Paradise (2015)"
-        orig_title: "Jesse Stone: Lost in Paradise"
-        sort_title: "Jesse Stone: Lost in Paradise"
-        
+        match:
+          mapping_id: 361263
         url_poster: https://theposterdb.com/api/assets/313284
         # IDs: imdb://tt4505830, tmdb://361263, tvdb://19612
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse+Stone%3A+Lost+in+Paradise&category=Movies&year_filter=equals&yone=2015&tmdb_id=361263&imdb_id=tt4505830&tvdb_id=19612
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jesse%20Stone%3A%20Lost%20in%20Paradise&category=Movies&year_filter=equals&yone=2015&tmdb_id=361263&imdb_id=tt4505830&tvdb_id=19612
         # tmdb: https://www.themoviedb.org/movie/361263
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=19612
         # imdb: https://www.imdb.com/title/tt4505830
-    

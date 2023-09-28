@@ -2,14 +2,11 @@ metadata:
     "Faster, Pussycat! Kill! Kill! (1965)":
         year: 1965
         title: "Faster, Pussycat! Kill! Kill!"
-        alt_title: "Faster, Pussycat! Kill! Kill! (1965)"
-        orig_title: "Faster, Pussycat! Kill! Kill!"
-        sort_title: "Faster, Pussycat! Kill! Kill!"
-        
+        match:
+          mapping_id: 315
         url_poster: https://theposterdb.com/api/assets/211447
         # IDs: imdb://tt0059170, tmdb://315, tvdb://9533
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Faster%2C+Pussycat%21+Kill%21+Kill%21&category=Movies&year_filter=equals&yone=1965&tmdb_id=315&imdb_id=tt0059170&tvdb_id=9533
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Faster%2C%20Pussycat%21%20Kill%21%20Kill%21&category=Movies&year_filter=equals&yone=1965&tmdb_id=315&imdb_id=tt0059170&tvdb_id=9533
         # tmdb: https://www.themoviedb.org/movie/315
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1965&query=9533
         # imdb: https://www.imdb.com/title/tt0059170
-    

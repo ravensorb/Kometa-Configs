@@ -2,14 +2,12 @@ metadata:
     "The Mountain Road (1960)":
         year: 1960
         title: "The Mountain Road"
-        alt_title: "The Mountain Road (1960)"
-        orig_title: "The Mountain Road"
         sort_title: "Mountain Road"
-        
+        match:
+          mapping_id: 102165
         url_poster: https://theposterdb.com/api/assets/283067
         # IDs: imdb://tt0054095, tmdb://102165, tvdb://76757
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Mountain+Road&category=Movies&year_filter=equals&yone=1960&tmdb_id=102165&imdb_id=tt0054095&tvdb_id=76757
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mountain%20Road&category=Movies&year_filter=equals&yone=1960&tmdb_id=102165&imdb_id=tt0054095&tvdb_id=76757
         # tmdb: https://www.themoviedb.org/movie/102165
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1960&query=76757
         # imdb: https://www.imdb.com/title/tt0054095
-    

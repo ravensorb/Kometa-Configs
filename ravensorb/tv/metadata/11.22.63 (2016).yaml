@@ -1,11 +1,10 @@
-metadata:
+metadata:    
     "11.22.63 (2016)":
         year: 2016
         title: "11.22.63"
-        alt_title: "11.22.63 (2016)"
-        orig_title: "11.22.63"
-        sort_title: "11.22.63"
         url_poster: https://theposterdb.com/api/assets/326845
+        match:
+          mapping_id: 301824
         # IDs: imdb://tt2879552, tmdb://64464, tvdb://301824
         # tpdb: https://theposterdb.com/search/advanced/results?term=11.22.63&category=Shows&year_filter=equals&yone=2016&tmdb_id=64464&imdb_id=tt2879552&tvdb_id=301824
         # tmdb: https://www.themoviedb.org/tv/64464

@@ -2,14 +2,12 @@ metadata:
     "The Jackpot (1950)":
         year: 1950
         title: "The Jackpot"
-        alt_title: "The Jackpot (1950)"
-        orig_title: "The Jackpot"
         sort_title: "Jackpot"
-        
+        match:
+          mapping_id: 111732
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0042610, tmdb://111732, tvdb://69583
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The+Jackpot&category=Movies&year_filter=equals&yone=1950&tmdb_id=111732&imdb_id=tt0042610&tvdb_id=69583
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Jackpot&category=Movies&year_filter=equals&yone=1950&tmdb_id=111732&imdb_id=tt0042610&tvdb_id=69583
         # tmdb: https://www.themoviedb.org/movie/111732
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1950&query=69583
         # imdb: https://www.imdb.com/title/tt0042610
-    

@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Time Trax (1993)":
         year: 1993
         title: "Time Trax"
-        alt_title: "Time Trax (1993)"
-        orig_title: "Time Trax"
-        sort_title: "Time Trax"
         # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 72401
         # IDs: imdb://tt0106154, tmdb://4295, tvdb://72401
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Time+Trax&category=Shows&year_filter=equals&yone=1993&tmdb_id=4295&imdb_id=tt0106154&tvdb_id=72401
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Time%20Trax&category=Shows&year_filter=equals&yone=1993&tmdb_id=4295&imdb_id=tt0106154&tvdb_id=72401
         # tmdb: https://www.themoviedb.org/tv/4295
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1993&query=72401
         # imdb: https://www.imdb.com/title/tt0106154

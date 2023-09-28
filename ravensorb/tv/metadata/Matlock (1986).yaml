@@ -1,8 +1,10 @@
-metadata:
+metadata:    
     "Matlock (1986)":
         year: 1986
         title: "Matlock"
         url_poster: https://theposterdb.com/api/assets/409251
+        match:
+          mapping_id: 73064
         # IDs: imdb://tt0090481, tmdb://2093, tvdb://73064
         # tpdb: https://theposterdb.com/search/advanced/results?term=Matlock&category=Shows&year_filter=equals&yone=1986&tmdb_id=2093&imdb_id=tt0090481&tvdb_id=73064
         # tmdb: https://www.themoviedb.org/tv/2093

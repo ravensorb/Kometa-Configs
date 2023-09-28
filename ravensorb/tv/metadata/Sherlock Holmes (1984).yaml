@@ -1,12 +1,13 @@
-metadata:
+metadata:    
     "Sherlock Holmes (1984)":
         year: 1984
-        title: "Sherlock Holmes (1984)"
-        alt_title: "Sherlock Holmes"
+        title: "Sherlock Holmes"
         sort_title: "Sherlock Holmes (1984)"
         url_poster: https://theposterdb.com/api/assets/364793
+        match:
+          mapping_id: 77728
         # IDs: imdb://tt0086661, tmdb://799, tvdb://77728
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock+Holmes+%281984%29&category=Shows&year_filter=equals&yone=1984&tmdb_id=799&imdb_id=tt0086661&tvdb_id=77728
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock%20Holmes&category=Shows&year_filter=equals&yone=1984&tmdb_id=799&imdb_id=tt0086661&tvdb_id=77728
         # tmdb: https://www.themoviedb.org/tv/799
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=77728
         # imdb: https://www.imdb.com/title/tt0086661

@@ -2,14 +2,11 @@ metadata:
     "Singularity (2017)":
         year: 2017
         title: "Singularity"
-        alt_title: "Singularity (2017)"
-        orig_title: "Singularity"
-        sort_title: "Singularity"
-        
+        match:
+          mapping_id: 484886
         url_poster: https://theposterdb.com/api/assets/184323
         # IDs: imdb://tt7312940, tmdb://484886, tvdb://2749
         # tpdb: https://theposterdb.com/search/advanced/results?term=Singularity&category=Movies&year_filter=equals&yone=2017&tmdb_id=484886&imdb_id=tt7312940&tvdb_id=2749
         # tmdb: https://www.themoviedb.org/movie/484886
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=2749
         # imdb: https://www.imdb.com/title/tt7312940
-    

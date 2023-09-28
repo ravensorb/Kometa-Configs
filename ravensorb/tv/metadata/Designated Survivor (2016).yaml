@@ -1,13 +1,12 @@
-metadata:
+metadata:    
     "Designated Survivor (2016)":
         year: 2016
         title: "Designated Survivor"
-        alt_title: "Designated Survivor (2016)"
-        orig_title: "Designated Survivor"
-        sort_title: "Designated Survivor"
         url_poster: https://theposterdb.com/api/assets/353395
+        match:
+          mapping_id: 311876
         # IDs: imdb://tt5296406, tmdb://67026, tvdb://311876
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Designated+Survivor&category=Shows&year_filter=equals&yone=2016&tmdb_id=67026&imdb_id=tt5296406&tvdb_id=311876
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Designated%20Survivor&category=Shows&year_filter=equals&yone=2016&tmdb_id=67026&imdb_id=tt5296406&tvdb_id=311876
         # tmdb: https://www.themoviedb.org/tv/67026
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=311876
         # imdb: https://www.imdb.com/title/tt5296406

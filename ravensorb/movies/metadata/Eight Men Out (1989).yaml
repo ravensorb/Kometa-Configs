@@ -2,14 +2,11 @@ metadata:
     "Eight Men Out (1989)":
         year: 1989
         title: "Eight Men Out"
-        alt_title: "Eight Men Out (1989)"
-        orig_title: "Eight Men Out"
-        sort_title: "Eight Men Out"
-        
+        match:
+          mapping_id: 13554
         url_poster: https://theposterdb.com/api/assets/257873
         # IDs: imdb://tt0095082, tmdb://13554, tvdb://11570
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Eight+Men+Out&category=Movies&year_filter=equals&yone=1989&tmdb_id=13554&imdb_id=tt0095082&tvdb_id=11570
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Eight%20Men%20Out&category=Movies&year_filter=equals&yone=1989&tmdb_id=13554&imdb_id=tt0095082&tvdb_id=11570
         # tmdb: https://www.themoviedb.org/movie/13554
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=11570
         # imdb: https://www.imdb.com/title/tt0095082
-    

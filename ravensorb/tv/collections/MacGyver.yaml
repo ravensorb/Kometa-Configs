@@ -1,5 +1,5 @@
 collections:
-   "MacGyver":
+  "MacGyver":
     variables: { show: "2875, 67133, 77847, 47652", poster: https://theposterdb.com/api/assets/354190 }
     template: [ 
       { name: tplCommonBase }, 
@@ -9,7 +9,7 @@ collections:
     summary: |
       MacGyver
     # tpdb: https://theposterdb.com/search/advanced/results?term=MacGyver&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22MacGyver%22
+    # tmdb: https://www.themoviedb.org/search/collection?query=MacGyver
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=MacGyver
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=MacGyver
     # trakt: https://trakt.tv/search/lists?query=MacGyver

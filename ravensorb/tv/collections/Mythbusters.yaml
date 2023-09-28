@@ -1,6 +1,6 @@
 collections:
   "Mythbusters":
-    variables: { show: "1428, 85200, 69144", poster: https://theposterdb.com/api/assets/95723 }
+    variables: { show: "85200, 69144, 1428", poster: https://theposterdb.com/api/assets/95723 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

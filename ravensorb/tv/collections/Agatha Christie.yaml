@@ -1,6 +1,6 @@
 collections:
   "Agatha Christie":
-    variables: { label: "Agatha Christie", show: "81049, 93705, 790, 28007, 74430, 14777", poster: https://theposterdb.com/api/assets/96380 }
+    variables: { label: "Agatha Christie", show: "28007, 790, 74430, 81049, 14777, 93705", poster: https://theposterdb.com/api/assets/96380 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -8,7 +8,7 @@ collections:
     ]
     summary: |
       Agatha Christie Stories
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha+Christie&category=Collections
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Agatha%20Christie%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Agatha%20Christie
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Agatha%20Christie
