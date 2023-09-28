@@ -5,7 +5,7 @@ metadata:
         sort_title: "Thin Man"
         match:
           mapping_id: 3529
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234988
         # IDs: imdb://tt0025878, tmdb://3529, tvdb://6550
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Thin%20Man&category=Movies&year_filter=equals&yone=1934&tmdb_id=3529&imdb_id=tt0025878&tvdb_id=6550
         # tmdb: https://www.themoviedb.org/movie/3529
@@ -29,7 +29,7 @@ metadata:
         title: "Another Thin Man"
         match:
           mapping_id: 14589
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234990
         # IDs: imdb://tt0031047, tmdb://14589, tvdb://23623
         # tpdb: https://theposterdb.com/search/advanced/results?term=Another%20Thin%20Man&category=Movies&year_filter=equals&yone=1939&tmdb_id=14589&imdb_id=tt0031047&tvdb_id=23623
         # tmdb: https://www.themoviedb.org/movie/14589
@@ -41,7 +41,7 @@ metadata:
         title: "Shadow of the Thin Man"
         match:
           mapping_id: 14590
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234991
         # IDs: imdb://tt0034172, tmdb://14590, tvdb://36545
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shadow%20of%20the%20Thin%20Man&category=Movies&year_filter=equals&yone=1941&tmdb_id=14590&imdb_id=tt0034172&tvdb_id=36545
         # tmdb: https://www.themoviedb.org/movie/14590
@@ -54,7 +54,7 @@ metadata:
         sort_title: "Thin Man Goes Home"
         match:
           mapping_id: 14594
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234992
         # IDs: imdb://tt0037365, tmdb://14594, tvdb://31107
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Thin%20Man%20Goes%20Home&category=Movies&year_filter=equals&yone=1944&tmdb_id=14594&imdb_id=tt0037365&tvdb_id=31107
         # tmdb: https://www.themoviedb.org/movie/14594
@@ -66,7 +66,7 @@ metadata:
         title: "Song of the Thin Man"
         match:
           mapping_id: 14595
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/234993
         # IDs: imdb://tt0039853, tmdb://14595, tvdb://27058
         # tpdb: https://theposterdb.com/search/advanced/results?term=Song%20of%20the%20Thin%20Man&category=Movies&year_filter=equals&yone=1947&tmdb_id=14595&imdb_id=tt0039853&tvdb_id=27058
         # tmdb: https://www.themoviedb.org/movie/14595
