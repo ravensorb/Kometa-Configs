@@ -2,7 +2,7 @@ metadata:
     "Virgin River (2019)":
         year: 2019
         title: "Virgin River"
-        url_poster: https://theposterdb.com/api/assets/339399
+        url_poster: https://theposterdb.com/api/assets/339404
         match:
           mapping_id: 371972
         # IDs: imdb://tt9077530, tmdb://88324, tvdb://371972
@@ -12,12 +12,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt9077530
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/339400
+                url_poster: https://theposterdb.com/api/assets/339405
             2:
-                url_poster: https://theposterdb.com/api/assets/339401
+                url_poster: https://theposterdb.com/api/assets/339406
             3:
-                url_poster: https://theposterdb.com/api/assets/339402
+                url_poster: https://theposterdb.com/api/assets/339407
             4:
-                url_poster: https://theposterdb.com/api/assets/339403
+                url_poster: https://theposterdb.com/api/assets/339408
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/

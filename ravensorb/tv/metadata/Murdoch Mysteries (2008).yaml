@@ -3,7 +3,7 @@ metadata:
         year: 2008
         title: "Murdoch Mysteries"
         sort_title: "Murdoch Mysteries (2004)"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/416772
         match:
           mapping_id: 81670
         # IDs: imdb://tt1091909, tmdb://12786, tvdb://81670
@@ -11,36 +11,38 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/12786
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=81670
         # imdb: https://www.imdb.com/title/tt1091909
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 11:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 12:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 13:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 14:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 15:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 16:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/416773
+            1:
+                url_poster: https://theposterdb.com/api/assets/416774
+            2:
+                url_poster: https://theposterdb.com/api/assets/416775
+            3:
+                url_poster: https://theposterdb.com/api/assets/416776
+            4:
+                url_poster: https://theposterdb.com/api/assets/416777
+            5:
+                url_poster: https://theposterdb.com/api/assets/416778
+            6:
+                url_poster: https://theposterdb.com/api/assets/416779
+            7:
+                url_poster: https://theposterdb.com/api/assets/416780
+            8:
+                url_poster: https://theposterdb.com/api/assets/416781
+            9:
+                url_poster: https://theposterdb.com/api/assets/416782
+            10:
+                url_poster: https://theposterdb.com/api/assets/416783
+            11:
+                url_poster: https://theposterdb.com/api/assets/416784
+            12:
+                url_poster: https://theposterdb.com/api/assets/416785
+            13:
+                url_poster: https://theposterdb.com/api/assets/416786
+            14:
+                url_poster: https://theposterdb.com/api/assets/416787
+            15:
+                url_poster: https://theposterdb.com/api/assets/416788
+            16:
+                url_poster: https://theposterdb.com/api/assets/416789
