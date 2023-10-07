@@ -53,7 +53,7 @@ metadata:
         title: "He's Your Dog, Charlie Brown"
         match:
           mapping_id: 34228
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284796
         # IDs: imdb://tt0063048, tmdb://34228, tvdb://77839
         # tpdb: https://theposterdb.com/search/advanced/results?term=He%27s%20Your%20Dog%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1968&tmdb_id=34228&imdb_id=tt0063048&tvdb_id=77839
         # tmdb: https://www.themoviedb.org/movie/34228
@@ -175,7 +175,7 @@ metadata:
         title: "It's Your First Kiss, Charlie Brown"
         match:
           mapping_id: 40484
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/233706
         # IDs: imdb://tt0076217, tmdb://40484, tvdb://67431
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s%20Your%20First%20Kiss%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1977&tmdb_id=40484&imdb_id=tt0076217&tvdb_id=67431
         # tmdb: https://www.themoviedb.org/movie/40484
@@ -187,7 +187,7 @@ metadata:
         title: "Someday You'll Find Her, Charlie Brown"
         match:
           mapping_id: 40482
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284806
         # IDs: imdb://tt0174226, tmdb://40482, tvdb://60968
         # tpdb: https://theposterdb.com/search/advanced/results?term=Someday%20You%27ll%20Find%20Her%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1981&tmdb_id=40482&imdb_id=tt0174226&tvdb_id=60968
         # tmdb: https://www.themoviedb.org/movie/40482
