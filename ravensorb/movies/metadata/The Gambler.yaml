@@ -1,0 +1,64 @@
+metadata:
+    "The Gambler (1980)":
+        year: 1980
+        title: "The Gambler"
+        sort_title: "Gambler 1 - The Gambler"
+        match:
+          mapping_id: 44789
+        url_poster: https://theposterdb.com/api/assets/414402
+        # IDs: imdb://tt0080993, tmdb://44789, tvdb://62002
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gambler&category=Movies&year_filter=equals&yone=1980&tmdb_id=44789&imdb_id=tt0080993&tvdb_id=62002
+        # tmdb: https://www.themoviedb.org/movie/44789
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1980&query=62002
+        # imdb: https://www.imdb.com/title/tt0080993
+
+
+    "Kenny Rogers as The Gambler: The Adventure Continues (1983)":
+        year: 1983
+        title: "Kenny Rogers as The Gambler: The Adventure Continues"
+        sort_title: "Gambler 2 - Kenny Rogers as The Gambler: The Adventure Continues"
+        match:
+          mapping_id: 154068
+        url_poster: https://theposterdb.com/api/assets/414403
+        # IDs: imdb://tt0085782, tmdb://154068, tvdb://159884
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Kenny%20Rogers%20as%20The%20Gambler%3A%20The%20Adventure%20Continues&category=Movies&year_filter=equals&yone=1983&tmdb_id=154068&imdb_id=tt0085782&tvdb_id=159884
+        # tmdb: https://www.themoviedb.org/movie/154068
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=159884
+        # imdb: https://www.imdb.com/title/tt0085782
+
+    "The Gambler, Part III: The Legend Continues (1987)":
+        year: 1987
+        title: "The Gambler, Part III: The Legend Continues"
+        sort_title: "Gambler 3 - The Gambler, Part III: The Legend Continues"
+        match:
+          mapping_id: 158675
+        url_poster: https://theposterdb.com/api/assets/414404
+        # IDs: imdb://tt0093339, tmdb://167669, tvdb://69016
+        # tmdb: https://www.themoviedb.org/movie/167669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=69016
+        # imdb: https://www.imdb.com/title/tt0093339
+
+    "The Gambler Returns: The Luck of the Draw (1991)":
+        year: 1991
+        title: "The Gambler Returns: The Luck of the Draw"
+        sort_title: "Gambler 4 - Gambler Returns: The Luck of the Draw"
+        match:
+          mapping_id: 118439
+        url_poster: https://theposterdb.com/api/assets/414405
+        # IDs: imdb://tt0101933, tmdb://118439, tvdb://156707
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gambler%20Returns%3A%20The%20Luck%20of%20the%20Draw&category=Movies&year_filter=equals&yone=1991&tmdb_id=118439&imdb_id=tt0101933&tvdb_id=156707
+        # tmdb: https://www.themoviedb.org/movie/118439
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=156707
+        # imdb: https://www.imdb.com/title/tt0101933
+
+    "Gambler V: Playing for Keeps (1994)":
+        year: 1994
+        title: "Gambler 5 - Gambler V: Playing for Keeps"
+        match:
+          mapping_id: 49864
+        url_poster: https://theposterdb.com/api/assets/414406
+        # IDs: imdb://tt0109868, tmdb://49864, tvdb://80820
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Gambler%20V%3A%20Playing%20for%20Keeps&category=Movies&year_filter=equals&yone=1994&tmdb_id=49864&imdb_id=tt0109868&tvdb_id=80820
+        # tmdb: https://www.themoviedb.org/movie/49864
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=80820
+        # imdb: https://www.imdb.com/title/tt0109868
