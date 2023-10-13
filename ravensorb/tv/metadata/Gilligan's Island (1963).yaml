@@ -2,7 +2,7 @@ metadata:
     "Gilligan's Island (1963)":
         year: 1963
         title: "Gilligan's Island"
-        url_poster: https://theposterdb.com/api/assets/253518
+        url_poster: https://theposterdb.com/api/assets/324482
         match:
           mapping_id: 77345
         # IDs: imdb://tt0057751, tmdb://1921, tvdb://77345
@@ -11,11 +11,11 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1963&query=77345
         # imdb: https://www.imdb.com/title/tt0057751
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
+            0:
+                url_poster: https://theposterdb.com/api/assets/324482
             1:
-                url_poster: https://theposterdb.com/api/assets/253519
+                url_poster: https://theposterdb.com/api/assets/324483
             2:
-                url_poster: https://theposterdb.com/api/assets/253520
+                url_poster: https://theposterdb.com/api/assets/324484
             3:
-                url_poster: https://theposterdb.com/api/assets/253521
+                url_poster: https://theposterdb.com/api/assets/324485

@@ -4,7 +4,7 @@ metadata:
         title: "Blue Skies"
         match:
           mapping_id: 53446
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/388309
         # IDs: imdb://tt0038370, tmdb://53446, tvdb://67364
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blue%20Skies&category=Movies&year_filter=equals&yone=1946&tmdb_id=53446&imdb_id=tt0038370&tvdb_id=67364
         # tmdb: https://www.themoviedb.org/movie/53446

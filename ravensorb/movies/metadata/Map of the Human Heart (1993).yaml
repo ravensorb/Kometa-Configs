@@ -4,7 +4,7 @@ metadata:
         title: "Map of the Human Heart"
         match:
           mapping_id: 36709
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/420331
         # IDs: imdb://tt0104812, tmdb://36709, tvdb://22459
         # tpdb: https://theposterdb.com/search/advanced/results?term=Map%20of%20the%20Human%20Heart&category=Movies&year_filter=equals&yone=1993&tmdb_id=36709&imdb_id=tt0104812&tvdb_id=22459
         # tmdb: https://www.themoviedb.org/movie/36709

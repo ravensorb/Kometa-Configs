@@ -5,7 +5,7 @@ metadata:
         sort_title: "Matador"
         match:
           mapping_id: 9515
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/415254
         # IDs: imdb://tt0365485, tmdb://9515, tvdb://5471
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Matador&category=Movies&year_filter=equals&yone=2005&tmdb_id=9515&imdb_id=tt0365485&tvdb_id=5471
         # tmdb: https://www.themoviedb.org/movie/9515

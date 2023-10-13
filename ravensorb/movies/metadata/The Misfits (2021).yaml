@@ -5,7 +5,7 @@ metadata:
         sort_title: "Misfits"
         match:
           mapping_id: 581644
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/413089
         # IDs: imdb://tt4876134, tmdb://581644, tvdb://181780
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Misfits&category=Movies&year_filter=equals&yone=2021&tmdb_id=581644&imdb_id=tt4876134&tvdb_id=181780
         # tmdb: https://www.themoviedb.org/movie/581644

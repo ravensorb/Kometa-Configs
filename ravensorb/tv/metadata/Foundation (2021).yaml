@@ -3,7 +3,7 @@ metadata:
         year: 2021
         title: "Foundation"
         sort_title: "Foundation (2021)"
-        url_poster: https://theposterdb.com/api/assets/242986
+        url_poster: https://theposterdb.com/api/assets/321899
         match:
           mapping_id: 366972
         # IDs: imdb://tt0804484, tmdb://93740, tvdb://366972
@@ -13,6 +13,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0804484
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/242987
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/321900
+            2:
+                url_poster: https://theposterdb.com/api/assets/373881

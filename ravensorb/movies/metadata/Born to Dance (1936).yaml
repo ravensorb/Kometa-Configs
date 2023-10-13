@@ -4,7 +4,7 @@ metadata:
         title: "Born to Dance"
         match:
           mapping_id: 43872
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/388329
         # IDs: imdb://tt0027387, tmdb://43872, tvdb://40097
         # tpdb: https://theposterdb.com/search/advanced/results?term=Born%20to%20Dance&category=Movies&year_filter=equals&yone=1936&tmdb_id=43872&imdb_id=tt0027387&tvdb_id=40097
         # tmdb: https://www.themoviedb.org/movie/43872

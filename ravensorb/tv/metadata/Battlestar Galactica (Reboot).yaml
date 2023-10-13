@@ -1,4 +1,28 @@
 metadata:    
+    "Battlestar Galactica (Reboot) (2003)":
+        year: 2003
+        title: "Battlestar Galactica (Reboot)"
+        sort_title: "Battlestar Galactica (2003)"
+        url_poster: https://theposterdb.com/api/assets/186159
+        match:
+          mapping_id: tt0314979
+        # IDs: imdb://tt0314979, tmdb://71365
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Reboot%29&category=Shows&year_filter=equals&yone=2003&tmdb_id=71365&imdb_id=tt0314979
+        # tmdb: https://www.themoviedb.org/tv/71365
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0314979
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/253248
+            1:
+                url_poster: https://theposterdb.com/api/assets/253249
+            2:
+                url_poster: https://theposterdb.com/api/assets/253250
+            3:
+                url_poster: https://theposterdb.com/api/assets/253251
+            4:
+                url_poster: https://theposterdb.com/api/assets/253252
+
     "Caprica (2010)":
         year: 2010
         title: "Caprica"

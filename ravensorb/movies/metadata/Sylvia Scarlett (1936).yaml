@@ -4,7 +4,7 @@ metadata:
         title: "Sylvia Scarlett"
         match:
           mapping_id: 31866
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/389746
         # IDs: imdb://tt0027067, tmdb://31866, tvdb://40250
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sylvia%20Scarlett&category=Movies&year_filter=equals&yone=1936&tmdb_id=31866&imdb_id=tt0027067&tvdb_id=40250
         # tmdb: https://www.themoviedb.org/movie/31866

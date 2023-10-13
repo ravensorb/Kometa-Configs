@@ -1,6 +1,6 @@
 collections:
   "Robin Williams (Stand-Up)":
-    variables: { movie: "493100, 586571, 381276, 21586, 21585, 26621, 20211", poster: https://theposterdb.com/api/assets/278010 }
+    variables: { label: "Robin Williams (Stand-Up)", movie: "493100, 586571, 381276, 21586, 21585, 26621, 20211", poster: https://theposterdb.com/api/assets/278010 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

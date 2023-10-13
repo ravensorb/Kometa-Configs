@@ -2,7 +2,7 @@ metadata:
     "Little House on the Prairie (1974)":
         year: 1974
         title: "Little House on the Prairie"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/405296
         match:
           mapping_id: 77921
         # IDs: imdb://tt0071007, tmdb://1781, tvdb://77921

@@ -4,7 +4,7 @@ metadata:
         title: "Cirque du Freak: The Vampire's Assistant"
         match:
           mapping_id: 24418
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/419391
         # IDs: imdb://tt0450405, tmdb://24418, tvdb://1881
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cirque%20du%20Freak%3A%20The%20Vampire%27s%20Assistant&category=Movies&year_filter=equals&yone=2009&tmdb_id=24418&imdb_id=tt0450405&tvdb_id=1881
         # tmdb: https://www.themoviedb.org/movie/24418
