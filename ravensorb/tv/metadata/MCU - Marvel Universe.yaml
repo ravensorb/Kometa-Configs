@@ -2,7 +2,7 @@ metadata:
     "Marvel's Ultimate Spider-Man (2012)":
         year: 2012
         title: "Marvel's Ultimate Spider-Man"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/377425
         match:
           mapping_id: 257645
         # IDs: imdb://tt1722512, tmdb://34391, tvdb://257645
@@ -10,15 +10,15 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/34391
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=257645
         # imdb: https://www.imdb.com/title/tt1722512
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/377426
+            2:
+                url_poster: https://theposterdb.com/api/assets/377427
+            3:
+                url_poster: https://theposterdb.com/api/assets/377428
+            4:
+                url_poster: https://theposterdb.com/api/assets/377429
     
     "Marvel's Avengers Assemble (2013)":
         year: 2013

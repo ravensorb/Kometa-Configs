@@ -16,8 +16,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/236509
             2:
                 url_poster: https://theposterdb.com/api/assets/236510
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/373574
     
     "The Witcher: Blood Origin (2022)":
         year: 2022

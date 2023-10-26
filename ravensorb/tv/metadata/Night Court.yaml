@@ -2,7 +2,7 @@ metadata:
     "Night Court (1984)":
         year: 1984
         title: "Night Court"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/408240
         match:
           mapping_id: 70812
         # IDs: imdb://tt0086770, tmdb://162, tvdb://70812
