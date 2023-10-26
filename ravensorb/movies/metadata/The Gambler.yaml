@@ -38,6 +38,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=69016
         # imdb: https://www.imdb.com/title/tt0093339
 
+    "Kenny Rogers as The Gambler, Part III: The Legend Continues (1987)":
+        year: 1987
+        title: "Kenny Rogers as The Gambler, Part III: The Legend Continues"
+        sort_title: "Gambler 3 - The Gambler, Part III: The Legend Continues"
+        match:
+          mapping_id: 167669
+        url_poster: https://theposterdb.com/api/assets/414404
+        # IDs: imdb://tt0093339, tmdb://167669, tvdb://69016
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Kenny%20Rogers%20as%20The%20Gambler%2C%20Part%20III%3A%20The%20Legend%20Continues&category=Movies&year_filter=equals&yone=1987&tmdb_id=167669&imdb_id=tt0093339&tvdb_id=69016
+        # tmdb: https://www.themoviedb.org/movie/167669
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=69016
+        # imdb: https://www.imdb.com/title/tt0093339
+
     "The Gambler Returns: The Luck of the Draw (1991)":
         year: 1991
         title: "The Gambler Returns: The Luck of the Draw"
