@@ -170,6 +170,23 @@ metadata:
             2:
                 url_poster: https://theposterdb.com/api/assets/380693
     
+    "Be Cool, Scooby-Doo! (2015)":
+        year: 2015
+        title: "Be Cool, Scooby-Doo!"
+        url_poster: https://theposterdb.com/api/assets/380672
+        match:
+          mapping_id: 301376
+        # IDs: imdb://tt4215734, tmdb://64228, tvdb://301376
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Be%20Cool%2C%20Scooby-Doo%21&category=Shows&year_filter=equals&yone=2015&tmdb_id=64228&imdb_id=tt4215734&tvdb_id=301376
+        # tmdb: https://www.themoviedb.org/tv/64228
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=301376
+        # imdb: https://www.imdb.com/title/tt4215734
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/380673
+            2:
+                url_poster: https://theposterdb.com/api/assets/380674
+
     "Scooby-Doo and Guess Who? (2019)":
         year: 2019
         title: "Scooby-Doo and Guess Who?"
