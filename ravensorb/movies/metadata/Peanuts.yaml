@@ -304,6 +304,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=43136
         # imdb: https://www.imdb.com/title/tt0283987
 
+    "I Want a Dog for Christmas, Charlie Brown (2003)":
+        year: 2003
+        title: "I Want a Dog for Christmas, Charlie Brown"
+        match:
+          mapping_id: 24251
+        url_poster: https://theposterdb.com/api/assets/284788
+        # IDs: imdb://tt0387301, tmdb://24251, tvdb://65039
+        # tpdb: https://theposterdb.com/search/advanced/results?term=I%20Want%20a%20Dog%20for%20Christmas%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=2003&tmdb_id=24251&imdb_id=tt0387301&tvdb_id=65039
+        # tmdb: https://www.themoviedb.org/movie/24251
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=65039
+        # imdb: https://www.imdb.com/title/tt0387301
+
     "Happiness Is a Warm Blanket, Charlie Brown (2011)":
         year: 2011
         title: "Happiness Is a Warm Blanket, Charlie Brown"
@@ -328,6 +340,31 @@ metadata:
         # tvdb: 
         # imdb: 
 
+    "The Peanuts Movie (2015)":
+        year: 2015
+        title: "The Peanuts Movie"
+        sort_title: "Peanuts Movie"
+        match:
+          mapping_id: 227973
+        url_poster: https://theposterdb.com/api/assets/364583
+        # IDs: imdb://tt2452042, tmdb://227973, tvdb://1641
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Peanuts%20Movie&category=Movies&year_filter=equals&yone=2015&tmdb_id=227973&imdb_id=tt2452042&tvdb_id=1641
+        # tmdb: https://www.themoviedb.org/movie/227973
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=1641
+        # imdb: https://www.imdb.com/title/tt2452042
+
+    "Peanuts in Space: Secrets of Apollo 10 (2019)":
+        year: 2019
+        title: "Peanuts in Space: Secrets of Apollo 10"
+        match:
+          mapping_id: 606057
+        url_poster: https://theposterdb.com/api/assets/180966
+        # IDs: imdb://tt10238966, tmdb://606057, tvdb://153076
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Peanuts%20in%20Space%3A%20Secrets%20of%20Apollo%2010&category=Movies&year_filter=equals&yone=2019&tmdb_id=606057&imdb_id=tt10238966&tvdb_id=153076
+        # tmdb: https://www.themoviedb.org/movie/606057
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=153076
+        # imdb: https://www.imdb.com/title/tt10238966
+
     "Who Are You, Charlie Brown? (2021)":
         year: 2021
         title: "Who Are You, Charlie Brown?"
@@ -339,3 +376,51 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/836919
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=177190
         # imdb: https://www.imdb.com/title/tt14784858
+
+    "Snoopy Presents: For Auld Lang Syne (2021)":
+        year: 2021
+        title: "Snoopy Presents: For Auld Lang Syne"
+        match:
+          mapping_id: 881211
+        url_poster: https://theposterdb.com/api/assets/197923
+        # IDs: imdb://tt15553258, tmdb://881211, tvdb://330668
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20Presents%3A%20For%20Auld%20Lang%20Syne&category=Movies&year_filter=equals&yone=2021&tmdb_id=881211&imdb_id=tt15553258&tvdb_id=330668
+        # tmdb: https://www.themoviedb.org/movie/881211
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=330668
+        # imdb: https://www.imdb.com/title/tt15553258
+
+    "Snoopy Presents: It's the Small Things, Charlie Brown (2022)":
+        year: 2022
+        title: "Snoopy Presents: It's the Small Things, Charlie Brown"
+        match:
+          mapping_id: 949580
+        url_poster: https://theposterdb.com/api/assets/317002
+        # IDs: imdb://tt19316654, tmdb://949580, tvdb://336326
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20Presents%3A%20It%27s%20the%20Small%20Things%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=2022&tmdb_id=949580&imdb_id=tt19316654&tvdb_id=336326
+        # tmdb: https://www.themoviedb.org/movie/949580
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=336326
+        # imdb: https://www.imdb.com/title/tt19316654
+
+    "Snoopy Presents: Lucy's School (2022)":
+        year: 2022
+        title: "Snoopy Presents: Lucy's School"
+        match:
+          mapping_id: 975490
+        url_poste259914r: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt21405896, tmdb://975490, tvdb://339253
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20Presents%3A%20Lucy%27s%20School&category=Movies&year_filter=equals&yone=2022&tmdb_id=975490&imdb_id=tt21405896&tvdb_id=339253
+        # tmdb: https://www.themoviedb.org/movie/975490
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=339253
+        # imdb: https://www.imdb.com/title/tt21405896
+
+    "Snoopy Presents: One-of-a-Kind Marcie (2023)":
+        year: 2023
+        title: "Snoopy Presents: One-of-a-Kind Marcie"
+        match:
+          mapping_id: 1128604
+        url_poster: https://theposterdb.com/api/assets/401834
+        # IDs: imdb://tt27865284, tmdb://1128604, tvdb://348015
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20Presents%3A%20One-of-a-Kind%20Marcie&category=Movies&year_filter=equals&yone=2023&tmdb_id=1128604&imdb_id=tt27865284&tvdb_id=348015
+        # tmdb: https://www.themoviedb.org/movie/1128604
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=348015
+        # imdb: https://www.imdb.com/title/tt27865284
