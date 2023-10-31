@@ -1,0 +1,13 @@
+metadata:
+    "A Haunting in Venice (2023)":
+        year: 2023
+        title: "A Haunting in Venice"
+        sort_title: "Haunting in Venice"
+        match:
+          mapping_id: 945729
+        url_poster: https://theposterdb.com/api/assets/417881
+        # IDs: imdb://tt22687790, tmdb://945729, tvdb://340798
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Haunting%20in%20Venice&category=Movies&year_filter=equals&yone=2023&tmdb_id=945729&imdb_id=tt22687790&tvdb_id=340798
+        # tmdb: https://www.themoviedb.org/movie/945729
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=340798
+        # imdb: https://www.imdb.com/title/tt22687790
