@@ -406,7 +406,7 @@ metadata:
         title: "Snoopy Presents: Lucy's School"
         match:
           mapping_id: 975490
-        url_poste259914r: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/259914
         # IDs: imdb://tt21405896, tmdb://975490, tvdb://339253
         # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20Presents%3A%20Lucy%27s%20School&category=Movies&year_filter=equals&yone=2022&tmdb_id=975490&imdb_id=tt21405896&tvdb_id=339253
         # tmdb: https://www.themoviedb.org/movie/975490
