@@ -1,0 +1,16 @@
+metadata:    
+    "The Crossing (2018)":
+        year: 2018
+        title: "The Crossing"
+        sort_title: "Crossing"
+        url_poster: https://theposterdb.com/api/assets/421501
+        match:
+          mapping_id: 328631
+        # IDs: imdb://tt6461824, tmdb://71383, tvdb://328631
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Crossing&category=Shows&year_filter=equals&yone=2018&tmdb_id=71383&imdb_id=tt6461824&tvdb_id=328631
+        # tmdb: https://www.themoviedb.org/tv/71383
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=328631
+        # imdb: https://www.imdb.com/title/tt6461824
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/421502
