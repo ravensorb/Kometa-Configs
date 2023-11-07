@@ -1,0 +1,12 @@
+metadata:
+    "Live Wire (1992)":
+        year: 1992
+        title: "Live Wire"
+        match:
+          mapping_id: 12629
+        url_poster: https://theposterdb.com/api/assets/424900
+        # IDs: imdb://tt0104743, tmdb://12629, tvdb://15314
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Live%20Wire&category=Movies&year_filter=equals&yone=1992&tmdb_id=12629&imdb_id=tt0104743&tvdb_id=15314
+        # tmdb: https://www.themoviedb.org/movie/12629
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1992&query=15314
+        # imdb: https://www.imdb.com/title/tt0104743
