@@ -1,6 +1,6 @@
 playlists:
   Shawn Suggestions:
-    sync_to_users: sanderson
+    sync_to_users: ravensorb
     sync_mode: sync
     libraries: Movies, TV Shows
     trakt_list: https://trakt.tv/users/ravensorb/lists/watchlist-shawn?sort=rank,asc
@@ -15,7 +15,7 @@ playlists:
     libraries: Movies, TV Shows
     trakt_list: https://trakt.tv/users/ravensorb/lists/watchlist-avis?sort=rank,asc
   Garrett Suggestions:
-    sync_to_users: gbaerg
+    sync_to_users: garredose
     sync_mode: sync
     libraries: Movies, TV Shows
     trakt_list: https://trakt.tv/users/ravensorb/lists/watchlist-garrett?sort=rank,asc
