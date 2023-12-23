@@ -1,0 +1,13 @@
+metadata:
+    "A Christmas Carol (1999)":
+        year: 1999
+        title: "A Christmas Carol"
+        sort_title: "Christmas Carol"
+        match:
+          mapping_id: 16716
+        url_poster: https://theposterdb.com/api/assets/301086
+        # IDs: imdb://tt0216621, tmdb://16716, tvdb://7222
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Christmas%20Carol&category=Movies&year_filter=equals&yone=1999&tmdb_id=16716&imdb_id=tt0216621&tvdb_id=7222
+        # tmdb: https://www.themoviedb.org/movie/16716
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=7222
+        # imdb: https://www.imdb.com/title/tt0216621

@@ -1,0 +1,13 @@
+metadata:
+    "The Addams Family (1991)":
+        year: 1991
+        title: "The Addams Family"
+        sort_title: "Addams Family"
+        match:
+          mapping_id: 2907
+        url_poster: https://theposterdb.com/api/assets/173455
+        # IDs: imdb://tt0101272, tmdb://2907, tvdb://2475
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Movies&year_filter=equals&yone=1991&tmdb_id=2907&imdb_id=tt0101272&tvdb_id=2475
+        # tmdb: https://www.themoviedb.org/movie/2907
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=2475
+        # imdb: https://www.imdb.com/title/tt0101272
