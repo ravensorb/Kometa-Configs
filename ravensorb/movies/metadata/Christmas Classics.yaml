@@ -61,6 +61,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1974&query=17779
         # imdb: https://www.imdb.com/title/tt0072424
 
+    "'Twas the Night Before Christmas (1974)":
+        year: 1974
+        title: "'Twas the Night Before Christmas"
+        sort_title: "Twas the Night Before Christmas"
+        match:
+          mapping_id: 26547
+        url_poster: https://theposterdb.com/api/assets/190547
+        # IDs: imdb://tt0208654, tmdb://26547, tvdb://24678
+        # tpdb: https://theposterdb.com/search/advanced/results?term=%27Twas%20the%20Night%20Before%20Christmas&category=Movies&year_filter=equals&yone=1974&tmdb_id=26547&imdb_id=tt0208654&tvdb_id=24678
+        # tmdb: https://www.themoviedb.org/movie/26547
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1974&query=24678
+        # imdb: https://www.imdb.com/title/tt0208654
+
     "Frosty's Winter Wonderland (1976)":
         year: 1976
         title: "Frosty's Winter Wonderland"
@@ -120,6 +133,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/50934
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1980&query=105407
         # imdb: https://www.imdb.com/title/tt0081340
+
+    "The Life & Adventures of Santa Claus (1985)":
+        year: 1985
+        title: "The Life & Adventures of Santa Claus"
+        sort_title: "Life & Adventures of Santa Claus"
+        match:
+          mapping_id: 48880
+        url_poster: https://theposterdb.com/api/assets/190559
+        # IDs: imdb://tt0089488, tmdb://48880, tvdb://73894
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Life%20%26%20Adventures%20of%20Santa%20Claus&category=Movies&year_filter=equals&yone=1985&tmdb_id=48880&imdb_id=tt0089488&tvdb_id=73894
+        # tmdb: https://www.themoviedb.org/movie/48880
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=73894
+        # imdb: https://www.imdb.com/title/tt0089488
 
     "Frosty Returns (1992)":
         year: 1992
