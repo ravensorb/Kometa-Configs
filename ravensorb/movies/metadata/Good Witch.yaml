@@ -5,7 +5,7 @@ metadata:
         sort_title: "Good Witch"
         match:
           mapping_id: 32790
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445968
         # IDs: imdb://tt1105729, tmdb://32790, tvdb://6114
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch&category=Movies&year_filter=equals&yone=2008&tmdb_id=32790&imdb_id=tt1105729&tvdb_id=6114
         # tmdb: https://www.themoviedb.org/movie/32790
@@ -18,7 +18,7 @@ metadata:
         sort_title: "Good Witch's Garden"
         match:
           mapping_id: 60821
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445969
         # IDs: imdb://tt1312251, tmdb://60821, tvdb://12201
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Garden&category=Movies&year_filter=equals&yone=2009&tmdb_id=60821&imdb_id=tt1312251&tvdb_id=12201
         # tmdb: https://www.themoviedb.org/movie/60821
@@ -31,7 +31,7 @@ metadata:
         sort_title: "Good Witch's Gift"
         match:
           mapping_id: 61005
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445970
         # IDs: imdb://tt1560779, tmdb://61005, tvdb://26596
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Gift&category=Movies&year_filter=equals&yone=2010&tmdb_id=61005&imdb_id=tt1560779&tvdb_id=26596
         # tmdb: https://www.themoviedb.org/movie/61005
@@ -44,7 +44,7 @@ metadata:
         sort_title: "Good Witch's Family"
         match:
           mapping_id: 81033
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445971
         # IDs: imdb://tt1874757, tmdb://81033, tvdb://29071
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Family&category=Movies&year_filter=equals&yone=2011&tmdb_id=81033&imdb_id=tt1874757&tvdb_id=29071
         # tmdb: https://www.themoviedb.org/movie/81033
@@ -57,7 +57,7 @@ metadata:
         sort_title: "Good Witch's Charm"
         match:
           mapping_id: 148656
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445972
         # IDs: imdb://tt2273004, tmdb://148656, tvdb://28456
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Charm&category=Movies&year_filter=equals&yone=2012&tmdb_id=148656&imdb_id=tt2273004&tvdb_id=28456
         # tmdb: https://www.themoviedb.org/movie/148656
@@ -70,7 +70,7 @@ metadata:
         sort_title: "Good Witch's Destiny"
         match:
           mapping_id: 638186
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445973
         # IDs: imdb://tt2273024, tmdb://638186, tvdb://30556
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Destiny&category=Movies&year_filter=equals&yone=2013&tmdb_id=638186&imdb_id=tt2273024&tvdb_id=30556
         # tmdb: https://www.themoviedb.org/movie/638186
@@ -83,7 +83,7 @@ metadata:
         sort_title: "Good Witch's Wonder"
         match:
           mapping_id: 638187
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/445974
         # IDs: imdb://tt3197176, tmdb://638187, tvdb://29894
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Witch%27s%20Wonder&category=Movies&year_filter=equals&yone=2014&tmdb_id=638187&imdb_id=tt3197176&tvdb_id=29894
         # tmdb: https://www.themoviedb.org/movie/638187

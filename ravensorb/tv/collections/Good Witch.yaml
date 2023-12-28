@@ -1,6 +1,6 @@
 collections:
   "Good Witch":
-    variables: { show: "61864", poster: https://theposterdb.com/api/assets/159954 }
+    variables: { show: "61864", poster: https://theposterdb.com/api/assets/445967 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
