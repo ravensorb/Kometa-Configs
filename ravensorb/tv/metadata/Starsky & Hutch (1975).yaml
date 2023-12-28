@@ -1,0 +1,21 @@
+metadata:    
+    "Starsky & Hutch (1975)":
+        year: 1975
+        title: "Starsky & Hutch"
+        url_poster: https://theposterdb.com/api/assets/376097
+        match:
+          mapping_id: 78194
+        # IDs: imdb://tt0072567, tmdb://1532, tvdb://78194
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Starsky%20%26%20Hutch&category=Shows&year_filter=equals&yone=1975&tmdb_id=1532&imdb_id=tt0072567&tvdb_id=78194
+        # tmdb: https://www.themoviedb.org/tv/1532
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1975&query=78194
+        # imdb: https://www.imdb.com/title/tt0072567
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/376099
+            2:
+                url_poster: https://theposterdb.com/api/assets/376100
+            3:
+                url_poster: https://theposterdb.com/api/assets/376101
+            4:
+                url_poster: https://theposterdb.com/api/assets/376102
