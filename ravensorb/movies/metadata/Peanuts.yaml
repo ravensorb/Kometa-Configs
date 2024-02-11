@@ -182,6 +182,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1977&query=67431
         # imdb: https://www.imdb.com/title/tt0076217
 
+    "What a Nightmare, Charlie Brown! (1978)":
+        year: 1978
+        title: "What a Nightmare, Charlie Brown!"
+        match:
+          mapping_id: 55444
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0076911, tmdb://55444, tvdb://97215
+        # tpdb: https://theposterdb.com/search/advanced/results?term=What%20a%20Nightmare%2C%20Charlie%20Brown%21&category=Movies&year_filter=equals&yone=1978&tmdb_id=55444&imdb_id=tt0076911&tvdb_id=97215
+        # tmdb: https://www.themoviedb.org/movie/55444
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1978&query=97215
+        # imdb: https://www.imdb.com/title/tt0076911
+
     "Someday You'll Find Her, Charlie Brown (1981)":
         year: 1981
         title: "Someday You'll Find Her, Charlie Brown"

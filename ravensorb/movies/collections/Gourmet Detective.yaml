@@ -13,8 +13,8 @@ collections:
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Gourmet%20Detective
     # trakt: https://trakt.tv/search/lists?query=Gourmet%20Detective
     # collection_mode: hide
-    # trakt_list:
-    #   -
+    trakt_list:
+      - https://trakt.tv/lists/official/gourmet-detective-collection?sort=rank,asc
 
 ########################################################################################################################
 ########################################################################################################################
