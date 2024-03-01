@@ -1,6 +1,6 @@
 collections:
   "Hailey Dean Mysteries":
-    variables: { list: "667188"}
+    variables: { list: "667188" } #, poster: https://theposterdb.com/api/assets/ }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

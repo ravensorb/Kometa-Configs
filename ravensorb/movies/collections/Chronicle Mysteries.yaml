@@ -1,6 +1,6 @@
 collections:
   "Chronicle Mysteries":
-    variables: { list: "584691" }
+    variables: { list: "584691", poster: https://theposterdb.com/api/assets/419219 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
