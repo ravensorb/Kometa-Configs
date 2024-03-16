@@ -1,0 +1,15 @@
+metadata:    
+    "Mr. & Mrs. Smith (1996)":
+        year: 1996
+        title: "Mr. & Mrs. Smith"
+        url_poster: https://theposterdb.com/api/assets/452873
+        match:
+          mapping_id: 74945
+        # IDs: imdb://tt0115277, tmdb://10058, tvdb://74945
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.%20%26%20Mrs.%20Smith&category=Shows&year_filter=equals&yone=1996&tmdb_id=10058&imdb_id=tt0115277&tvdb_id=74945
+        # tmdb: https://www.themoviedb.org/tv/10058
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1996&query=74945
+        # imdb: https://www.imdb.com/title/tt0115277
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/452875

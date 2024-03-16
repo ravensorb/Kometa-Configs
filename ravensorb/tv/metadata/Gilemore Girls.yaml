@@ -2,7 +2,7 @@ metadata:
     "Gilmore Girls (2000)":
         year: 2000
         title: "Gilmore Girls"
-        url_poster: https://theposterdb.com/api/assets/334878
+        url_poster: https://theposterdb.com/api/assets/453037
         match:
           mapping_id: 76568
         # IDs: imdb://tt0238784, tmdb://4586, tvdb://76568
@@ -12,19 +12,19 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0238784
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/334880
+                url_poster: https://theposterdb.com/api/assets/453039
             2:
-                url_poster: https://theposterdb.com/api/assets/334881
+                url_poster: https://theposterdb.com/api/assets/453040
             3:
-                url_poster: https://theposterdb.com/api/assets/334882
+                url_poster: https://theposterdb.com/api/assets/453041
             4:
-                url_poster: https://theposterdb.com/api/assets/334883
+                url_poster: https://theposterdb.com/api/assets/453042
             5:
-                url_poster: https://theposterdb.com/api/assets/334884
+                url_poster: https://theposterdb.com/api/assets/453043
             6:
-                url_poster: https://theposterdb.com/api/assets/334885
+                url_poster: https://theposterdb.com/api/assets/453044
             7:
-                url_poster: https://theposterdb.com/api/assets/334886
+                url_poster: https://theposterdb.com/api/assets/453045
     
     "Gilmore Girls: A Year in the Life (2016)":
         year: 2016
