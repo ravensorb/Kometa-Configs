@@ -1,0 +1,23 @@
+metadata:    
+    "Silver Spoons (1982)":
+        year: 1982
+        title: "Silver Spoons"
+        url_poster: https://theposterdb.com/api/assets/375007
+        match:
+          mapping_id: 76848
+        # IDs: imdb://tt0083479, tmdb://2076, tvdb://76848
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Silver%20Spoons&category=Shows&year_filter=equals&yone=1982&tmdb_id=2076&imdb_id=tt0083479&tvdb_id=76848
+        # tmdb: https://www.themoviedb.org/tv/2076
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1982&query=76848
+        # imdb: https://www.imdb.com/title/tt0083479
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/375008
+            2:
+                url_poster: https://theposterdb.com/api/assets/375009
+            3:
+                url_poster: https://theposterdb.com/api/assets/375010
+            4:
+                url_poster: https://theposterdb.com/api/assets/375011
+            5:
+                url_poster: https://theposterdb.com/api/assets/375012

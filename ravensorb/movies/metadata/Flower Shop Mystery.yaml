@@ -22,3 +22,15 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/374739
         # tvdb: 
         # imdb: https://www.imdb.com/title/tt5211694
+
+    "Flower Shop Mystery: Snipped in the Bud (2016)":
+        year: 2016
+        title: "Flower Shop Mystery: Snipped in the Bud"
+        match:
+          mapping_id: 392625
+        url_poster: https://theposterdb.com/api/assets/373438
+        # IDs: imdb://tt5459456, tmdb://392625
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Snipped%20in%20the%20Bud&category=Movies&year_filter=equals&yone=2016&tmdb_id=392625&imdb_id=tt5459456
+        # tmdb: https://www.themoviedb.org/movie/392625
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt5459456

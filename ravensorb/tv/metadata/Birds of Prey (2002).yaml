@@ -1,0 +1,15 @@
+metadata:    
+    "Birds of Prey (2002)":
+        year: 2002
+        title: "Birds of Prey"
+        url_poster: https://theposterdb.com/api/assets/325682
+        match:
+          mapping_id: 77746
+        # IDs: imdb://tt0312098, tmdb://1469, tvdb://77746
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Birds%20of%20Prey&category=Shows&year_filter=equals&yone=2002&tmdb_id=1469&imdb_id=tt0312098&tvdb_id=77746
+        # tmdb: https://www.themoviedb.org/tv/1469
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2002&query=77746
+        # imdb: https://www.imdb.com/title/tt0312098
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
