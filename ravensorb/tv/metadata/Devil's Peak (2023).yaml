@@ -1,0 +1,15 @@
+metadata:    
+    "Devil's Peak (2023)":
+        year: 2023
+        title: "Devil's Peak"
+        # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 441184
+        # IDs: imdb://tt22009132, tmdb://236522, tvdb://441184
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Devil%27s%20Peak&category=Shows&year_filter=equals&yone=2023&tmdb_id=236522&imdb_id=tt22009132&tvdb_id=441184
+        # tmdb: https://www.themoviedb.org/tv/236522
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=441184
+        # imdb: https://www.imdb.com/title/tt22009132
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

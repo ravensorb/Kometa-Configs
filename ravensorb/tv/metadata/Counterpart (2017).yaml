@@ -1,0 +1,17 @@
+metadata:    
+    "Counterpart (2017)":
+        year: 2017
+        title: "Counterpart"
+        url_poster: https://theposterdb.com/api/assets/441682
+        match:
+          mapping_id: 337302
+        # IDs: imdb://tt4643084, tmdb://63646, tvdb://337302
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Counterpart&category=Shows&year_filter=equals&yone=2017&tmdb_id=63646&imdb_id=tt4643084&tvdb_id=337302
+        # tmdb: https://www.themoviedb.org/tv/63646
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=337302
+        # imdb: https://www.imdb.com/title/tt4643084
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/441683
+            2:
+                url_poster: https://theposterdb.com/api/assets/441684

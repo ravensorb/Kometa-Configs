@@ -3,7 +3,7 @@ metadata:
         year: 2016
         title: "The Crown"
         sort_title: "Crown"
-        url_poster: https://theposterdb.com/api/assets/242967
+        url_poster: https://theposterdb.com/api/assets/322014
         match:
           mapping_id: 305574
         # IDs: imdb://tt4786824, tmdb://65494, tvdb://305574
@@ -13,12 +13,14 @@ metadata:
         # imdb: https://www.imdb.com/title/tt4786824
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/242968
+                url_poster: https://theposterdb.com/api/assets/322015
             2:
-                url_poster: https://theposterdb.com/api/assets/242969
+                url_poster: https://theposterdb.com/api/assets/322016
             3:
-                url_poster: https://theposterdb.com/api/assets/242970
+                url_poster: https://theposterdb.com/api/assets/322017
             4:
-                url_poster: https://theposterdb.com/api/assets/242971
+                url_poster: https://theposterdb.com/api/assets/322018
             5:
-                url_poster: https://theposterdb.com/api/assets/320126
+                url_poster: https://theposterdb.com/api/assets/322019
+            6:
+                url_poster: https://theposterdb.com/api/assets/432607

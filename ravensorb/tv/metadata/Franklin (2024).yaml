@@ -1,0 +1,15 @@
+metadata:    
+    "Franklin (2024)":
+        year: 2024
+        title: "Franklin (2024)"
+        url_poster: https://theposterdb.com/api/assets/481308
+        match:
+          mapping_id: 417280
+        # IDs: imdb://tt18351584, tmdb://197591, tvdb://417280
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Franklin%20%282024%29&category=Shows&year_filter=equals&yone=2024&tmdb_id=197591&imdb_id=tt18351584&tvdb_id=417280
+        # tmdb: https://www.themoviedb.org/tv/197591
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=417280
+        # imdb: https://www.imdb.com/title/tt18351584
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/481310

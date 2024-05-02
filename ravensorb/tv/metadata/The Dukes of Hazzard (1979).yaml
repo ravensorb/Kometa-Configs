@@ -1,0 +1,28 @@
+metadata:    
+    "The Dukes of Hazzard (1979)":
+        year: 1979
+        title: "The Dukes of Hazzard"
+        sort_title: "Dukes of Hazzard"
+        url_poster: https://theposterdb.com/api/assets/452465
+        match:
+          mapping_id: 77748
+        # IDs: imdb://tt0078607, tmdb://397, tvdb://77748
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dukes%20of%20Hazzard&category=Shows&year_filter=equals&yone=1979&tmdb_id=397&imdb_id=tt0078607&tvdb_id=77748
+        # tmdb: https://www.themoviedb.org/tv/397
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1979&query=77748
+        # imdb: https://www.imdb.com/title/tt0078607
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/452466
+            2:
+                url_poster: https://theposterdb.com/api/assets/452467
+            3:
+                url_poster: https://theposterdb.com/api/assets/452468
+            4:
+                url_poster: https://theposterdb.com/api/assets/452469
+            5:
+                url_poster: https://theposterdb.com/api/assets/452470
+            6:
+                url_poster: https://theposterdb.com/api/assets/452471
+            7:
+                url_poster: https://theposterdb.com/api/assets/452472

@@ -1,0 +1,19 @@
+metadata:    
+    "Wisting (2019)":
+        year: 2019
+        title: "Wisting"
+        url_poster: https://theposterdb.com/api/assets/469838
+        match:
+          mapping_id: 356770
+        # IDs: imdb://tt7875794, tmdb://88358, tvdb://356770
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wisting&category=Shows&year_filter=equals&yone=2019&tmdb_id=88358&imdb_id=tt7875794&tvdb_id=356770
+        # tmdb: https://www.themoviedb.org/tv/88358
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=356770
+        # imdb: https://www.imdb.com/title/tt7875794
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/469839
+            2:
+                url_poster: https://theposterdb.com/api/assets/469840
+            3:
+                url_poster: https://theposterdb.com/api/assets/469841

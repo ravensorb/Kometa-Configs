@@ -1,0 +1,23 @@
+metadata:    
+    "Remington Steele (1982)":
+        year: 1982
+        title: "Remington Steele"
+        url_poster: https://theposterdb.com/api/assets/482993
+        match:
+          mapping_id: 78189
+        # IDs: imdb://tt0083470, tmdb://589, tvdb://78189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Remington%20Steele&category=Shows&year_filter=equals&yone=1982&tmdb_id=589&imdb_id=tt0083470&tvdb_id=78189
+        # tmdb: https://www.themoviedb.org/tv/589
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1982&query=78189
+        # imdb: https://www.imdb.com/title/tt0083470
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/482995
+            2:
+                url_poster: https://theposterdb.com/api/assets/482996
+            3:
+                url_poster: https://theposterdb.com/api/assets/482997
+            4:
+                url_poster: https://theposterdb.com/api/assets/482998
+            5:
+                url_poster: https://theposterdb.com/api/assets/482999

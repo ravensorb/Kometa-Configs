@@ -1,0 +1,17 @@
+metadata:    
+    "Shōgun (2024)":
+        year: 2024
+        title: "Shōgun"
+        orig_title: "Shôgun"
+        sort_title: "Shogun"
+        url_poster: https://theposterdb.com/api/assets/456269
+        match:
+          mapping_id: 392573
+        # IDs: imdb://tt2788316, tmdb://126308, tvdb://392573
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sh%C5%8Dgun&category=Shows&year_filter=equals&yone=2024&tmdb_id=126308&imdb_id=tt2788316&tvdb_id=392573
+        # tmdb: https://www.themoviedb.org/tv/126308
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=392573
+        # imdb: https://www.imdb.com/title/tt2788316
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/456270

@@ -1,0 +1,16 @@
+metadata:    
+    "The Right Stuff (2020)":
+        year: 2020
+        title: "The Right Stuff"
+        sort_title: "Right Stuff"
+        url_poster: https://theposterdb.com/api/assets/467499
+        match:
+          mapping_id: 362576
+        # IDs: imdb://tt7423322, tmdb://93786, tvdb://362576
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Right%20Stuff&category=Shows&year_filter=equals&yone=2020&tmdb_id=93786&imdb_id=tt7423322&tvdb_id=362576
+        # tmdb: https://www.themoviedb.org/tv/93786
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=362576
+        # imdb: https://www.imdb.com/title/tt7423322
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/467500

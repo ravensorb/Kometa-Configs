@@ -1,0 +1,21 @@
+metadata:    
+    "Coroner (2019)":
+        year: 2019
+        title: "Coroner"
+        url_poster: https://theposterdb.com/api/assets/475975
+        match:
+          mapping_id: 355066
+        # IDs: imdb://tt8593252, tmdb://85586, tvdb://355066
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Coroner&category=Shows&year_filter=equals&yone=2019&tmdb_id=85586&imdb_id=tt8593252&tvdb_id=355066
+        # tmdb: https://www.themoviedb.org/tv/85586
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=355066
+        # imdb: https://www.imdb.com/title/tt8593252
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/475976
+            2:
+                url_poster: https://theposterdb.com/api/assets/475977
+            3:
+                url_poster: https://theposterdb.com/api/assets/475978
+            4:
+                url_poster: https://theposterdb.com/api/assets/475979
