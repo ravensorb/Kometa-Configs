@@ -1,6 +1,6 @@
 collections:
   "Hailey Dean Mysteries":
-    variables: { list: "667188" } #, poster: https://theposterdb.com/api/assets/ }
+    variables: { collection: "667188" } #, poster: https://theposterdb.com/api/assets/ }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -39,8 +39,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    sonarr_add_missing: false
-    sonarr_folder: tv
 
   tplTVDBCollection:
     optional:

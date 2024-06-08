@@ -5,7 +5,7 @@ metadata:
         sort_title: "Great British Bake Off"
         url_poster: https://theposterdb.com/api/assets/293230
         match:
-          mapping_id: 184871
+          mapping_id: tt1877368
         # IDs: imdb://tt1877368, tmdb://34549, tvdb://184871
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20British%20Bake%20Off&category=Shows&year_filter=equals&yone=2010&tmdb_id=34549&imdb_id=tt1877368&tvdb_id=184871
         # tmdb: https://www.themoviedb.org/tv/34549
@@ -49,7 +49,7 @@ metadata:
         sort_title: "Great Comic Relief Bake Off"
         # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 266103
+          mapping_id: tt4448752
         # IDs: imdb://tt4448752, tmdb://86499, tvdb://266103
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20Comic%20Relief%20Bake%20Off&category=Shows&year_filter=equals&yone=2013&tmdb_id=86499&imdb_id=tt4448752&tvdb_id=266103
         # tmdb: https://www.themoviedb.org/tv/86499
@@ -65,7 +65,7 @@ metadata:
         sort_title: "Great British Baking Show Masterclass"
         # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 357728
+          mapping_id: tt32345034
         # IDs: tvdb://357728
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20British%20Baking%20Show%20Masterclass&category=Shows&year_filter=equals&yone=2013&tvdb_id=357728
         # tmdb: 
@@ -85,7 +85,7 @@ metadata:
         sort_title: "Great British Bake Off: An Extra Slice"
         # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 284546
+          mapping_id: tt4057258
         # IDs: imdb://tt4057258, tmdb://61162, tvdb://284546
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20British%20Bake%20Off%3A%20An%20Extra%20Slice&category=Shows&year_filter=equals&yone=2014&tmdb_id=61162&imdb_id=tt4057258&tvdb_id=284546
         # tmdb: https://www.themoviedb.org/tv/61162
@@ -115,7 +115,7 @@ metadata:
         sort_title: "Great American Baking Show"
         # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 303773
+          mapping_id: tt5233284
         # IDs: imdb://tt5233284, tmdb://69024, tvdb://303773
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20American%20Baking%20Show&category=Shows&year_filter=equals&yone=2015&tmdb_id=69024&imdb_id=tt5233284&tvdb_id=303773
         # tmdb: https://www.themoviedb.org/tv/69024
@@ -135,7 +135,7 @@ metadata:
         sort_title: "Great Celebrity Bake Off for SU2C"
         # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 343710
+          mapping_id: tt9022462
         # IDs: imdb://tt9022462, tmdb://77588, tvdb://343710
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20Celebrity%20Bake%20Off%20for%20SU2C&category=Shows&year_filter=equals&yone=2018&tmdb_id=77588&imdb_id=tt9022462&tvdb_id=343710
         # tmdb: https://www.themoviedb.org/tv/77588

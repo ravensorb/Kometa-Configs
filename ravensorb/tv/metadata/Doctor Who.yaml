@@ -210,3 +210,18 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/292937
+
+    "Doctor Who: Unleashed (2023)":
+        year: 2023
+        title: "Doctor Who: Unleashed"
+        # url_poster: https://theposterdb.com/api/assets/
+        match:
+          mapping_id: 440213
+        # IDs: imdb://tt21339170, tmdb://203946, tvdb://440213
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Unleashed&category=Shows&year_filter=equals&yone=2023&tmdb_id=203946&imdb_id=tt21339170&tvdb_id=440213
+        # tmdb: https://www.themoviedb.org/tv/203946
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=440213
+        # imdb: https://www.imdb.com/title/tt21339170
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

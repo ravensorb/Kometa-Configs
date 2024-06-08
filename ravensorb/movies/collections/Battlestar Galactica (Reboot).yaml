@@ -1,6 +1,6 @@
 collections:
   "Battlestar Galactica (Reboot)":
-    variables: { label: "Battlestar Galactica", movie: "853248, 257368, 69315, 968709, 105077", poster: https://theposterdb.com/api/assets/186153 }
+    variables: { label: "Battlestar Galactica", collection: "91697", movie: "69315, 105077, 257368", poster: https://theposterdb.com/api/assets/186153 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -40,8 +40,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    radarr_add_missing: true
-    radarr_folder: movies
 
   tplTVDBCollection:
     optional:

@@ -42,8 +42,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    sonarr_add_missing: true
-    sonarr_folder: tv
 
   tplTVDBCollection:
     optional:

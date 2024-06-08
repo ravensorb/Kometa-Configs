@@ -1,5 +1,5 @@
 collections:
-  "Beverly Hills 90210":
+  "Beverly Hills, 90210":
     variables: { show: "2025, 89235", poster: https://theposterdb.com/api/assets/351355 }
     template: [ 
       { name: tplCommonBase }, 
@@ -40,8 +40,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    sonarr_add_missing: false
-    sonarr_folder: tv
 
   tplTVDBCollection:
     optional:

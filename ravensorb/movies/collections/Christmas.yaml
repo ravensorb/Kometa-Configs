@@ -1,5 +1,5 @@
 collections:
-  "Christmas Classics":
+  "Christmas":
     variables: { poster: https://theposterdb.com/api/assets/198147 }
     template: [ 
       { name: tplCommonBase }, 
@@ -39,8 +39,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    radarr_add_missing: true
-    radarr_folder: movies
 
   tplTVDBCollection:
     optional:

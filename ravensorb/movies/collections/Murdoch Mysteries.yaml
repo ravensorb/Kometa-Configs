@@ -1,20 +1,20 @@
 collections:
-  "Matchmaker Mysteries":
-    variables: { list: "703722" } # , poster: https://theposterdb.com/api/assets/ }
+  "Murdoc Mysteries":
+    variables: { movie: "555303"} #, poster: https://theposterdb.com/api/assets/200267 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # summary: |
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Matchmaker%20Mysteries&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Matchmaker%20Mysteries
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Matchmaker%20Mysteries
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Matchmaker%20Mysteries
-    # trakt: https://trakt.tv/search/lists?query=Matchmaker%20Mysteries
-    # collection_mode: hide
+    # summary:
+    # tpdb: https://theposterdb.com/search/advanced/results?term=42nd%20Street&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%2242nd%20Street%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=42nd%20Street
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=42nd%20Street
+    # trakt: https://trakt.tv/search/lists?query=42nd%20Street
+    collection_mode: hide
     # trakt_list:
-    #   -
+    #    - 
 
 ########################################################################################################################
 ########################################################################################################################
@@ -39,8 +39,6 @@ templates:
     item_label: "PMM-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    radarr_add_missing: false
-    radarr_folder: movies
 
   tplTVDBCollection:
     optional:

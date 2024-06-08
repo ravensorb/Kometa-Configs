@@ -1,6 +1,6 @@
 collections:
   "James Bond":
-    variables: { movie: "12208, 660, 36643, 698, 34079, 700, 253, 36669, 699, 869250, 681, 714, 707, 710, 657, 682, 658, 708, 709, 691, 206647, 36670, 36557, 438493, 667, 37724, 10764, 370172, 646, 668", poster: https://theposterdb.com/api/assets/164797 }
+    variables: { movie: "12208, 660, 36643, 698, 34079, 700, 253, 36669, 699, 869250, 681, 714, 707, 710, 657, 682, 658, 708, 709, 691, 206647, 36670, 36557, 438493, 667, 37724, 10764, 370172, 646, 668, 141859", poster: https://theposterdb.com/api/assets/164797 }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -41,7 +41,9 @@ templates:
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
     radarr_add_missing: true
-    radarr_folder: movies
+    radarr_search: true
+    radarr_tag: jamesbond
+    radarr_folder: /mnt/movies/James Bond
 
   tplTVDBCollection:
     optional:
