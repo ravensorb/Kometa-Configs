@@ -52,7 +52,7 @@ metadata:
         title: "50 Years of Star Trek"
         match:
           mapping_id: 411500
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/175981
         # IDs: imdb://tt5941796, tmdb://411500, tvdb://68537
         # tpdb: https://theposterdb.com/search/advanced/results?term=50%20Years%20of%20Star%20Trek&category=Movies&year_filter=equals&yone=2016&tmdb_id=411500&imdb_id=tt5941796&tvdb_id=68537
         # tmdb: https://www.themoviedb.org/movie/411500
@@ -76,7 +76,7 @@ metadata:
         title: "What We Left Behind: Looking Back at Star Trek: Deep Space Nine"
         match:
           mapping_id: 522055
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/250510
         # IDs: imdb://tt6332276, tmdb://522055, tvdb://106410
         # tpdb: https://theposterdb.com/search/advanced/results?term=What%20We%20Left%20Behind%3A%20Looking%20Back%20at%20Star%20Trek%3A%20Deep%20Space%20Nine&category=Movies&year_filter=equals&yone=2019&tmdb_id=522055&imdb_id=tt6332276&tvdb_id=106410
         # tmdb: https://www.themoviedb.org/movie/522055

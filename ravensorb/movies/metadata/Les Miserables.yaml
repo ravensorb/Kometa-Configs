@@ -31,7 +31,7 @@ metadata:
         sort_title: "Les Miserables in Concert: The 25th Anniversary"
         match:
           mapping_id: 158675
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/213056
         # IDs: imdb://tt1754109, tmdb://158675, tvdb://15977
         # tpdb: https://theposterdb.com/search/advanced/results?term=Les%20Mis%C3%A9rables%20in%20Concert%3A%20The%2025th%20Anniversary&category=Movies&year_filter=equals&yone=2010&tmdb_id=158675&imdb_id=tt1754109&tvdb_id=15977
         # tmdb: https://www.themoviedb.org/movie/158675

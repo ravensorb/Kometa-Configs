@@ -4,7 +4,7 @@ metadata:
         title: "Up Close & Personal"
         match:
           mapping_id: 9302
-        url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/381431
         # IDs: imdb://tt0118055, tmdb://9302, tvdb://5986
         # tpdb: https://theposterdb.com/search/advanced/results?term=Up%20Close%20%26%20Personal&category=Movies&year_filter=equals&yone=1996&tmdb_id=9302&imdb_id=tt0118055&tvdb_id=5986
         # tmdb: https://www.themoviedb.org/movie/9302

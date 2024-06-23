@@ -40,7 +40,7 @@ metadata:
         title: "Underworld: Endless War"
         match:
           mapping_id: 161337
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/478917
         # IDs: imdb://tt2381375, tmdb://161337, tvdb://4535
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld%3A%20Endless%20War&category=Movies&year_filter=equals&yone=2011&tmdb_id=161337&imdb_id=tt2381375&tvdb_id=4535
         # tmdb: https://www.themoviedb.org/movie/161337

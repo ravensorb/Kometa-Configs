@@ -40,7 +40,7 @@ metadata:
         title: "Murder, She Baked: A Deadly Recipe"
         match:
           mapping_id: 392629
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/419214
         # IDs: imdb://tt5673202, tmdb://392629, tvdb://18263
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%2C%20She%20Baked%3A%20A%20Deadly%20Recipe&category=Movies&year_filter=equals&yone=2016&tmdb_id=392629&imdb_id=tt5673202&tvdb_id=18263
         # tmdb: https://www.themoviedb.org/movie/392629

@@ -1,6 +1,6 @@
 collections:
   "Mystery 101":
-    variables: { list: "659184" } # , poster: https://theposterdb.com/api/assets/ }
+    variables: { collection: "659184" } # , poster: https://theposterdb.com/api/assets/ }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

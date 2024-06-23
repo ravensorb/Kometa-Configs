@@ -235,7 +235,7 @@ metadata:
     "Star Trek: Strange New Worlds (2022)":
         year: 2022
         title: "Star Trek: Strange New Worlds"
-        url_poster: https://theposterdb.com/api/assets/233723
+        url_poster: https://theposterdb.com/api/assets/327966
         match:
           mapping_id: 382389
         # IDs: imdb://tt12327578, tmdb://103516, tvdb://382389
@@ -245,6 +245,6 @@ metadata:
         # imdb: https://www.imdb.com/title/tt12327578
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/233725
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/327968
+            2:
+                url_poster: https://theposterdb.com/api/assets/373544

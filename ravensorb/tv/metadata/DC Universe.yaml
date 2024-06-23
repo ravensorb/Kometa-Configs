@@ -187,8 +187,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/262440
             8:
                 url_poster: https://theposterdb.com/api/assets/262441
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/
+            9:
+                url_poster: https://theposterdb.com/api/assets/325742
     
     "Constantine (2014)":
         year: 2014
@@ -323,7 +323,7 @@ metadata:
     "Titans (2018)":
         year: 2018
         title: "Titans"
-        url_poster: https://theposterdb.com/api/assets/239370
+        url_poster: https://theposterdb.com/api/assets/327486
         match:
           mapping_id: 341663
         # IDs: imdb://tt1043813, tmdb://75450, tvdb://341663
@@ -333,13 +333,13 @@ metadata:
         # imdb: https://www.imdb.com/title/tt1043813
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/239371
+                url_poster: https://theposterdb.com/api/assets/327487
             2:
-                url_poster: https://theposterdb.com/api/assets/239372
+                url_poster: https://theposterdb.com/api/assets/327488
             3:
-                url_poster: https://theposterdb.com/api/assets/239373
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+                url_poster: https://theposterdb.com/api/assets/327489
+            4:
+                url_poster: https://theposterdb.com/api/assets/327490
     
     "Doom Patrol (2019)":
         year: 2019

@@ -4,7 +4,7 @@ metadata:
         title: "Righteous Kill"
         match:
           mapping_id: 13389
-        url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/198991
         # IDs: imdb://tt1034331, tmdb://13389, tvdb://4325
         # tpdb: https://theposterdb.com/search/advanced/results?term=Righteous%20Kill&category=Movies&year_filter=equals&yone=2008&tmdb_id=13389&imdb_id=tt1034331&tvdb_id=4325
         # tmdb: https://www.themoviedb.org/movie/13389

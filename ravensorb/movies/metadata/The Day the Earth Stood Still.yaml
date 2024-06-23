@@ -18,7 +18,7 @@ metadata:
         sort_title: "Day the Earth Stood Still"
         match:
           mapping_id: 10200
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/185479
         # IDs: imdb://tt0970416, tmdb://10200, tvdb://988
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Day%20the%20Earth%20Stood%20Still&category=Movies&year_filter=equals&yone=2008&tmdb_id=10200&imdb_id=tt0970416&tvdb_id=988
         # tmdb: https://www.themoviedb.org/movie/10200

@@ -21,7 +21,7 @@ metadata:
     "Walker Independence (2022)":
         year: 2022
         title: "Walker Independence"
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/431139
         match:
           mapping_id: 420060
         # IDs: imdb://tt16373746, tmdb://201877, tvdb://420060
@@ -29,6 +29,6 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/201877
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=420060
         # imdb: https://www.imdb.com/title/tt16373746
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/431140

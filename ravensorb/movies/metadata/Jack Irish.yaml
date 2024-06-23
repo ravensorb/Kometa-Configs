@@ -4,7 +4,7 @@ metadata:
         title: "Jack Irish: Bad Debts"
         match:
           mapping_id: 141095
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/462798
         # IDs: imdb://tt2087820, tmdb://141095, tvdb://31708
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jack%20Irish%3A%20Bad%20Debts&category=Movies&year_filter=equals&yone=2012&tmdb_id=141095&imdb_id=tt2087820&tvdb_id=31708
         # tmdb: https://www.themoviedb.org/movie/141095
@@ -16,7 +16,7 @@ metadata:
         title: "Jack Irish: Black Tide"
         match:
           mapping_id: 141099
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/462797
         # IDs: imdb://tt2090537, tmdb://141099, tvdb://20076
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jack%20Irish%3A%20Black%20Tide&category=Movies&year_filter=equals&yone=2012&tmdb_id=141099&imdb_id=tt2090537&tvdb_id=20076
         # tmdb: https://www.themoviedb.org/movie/141099
@@ -28,7 +28,7 @@ metadata:
         title: "Jack Irish: Dead Point"
         match:
           mapping_id: 264578
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/462796
         # IDs: imdb://tt2846378, tmdb://264578, tvdb://64057
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jack%20Irish%3A%20Dead%20Point&category=Movies&year_filter=equals&yone=2014&tmdb_id=264578&imdb_id=tt2846378&tvdb_id=64057
         # tmdb: https://www.themoviedb.org/movie/264578

@@ -5,7 +5,7 @@ metadata:
         sort_title: "Contract"
         match:
           mapping_id: 1441
-        url_poster: https://theposterdb.com/api/assets/279007
+        url_poster: https://theposterdb.com/api/assets/446346
         # IDs: imdb://tt0445946, tmdb://1441, tvdb://7710
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Contract&category=Movies&year_filter=equals&yone=2006&tmdb_id=1441&imdb_id=tt0445946&tvdb_id=7710
         # tmdb: https://www.themoviedb.org/movie/1441

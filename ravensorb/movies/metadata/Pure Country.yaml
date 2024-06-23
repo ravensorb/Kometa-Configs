@@ -4,7 +4,7 @@ metadata:
         title: "Pure Country"
         match:
           mapping_id: 22627
-        url_poster: https://theposterdb.com/api/assets/313656
+        url_poster: https://theposterdb.com/api/assets/469595
         # IDs: imdb://tt0105191, tmdb://22627, tvdb://18521
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pure%20Country&category=Movies&year_filter=equals&yone=1992&tmdb_id=22627&imdb_id=tt0105191&tvdb_id=18521
         # tmdb: https://www.themoviedb.org/movie/22627
@@ -16,7 +16,7 @@ metadata:
         title: "Pure Country 2: The Gift"
         match:
           mapping_id: 58936
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/469594
         # IDs: imdb://tt1549571, tmdb://58936, tvdb://27086
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pure%20Country%202%3A%20The%20Gift&category=Movies&year_filter=equals&yone=2010&tmdb_id=58936&imdb_id=tt1549571&tvdb_id=27086
         # tmdb: https://www.themoviedb.org/movie/58936
@@ -28,7 +28,7 @@ metadata:
         title: "Pure Country Pure Heart"
         match:
           mapping_id: 468201
-        url_poster: https://theposterdb.com/api/assets/213490
+        url_poster: https://theposterdb.com/api/assets/469593
         # IDs: imdb://tt6148766, tmdb://468201, tvdb://138745
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pure%20Country%20Pure%20Heart&category=Movies&year_filter=equals&yone=2017&tmdb_id=468201&imdb_id=tt6148766&tvdb_id=138745
         # tmdb: https://www.themoviedb.org/movie/468201
