@@ -1,0 +1,169 @@
+metadata:
+    "Batman: Under the Red Hood (2010)":
+        year: 2010
+        title: "Batman: Under the Red Hood"
+        match:
+          mapping_id: 40662
+        url_poster: https://theposterdb.com/api/assets/193344
+        # IDs: imdb://tt1569923, tmdb://40662, tvdb://2506
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Under%20the%20Red%20Hood&category=Movies&year_filter=equals&yone=2010&tmdb_id=40662&imdb_id=tt1569923&tvdb_id=2506
+        # tmdb: https://www.themoviedb.org/movie/40662
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=2506
+        # imdb: https://www.imdb.com/title/tt1569923
+
+    "Green Lantern: Emerald Knights (2011)":
+        year: 2011
+        title: "Green Lantern: Emerald Knights"
+        match:
+          mapping_id: 65291
+        url_poster: https://theposterdb.com/api/assets/193347
+        # IDs: imdb://tt1683043, tmdb://65291, tvdb://6918
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Green%20Lantern%3A%20Emerald%20Knights&category=Movies&year_filter=equals&yone=2011&tmdb_id=65291&imdb_id=tt1683043&tvdb_id=6918
+        # tmdb: https://www.themoviedb.org/movie/65291
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=6918
+        # imdb: https://www.imdb.com/title/tt1683043
+
+    "Justice League: The Flashpoint Paradox (2013)":
+        year: 2013
+        title: "Justice League: The Flashpoint Paradox"
+        match:
+          mapping_id: 183011
+        url_poster: https://theposterdb.com/api/assets/193354
+        # IDs: imdb://tt2820466, tmdb://183011, tvdb://3789
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20The%20Flashpoint%20Paradox&category=Movies&year_filter=equals&yone=2013&tmdb_id=183011&imdb_id=tt2820466&tvdb_id=3789
+        # tmdb: https://www.themoviedb.org/movie/183011
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=3789
+        # imdb: https://www.imdb.com/title/tt2820466
+
+    "Justice League: War (2014)":
+        year: 2014
+        title: "Justice League: War"
+        match:
+          mapping_id: 217993
+        url_poster: https://theposterdb.com/api/assets/193356
+        # IDs: imdb://tt3060952, tmdb://217993, tvdb://3662
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20War&category=Movies&year_filter=equals&yone=2014&tmdb_id=217993&imdb_id=tt3060952&tvdb_id=3662
+        # tmdb: https://www.themoviedb.org/movie/217993
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=3662
+        # imdb: https://www.imdb.com/title/tt3060952
+
+    "Justice League: Throne of Atlantis (2015)":
+        year: 2015
+        title: "Justice League: Throne of Atlantis"
+        match:
+          mapping_id: 297556
+        url_poster: https://theposterdb.com/api/assets/193359
+        # IDs: imdb://tt3878542, tmdb://297556, tvdb://3738
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Throne%20of%20Atlantis&category=Movies&year_filter=equals&yone=2015&tmdb_id=297556&imdb_id=tt3878542&tvdb_id=3738
+        # tmdb: https://www.themoviedb.org/movie/297556
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=3738
+        # imdb: https://www.imdb.com/title/tt3878542
+
+    "Justice League: Gods and Monsters (2015)":
+        year: 2015
+        title: "Justice League: Gods and Monsters"
+        match:
+          mapping_id: 323027
+        # url_poster: https://theposterdb.com/api/assets/193361
+        # IDs: imdb://tt4324302, tmdb://323027, tvdb://6175
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Gods%20and%20Monsters&category=Movies&year_filter=equals&yone=2015&tmdb_id=323027&imdb_id=tt4324302&tvdb_id=6175
+        # tmdb: https://www.themoviedb.org/movie/323027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=6175
+        # imdb: https://www.imdb.com/title/tt4324302
+
+    "Justice League vs. Teen Titans (2016)":
+        year: 2016
+        title: "Justice League vs. Teen Titans"
+        match:
+          mapping_id: 379291
+        url_poster: https://theposterdb.com/api/assets/193363
+        # IDs: imdb://tt5091548, tmdb://379291, tvdb://6898
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%20vs.%20Teen%20Titans&category=Movies&year_filter=equals&yone=2016&tmdb_id=379291&imdb_id=tt5091548&tvdb_id=6898
+        # tmdb: https://www.themoviedb.org/movie/379291
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=6898
+        # imdb: https://www.imdb.com/title/tt5091548
+
+    "Batman and Harley Quinn (2017)":
+        year: 2017
+        title: "Batman and Harley Quinn"
+        match:
+          mapping_id: 408648
+        url_poster: https://theposterdb.com/api/assets/193367
+        # IDs: imdb://tt6556890, tmdb://408648, tvdb://4883
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20and%20Harley%20Quinn&category=Movies&year_filter=equals&yone=2017&tmdb_id=408648&imdb_id=tt6556890&tvdb_id=4883
+        # tmdb: https://www.themoviedb.org/movie/408648
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=4883
+        # imdb: https://www.imdb.com/title/tt6556890
+
+    "Batman: Gotham by Gaslight (2018)":
+        year: 2018
+        title: "Batman: Gotham by Gaslight"
+        match:
+          mapping_id: 471474
+        # url_poster: https://theposterdb.com/api/assets/193368
+        # IDs: imdb://tt7167630, tmdb://471474, tvdb://2100
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Gotham%20by%20Gaslight&category=Movies&year_filter=equals&yone=2018&tmdb_id=471474&imdb_id=tt7167630&tvdb_id=2100
+        # tmdb: https://www.themoviedb.org/movie/471474
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=2100
+        # imdb: https://www.imdb.com/title/tt7167630
+
+    "Batman: Hush (2019)":
+        year: 2019
+        title: "Batman: Hush"
+        match:
+          mapping_id: 537056
+        url_poster: https://theposterdb.com/api/assets/193375
+        # IDs: imdb://tt8752440, tmdb://537056, tvdb://18090
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Hush&category=Movies&year_filter=equals&yone=2019&tmdb_id=537056&imdb_id=tt8752440&tvdb_id=18090
+        # tmdb: https://www.themoviedb.org/movie/537056
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=18090
+        # imdb: https://www.imdb.com/title/tt8752440
+
+    "Batman vs Teenage Mutant Ninja Turtles (2019)":
+        year: 2019
+        title: "Batman vs Teenage Mutant Ninja Turtles"
+        match:
+          mapping_id: 581997
+        url_poster: https://theposterdb.com/api/assets/193374
+        # IDs: imdb://tt9775360, tmdb://581997, tvdb://59371
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20vs%20Teenage%20Mutant%20Ninja%20Turtles&category=Movies&year_filter=equals&yone=2019&tmdb_id=581997&imdb_id=tt9775360&tvdb_id=59371
+        # tmdb: https://www.themoviedb.org/movie/581997
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=59371
+        # imdb: https://www.imdb.com/title/tt9775360
+
+    "Justice League vs the Fatal Five (2019)":
+        year: 2019
+        title: "Justice League vs the Fatal Five"
+        orig_title: "Justice League vs. the Fatal Five"
+        match:
+          mapping_id: 537059
+        url_poster: https://theposterdb.com/api/assets/193373
+        # IDs: imdb://tt8752474, tmdb://537059, tvdb://17339
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%20vs%20the%20Fatal%20Five&category=Movies&year_filter=equals&yone=2019&tmdb_id=537059&imdb_id=tt8752474&tvdb_id=17339
+        # tmdb: https://www.themoviedb.org/movie/537059
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=17339
+        # imdb: https://www.imdb.com/title/tt8752474
+
+    "Batman: Soul of the Dragon (2021)":
+        year: 2021
+        title: "Batman: Soul of the Dragon"
+        match:
+          mapping_id: 732450
+        url_poster: https://theposterdb.com/api/assets/193381
+        # IDs: imdb://tt12885852, tmdb://732450, tvdb://146510
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Soul%20of%20the%20Dragon&category=Movies&year_filter=equals&yone=2021&tmdb_id=732450&imdb_id=tt12885852&tvdb_id=146510
+        # tmdb: https://www.themoviedb.org/movie/732450
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=146510
+        # imdb: https://www.imdb.com/title/tt12885852
+
+    "Batman: The Long Halloween, Part One (2021)":
+        year: 2021
+        title: "Batman: The Long Halloween, Part One"
+        match:
+          mapping_id: 736073
+        url_poster: https://theposterdb.com/api/assets/193383
+        # IDs: imdb://tt14324650, tmdb://736073, tvdb://158333
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20The%20Long%20Halloween%2C%20Part%20One&category=Movies&year_filter=equals&yone=2021&tmdb_id=736073&imdb_id=tt14324650&tvdb_id=158333
+        # tmdb: https://www.themoviedb.org/movie/736073
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=158333
+        # imdb: https://www.imdb.com/title/tt14324650

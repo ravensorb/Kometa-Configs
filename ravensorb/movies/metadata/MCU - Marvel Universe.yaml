@@ -1,16 +1,15 @@
 metadata:
-    "Men in Black (1997)":
-        year: 1997
-        title: "Men in Black"
-        sort_title: "MCU - 01 - Men in Black"
+    "Howard the Duck (1986)":
+        year: 1986
+        title: "Howard the Duck"
         match:
-          mapping_id: 607
-        url_poster: https://theposterdb.com/api/assets/183822
-        # IDs: imdb://tt0119654, tmdb://607, tvdb://183
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Men%20in%20Black&category=Movies&year_filter=equals&yone=1997&tmdb_id=607&imdb_id=tt0119654&tvdb_id=183
-        # tmdb: https://www.themoviedb.org/movie/607
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=183
-        # imdb: https://www.imdb.com/title/tt0119654
+          mapping_id: 10658
+        url_poster: https://theposterdb.com/api/assets/171160
+        # IDs: imdb://tt0091225, tmdb://10658, tvdb://4593
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Howard%20the%20Duck&category=Movies&year_filter=equals&yone=1986&tmdb_id=10658&imdb_id=tt0091225&tvdb_id=4593
+        # tmdb: https://www.themoviedb.org/movie/10658
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=4593
+        # imdb: https://www.imdb.com/title/tt0091225
 
     "Blade (1998)":
         year: 1998
@@ -63,19 +62,6 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/557
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=301
         # imdb: https://www.imdb.com/title/tt0145487
-
-    "Men in Black II (2002)":
-        year: 2002
-        title: "Men in Black II"
-        sort_title: "MCU - 01 - Men in Black II"
-        match:
-          mapping_id: 608
-        url_poster: https://theposterdb.com/api/assets/183823
-        # IDs: imdb://tt0120912, tmdb://608, tvdb://280
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Men%20in%20Black%20II&category=Movies&year_filter=equals&yone=2002&tmdb_id=608&imdb_id=tt0120912&tvdb_id=280
-        # tmdb: https://www.themoviedb.org/movie/608
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=280
-        # imdb: https://www.imdb.com/title/tt0120912
 
     "Daredevil (2003)":
         year: 2003

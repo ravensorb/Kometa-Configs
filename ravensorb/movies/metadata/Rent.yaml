@@ -22,3 +22,15 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/15199
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=21293
         # imdb: https://www.imdb.com/title/tt1273675
+
+    "Rent: Live (2019)":
+        year: 2019
+        title: "Rent: Live"
+        match:
+          mapping_id: 557648
+        url_poster: https://theposterdb.com/api/assets/389819
+        # IDs: imdb://tt6881910, tmdb://557648, tvdb://16741
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Rent%3A%20Live&category=Movies&year_filter=equals&yone=2019&tmdb_id=557648&imdb_id=tt6881910&tvdb_id=16741
+        # tmdb: https://www.themoviedb.org/movie/557648
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=16741
+        # imdb: https://www.imdb.com/title/tt6881910

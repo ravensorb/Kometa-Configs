@@ -48,6 +48,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=698
         # imdb: https://www.imdb.com/title/tt0086190
 
+    "Ewoks: The Battle for Endor (1985)":
+        year: 1985
+        title: "Ewoks: The Battle for Endor"
+        match:
+          mapping_id: 10372
+        url_poster: https://theposterdb.com/api/assets/244737
+        # IDs: imdb://tt0089110, tmdb://10372, tvdb://6583
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ewoks%3A%20The%20Battle%20for%20Endor&category=Movies&year_filter=equals&yone=1985&tmdb_id=10372&imdb_id=tt0089110&tvdb_id=6583
+        # tmdb: https://www.themoviedb.org/movie/10372
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=6583
+        # imdb: https://www.imdb.com/title/tt0089110
+
     "Star Wars: Episode I - The Phantom Menace (1999)":
         year: 1999
         title: "Star Wars: Episode I - The Phantom Menace"

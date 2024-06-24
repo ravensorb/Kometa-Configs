@@ -1,4 +1,35 @@
-metadata:    
+metadata: 
+    "Walker, Texas Ranger (1993)":
+        year: 1993
+        title: "Walker, Texas Ranger"
+        # url_poster: https://theposterdb.com/api/assets/431231
+        match:
+          mapping_id: 73756
+        # IDs: imdb://tt0106168, tmdb://3772, tvdb://73756
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Walker%2C%20Texas%20Ranger&category=Shows&year_filter=equals&yone=1993&tmdb_id=3772&imdb_id=tt0106168&tvdb_id=73756
+        # tmdb: https://www.themoviedb.org/tv/3772
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1993&query=73756
+        # imdb: https://www.imdb.com/title/tt0106168
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/431233
+            2:
+                url_poster: https://theposterdb.com/api/assets/431234
+            3:
+                url_poster: https://theposterdb.com/api/assets/431235
+            4:
+                url_poster: https://theposterdb.com/api/assets/431236
+            5:
+                url_poster: https://theposterdb.com/api/assets/431237
+            6:
+                url_poster: https://theposterdb.com/api/assets/431238
+            7:
+                url_poster: https://theposterdb.com/api/assets/431239
+            8: 
+                url_poster: https://theposterdb.com/api/assets/431240
+            9:  
+                url_poster: https://theposterdb.com/api/assets/431241
+
     "Walker (2021)":
         year: 2021
         title: "Walker"

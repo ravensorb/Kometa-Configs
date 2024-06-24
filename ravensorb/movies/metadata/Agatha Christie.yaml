@@ -12,6 +12,79 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1935&query=10106
         # imdb: https://www.imdb.com/title/tt0026029
 
+    "And Then There Were None (1945)":
+        year: 1945
+        title: "And Then There Were None"
+        match:
+          mapping_id: 4886
+        url_poster: https://theposterdb.com/api/assets/417832
+        # IDs: imdb://tt0037515, tmdb://4886, tvdb://6714
+        # tpdb: https://theposterdb.com/search/advanced/results?term=And%20Then%20There%20Were%20None&category=Movies&year_filter=equals&yone=1945&tmdb_id=4886&imdb_id=tt0037515&tvdb_id=6714
+        # tmdb: https://www.themoviedb.org/movie/4886
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1945&query=6714
+        # imdb: https://www.imdb.com/title/tt0037515
+
+    "Murder at the Gallop (1963)":
+        year: 1963
+        title: "Murder at the Gallop"
+        match:
+          mapping_id: 751
+        url_poster: https://theposterdb.com/api/assets/417837
+        # IDs: imdb://tt0057334, tmdb://751, tvdb://15288
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20at%20the%20Gallop&category=Movies&year_filter=equals&yone=1963&tmdb_id=751&imdb_id=tt0057334&tvdb_id=15288
+        # tmdb: https://www.themoviedb.org/movie/751
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1963&query=15288
+        # imdb: https://www.imdb.com/title/tt0057334
+
+    "Murder Ahoy (1964)":
+        year: 1964
+        title: "Murder Ahoy"
+        match:
+          mapping_id: 758
+        url_poster: https://theposterdb.com/api/assets/417839
+        # IDs: imdb://tt0058382, tmdb://758, tvdb://13108
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20Ahoy&category=Movies&year_filter=equals&yone=1964&tmdb_id=758&imdb_id=tt0058382&tvdb_id=13108
+        # tmdb: https://www.themoviedb.org/movie/758
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1964&query=13108
+        # imdb: https://www.imdb.com/title/tt0058382
+
+    "Murder Most Foul (1964)":
+        year: 1964
+        title: "Murder Most Foul"
+        match:
+          mapping_id: 757
+        url_poster: https://theposterdb.com/api/assets/417838
+        # IDs: imdb://tt0058383, tmdb://757, tvdb://12136
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20Most%20Foul&category=Movies&year_filter=equals&yone=1964&tmdb_id=757&imdb_id=tt0058383&tvdb_id=12136
+        # tmdb: https://www.themoviedb.org/movie/757
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1964&query=12136
+        # imdb: https://www.imdb.com/title/tt0058383
+
+    "Endless Night (1972)":
+        year: 1972
+        title: "Endless Night"
+        match:
+          mapping_id: 40821
+        url_poster: https://theposterdb.com/api/assets/417842
+        # IDs: imdb://tt0067052, tmdb://40821, tvdb://62291
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Endless%20Night&category=Movies&year_filter=equals&yone=1972&tmdb_id=40821&imdb_id=tt0067052&tvdb_id=62291
+        # tmdb: https://www.themoviedb.org/movie/40821
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=62291
+        # imdb: https://www.imdb.com/title/tt0067052
+
+    "Ten Little Indians (1973)":
+        year: 1973
+        title: "Ten Little Indians"
+        orig_title: "And Then There Were None"
+        match:
+          mapping_id: 4883
+        url_poster: https://theposterdb.com/api/assets/483669
+        # IDs: imdb://tt0072263, tmdb://4883, tvdb://22342
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ten%20Little%20Indians&category=Movies&year_filter=equals&yone=1973&tmdb_id=4883&imdb_id=tt0072263&tvdb_id=22342
+        # tmdb: https://www.themoviedb.org/movie/4883
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=22342
+        # imdb: https://www.imdb.com/title/tt0072263
+
     "Murder on the Orient Express (1974)":
         year: 1974
         title: "Murder on the Orient Express"
@@ -61,6 +134,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=8664
         # imdb: https://www.imdb.com/title/tt0083908
 
+    "Ordeal by Innocence (1984)":
+        year: 1984
+        title: "Ordeal by Innocence"
+        match:
+          mapping_id: 108387
+        url_poster: https://theposterdb.com/api/assets/417848
+        # IDs: imdb://tt0087852, tmdb://108387, tvdb://146918
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ordeal%20by%20Innocence&category=Movies&year_filter=equals&yone=1984&tmdb_id=108387&imdb_id=tt0087852&tvdb_id=146918
+        # tmdb: https://www.themoviedb.org/movie/108387
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1984&query=146918
+        # imdb: https://www.imdb.com/title/tt0087852
+
     "Thirteen at Dinner (1985)":
         year: 1985
         title: "Thirteen at Dinner"
@@ -108,6 +193,67 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/392044
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=490
         # imdb: https://www.imdb.com/title/tt3402236
+
+    "Crooked House (2017)":
+        year: 2017
+        title: "Crooked House"
+        match:
+          mapping_id: 419835
+        url_poster: https://theposterdb.com/api/assets/417853
+        # IDs: imdb://tt1869347, tmdb://419835, tvdb://7817
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Crooked%20House&category=Movies&year_filter=equals&yone=2017&tmdb_id=419835&imdb_id=tt1869347&tvdb_id=7817
+        # tmdb: https://www.themoviedb.org/movie/419835
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=7817
+        # imdb: https://www.imdb.com/title/tt1869347
+
+    "Agatha and the Curse of Ishtar (2019)":
+        year: 2019
+        title: "Agatha and the Curse of Ishtar"
+        match:
+          mapping_id: 655730
+        url_poster: https://theposterdb.com/api/assets/424582
+        # IDs: imdb://tt10964992, tmdb://655730, tvdb://136416
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20and%20the%20Curse%20of%20Ishtar&category=Movies&year_filter=equals&yone=2019&tmdb_id=655730&imdb_id=tt10964992&tvdb_id=136416
+        # tmdb: https://www.themoviedb.org/movie/655730
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=136416
+        # imdb: https://www.imdb.com/title/tt10964992
+
+    "Agatha and the Truth of Murder (2019)":
+        year: 2019
+        title: "Agatha and the Truth of Murder"
+        match:
+          mapping_id: 570352
+        url_poster: https://theposterdb.com/api/assets/424581
+        # IDs: imdb://tt9381998, tmdb://570352, tvdb://743
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20and%20the%20Truth%20of%20Murder&category=Movies&year_filter=equals&yone=2019&tmdb_id=570352&imdb_id=tt9381998&tvdb_id=743
+        # tmdb: https://www.themoviedb.org/movie/570352
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=743
+        # imdb: https://www.imdb.com/title/tt9381998
+
+    "Agatha and the Midnight Murders (2020)":
+        year: 2020
+        title: "Agatha and the Midnight Murders"
+        match:
+          mapping_id: 749395
+        # url_poster: https://theposterdb.com/api/assets/424583
+        # IDs: imdb://tt11062400, tmdb://749395, tvdb://140942
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20and%20the%20Midnight%20Murders&category=Movies&year_filter=equals&yone=2020&tmdb_id=749395&imdb_id=tt11062400&tvdb_id=140942
+        # tmdb: https://www.themoviedb.org/movie/749395
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=140942
+        # imdb: https://www.imdb.com/title/tt11062400
+
+    "Agatha Christie: 100 Years of Suspense (2020)":
+        year: 2020
+        title: "Agatha Christie: 100 Years of Suspense"
+        orig_title: "Agatha Christie: 100 Years of Poirot and Miss Marple"
+        match:
+          mapping_id: 753489
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt13424900, tmdb://753489
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%3A%20100%20Years%20of%20Suspense&category=Movies&year_filter=equals&yone=2020&tmdb_id=753489&imdb_id=tt13424900
+        # tmdb: https://www.themoviedb.org/movie/753489
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt13424900
 
     "Death on the Nile (2022)":
         year: 2022
