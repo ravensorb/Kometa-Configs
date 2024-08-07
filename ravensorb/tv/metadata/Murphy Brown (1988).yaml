@@ -12,11 +12,11 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0094514
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/4114397
+                url_poster: https://theposterdb.com/api/assets/411397
             2:
-                url_poster: https://theposterdb.com/api/assets/4114398
+                url_poster: https://theposterdb.com/api/assets/411398
             3:
-                url_poster: https://theposterdb.com/api/assets/4114399
+                url_poster: https://theposterdb.com/api/assets/411399
             4:
                 url_poster: https://theposterdb.com/api/assets/411400
             5:

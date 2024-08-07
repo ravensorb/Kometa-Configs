@@ -23,7 +23,7 @@ metadata:
         year: 2022
         title: "The Witcher: Blood Origin"
         sort_title: "Witcher: Blood Origin"
-        url_poster: https://theposterdb.com/api/assets/738887
+        url_poster: https://theposterdb.com/api/assets/339439
         match:
           mapping_id: 399987
         # IDs: imdb://tt12785720, tmdb://106541, tvdb://399987
@@ -33,4 +33,4 @@ metadata:
         # imdb: https://www.imdb.com/title/tt12785720
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/339438
+                url_poster: https://theposterdb.com/api/assets/339440

@@ -1,0 +1,13 @@
+metadata:
+    "The Jack Bull (1999)":
+        year: 1999
+        title: "The Jack Bull"
+        sort_title: "Jack Bull"
+        match:
+          mapping_id: 16331
+        url_poster: https://theposterdb.com/api/assets/431377
+        # IDs: imdb://tt0171410, tmdb://16331, tvdb://42034
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Jack%20Bull&category=Movies&year_filter=equals&yone=1999&tmdb_id=16331&imdb_id=tt0171410&tvdb_id=42034
+        # tmdb: https://www.themoviedb.org/movie/16331
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=42034
+        # imdb: https://www.imdb.com/title/tt0171410

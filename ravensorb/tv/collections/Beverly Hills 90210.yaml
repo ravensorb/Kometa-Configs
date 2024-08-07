@@ -1,5 +1,5 @@
 collections:
-  "Beverly Hills, 90210":
+  "Beverly Hills 90210":
     variables: { show: "2025, 89235", poster: https://theposterdb.com/api/assets/351355 }
     template: [ 
       { name: tplCommonBase }, 

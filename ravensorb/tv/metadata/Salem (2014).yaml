@@ -2,7 +2,7 @@ metadata:
     "Salem (2014)":
         year: 2014
         title: "Salem"
-        url_poster: https://theposterdb.com/api/assets/411321
+        url_poster: https://theposterdb.com/api/assets/479912
         match:
           mapping_id: 274897
         # IDs: imdb://tt2963254, tmdb://60905, tvdb://274897
@@ -12,8 +12,8 @@ metadata:
         # imdb: https://www.imdb.com/title/tt2963254
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/411323
+                url_poster: https://theposterdb.com/api/assets/479914
             2:
-                url_poster: https://theposterdb.com/api/assets/411324
+                url_poster: https://theposterdb.com/api/assets/479915
             3:
-                url_poster: https://theposterdb.com/api/assets/411325
+                url_poster: https://theposterdb.com/api/assets/479916

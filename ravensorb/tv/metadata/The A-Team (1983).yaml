@@ -3,7 +3,7 @@ metadata:
         year: 1983
         title: "The A-Team"
         sort_title: "A-Team"
-        url_poster: https://theposterdb.com/api/assets/276635
+        url_poster: https://theposterdb.com/api/assets/466908
         match:
           mapping_id: 77904
         # IDs: imdb://tt0084967, tmdb://1516, tvdb://77904
@@ -13,12 +13,12 @@ metadata:
         # imdb: https://www.imdb.com/title/tt0084967
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/276637
+                url_poster: https://theposterdb.com/api/assets/466910
             2:
-                url_poster: https://theposterdb.com/api/assets/276638
+                url_poster: https://theposterdb.com/api/assets/466911
             3:
-                url_poster: https://theposterdb.com/api/assets/276639
+                url_poster: https://theposterdb.com/api/assets/466912
             4:
-                url_poster: https://theposterdb.com/api/assets/276640
+                url_poster: https://theposterdb.com/api/assets/466913
             5:
-                url_poster: https://theposterdb.com/api/assets/276641
+                url_poster: https://theposterdb.com/api/assets/466914

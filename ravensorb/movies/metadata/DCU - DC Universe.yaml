@@ -59,6 +59,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=1749
         # imdb: https://www.imdb.com/title/tt0094074
 
+    "Swamp Thing (1982)":
+        year: 1982
+        title: "Swamp Thing"
+        match:
+          mapping_id: 17918
+        url_poster: https://theposterdb.com/api/assets/171560
+        # IDs: imdb://tt0084745, tmdb://17918, tvdb://3253
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Swamp%20Thing&category=Movies&year_filter=equals&yone=1982&tmdb_id=17918&imdb_id=tt0084745&tvdb_id=3253
+        # tmdb: https://www.themoviedb.org/movie/17918
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=3253
+        # imdb: https://www.imdb.com/title/tt0084745
+
     "Batman (1989)":
         year: 1989
         title: "Batman"
@@ -70,6 +82,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/268
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=1204
         # imdb: https://www.imdb.com/title/tt0096895
+
+    "The Return of Swamp Thing (1989)":
+        year: 1989
+        title: "The Return of Swamp Thing"
+        sort_title: "Return of Swamp Thing"
+        match:
+          mapping_id: 19142
+        url_poster: https://theposterdb.com/api/assets/171561
+        # IDs: imdb://tt0098193, tmdb://19142, tvdb://11894
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Return%20of%20Swamp%20Thing&category=Movies&year_filter=equals&yone=1989&tmdb_id=19142&imdb_id=tt0098193&tvdb_id=11894
+        # tmdb: https://www.themoviedb.org/movie/19142
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=11894
+        # imdb: https://www.imdb.com/title/tt0098193
 
     "The Flash (1990)":
         year: 1990
@@ -83,6 +108,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/232842
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1990&query=38321
         # imdb: 
+
+    "Steel (1997)":
+        year: 1997
+        title: "Steel"
+        match:
+          mapping_id: 8854
+        url_poster: https://theposterdb.com/api/assets/171579
+        # IDs: imdb://tt0120207, tmdb://8854, tvdb://6858
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Steel&category=Movies&year_filter=equals&yone=1997&tmdb_id=8854&imdb_id=tt0120207&tvdb_id=6858
+        # tmdb: https://www.themoviedb.org/movie/8854
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1997&query=6858
+        # imdb: https://www.imdb.com/title/tt0120207
 
     "Batman Returns (1992)":
         year: 1992
@@ -120,6 +157,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1996&query=1704
         # imdb: https://www.imdb.com/title/tt0118688
 
+    "Road to Perdition (2002)":
+        year: 2002
+        title: "Road to Perdition"
+        match:
+          mapping_id: 4147
+        url_poster: https://theposterdb.com/api/assets/171580
+        # IDs: imdb://tt0257044, tmdb://4147, tvdb://2167
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Road%20to%20Perdition&category=Movies&year_filter=equals&yone=2002&tmdb_id=4147&imdb_id=tt0257044&tvdb_id=2167
+        # tmdb: https://www.themoviedb.org/movie/4147
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=2167
+        # imdb: https://www.imdb.com/title/tt0257044
+
     "Catwoman (2004)":
         year: 2004
         title: "Catwoman"
@@ -131,6 +180,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/314
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2004&query=3099
         # imdb: https://www.imdb.com/title/tt0327554
+
+    "Constantine (2005)":
+        year: 2005
+        title: "Constantine"
+        match:
+          mapping_id: 561
+        url_poster: https://theposterdb.com/api/assets/371813
+        # IDs: imdb://tt0360486, tmdb://561, tvdb://855
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Constantine&category=Movies&year_filter=equals&yone=2005&tmdb_id=561&imdb_id=tt0360486&tvdb_id=855
+        # tmdb: https://www.themoviedb.org/movie/561
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=855
+        # imdb: https://www.imdb.com/title/tt0360486
 
     "Batman Begins (2005)":
         year: 2005
@@ -168,6 +229,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=1280
         # imdb: https://www.imdb.com/title/tt0348150
 
+    "Superman II: The Richard Donner Cut (2006)":
+        year: 2006
+        title: "Superman II: The Richard Donner Cut"
+        match:
+          mapping_id: 624479
+        url_poster: https://theposterdb.com/api/assets/371818
+        # IDs: imdb://tt0839995, tmdb://624479, tvdb://14043
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%20II%3A%20The%20Richard%20Donner%20Cut&category=Movies&year_filter=equals&yone=2006&tmdb_id=624479&imdb_id=tt0839995&tvdb_id=14043
+        # tmdb: https://www.themoviedb.org/movie/624479
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=14043
+        # imdb: https://www.imdb.com/title/tt0839995
+
     "The Dark Knight (2008)":
         year: 2008
         title: "The Dark Knight"
@@ -180,6 +253,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/155
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=116
         # imdb: https://www.imdb.com/title/tt0468569
+
+    "Tales of the Black Freighter (2009)":
+        year: 2009
+        title: "Tales of the Black Freighter"
+        match:
+          mapping_id: 16440
+        url_poster: https://theposterdb.com/api/assets/171565
+        # IDs: imdb://tt1295071, tmdb://16440, tvdb://11833
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Tales%20of%20the%20Black%20Freighter&category=Movies&year_filter=equals&yone=2009&tmdb_id=16440&imdb_id=tt1295071&tvdb_id=11833
+        # tmdb: https://www.themoviedb.org/movie/16440
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=11833
+        # imdb: https://www.imdb.com/title/tt1295071
 
     "Watchmen (2009)":
         year: 2009
@@ -254,6 +339,30 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=652
         # imdb: https://www.imdb.com/title/tt0770828
 
+    "Lego DC Comics: Batman Be-Leaguered (2014)":
+        year: 2014
+        title: "Lego DC Comics: Batman Be-Leaguered"
+        match:
+          mapping_id: 300424
+        url_poster: https://theposterdb.com/api/assets/294327
+        # IDs: imdb://tt4189294, tmdb://300424, tvdb://10463
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%3A%20Batman%20Be-Leaguered&category=Movies&year_filter=equals&yone=2014&tmdb_id=300424&imdb_id=tt4189294&tvdb_id=10463
+        # tmdb: https://www.themoviedb.org/movie/300424
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=10463
+        # imdb: https://www.imdb.com/title/tt4189294
+
+    "Lego DC Comics Superheroes: Justice League - Gotham City Breakout (2016)":
+        year: 2016
+        title: "Lego DC Comics Superheroes: Justice League - Gotham City Breakout"
+        match:
+          mapping_id: 396330
+        url_poster: https://theposterdb.com/api/assets/294331
+        # IDs: imdb://tt5612702, tmdb://396330, tvdb://8483
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Superheroes%3A%20Justice%20League%20-%20Gotham%20City%20Breakout&category=Movies&year_filter=equals&yone=2016&tmdb_id=396330&imdb_id=tt5612702&tvdb_id=8483
+        # tmdb: https://www.themoviedb.org/movie/396330
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=8483
+        # imdb: https://www.imdb.com/title/tt5612702
+
     "Batman v Superman: Dawn of Justice (2016)":
         year: 2016
         title: "Batman v Superman: Dawn of Justice"
@@ -265,6 +374,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/209112
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=158
         # imdb: https://www.imdb.com/title/tt2975590
+
+    "Suicide Squad (2016)":
+        year: 2016
+        title: "Suicide Squad"
+        match:
+          mapping_id: 297761
+        url_poster: https://theposterdb.com/api/assets/171545
+        # IDs: imdb://tt1386697, tmdb://297761, tvdb://746
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Suicide%20Squad&category=Movies&year_filter=equals&yone=2016&tmdb_id=297761&imdb_id=tt1386697&tvdb_id=746
+        # tmdb: https://www.themoviedb.org/movie/297761
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=746
+        # imdb: https://www.imdb.com/title/tt1386697
 
     "Wonder Woman (2017)":
         year: 2017
@@ -301,6 +422,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/141052
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=114
         # imdb: https://www.imdb.com/title/tt0974015
+
+    "The Lego Batman Movie (2017)":
+        year: 2017
+        title: "The Lego Batman Movie"
+        sort_title: "Lego Batman Movie"
+        match:
+          mapping_id: 324849
+        url_poster: https://theposterdb.com/api/assets/193024
+        # IDs: imdb://tt4116284, tmdb://324849, tvdb://1017
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lego%20Batman%20Movie&category=Movies&year_filter=equals&yone=2017&tmdb_id=324849&imdb_id=tt4116284&tvdb_id=1017
+        # tmdb: https://www.themoviedb.org/movie/324849
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=1017
+        # imdb: https://www.imdb.com/title/tt4116284
 
     "The Death of Superman (2018)":
         year: 2018
@@ -351,6 +485,43 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=7644
         # imdb: https://www.imdb.com/title/tt7286456
 
+    "The Death and Return of Superman (2019)":
+        year: 2019
+        title: "The Death and Return of Superman"
+        sort_title: "Death and Return of Superman"
+        match:
+          mapping_id: 630656
+        url_poster: https://theposterdb.com/api/assets/193376
+        # IDs: imdb://tt30842832, tmdb://630656
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Death%20and%20Return%20of%20Superman&category=Movies&year_filter=equals&yone=2019&tmdb_id=630656&imdb_id=tt30842832
+        # tmdb: https://www.themoviedb.org/movie/630656
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt30842832
+
+    "Shazam! (2019)":
+        year: 2019
+        title: "Shazam!"
+        match:
+          mapping_id: 287947
+        url_poster: https://theposterdb.com/api/assets/171549
+        # IDs: imdb://tt0448115, tmdb://287947, tvdb://2487
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Shazam%21&category=Movies&year_filter=equals&yone=2019&tmdb_id=287947&imdb_id=tt0448115&tvdb_id=2487
+        # tmdb: https://www.themoviedb.org/movie/287947
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=2487
+        # imdb: https://www.imdb.com/title/tt0448115
+
+    "Wonder Woman: Bloodlines (2019)":
+        year: 2019
+        title: "Wonder Woman: Bloodlines"
+        match:
+          mapping_id: 537055
+        url_poster: https://theposterdb.com/api/assets/193377
+        # IDs: imdb://tt8752498, tmdb://537055, tvdb://21239
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wonder%20Woman%3A%20Bloodlines&category=Movies&year_filter=equals&yone=2019&tmdb_id=537055&imdb_id=tt8752498&tvdb_id=21239
+        # tmdb: https://www.themoviedb.org/movie/537055
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=21239
+        # imdb: https://www.imdb.com/title/tt8752498
+
     "Wonder Woman 1984 (2020)":
         year: 2020
         title: "Wonder Woman 1984"
@@ -399,6 +570,31 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/791373
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=157282
         # imdb: https://www.imdb.com/title/tt12361974
+
+    "The Suicide Squad (2021)":
+        year: 2021
+        title: "The Suicide Squad"
+        sort_title: "Suicide Squad"
+        match:
+          mapping_id: 436969
+        url_poster: https://theposterdb.com/api/assets/371785
+        # IDs: imdb://tt6334354, tmdb://436969, tvdb://13333
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Suicide%20Squad&category=Movies&year_filter=equals&yone=2021&tmdb_id=436969&imdb_id=tt6334354&tvdb_id=13333
+        # tmdb: https://www.themoviedb.org/movie/436969
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=13333
+        # imdb: https://www.imdb.com/title/tt6334354
+
+    "Injustice (2021)":
+        year: 2021
+        title: "Injustice"
+        match:
+          mapping_id: 831405
+        url_poster: https://theposterdb.com/api/assets/193385
+        # IDs: imdb://tt5012504, tmdb://831405, tvdb://267649
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Injustice&category=Movies&year_filter=equals&yone=2021&tmdb_id=831405&imdb_id=tt5012504&tvdb_id=267649
+        # tmdb: https://www.themoviedb.org/movie/831405
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=267649
+        # imdb: https://www.imdb.com/title/tt5012504
 
     "Black Adam (2022)":
         year: 2022

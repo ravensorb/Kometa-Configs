@@ -1,0 +1,20 @@
+metadata:    
+    "The Bear (2022)":
+        year: 2022
+        title: "The Bear"
+        sort_title: "Bear"
+        url_poster: https://theposterdb.com/api/assets/342151
+        match:
+          mapping_id: 403294
+        # IDs: imdb://tt14452776, tmdb://136315, tvdb://403294
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bear&category=Shows&year_filter=equals&yone=2022&tmdb_id=136315&imdb_id=tt14452776&tvdb_id=403294
+        # tmdb: https://www.themoviedb.org/tv/136315
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=403294
+        # imdb: https://www.imdb.com/title/tt14452776
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/342152
+            2:
+                url_poster: https://theposterdb.com/api/assets/373553
+            3:
+                url_poster: https://theposterdb.com/api/assets/503419

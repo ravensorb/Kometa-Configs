@@ -3,7 +3,7 @@ metadata:
         year: 2018
         title: "The Crossing"
         sort_title: "Crossing"
-        url_poster: https://theposterdb.com/api/assets/421501
+        url_poster: https://theposterdb.com/api/assets/441610
         match:
           mapping_id: 328631
         # IDs: imdb://tt6461824, tmdb://71383, tvdb://328631
@@ -13,4 +13,4 @@ metadata:
         # imdb: https://www.imdb.com/title/tt6461824
         seasons:
             1:
-                url_poster: https://theposterdb.com/api/assets/421502
+                url_poster: https://theposterdb.com/api/assets/441611
