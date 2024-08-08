@@ -1,0 +1,24 @@
+metadata:
+    "Support Your Local Sheriff! (1969)":
+        year: 1969
+        title: "Support Your Local Sheriff!"
+        match:
+          mapping_id: 11574
+        url_poster: https://theposterdb.com/api/assets/475443
+        # IDs: imdb://tt0065051, tmdb://11574, tvdb://7645
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Support%20Your%20Local%20Sheriff%21&category=Movies&year_filter=equals&yone=1969&tmdb_id=11574&imdb_id=tt0065051&tvdb_id=7645
+        # tmdb: https://www.themoviedb.org/movie/11574
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1969&query=7645
+        # imdb: https://www.imdb.com/title/tt0065051
+
+    "Support Your Local Gunfighter (1971)":
+        year: 1971
+        title: "Support Your Local Gunfighter"
+        match:
+          mapping_id: 18287
+        url_poster: https://theposterdb.com/api/assets/475458
+        # IDs: imdb://tt0067809, tmdb://18287, tvdb://25390
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Support%20Your%20Local%20Gunfighter&category=Movies&year_filter=equals&yone=1971&tmdb_id=18287&imdb_id=tt0067809&tvdb_id=25390
+        # tmdb: https://www.themoviedb.org/movie/18287
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1971&query=25390
+        # imdb: https://www.imdb.com/title/tt0067809

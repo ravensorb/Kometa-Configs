@@ -2,6 +2,7 @@ metadata:
     "Kick-Ass (2010)":
         year: 2010
         title: "Kick-Ass"
+        original_title: "Kick Ass"
         sort_title: "MCU - 01 - Kick-Ass 1"
         match:
           mapping_id: 23483

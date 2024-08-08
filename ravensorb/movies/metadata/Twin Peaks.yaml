@@ -1,0 +1,12 @@
+metadata:
+    "Twin Peaks":
+        year: 1989
+        title: "Twin Peaks"
+        match:
+          mapping_id: tt27449259
+        # url_poster: https://theposterdb.com/api/assets/475517
+        # IDs: imdb://tt27449259
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Movies&imdb_id=tt27449259
+        # tmdb: 
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt27449259

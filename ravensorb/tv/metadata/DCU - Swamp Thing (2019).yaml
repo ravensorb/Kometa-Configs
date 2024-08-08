@@ -1,0 +1,15 @@
+metadata:    
+    "Swamp Thing (2019)":
+        year: 2019
+        title: "Swamp Thing (2019)"
+        url_poster: https://theposterdb.com/api/assets/327461
+        match:
+          mapping_id: 361735
+        # IDs: imdb://tt8362852, tmdb://79240, tvdb://361735
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Swamp%20Thing%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=79240&imdb_id=tt8362852&tvdb_id=361735
+        # tmdb: https://www.themoviedb.org/tv/79240
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=361735
+        # imdb: https://www.imdb.com/title/tt8362852
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/327462

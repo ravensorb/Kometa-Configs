@@ -1,0 +1,123 @@
+metadata:
+    "Lego Batman: The Movie - DC Super Heroes Unite (2013)":
+        year: 2013
+        title: "Lego Batman: The Movie - DC Super Heroes Unite"
+        match:
+          mapping_id: 177271
+        url_poster: https://theposterdb.com/api/assets/294326
+        # IDs: imdb://tt2465238, tmdb://177271, tvdb://64053
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20Batman%3A%20The%20Movie%20-%20DC%20Super%20Heroes%20Unite&category=Movies&year_filter=equals&yone=2013&tmdb_id=177271&imdb_id=tt2465238&tvdb_id=64053
+        # tmdb: https://www.themoviedb.org/movie/177271
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=64053
+        # imdb: https://www.imdb.com/title/tt2465238
+
+    "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom! (2015)":
+        year: 2015
+        title: "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom!"
+        orig_title: "Lego DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!"
+        match:
+          mapping_id: 353595
+        url_poster: https://theposterdb.com/api/assets/294329
+        # IDs: imdb://tt4938416, tmdb://353595, tvdb://12365
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Super%20Heroes%3A%20Justice%20League%20-%20Attack%20of%20the%20Legion%20of%20Doom%21&category=Movies&year_filter=equals&yone=2015&tmdb_id=353595&imdb_id=tt4938416&tvdb_id=12365
+        # tmdb: https://www.themoviedb.org/movie/353595
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=12365
+        # imdb: https://www.imdb.com/title/tt4938416
+
+    "Lego DC Comics Super Heroes: Justice League vs. Bizarro League (2015)":
+        year: 2015
+        title: "Lego DC Comics Super Heroes: Justice League vs. Bizarro League"
+        match:
+          mapping_id: 322456
+        url_poster: https://theposterdb.com/api/assets/294328
+        # IDs: imdb://tt4189260, tmdb://322456, tvdb://8165
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20Justice%20League%20vs.%20Bizarro%20League&category=Movies&year_filter=equals&yone=2015&tmdb_id=322456&imdb_id=tt4189260&tvdb_id=8165
+        # tmdb: https://www.themoviedb.org/movie/322456
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=8165
+        # imdb: https://www.imdb.com/title/tt4189260
+
+    "Lego DC Comics Super Heroes: Justice League - Cosmic Clash (2016)":
+        year: 2016
+        title: "Lego DC Comics Super Heroes: Justice League - Cosmic Clash"
+        match:
+          mapping_id: 382512
+        url_poster: https://theposterdb.com/api/assets/294330
+        # IDs: imdb://tt5251438, tmdb://382512, tvdb://8272
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20Justice%20League%20-%20Cosmic%20Clash&category=Movies&year_filter=equals&yone=2016&tmdb_id=382512&imdb_id=tt5251438&tvdb_id=8272
+        # tmdb: https://www.themoviedb.org/movie/382512
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=8272
+        # imdb: https://www.imdb.com/title/tt5251438
+
+    "Lego DC Super Hero Girls: Brain Drain (2017)":
+        year: 2017
+        title: "Lego DC Super Hero Girls: Brain Drain"
+        match:
+          mapping_id: 460135
+        url_poster: https://theposterdb.com/api/assets/308682
+        # IDs: imdb://tt7158814, tmdb://460135, tvdb://34057
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Super%20Hero%20Girls%3A%20Brain%20Drain&category=Movies&year_filter=equals&yone=2017&tmdb_id=460135&imdb_id=tt7158814&tvdb_id=34057
+        # tmdb: https://www.themoviedb.org/movie/460135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=34057
+        # imdb: https://www.imdb.com/title/tt7158814
+
+    "Lego DC Comics Super Heroes: The Flash (2018)":
+        year: 2018
+        title: "Lego DC Comics Super Heroes: The Flash"
+        match:
+          mapping_id: 504997
+        url_poster: https://theposterdb.com/api/assets/294332
+        # IDs: imdb://tt7877382, tmdb://504997, tvdb://6661
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20The%20Flash&category=Movies&year_filter=equals&yone=2018&tmdb_id=504997&imdb_id=tt7877382&tvdb_id=6661
+        # tmdb: https://www.themoviedb.org/movie/504997
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=6661
+        # imdb: https://www.imdb.com/title/tt7877382
+
+    "LEGO DC Super Hero Girls: Super-villain High (2018)":
+        year: 2018
+        title: "LEGO DC Super Hero Girls: Super-villain High"
+        match:
+          mapping_id: 506734
+        url_poster: https://theposterdb.com/api/assets/308683
+        # IDs: imdb://tt8050266, tmdb://506734, tvdb://11975
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%20Super%20Hero%20Girls%3A%20Super-villain%20High&category=Movies&year_filter=equals&yone=2018&tmdb_id=506734&imdb_id=tt8050266&tvdb_id=11975
+        # tmdb: https://www.themoviedb.org/movie/506734
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=11975
+        # imdb: https://www.imdb.com/title/tt8050266
+
+    "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis (2018)":
+        year: 2018
+        title: "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis"
+        orig_title: "Lego DC Comics Super Heroes: Aquaman - Rage of Atlantis"
+        match:
+          mapping_id: 513736
+        url_poster: https://theposterdb.com/api/assets/294333
+        # IDs: imdb://tt8457394, tmdb://513736, tvdb://8922
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%20Comics%20Super%20Heroes%3A%20Aquaman%20-%20Rage%20of%20Atlantis&category=Movies&year_filter=equals&yone=2018&tmdb_id=513736&imdb_id=tt8457394&tvdb_id=8922
+        # tmdb: https://www.themoviedb.org/movie/513736
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=8922
+        # imdb: https://www.imdb.com/title/tt8457394
+
+    "Lego DC Batman: Family Matters (2019)":
+        year: 2019
+        title: "Lego DC Batman: Family Matters"
+        match:
+          mapping_id: 602307
+        url_poster: https://theposterdb.com/api/assets/294334
+        # IDs: imdb://tt10327712, tmdb://602307, tvdb://135180
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Batman%3A%20Family%20Matters&category=Movies&year_filter=equals&yone=2019&tmdb_id=602307&imdb_id=tt10327712&tvdb_id=135180
+        # tmdb: https://www.themoviedb.org/movie/602307
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=135180
+        # imdb: https://www.imdb.com/title/tt10327712
+
+    "LEGO DC: Shazam! Magic and Monsters (2020)":
+        year: 2020
+        title: "LEGO DC: Shazam! Magic and Monsters"
+        orig_title: "Lego DC Shazam!: Magic and Monsters"
+        match:
+          mapping_id: 690369
+        url_poster: https://theposterdb.com/api/assets/294335
+        # IDs: imdb://tt12093878, tmdb://690369, tvdb://135040
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%3A%20Shazam%21%20Magic%20and%20Monsters&category=Movies&year_filter=equals&yone=2020&tmdb_id=690369&imdb_id=tt12093878&tvdb_id=135040
+        # tmdb: https://www.themoviedb.org/movie/690369
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=135040
+        # imdb: https://www.imdb.com/title/tt12093878

@@ -1,0 +1,12 @@
+metadata:
+    "Eastwood Directs: The Untold Story (2013)":
+        year: 2013
+        title: "Eastwood Directs: The Untold Story"
+        match:
+          mapping_id: 198228
+        url_poster: https://theposterdb.com/api/assets/509453
+        # IDs: imdb://tt2807548, tmdb://198228, tvdb://91275
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Eastwood%20Directs%3A%20The%20Untold%20Story&category=Movies&year_filter=equals&yone=2013&tmdb_id=198228&imdb_id=tt2807548&tvdb_id=91275
+        # tmdb: https://www.themoviedb.org/movie/198228
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=91275
+        # imdb: https://www.imdb.com/title/tt2807548
