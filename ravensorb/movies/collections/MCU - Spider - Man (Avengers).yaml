@@ -1,21 +1,19 @@
 collections:
-  "Doctor Who (2005)":
-    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/254616 }
+  "Spider-Man (Avengers)":
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "315635, 634649, 429617", poster: "https://theposterdb.com/api/assets/171853" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20%282005%29&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%20%282005%29%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Doctor%20Who%20%282005%29
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Doctor%20Who%20%282005%29
-    # trakt: https://trakt.tv/search/lists?query=Doctor%20Who%20%282005%29
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%20%28Avengers%29&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Spider-Man%20%28Avengers%29%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Spider-Man%20%28Avengers%29
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Spider-Man%20%28Avengers%29
+    # trakt: https://trakt.tv/search/lists?query=Spider-Man%20%28Avengers%29
     # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/dr-who-2005?sort=released,desc 
+    # trakt_list:
+    #   -
 
 ########################################################################################################################
 ########################################################################################################################

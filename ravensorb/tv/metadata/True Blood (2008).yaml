@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "True Blood (2008)":
         year: 2008
         title: "True Blood"
-        url_poster: https://theposterdb.com/api/assets/333101
         match:
-          mapping_id: 82283
+          mapping_id: 10545
+        url_poster: https://theposterdb.com/api/assets/333101
         # IDs: imdb://tt0844441, tmdb://10545, tvdb://82283
         # tpdb: https://theposterdb.com/search/advanced/results?term=True%20Blood&category=Shows&year_filter=equals&yone=2008&tmdb_id=10545&imdb_id=tt0844441&tvdb_id=82283
         # tmdb: https://www.themoviedb.org/tv/10545

@@ -1,25 +1,23 @@
-metadata:    
+metadata:
     "Wallace & Gromit (1989)":
         year: 1989
         title: "Wallace & Gromit"
         # url_poster: https://theposterdb.com/api/assets/
-        match:
-          mapping_id: 78996
-        # IDs: tmdb://87023, tvdb://78996
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit&category=Shows&year_filter=equals&yone=1989&tmdb_id=87023&tvdb_id=78996
-        # tmdb: https://www.themoviedb.org/tv/87023
+        # IDs: tvdb://78996
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit&category=Shows&year_filter=equals&yone=1989&tvdb_id=78996
+        # tmdb: 
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1989&query=78996
         # imdb: 
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Wallace & Gromit's Cracking Contraptions (2002)":
         year: 2002
         title: "Wallace & Gromit's Cracking Contraptions"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 143821
+          mapping_id: 80616
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0339881, tmdb://80616, tvdb://143821
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit%27s%20Cracking%20Contraptions&category=Shows&year_filter=equals&yone=2002&tmdb_id=80616&imdb_id=tt0339881&tvdb_id=143821
         # tmdb: https://www.themoviedb.org/tv/80616
@@ -28,13 +26,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Wallace & Gromit's World of Invention (2010)":
         year: 2010
         title: "Wallace & Gromit's World of Invention"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 203031
+          mapping_id: 30873
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1789621, tmdb://30873, tvdb://203031
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit%27s%20World%20of%20Invention&category=Shows&year_filter=equals&yone=2010&tmdb_id=30873&imdb_id=tt1789621&tvdb_id=203031
         # tmdb: https://www.themoviedb.org/tv/30873

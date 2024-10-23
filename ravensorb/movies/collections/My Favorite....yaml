@@ -1,6 +1,6 @@
 collections:
   "My Favorite...":
-    variables: { movie: "18649, 103165" }
+    variables: { movie: "18649, 103165", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

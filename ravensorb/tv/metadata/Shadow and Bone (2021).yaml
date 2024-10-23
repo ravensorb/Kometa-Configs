@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Shadow and Bone (2021)":
         year: 2021
         title: "Shadow and Bone"
-        url_poster: https://theposterdb.com/api/assets/339099
         match:
-          mapping_id: 369844
+          mapping_id: 85720
+        url_poster: https://theposterdb.com/api/assets/339099
         # IDs: imdb://tt2403776, tmdb://85720, tvdb://369844
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shadow%20and%20Bone&category=Shows&year_filter=equals&yone=2021&tmdb_id=85720&imdb_id=tt2403776&tvdb_id=369844
         # tmdb: https://www.themoviedb.org/tv/85720

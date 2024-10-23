@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Babylon 5 (1993)":
         year: 1993
         title: "Babylon 5"
-        url_poster: https://theposterdb.com/api/assets/295303
         match:
-          mapping_id: 70726
+          mapping_id: 3137
+        url_poster: https://theposterdb.com/api/assets/295303
         # IDs: imdb://tt0105946, tmdb://3137, tvdb://70726
         # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205&category=Shows&year_filter=equals&yone=1993&tmdb_id=3137&imdb_id=tt0105946&tvdb_id=70726
         # tmdb: https://www.themoviedb.org/tv/3137
@@ -21,13 +21,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/295308
             5:
                 url_poster: https://theposterdb.com/api/assets/295309
-    
+
     "Crusade (1999)":
         year: 1999
         title: "Crusade"
-        url_poster: https://theposterdb.com/api/assets/348811
         match:
-          mapping_id: 71790
+          mapping_id: 2120
+        url_poster: https://theposterdb.com/api/assets/348811
         # IDs: imdb://tt0149437, tmdb://2120, tvdb://71790
         # tpdb: https://theposterdb.com/search/advanced/results?term=Crusade&category=Shows&year_filter=equals&yone=1999&tmdb_id=2120&imdb_id=tt0149437&tvdb_id=71790
         # tmdb: https://www.themoviedb.org/tv/2120

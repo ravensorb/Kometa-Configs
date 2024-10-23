@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Highlander: The Series (1992)":
         year: 1992
         title: "Highlander: The Series"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 75160
+          mapping_id: 4414
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0103442, tmdb://4414, tvdb://75160
         # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander%3A%20The%20Series&category=Shows&year_filter=equals&yone=1992&tmdb_id=4414&imdb_id=tt0103442&tvdb_id=75160
         # tmdb: https://www.themoviedb.org/tv/4414
@@ -23,13 +23,13 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Highlander: The Raven (1998)":
         year: 1998
         title: "Highlander: The Raven"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 75021
+          mapping_id: 4377
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0144714, tmdb://4377, tvdb://75021
         # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander%3A%20The%20Raven&category=Shows&year_filter=equals&yone=1998&tmdb_id=4377&imdb_id=tt0144714&tvdb_id=75021
         # tmdb: https://www.themoviedb.org/tv/4377

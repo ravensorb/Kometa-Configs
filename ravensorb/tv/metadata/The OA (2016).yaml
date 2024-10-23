@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The OA (2016)":
         year: 2016
         title: "The OA"
         sort_title: "OA"
-        url_poster: https://theposterdb.com/api/assets/338990
         match:
-          mapping_id: 321060
+          mapping_id: 69061
+        url_poster: https://theposterdb.com/api/assets/338990
         # IDs: imdb://tt4635282, tmdb://69061, tvdb://321060
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20OA&category=Shows&year_filter=equals&yone=2016&tmdb_id=69061&imdb_id=tt4635282&tvdb_id=321060
         # tmdb: https://www.themoviedb.org/tv/69061

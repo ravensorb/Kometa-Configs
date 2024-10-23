@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Vampire Diaries (2009)":
         year: 2009
         title: "The Vampire Diaries"
         sort_title: "Vampire Diaries"
-        url_poster: https://theposterdb.com/api/assets/325997
         match:
-          mapping_id: 95491
+          mapping_id: 18165
+        url_poster: https://theposterdb.com/api/assets/325997
         # IDs: imdb://tt1405406, tmdb://18165, tvdb://95491
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Vampire%20Diaries&category=Shows&year_filter=equals&yone=2009&tmdb_id=18165&imdb_id=tt1405406&tvdb_id=95491
         # tmdb: https://www.themoviedb.org/tv/18165
@@ -28,14 +28,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/326005
             8:
                 url_poster: https://theposterdb.com/api/assets/326006
-    
+
     "The Originals (2013)":
         year: 2013
         title: "The Originals"
         sort_title: "Originals"
-        url_poster: https://theposterdb.com/api/assets/325982
         match:
-          mapping_id: 266883
+          mapping_id: 46896
+        url_poster: https://theposterdb.com/api/assets/325982
         # IDs: imdb://tt2632424, tmdb://46896, tvdb://266883
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Originals&category=Shows&year_filter=equals&yone=2013&tmdb_id=46896&imdb_id=tt2632424&tvdb_id=266883
         # tmdb: https://www.themoviedb.org/tv/46896
@@ -52,13 +52,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/325987
             5:
                 url_poster: https://theposterdb.com/api/assets/325988
-    
+
     "Legacies (2018)":
         year: 2018
         title: "Legacies"
-        url_poster: https://theposterdb.com/api/assets/396900
         match:
-          mapping_id: 349309
+          mapping_id: 79460
+        url_poster: https://theposterdb.com/api/assets/396900
         # IDs: imdb://tt8103070, tmdb://79460, tvdb://349309
         # tpdb: https://theposterdb.com/search/advanced/results?term=Legacies&category=Shows&year_filter=equals&yone=2018&tmdb_id=79460&imdb_id=tt8103070&tvdb_id=349309
         # tmdb: https://www.themoviedb.org/tv/79460

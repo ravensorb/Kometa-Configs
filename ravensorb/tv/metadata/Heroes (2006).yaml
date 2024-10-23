@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Heroes (2006)":
         year: 2006
         title: "Heroes"
-        url_poster: https://theposterdb.com/api/assets/362903
         match:
-          mapping_id: 79501
+          mapping_id: 1639
+        url_poster: https://theposterdb.com/api/assets/362903
         # IDs: imdb://tt0813715, tmdb://1639, tvdb://79501
         # tpdb: https://theposterdb.com/search/advanced/results?term=Heroes&category=Shows&year_filter=equals&yone=2006&tmdb_id=1639&imdb_id=tt0813715&tvdb_id=79501
         # tmdb: https://www.themoviedb.org/tv/1639

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Tourist (2022)":
         year: 2022
         title: "The Tourist"
         sort_title: "Tourist"
-        url_poster: https://theposterdb.com/api/assets/365930
         match:
-          mapping_id: 395919
+          mapping_id: 120909
+        url_poster: https://theposterdb.com/api/assets/365930
         # IDs: imdb://tt11847842, tmdb://120909, tvdb://395919
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Tourist&category=Shows&year_filter=equals&yone=2022&tmdb_id=120909&imdb_id=tt11847842&tvdb_id=395919
         # tmdb: https://www.themoviedb.org/tv/120909
@@ -14,3 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/365931
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

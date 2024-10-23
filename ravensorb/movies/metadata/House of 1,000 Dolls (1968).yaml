@@ -2,7 +2,6 @@ metadata:
     "House of 1,000 Dolls (1968)":
         year: 1968
         title: "House of 1,000 Dolls"
-        orig_title: "La casa de las mil muñecas"
         match:
           mapping_id: 110202
         url_poster: https://theposterdb.com/api/assets/229795

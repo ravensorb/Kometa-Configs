@@ -1,13 +1,11 @@
 collections:
   "Bourne":
-    variables: { movie: "324668, 2501, 2502, 2503, 49040", poster: https://theposterdb.com/api/assets/164761 }
+    variables: { movie: "324668, 2501, 2502, 2503, 49040", poster: "https://theposterdb.com/api/assets/164761" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The Bourne films are a series of action thriller movies based on the character Jason Bourne, a CIA assassin suffering from extreme memory loss who must figure out who he is. The character is based on novels by Robert Ludlum. The fourth film in the series introduces Aaron Cross, a Department of Defense operative who runs for his life because of Bourne's actions.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Bourne&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Bourne
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Bourne

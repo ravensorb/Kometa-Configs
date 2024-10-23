@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Murder, She Wrote (1984)":
         year: 1984
         title: "Murder, She Wrote"
-        url_poster: https://theposterdb.com/api/assets/411378
         match:
-          mapping_id: 78049
+          mapping_id: 484
+        url_poster: https://theposterdb.com/api/assets/411378
         # IDs: imdb://tt0086765, tmdb://484, tvdb://78049
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%2C%20She%20Wrote&category=Shows&year_filter=equals&yone=1984&tmdb_id=484&imdb_id=tt0086765&tvdb_id=78049
         # tmdb: https://www.themoviedb.org/tv/484

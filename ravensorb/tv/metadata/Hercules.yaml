@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Hercules: The Legendary Journeys (1995)":
         year: 1995
         title: "Hercules: The Legendary Journeys"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 72497
+          mapping_id: 4615
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0111999, tmdb://4615, tvdb://72497
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hercules%3A%20The%20Legendary%20Journeys&category=Shows&year_filter=equals&yone=1995&tmdb_id=4615&imdb_id=tt0111999&tvdb_id=72497
         # tmdb: https://www.themoviedb.org/tv/4615

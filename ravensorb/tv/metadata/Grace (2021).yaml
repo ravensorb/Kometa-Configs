@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Grace (2021)":
         year: 2021
         title: "Grace (2021)"
-        url_poster: https://theposterdb.com/api/assets/366339
         match:
-          mapping_id: 397762
+          mapping_id: 120317
+        url_poster: https://theposterdb.com/api/assets/366339
         # IDs: imdb://tt11639300, tmdb://120317, tvdb://397762
         # tpdb: https://theposterdb.com/search/advanced/results?term=Grace%20%282021%29&category=Shows&year_filter=equals&yone=2021&tmdb_id=120317&imdb_id=tt11639300&tvdb_id=397762
         # tmdb: https://www.themoviedb.org/tv/120317
@@ -17,3 +17,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366341
             3:
                 url_poster: https://theposterdb.com/api/assets/366342
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "SEAL Team (2017)":
         year: 2017
         title: "SEAL Team"
-        url_poster: https://theposterdb.com/api/assets/366603
         match:
-          mapping_id: 328686
+          mapping_id: 71789
+        url_poster: https://theposterdb.com/api/assets/366603
         # IDs: imdb://tt6473344, tmdb://71789, tvdb://328686
         # tpdb: https://theposterdb.com/search/advanced/results?term=SEAL%20Team&category=Shows&year_filter=equals&yone=2017&tmdb_id=71789&imdb_id=tt6473344&tvdb_id=328686
         # tmdb: https://www.themoviedb.org/tv/71789
@@ -23,3 +23,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366608
             6:
                 url_poster: https://theposterdb.com/api/assets/366609
+            # 7:
+                # url_poster: https://theposterdb.com/api/assets/

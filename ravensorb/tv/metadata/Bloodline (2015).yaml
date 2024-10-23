@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Bloodline (2015)":
         year: 2015
         title: "Bloodline"
-        url_poster: https://theposterdb.com/api/assets/160211
         match:
-          mapping_id: 287314
+          mapping_id: 61986
+        url_poster: https://theposterdb.com/api/assets/160211
         # IDs: imdb://tt3520702, tmdb://61986, tvdb://287314
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bloodline&category=Shows&year_filter=equals&yone=2015&tmdb_id=61986&imdb_id=tt3520702&tvdb_id=287314
         # tmdb: https://www.themoviedb.org/tv/61986

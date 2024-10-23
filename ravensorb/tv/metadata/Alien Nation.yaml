@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Alien Nation (1989)":
         year: 1989
         title: "Alien Nation"
-        url_poster: https://theposterdb.com/api/assets/234611
         match:
-          mapping_id: 72358
+          mapping_id: 5383
+        url_poster: https://theposterdb.com/api/assets/234611
         # IDs: imdb://tt0096531, tmdb://5383, tvdb://72358
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alien%20Nation&category=Shows&year_filter=equals&yone=1989&tmdb_id=5383&imdb_id=tt0096531&tvdb_id=72358
         # tmdb: https://www.themoviedb.org/tv/5383

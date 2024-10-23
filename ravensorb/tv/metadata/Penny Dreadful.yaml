@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Penny Dreadful (2014)":
         year: 2014
         title: "Penny Dreadful"
-        url_poster: https://theposterdb.com/api/assets/344979
         match:
-          mapping_id: 265766
+          mapping_id: 54671
+        url_poster: https://theposterdb.com/api/assets/344979
         # IDs: imdb://tt2628232, tmdb://54671, tvdb://265766
         # tpdb: https://theposterdb.com/search/advanced/results?term=Penny%20Dreadful&category=Shows&year_filter=equals&yone=2014&tmdb_id=54671&imdb_id=tt2628232&tvdb_id=265766
         # tmdb: https://www.themoviedb.org/tv/54671
@@ -17,13 +17,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/344982
             3:
                 url_poster: https://theposterdb.com/api/assets/344983
-    
+
     "Penny Dreadful: City of Angels (2020)":
         year: 2020
         title: "Penny Dreadful: City of Angels"
-        url_poster: https://theposterdb.com/api/assets/344984
         match:
-          mapping_id: 360892
+          mapping_id: 83685
+        url_poster: https://theposterdb.com/api/assets/344984
         # IDs: imdb://tt10361016, tmdb://83685, tvdb://360892
         # tpdb: https://theposterdb.com/search/advanced/results?term=Penny%20Dreadful%3A%20City%20of%20Angels&category=Shows&year_filter=equals&yone=2020&tmdb_id=83685&imdb_id=tt10361016&tvdb_id=360892
         # tmdb: https://www.themoviedb.org/tv/83685

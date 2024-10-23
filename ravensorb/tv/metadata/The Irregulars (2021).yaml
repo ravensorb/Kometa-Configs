@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Irregulars (2021)":
         year: 2021
         title: "The Irregulars"
         sort_title: "Irregulars"
-        url_poster: https://theposterdb.com/api/assets/303942
         match:
-          mapping_id: 389340
+          mapping_id: 98187
+        url_poster: https://theposterdb.com/api/assets/303942
         # IDs: imdb://tt10893694, tmdb://98187, tvdb://389340
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Irregulars&category=Shows&year_filter=equals&yone=2021&tmdb_id=98187&imdb_id=tt10893694&tvdb_id=389340
         # tmdb: https://www.themoviedb.org/tv/98187

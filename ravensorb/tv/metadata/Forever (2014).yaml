@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Forever (2014)":
         year: 2014
         title: "Forever"
         sort_title: "Forever (2014)"
-        url_poster: https://theposterdb.com/api/assets/353513
         match:
-          mapping_id: 281535
+          mapping_id: 60726
+        url_poster: https://theposterdb.com/api/assets/353513
         # IDs: imdb://tt3487382, tmdb://60726, tvdb://281535
         # tpdb: https://theposterdb.com/search/advanced/results?term=Forever&category=Shows&year_filter=equals&yone=2014&tmdb_id=60726&imdb_id=tt3487382&tvdb_id=281535
         # tmdb: https://www.themoviedb.org/tv/60726

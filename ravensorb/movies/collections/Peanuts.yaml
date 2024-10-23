@@ -1,13 +1,11 @@
 collections:
   "Peanuts":
-    variables: { movie: "13187, 52952, 13353, 51528, 34228, 15374, 55443, 15242, 31732, 13479, 28550, 31726, 40489, 31718, 40484, 40482, 141933, 31112, 37490, 117333, 51940, 429577, 69770, 23998, 28069, 60897, 387436, 836919", poster: https://theposterdb.com/api/assets/188207 }
+    variables: { movie: "13187, 52952, 13353, 51528, 34228, 15374, 55443, 15242, 31732, 13479, 28550, 31726, 40489, 31718, 40484, 40482, 141933, 31112, 37490, 117333, 51940, 429577, 69770, 23998, 28069, 60897, 387436, 836919", poster: "https://theposterdb.com/api/assets/188207" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Charles Schulz's classic comic strip Peanuts started in 1950. Fifteen years later, A Charlie Brown Christmas debuted. When The Little Christmas Special that Could proved to be an unexpected success, the stage was set for successive television specials. To date, over forty have been made. The Charlie Brown specials focus on one round-headed kid, his goofy but intelligent beagle, and their vast array of friends. Each has distinctive qualities: Lucy, the crabby, self-proclaimed psychiatrist; Linus, the blanket-toting theologian; Schroeder, the Beethoven worshiper whose black piano keys are only painted on; Peppermint Patty, the tomboy whose affections toward 'Chuck' are only outweighed by her sports abilities; and so on. The wit, the charm, the pleasantness of these specials make them appropriate not just for children, but for the whole family.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Peanuts&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Peanuts
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Peanuts

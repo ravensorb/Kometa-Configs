@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Warehouse 13 (2009)":
         year: 2009
         title: "Warehouse 13"
-        url_poster: https://theposterdb.com/api/assets/330452
         match:
-          mapping_id: 84676
+          mapping_id: 15819
+        url_poster: https://theposterdb.com/api/assets/330452
         # IDs: imdb://tt1132290, tmdb://15819, tvdb://84676
         # tpdb: https://theposterdb.com/search/advanced/results?term=Warehouse%2013&category=Shows&year_filter=equals&yone=2009&tmdb_id=15819&imdb_id=tt1132290&tvdb_id=84676
         # tmdb: https://www.themoviedb.org/tv/15819

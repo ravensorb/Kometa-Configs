@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Midnight Mass (2021)":
         year: 2021
         title: "Midnight Mass"
         sort_title: "Midnight Mass (2021)"
-        url_poster: https://theposterdb.com/api/assets/287717
         match:
-          mapping_id: 367226
+          mapping_id: 97400
+        url_poster: https://theposterdb.com/api/assets/287717
         # IDs: imdb://tt10574558, tmdb://97400, tvdb://367226
         # tpdb: https://theposterdb.com/search/advanced/results?term=Midnight%20Mass&category=Shows&year_filter=equals&yone=2021&tmdb_id=97400&imdb_id=tt10574558&tvdb_id=367226
         # tmdb: https://www.themoviedb.org/tv/97400

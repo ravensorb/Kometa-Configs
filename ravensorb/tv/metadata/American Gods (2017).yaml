@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "American Gods (2017)":
         year: 2017
         title: "American Gods"
-        url_poster: https://theposterdb.com/api/assets/345911
         match:
-          mapping_id: 253573
+          mapping_id: 46639
+        url_poster: https://theposterdb.com/api/assets/345911
         # IDs: imdb://tt1898069, tmdb://46639, tvdb://253573
         # tpdb: https://theposterdb.com/search/advanced/results?term=American%20Gods&category=Shows&year_filter=equals&yone=2017&tmdb_id=46639&imdb_id=tt1898069&tvdb_id=253573
         # tmdb: https://www.themoviedb.org/tv/46639

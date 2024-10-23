@@ -4,7 +4,7 @@ metadata:
         title: "I Don't Know How She Does It"
         match:
           mapping_id: 70868
-        # url_poster: https://theposterdb.com/api/assets/424736
+        url_poster: https://theposterdb.com/api/assets/424736
         # IDs: imdb://tt1742650, tmdb://70868, tvdb://7974
         # tpdb: https://theposterdb.com/search/advanced/results?term=I%20Don%27t%20Know%20How%20She%20Does%20It&category=Movies&year_filter=equals&yone=2011&tmdb_id=70868&imdb_id=tt1742650&tvdb_id=7974
         # tmdb: https://www.themoviedb.org/movie/70868

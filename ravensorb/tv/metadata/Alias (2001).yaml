@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Alias (2001)":
         year: 2001
         title: "Alias"
-        url_poster: https://theposterdb.com/api/assets/352931
         match:
-          mapping_id: 75930
+          mapping_id: 2046
+        url_poster: https://theposterdb.com/api/assets/352931
         # IDs: imdb://tt0285333, tmdb://2046, tvdb://75930
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alias&category=Shows&year_filter=equals&yone=2001&tmdb_id=2046&imdb_id=tt0285333&tvdb_id=75930
         # tmdb: https://www.themoviedb.org/tv/2046

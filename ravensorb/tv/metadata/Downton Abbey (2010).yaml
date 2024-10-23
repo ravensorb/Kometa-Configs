@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Downton Abbey (2010)":
         year: 2010
         title: "Downton Abbey"
-        url_poster: https://theposterdb.com/api/assets/241848
         match:
-          mapping_id: 193131
+          mapping_id: 33907
+        url_poster: https://theposterdb.com/api/assets/241848
         # IDs: imdb://tt1606375, tmdb://33907, tvdb://193131
         # tpdb: https://theposterdb.com/search/advanced/results?term=Downton%20Abbey&category=Shows&year_filter=equals&yone=2010&tmdb_id=33907&imdb_id=tt1606375&tvdb_id=193131
         # tmdb: https://www.themoviedb.org/tv/33907

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Miami Vice (1984)":
         year: 1984
         title: "Miami Vice"
-        url_poster: https://theposterdb.com/api/assets/410163
         match:
-          mapping_id: 77098
+          mapping_id: 1908
+        url_poster: https://theposterdb.com/api/assets/410163
         # IDs: imdb://tt0086759, tmdb://1908, tvdb://77098
         # tpdb: https://theposterdb.com/search/advanced/results?term=Miami%20Vice&category=Shows&year_filter=equals&yone=1984&tmdb_id=1908&imdb_id=tt0086759&tvdb_id=77098
         # tmdb: https://www.themoviedb.org/tv/1908

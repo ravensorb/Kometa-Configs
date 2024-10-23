@@ -1,20 +1,19 @@
 collections:
   "Crossword Mysteries":
-    variables: { collection: "659217", poster: "https://theposterdb.com/api/assets/443726" }
+    variables: { poster: "https://theposterdb.com/api/assets/443726" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplTMDBCollection, collection: "659217" },
     ]
-    # summary: |
     # tpdb: https://theposterdb.com/search/advanced/results?term=Crossword%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Crossword%20Mysteries%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Crossword%20Mysteries
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Crossword%20Mysteries
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Crossword%20Mysteries
     # trakt: https://trakt.tv/search/lists?query=Crossword%20Mysteries
     # collection_mode: hide
     trakt_list:
-      - https://trakt.tv/lists/official/crossword-mysteries-collection?sort=rank,asc
+       - https://trakt.tv/lists/official/crossword-mysteries-collection?sort=rank,asc 
 
 ########################################################################################################################
 ########################################################################################################################

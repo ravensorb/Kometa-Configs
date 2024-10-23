@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Stranger Things (2016)":
         year: 2016
         title: "Stranger Things"
-        url_poster: https://theposterdb.com/api/assets/238549
         match:
-          mapping_id: 305288
+          mapping_id: 66732
+        url_poster: https://theposterdb.com/api/assets/238549
         # IDs: imdb://tt4574334, tmdb://66732, tvdb://305288
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stranger%20Things&category=Shows&year_filter=equals&yone=2016&tmdb_id=66732&imdb_id=tt4574334&tvdb_id=305288
         # tmdb: https://www.themoviedb.org/tv/66732

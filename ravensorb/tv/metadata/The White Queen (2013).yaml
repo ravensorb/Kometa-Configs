@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The White Queen (2013)":
         year: 2013
         title: "The White Queen"
         sort_title: "White Queen"
-        url_poster: https://theposterdb.com/api/assets/402148
         match:
-          mapping_id: 266092
+          mapping_id: 57092
+        url_poster: https://theposterdb.com/api/assets/402148
         # IDs: imdb://tt2372220, tmdb://57092, tvdb://266092
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20White%20Queen&category=Shows&year_filter=equals&yone=2013&tmdb_id=57092&imdb_id=tt2372220&tvdb_id=266092
         # tmdb: https://www.themoviedb.org/tv/57092

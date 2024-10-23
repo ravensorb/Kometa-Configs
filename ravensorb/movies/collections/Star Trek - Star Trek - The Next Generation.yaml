@@ -1,21 +1,19 @@
 collections:
-  "Robin Williams (Stand-Up)":
-    variables: { label: "Robin Williams (Stand-Up)", movie: "493100, 586571, 381276, 21586, 21585, 26621, 20211", poster: https://theposterdb.com/api/assets/278010 }
+  "Star Trek: The Next Generation":
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "02", sort_separator: " - ", movie: "199, 193, 201, 200", poster: "https://theposterdb.com/api/assets/308180" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Declared to be the funniest Robin Williams video made, this is a don't-miss comedy.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Robin%20Williams%20%28Stand-Up%29&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Robin%20Williams%20%28Stand-Up%29%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Robin%20Williams%20%28Stand-Up%29
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Robin%20Williams%20%28Stand-Up%29
-    # trakt: https://trakt.tv/search/lists?query=Robin%20Williams%20%28Stand-Up%29
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Next%20Generation&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20The%20Next%20Generation%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Trek%3A%20The%20Next%20Generation
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Star%20Trek%3A%20The%20Next%20Generation
+    # trakt: https://trakt.tv/search/lists?query=Star%20Trek%3A%20The%20Next%20Generation
     # collection_mode: hide
-    # trakt_list:
-    #   -
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/star-trek-the-next-generation?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Static Shock (2000)":
         year: 2000
         title: "Static Shock"
-        url_poster: https://theposterdb.com/api/assets/328279
         match:
-          mapping_id: 79067
+          mapping_id: 1487
+        url_poster: https://theposterdb.com/api/assets/328279
         # IDs: imdb://tt0247729, tmdb://1487, tvdb://79067
         # tpdb: https://theposterdb.com/search/advanced/results?term=Static%20Shock&category=Shows&year_filter=equals&yone=2000&tmdb_id=1487&imdb_id=tt0247729&tvdb_id=79067
         # tmdb: https://www.themoviedb.org/tv/1487

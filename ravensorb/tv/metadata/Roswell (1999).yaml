@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Roswell (1999)":
         year: 1999
         title: "Roswell"
-        url_poster: https://theposterdb.com/api/assets/431367
         match:
-          mapping_id: 73965
+          mapping_id: 4624
+        url_poster: https://theposterdb.com/api/assets/431367
         # IDs: imdb://tt0201391, tmdb://4624, tvdb://73965
         # tpdb: https://theposterdb.com/search/advanced/results?term=Roswell&category=Shows&year_filter=equals&yone=1999&tmdb_id=4624&imdb_id=tt0201391&tvdb_id=73965
         # tmdb: https://www.themoviedb.org/tv/4624

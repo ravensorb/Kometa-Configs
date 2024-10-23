@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Lockwood & Co. (2023)":
         year: 2023
         title: "Lockwood & Co."
-        url_poster: https://theposterdb.com/api/assets/337609
         match:
-          mapping_id: 422028
+          mapping_id: 213241
+        url_poster: https://theposterdb.com/api/assets/337609
         # IDs: imdb://tt13802576, tmdb://213241, tvdb://422028
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lockwood%20%26%20Co.&category=Shows&year_filter=equals&yone=2023&tmdb_id=213241&imdb_id=tt13802576&tvdb_id=422028
         # tmdb: https://www.themoviedb.org/tv/213241

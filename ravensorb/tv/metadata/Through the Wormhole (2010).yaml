@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Through the Wormhole (2010)":
         year: 2010
         title: "Through the Wormhole"
-        url_poster: https://theposterdb.com/api/assets/396939
         match:
-          mapping_id: 168571
+          mapping_id: 32900
+        url_poster: https://theposterdb.com/api/assets/396939
         # IDs: imdb://tt1513168, tmdb://32900, tvdb://168571
         # tpdb: https://theposterdb.com/search/advanced/results?term=Through%20the%20Wormhole&category=Shows&year_filter=equals&yone=2010&tmdb_id=32900&imdb_id=tt1513168&tvdb_id=168571
         # tmdb: https://www.themoviedb.org/tv/32900

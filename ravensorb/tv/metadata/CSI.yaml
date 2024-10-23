@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "CSI: Crime Scene Investigation (2000)":
         year: 2000
         title: "CSI: Crime Scene Investigation"
-        url_poster: https://theposterdb.com/api/assets/363154
         match:
-          mapping_id: 72546
+          mapping_id: 1431
+        url_poster: https://theposterdb.com/api/assets/363154
         # IDs: imdb://tt0247082, tmdb://1431, tvdb://72546
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A%20Crime%20Scene%20Investigation&category=Shows&year_filter=equals&yone=2000&tmdb_id=1431&imdb_id=tt0247082&tvdb_id=72546
         # tmdb: https://www.themoviedb.org/tv/1431
@@ -41,13 +41,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363169
             15:
                 url_poster: https://theposterdb.com/api/assets/363170
-    
+
     "CSI: Miami (2002)":
         year: 2002
         title: "CSI: Miami"
-        url_poster: https://theposterdb.com/api/assets/363174
         match:
-          mapping_id: 78310
+          mapping_id: 1620
+        url_poster: https://theposterdb.com/api/assets/363174
         # IDs: imdb://tt0313043, tmdb://1620, tvdb://78310
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A%20Miami&category=Shows&year_filter=equals&yone=2002&tmdb_id=1620&imdb_id=tt0313043&tvdb_id=78310
         # tmdb: https://www.themoviedb.org/tv/1620
@@ -74,13 +74,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363184
             10:
                 url_poster: https://theposterdb.com/api/assets/363185
-    
+
     "CSI: NY (2004)":
         year: 2004
         title: "CSI: NY"
-        url_poster: https://theposterdb.com/api/assets/363186
         match:
-          mapping_id: 73696
+          mapping_id: 2458
+        url_poster: https://theposterdb.com/api/assets/363186
         # IDs: imdb://tt0395843, tmdb://2458, tvdb://73696
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A%20NY&category=Shows&year_filter=equals&yone=2004&tmdb_id=2458&imdb_id=tt0395843&tvdb_id=73696
         # tmdb: https://www.themoviedb.org/tv/2458
@@ -105,13 +105,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363195
             9:
                 url_poster: https://theposterdb.com/api/assets/363242
-    
+
     "CSI: Cyber (2015)":
         year: 2015
         title: "CSI: Cyber"
-        url_poster: https://theposterdb.com/api/assets/363171
         match:
-          mapping_id: 281551
+          mapping_id: 61811
+        url_poster: https://theposterdb.com/api/assets/363171
         # IDs: imdb://tt3560060, tmdb://61811, tvdb://281551
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A%20Cyber&category=Shows&year_filter=equals&yone=2015&tmdb_id=61811&imdb_id=tt3560060&tvdb_id=281551
         # tmdb: https://www.themoviedb.org/tv/61811
@@ -122,13 +122,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363172
             2:
                 url_poster: https://theposterdb.com/api/assets/363173
-    
+
     "CSI: Vegas (2021)":
         year: 2021
         title: "CSI: Vegas"
-        url_poster: https://theposterdb.com/api/assets/363197
         match:
-          mapping_id: 400248
+          mapping_id: 122194
+        url_poster: https://theposterdb.com/api/assets/363197
         # IDs: imdb://tt12887536, tmdb://122194, tvdb://400248
         # tpdb: https://theposterdb.com/search/advanced/results?term=CSI%3A%20Vegas&category=Shows&year_filter=equals&yone=2021&tmdb_id=122194&imdb_id=tt12887536&tvdb_id=400248
         # tmdb: https://www.themoviedb.org/tv/122194
@@ -139,3 +139,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363198
             2:
                 url_poster: https://theposterdb.com/api/assets/363199
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Third Day (2020)":
         year: 2020
         title: "The Third Day"
         sort_title: "Third Day"
-        url_poster: https://theposterdb.com/api/assets/258826
         match:
-          mapping_id: 366477
+          mapping_id: 90259
+        url_poster: https://theposterdb.com/api/assets/258826
         # IDs: imdb://tt10482370, tmdb://90259, tvdb://366477
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Third%20Day&category=Shows&year_filter=equals&yone=2020&tmdb_id=90259&imdb_id=tt10482370&tvdb_id=366477
         # tmdb: https://www.themoviedb.org/tv/90259

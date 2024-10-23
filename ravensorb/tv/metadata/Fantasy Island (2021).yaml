@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Fantasy Island (2021)":
         year: 2021
         title: "Fantasy Island (2021)"
-        url_poster: https://theposterdb.com/api/assets/379783
         match:
-          mapping_id: 400823
+          mapping_id: 125116
+        url_poster: https://theposterdb.com/api/assets/379783
         # IDs: imdb://tt13784584, tmdb://125116, tvdb://400823
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fantasy%20Island%20%282021%29&category=Shows&year_filter=equals&yone=2021&tmdb_id=125116&imdb_id=tt13784584&tvdb_id=400823
         # tmdb: https://www.themoviedb.org/tv/125116

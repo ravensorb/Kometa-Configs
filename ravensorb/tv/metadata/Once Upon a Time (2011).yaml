@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Once Upon a Time (2011)":
         year: 2011
         title: "Once Upon a Time"
         sort_title: "Once Upon a Time (2011)"
-        url_poster: https://theposterdb.com/api/assets/354630
         match:
-          mapping_id: 248835
+          mapping_id: 39272
+        url_poster: https://theposterdb.com/api/assets/354630
         # IDs: imdb://tt1843230, tmdb://39272, tvdb://248835
         # tpdb: https://theposterdb.com/search/advanced/results?term=Once%20Upon%20a%20Time&category=Shows&year_filter=equals&yone=2011&tmdb_id=39272&imdb_id=tt1843230&tvdb_id=248835
         # tmdb: https://www.themoviedb.org/tv/39272

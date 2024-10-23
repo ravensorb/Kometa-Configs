@@ -1,13 +1,11 @@
 collections:
   "Superman":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "8536, 1452, 11411, 9531, 1924", poster: https://theposterdb.com/api/assets/162402 }
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "8536, 1452, 11411, 9531, 1924", poster: "https://theposterdb.com/api/assets/162402" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      This collection includes the original superhero film series of the DC Comics character Superman starring Christopher Reeve and the fifth and final installment, Superman Returns, from 2006. The series is centered on Clark Kent, a Kryptonian from the planet Krypton whose birth name is Kal-El. Superman resides in the city of Metropolis, where he works as a journalist for the Daily Planet, a newspaper.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Superman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Superman
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Superman

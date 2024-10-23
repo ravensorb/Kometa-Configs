@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Great Escapes with Morgan Freeman (2021)":
         year: 2021
         title: "Great Escapes with Morgan Freeman"
-        url_poster: https://theposterdb.com/api/assets/359470
         match:
-          mapping_id: 390039
+          mapping_id: 131404
+        url_poster: https://theposterdb.com/api/assets/359470
         # IDs: imdb://tt13329976, tmdb://131404, tvdb://390039
         # tpdb: https://theposterdb.com/search/advanced/results?term=Great%20Escapes%20with%20Morgan%20Freeman&category=Shows&year_filter=equals&yone=2021&tmdb_id=131404&imdb_id=tt13329976&tvdb_id=390039
         # tmdb: https://www.themoviedb.org/tv/131404
@@ -13,3 +13,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/359471
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

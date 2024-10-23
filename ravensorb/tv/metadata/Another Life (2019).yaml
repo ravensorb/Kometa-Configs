@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Another Life (2019)":
         year: 2019
         title: "Another Life (2019)"
-        url_poster: https://theposterdb.com/api/assets/286313
         match:
-          mapping_id: 365722
+          mapping_id: 79130
+        url_poster: https://theposterdb.com/api/assets/286313
         # IDs: imdb://tt8369840, tmdb://79130, tvdb://365722
         # tpdb: https://theposterdb.com/search/advanced/results?term=Another%20Life%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=79130&imdb_id=tt8369840&tvdb_id=365722
         # tmdb: https://www.themoviedb.org/tv/79130

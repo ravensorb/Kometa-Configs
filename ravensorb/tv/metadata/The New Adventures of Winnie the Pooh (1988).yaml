@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The New Adventures of Winnie the Pooh (1988)":
         year: 1988
         title: "The New Adventures of Winnie the Pooh"
         sort_title: "New Adventures of Winnie the Pooh"
-        url_poster: https://theposterdb.com/api/assets/354559
         match:
-          mapping_id: 78442
+          mapping_id: 2005
+        url_poster: https://theposterdb.com/api/assets/354559
         # IDs: imdb://tt0165052, tmdb://2005, tvdb://78442
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20New%20Adventures%20of%20Winnie%20the%20Pooh&category=Shows&year_filter=equals&yone=1988&tmdb_id=2005&imdb_id=tt0165052&tvdb_id=78442
         # tmdb: https://www.themoviedb.org/tv/2005

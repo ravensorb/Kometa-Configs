@@ -14,7 +14,6 @@ metadata:
     "BloodRayne: Deliverance (2008)":
         year: 2008
         title: "BloodRayne: Deliverance"
-        orig_title: "BloodRayne II: Deliverance"
         match:
           mapping_id: 17456
         url_poster: https://theposterdb.com/api/assets/176371

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Shannara Chronicles (2016)":
         year: 2016
         title: "The Shannara Chronicles"
         sort_title: "Shannara Chronicles"
-        url_poster: https://theposterdb.com/api/assets/309997
         match:
-          mapping_id: 289096
+          mapping_id: 64122
+        url_poster: https://theposterdb.com/api/assets/309997
         # IDs: imdb://tt1051220, tmdb://64122, tvdb://289096
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Shannara%20Chronicles&category=Shows&year_filter=equals&yone=2016&tmdb_id=64122&imdb_id=tt1051220&tvdb_id=289096
         # tmdb: https://www.themoviedb.org/tv/64122

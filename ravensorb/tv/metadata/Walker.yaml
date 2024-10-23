@@ -1,10 +1,10 @@
-metadata: 
+metadata:
     "Walker, Texas Ranger (1993)":
         year: 1993
         title: "Walker, Texas Ranger"
-        # url_poster: https://theposterdb.com/api/assets/431231
         match:
-          mapping_id: 73756
+          mapping_id: 3772
+        url_poster: https://theposterdb.com/api/assets/431231
         # IDs: imdb://tt0106168, tmdb://3772, tvdb://73756
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker%2C%20Texas%20Ranger&category=Shows&year_filter=equals&yone=1993&tmdb_id=3772&imdb_id=tt0106168&tvdb_id=73756
         # tmdb: https://www.themoviedb.org/tv/3772
@@ -25,17 +25,17 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/431238
             7:
                 url_poster: https://theposterdb.com/api/assets/431239
-            8: 
+            8:
                 url_poster: https://theposterdb.com/api/assets/431240
-            9:  
+            9:
                 url_poster: https://theposterdb.com/api/assets/431241
 
     "Walker (2021)":
         year: 2021
         title: "Walker"
-        url_poster: https://theposterdb.com/api/assets/367995
         match:
-          mapping_id: 371768
+          mapping_id: 99121
+        url_poster: https://theposterdb.com/api/assets/367995
         # IDs: imdb://tt11006642, tmdb://99121, tvdb://371768
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker&category=Shows&year_filter=equals&yone=2021&tmdb_id=99121&imdb_id=tt11006642&tvdb_id=371768
         # tmdb: https://www.themoviedb.org/tv/99121
@@ -48,13 +48,15 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/367997
             3:
                 url_poster: https://theposterdb.com/api/assets/367998
-    
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+
     "Walker Independence (2022)":
         year: 2022
         title: "Walker Independence"
-        url_poster: https://theposterdb.com/api/assets/431139
         match:
-          mapping_id: 420060
+          mapping_id: 201877
+        url_poster: https://theposterdb.com/api/assets/431139
         # IDs: imdb://tt16373746, tmdb://201877, tvdb://420060
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker%20Independence&category=Shows&year_filter=equals&yone=2022&tmdb_id=201877&imdb_id=tt16373746&tvdb_id=420060
         # tmdb: https://www.themoviedb.org/tv/201877

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Silver Spoons (1982)":
         year: 1982
         title: "Silver Spoons"
-        url_poster: https://theposterdb.com/api/assets/375007
         match:
-          mapping_id: 76848
+          mapping_id: 2076
+        url_poster: https://theposterdb.com/api/assets/375007
         # IDs: imdb://tt0083479, tmdb://2076, tvdb://76848
         # tpdb: https://theposterdb.com/search/advanced/results?term=Silver%20Spoons&category=Shows&year_filter=equals&yone=1982&tmdb_id=2076&imdb_id=tt0083479&tvdb_id=76848
         # tmdb: https://www.themoviedb.org/tv/2076

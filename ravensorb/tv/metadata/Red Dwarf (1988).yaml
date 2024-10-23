@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Red Dwarf (1988)":
         year: 1988
         title: "Red Dwarf"
-        url_poster: https://theposterdb.com/api/assets/365797
         match:
-          mapping_id: 71326
+          mapping_id: 326
+        url_poster: https://theposterdb.com/api/assets/365797
         # IDs: imdb://tt0094535, tmdb://326, tvdb://71326
         # tpdb: https://theposterdb.com/search/advanced/results?term=Red%20Dwarf&category=Shows&year_filter=equals&yone=1988&tmdb_id=326&imdb_id=tt0094535&tvdb_id=71326
         # tmdb: https://www.themoviedb.org/tv/326

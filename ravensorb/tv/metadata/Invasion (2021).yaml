@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Invasion (2021)":
         year: 2021
         title: "Invasion"
         sort_title: "Invasion (2021)"
-        url_poster: https://theposterdb.com/api/assets/321901
         match:
-          mapping_id: 404492
+          mapping_id: 127235
+        url_poster: https://theposterdb.com/api/assets/321901
         # IDs: imdb://tt9737326, tmdb://127235, tvdb://404492
         # tpdb: https://theposterdb.com/search/advanced/results?term=Invasion&category=Shows&year_filter=equals&yone=2021&tmdb_id=127235&imdb_id=tt9737326&tvdb_id=404492
         # tmdb: https://www.themoviedb.org/tv/127235

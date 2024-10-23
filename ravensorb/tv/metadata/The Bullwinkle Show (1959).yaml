@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Bullwinkle Show (1959)":
         year: 1959
         title: "The Bullwinkle Show"
         sort_title: "Bullwinkle Show"
-        url_poster: https://theposterdb.com/api/assets/370809
         match:
-          mapping_id: 76705
+          mapping_id: 1025
+        url_poster: https://theposterdb.com/api/assets/370809
         # IDs: imdb://tt0052507, tmdb://1025, tvdb://76705
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bullwinkle%20Show&category=Shows&year_filter=equals&yone=1959&tmdb_id=1025&imdb_id=tt0052507&tvdb_id=76705
         # tmdb: https://www.themoviedb.org/tv/1025

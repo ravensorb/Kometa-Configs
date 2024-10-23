@@ -1,13 +1,11 @@
 collections:
   "Resident Evil":
-    variables: { movie: "35791, 173897, 1577, 460458, 1576, 71679, 7737", poster: https://theposterdb.com/api/assets/161290 }
+    variables: { movie: "35791, 173897, 1577, 460458, 1576, 71679, 7737", poster: "https://theposterdb.com/api/assets/161290" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Loosely based upon the Capcom video games of the same name, the Resident Evil film series follows the protagonist Alice, a character created for the films. The Umbrella Corporation acts as the main antagonist, a bio-engineering pharmaceutical company responsible for formulating the T-virus, which results in a zombie infection outbreak.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Resident%20Evil&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Resident%20Evil%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Resident%20Evil

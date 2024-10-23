@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Jetsons (1962)":
         year: 1962
         title: "The Jetsons"
         sort_title: "Jetsons"
-        url_poster: https://theposterdb.com/api/assets/354109
         match:
-          mapping_id: 76204
+          mapping_id: 2362
+        url_poster: https://theposterdb.com/api/assets/354109
         # IDs: imdb://tt0055683, tmdb://2362, tvdb://76204
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Jetsons&category=Shows&year_filter=equals&yone=1962&tmdb_id=2362&imdb_id=tt0055683&tvdb_id=76204
         # tmdb: https://www.themoviedb.org/tv/2362

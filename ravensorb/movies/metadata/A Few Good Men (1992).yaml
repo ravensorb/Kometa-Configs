@@ -2,6 +2,7 @@ metadata:
     "A Few Good Men (1992)":
         year: 1992
         title: "A Few Good Men"
+        sort_title: "Few Good Men"
         match:
           mapping_id: 881
         url_poster: https://theposterdb.com/api/assets/196064

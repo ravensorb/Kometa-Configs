@@ -1,17 +1,16 @@
 collections:
   "Punisher":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "7220, 13056", poster: https://theposterdb.com/api/assets/171137 }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "7220, 13056", poster: "https://theposterdb.com/api/assets/171137" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # summary:
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Thor&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Thor
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Thor
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Thor
-    # trakt: https://trakt.tv/search/lists?query=Thor
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Punisher&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Punisher
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Punisher
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Punisher
+    # trakt: https://trakt.tv/search/lists?query=Punisher
     # collection_mode: hide
     # trakt_list:
     #   -

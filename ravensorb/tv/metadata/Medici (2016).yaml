@@ -1,11 +1,10 @@
-metadata:    
+metadata:
     "Medici (2016)":
         year: 2016
         title: "Medici"
-        orig_title: "I Medici"
-        url_poster: https://theposterdb.com/api/assets/364140
         match:
-          mapping_id: 313024
+          mapping_id: 66761
+        url_poster: https://theposterdb.com/api/assets/364140
         # IDs: imdb://tt5057130, tmdb://66761, tvdb://313024
         # tpdb: https://theposterdb.com/search/advanced/results?term=Medici&category=Shows&year_filter=equals&yone=2016&tmdb_id=66761&imdb_id=tt5057130&tvdb_id=313024
         # tmdb: https://www.themoviedb.org/tv/66761

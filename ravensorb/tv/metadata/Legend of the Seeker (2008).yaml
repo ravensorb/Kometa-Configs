@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Legend of the Seeker (2008)":
         year: 2008
         title: "Legend of the Seeker"
-        url_poster: https://theposterdb.com/api/assets/330218
         match:
-          mapping_id: 82672
+          mapping_id: 7704
+        url_poster: https://theposterdb.com/api/assets/330218
         # IDs: imdb://tt0844653, tmdb://7704, tvdb://82672
         # tpdb: https://theposterdb.com/search/advanced/results?term=Legend%20of%20the%20Seeker&category=Shows&year_filter=equals&yone=2008&tmdb_id=7704&imdb_id=tt0844653&tvdb_id=82672
         # tmdb: https://www.themoviedb.org/tv/7704

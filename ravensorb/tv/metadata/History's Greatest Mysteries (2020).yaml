@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "History's Greatest Mysteries (2020)":
         year: 2020
         title: "History's Greatest Mysteries"
-        url_poster: https://theposterdb.com/api/assets/366595
         match:
-          mapping_id: 391706
+          mapping_id: 113085
+        url_poster: https://theposterdb.com/api/assets/366595
         # IDs: imdb://tt11947238, tmdb://113085, tvdb://391706
         # tpdb: https://theposterdb.com/search/advanced/results?term=History%27s%20Greatest%20Mysteries&category=Shows&year_filter=equals&yone=2020&tmdb_id=113085&imdb_id=tt11947238&tvdb_id=391706
         # tmdb: https://www.themoviedb.org/tv/113085
@@ -19,3 +19,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366598
             4:
                 url_poster: https://theposterdb.com/api/assets/366600
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/

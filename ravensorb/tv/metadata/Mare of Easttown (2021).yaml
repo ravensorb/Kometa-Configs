@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mare of Easttown (2021)":
         year: 2021
         title: "Mare of Easttown"
-        url_poster: https://theposterdb.com/api/assets/332939
         match:
-          mapping_id: 370112
+          mapping_id: 115004
+        url_poster: https://theposterdb.com/api/assets/332939
         # IDs: imdb://tt10155688, tmdb://115004, tvdb://370112
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mare%20of%20Easttown&category=Shows&year_filter=equals&yone=2021&tmdb_id=115004&imdb_id=tt10155688&tvdb_id=370112
         # tmdb: https://www.themoviedb.org/tv/115004

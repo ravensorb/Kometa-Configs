@@ -1,21 +1,19 @@
 collections:
-  "Scooby-Doo":
-    variables: { movie: "295421, 12903, 489939, 13350, 287757, 24787, 260825, 13354, 21956, 13355, 16390, 24615, 20558, 13351, 12902, 30074, 37211", poster: https://theposterdb.com/api/assets/161874 }
+  "Star Trek: Extras":
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "04", sort_separator: " - ", movie: "282759, 414260, 633560, 522055, 411500, 933474, 972398", poster: "https://theposterdb.com/api/assets/222279" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Scooby-Doo is an American media franchise based on an animated television series launched in 1969 and continued through several derivative media. Writers Joe Ruby and Ken Spears created the original series, Scooby-Doo, Where Are You!, for Hanna-Barbera Productions
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Scooby-Doo
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Scooby-Doo
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Scooby-Doo
-    # trakt: https://trakt.tv/search/lists?query=Scooby-Doo
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Extras&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20Extras%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Trek%3A%20Extras
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Star%20Trek%3A%20Extras
+    # trakt: https://trakt.tv/search/lists?query=Star%20Trek%3A%20Extras
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/scooby-doo-collection?sort=released,asc 
+       - https://trakt.tv/users/ravensorb/lists/star-trek-extras?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

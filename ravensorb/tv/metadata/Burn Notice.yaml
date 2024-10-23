@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Burn Notice (2007)":
         year: 2007
         title: "Burn Notice"
-        url_poster: https://theposterdb.com/api/assets/362679
         match:
-          mapping_id: 80270
+          mapping_id: 2919
+        url_poster: https://theposterdb.com/api/assets/362679
         # IDs: imdb://tt0810788, tmdb://2919, tvdb://80270
         # tpdb: https://theposterdb.com/search/advanced/results?term=Burn%20Notice&category=Shows&year_filter=equals&yone=2007&tmdb_id=2919&imdb_id=tt0810788&tvdb_id=80270
         # tmdb: https://www.themoviedb.org/tv/2919

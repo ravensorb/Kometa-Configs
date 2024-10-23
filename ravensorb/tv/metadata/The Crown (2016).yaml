@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Crown (2016)":
         year: 2016
         title: "The Crown"
         sort_title: "Crown"
-        url_poster: https://theposterdb.com/api/assets/322014
         match:
-          mapping_id: 305574
+          mapping_id: 65494
+        url_poster: https://theposterdb.com/api/assets/322014
         # IDs: imdb://tt4786824, tmdb://65494, tvdb://305574
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Crown&category=Shows&year_filter=equals&yone=2016&tmdb_id=65494&imdb_id=tt4786824&tvdb_id=305574
         # tmdb: https://www.themoviedb.org/tv/65494

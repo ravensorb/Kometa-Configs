@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Jett (2019)":
         year: 2019
         title: "Jett"
-        url_poster: https://theposterdb.com/api/assets/445950
         match:
-          mapping_id: 359791
+          mapping_id: 84303
+        url_poster: https://theposterdb.com/api/assets/445950
         # IDs: imdb://tt8594276, tmdb://84303, tvdb://359791
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jett&category=Shows&year_filter=equals&yone=2019&tmdb_id=84303&imdb_id=tt8594276&tvdb_id=359791
         # tmdb: https://www.themoviedb.org/tv/84303

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The West Wing (1999)":
         year: 1999
         title: "The West Wing"
         sort_title: "West Wing"
-        url_poster: https://theposterdb.com/api/assets/363993
         match:
-          mapping_id: 72521
+          mapping_id: 688
+        url_poster: https://theposterdb.com/api/assets/363993
         # IDs: imdb://tt0200276, tmdb://688, tvdb://72521
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20West%20Wing&category=Shows&year_filter=equals&yone=1999&tmdb_id=688&imdb_id=tt0200276&tvdb_id=72521
         # tmdb: https://www.themoviedb.org/tv/688

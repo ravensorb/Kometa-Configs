@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Merlin (1998)":
         year: 1998
         title: "Merlin"
         sort_title: "Merlin (1998)"
-        url_poster: https://theposterdb.com/api/assets/337231
         match:
-          mapping_id: 83269
+          mapping_id: 41691
+        url_poster: https://theposterdb.com/api/assets/337231
         # IDs: imdb://tt0130414, tmdb://41691, tvdb://83269
         # tpdb: https://theposterdb.com/search/advanced/results?term=Merlin&category=Shows&year_filter=equals&yone=1998&tmdb_id=41691&imdb_id=tt0130414&tvdb_id=83269
         # tmdb: https://www.themoviedb.org/tv/41691
@@ -14,3 +14,11 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/337232
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/

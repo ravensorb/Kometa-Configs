@@ -2,7 +2,6 @@ metadata:
     "The NeverEnding Story (1984)":
         year: 1984
         title: "The NeverEnding Story"
-        orig_title: "Die unendliche Geschichte"
         sort_title: "NeverEnding Story"
         match:
           mapping_id: 34584

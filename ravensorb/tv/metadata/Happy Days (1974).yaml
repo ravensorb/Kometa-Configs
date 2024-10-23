@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Happy Days (1974)":
         year: 1974
         title: "Happy Days"
-        url_poster: https://theposterdb.com/api/assets/356819
         match:
-          mapping_id: 74475
+          mapping_id: 3845
+        url_poster: https://theposterdb.com/api/assets/356819
         # IDs: imdb://tt0070992, tmdb://3845, tvdb://74475
         # tpdb: https://theposterdb.com/search/advanced/results?term=Happy%20Days&category=Shows&year_filter=equals&yone=1974&tmdb_id=3845&imdb_id=tt0070992&tvdb_id=74475
         # tmdb: https://www.themoviedb.org/tv/3845

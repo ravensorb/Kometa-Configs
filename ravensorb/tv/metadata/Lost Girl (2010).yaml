@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Lost Girl (2010)":
         year: 2010
         title: "Lost Girl"
-        url_poster: https://theposterdb.com/api/assets/476334
         match:
-          mapping_id: 182061
+          mapping_id: 33852
+        url_poster: https://theposterdb.com/api/assets/476334
         # IDs: imdb://tt1429449, tmdb://33852, tvdb://182061
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lost%20Girl&category=Shows&year_filter=equals&yone=2010&tmdb_id=33852&imdb_id=tt1429449&tvdb_id=182061
         # tmdb: https://www.themoviedb.org/tv/33852

@@ -1,15 +1,30 @@
-metadata:    
+metadata:
     "13 Nights of Elvira (2014)":
         year: 2014
         title: "13 Nights of Elvira"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 291105
+          mapping_id: 204121
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt4126382, tmdb://204121, tvdb://291105
         # tpdb: https://theposterdb.com/search/advanced/results?term=13%20Nights%20of%20Elvira&category=Shows&year_filter=equals&yone=2014&tmdb_id=204121&imdb_id=tt4126382&tvdb_id=291105
         # tmdb: https://www.themoviedb.org/tv/204121
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=291105
         # imdb: https://www.imdb.com/title/tt4126382
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Elvira's 40th Anniversary, Very Scary, Very Special Special (2021)":
+        year: 2021
+        title: "Elvira's 40th Anniversary, Very Scary, Very Special Special"
+        match:
+          mapping_id: 135136
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt15433052, tmdb://135136, tvdb://410631
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Elvira%27s%2040th%20Anniversary%2C%20Very%20Scary%2C%20Very%20Special%20Special&category=Shows&year_filter=equals&yone=2021&tmdb_id=135136&imdb_id=tt15433052&tvdb_id=410631
+        # tmdb: https://www.themoviedb.org/tv/135136
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=410631
+        # imdb: https://www.imdb.com/title/tt15433052
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/

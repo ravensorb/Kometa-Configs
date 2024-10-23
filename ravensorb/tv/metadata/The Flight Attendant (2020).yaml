@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Flight Attendant (2020)":
         year: 2020
         title: "The Flight Attendant"
         sort_title: "Flight Attendant"
-        url_poster: https://theposterdb.com/api/assets/332840
         match:
-          mapping_id: 366625
+          mapping_id: 93287
+        url_poster: https://theposterdb.com/api/assets/332840
         # IDs: imdb://tt7569576, tmdb://93287, tvdb://366625
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Flight%20Attendant&category=Shows&year_filter=equals&yone=2020&tmdb_id=93287&imdb_id=tt7569576&tvdb_id=366625
         # tmdb: https://www.themoviedb.org/tv/93287

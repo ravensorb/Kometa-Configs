@@ -1,13 +1,11 @@
 collections:
   "John Wick":
-    variables: { movie: "603692, 245891, 324552, 458156", poster: https://theposterdb.com/api/assets/164798 }
+    variables: { movie: "603692, 245891, 324552, 458156", poster: "https://theposterdb.com/api/assets/164798" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A neo-noir action thriller film series that follows Jonathan 'John' Wick, a former assassin, who comes out of retirement seeking vengeance for the theft of his vintage car and the murder of the puppy his deceased wife left to him.
     # tpdb: https://theposterdb.com/search/advanced/results?term=John%20Wick&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22John%20Wick%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=John%20Wick

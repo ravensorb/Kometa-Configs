@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mork & Mindy (1978)":
         year: 1978
         title: "Mork & Mindy"
-        url_poster: https://theposterdb.com/api/assets/262592
         match:
-          mapping_id: 71779
+          mapping_id: 2552
+        url_poster: https://theposterdb.com/api/assets/262592
         # IDs: imdb://tt0077053, tmdb://2552, tvdb://71779
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mork%20%26%20Mindy&category=Shows&year_filter=equals&yone=1978&tmdb_id=2552&imdb_id=tt0077053&tvdb_id=71779
         # tmdb: https://www.themoviedb.org/tv/2552

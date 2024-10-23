@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Outpost (2018)":
         year: 2018
         title: "The Outpost"
         sort_title: "Outpost"
-        url_poster: https://theposterdb.com/api/assets/499644
         match:
-          mapping_id: 345831
+          mapping_id: 79340
+        url_poster: https://theposterdb.com/api/assets/499644
         # IDs: imdb://tt7612548, tmdb://79340, tvdb://345831
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Outpost&category=Shows&year_filter=equals&yone=2018&tmdb_id=79340&imdb_id=tt7612548&tvdb_id=345831
         # tmdb: https://www.themoviedb.org/tv/79340

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mrs. Davis (2023)":
         year: 2023
         title: "Mrs. Davis"
-        url_poster: https://theposterdb.com/api/assets/368704
         match:
-          mapping_id: 403623
+          mapping_id: 197548
+        url_poster: https://theposterdb.com/api/assets/368704
         # IDs: imdb://tt14759574, tmdb://197548, tvdb://403623
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mrs.%20Davis&category=Shows&year_filter=equals&yone=2023&tmdb_id=197548&imdb_id=tt14759574&tvdb_id=403623
         # tmdb: https://www.themoviedb.org/tv/197548

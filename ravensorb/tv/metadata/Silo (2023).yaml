@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Silo (2023)":
         year: 2023
         title: "Silo"
-        url_poster: https://theposterdb.com/api/assets/360000
         match:
-          mapping_id: 403245
+          mapping_id: 125988
+        url_poster: https://theposterdb.com/api/assets/360000
         # IDs: imdb://tt14688458, tmdb://125988, tvdb://403245
         # tpdb: https://theposterdb.com/search/advanced/results?term=Silo&category=Shows&year_filter=equals&yone=2023&tmdb_id=125988&imdb_id=tt14688458&tvdb_id=403245
         # tmdb: https://www.themoviedb.org/tv/125988

@@ -1,13 +1,11 @@
 collections:
   "Fanny Brice":
-    variables: { movie: "16085, 39282", poster: https://theposterdb.com/api/assets/166798 }
+    variables: { movie: "16085, 39282", poster: "https://theposterdb.com/api/assets/166798" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Funny Girl is a 1968 American biographical musical comedy-drama film directed by William Wyler. The screenplay by Isobel Lennart was adapted from her book for the eponymous stage musical. It is loosely based on the life and career of Broadway and film star and comedian Fanny Brice and her stormy relationship with entrepreneur and gambler Nicky Arnstein. The first film stars Barbra Streisand (in her film debut reprising her Broadway role) as Brice and Omar Sharif as Arnstein. In 1975, Streisand reprised her role of Brice opposite James Caan as Brice's third husband, impresario Billy Rose, in a sequel entitled Funny Lady
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fanny%20Brice&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Fanny%20Brice%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Fanny%20Brice

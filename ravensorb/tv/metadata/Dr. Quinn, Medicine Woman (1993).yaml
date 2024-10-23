@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Dr. Quinn, Medicine Woman (1993)":
         year: 1993
         title: "Dr. Quinn, Medicine Woman"
-        url_poster: https://theposterdb.com/api/assets/210373
         match:
-          mapping_id: 78095
+          mapping_id: 4324
+        url_poster: https://theposterdb.com/api/assets/210373
         # IDs: imdb://tt0103405, tmdb://4324, tvdb://78095
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dr.%20Quinn%2C%20Medicine%20Woman&category=Shows&year_filter=equals&yone=1993&tmdb_id=4324&imdb_id=tt0103405&tvdb_id=78095
         # tmdb: https://www.themoviedb.org/tv/4324

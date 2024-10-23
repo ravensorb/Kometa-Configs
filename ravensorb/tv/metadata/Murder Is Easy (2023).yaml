@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Murder Is Easy (2023)":
         year: 2023
         title: "Murder Is Easy"
-        url_poster: https://theposterdb.com/api/assets/450877
         match:
-          mapping_id: 431397
+          mapping_id: 230364
+        url_poster: https://theposterdb.com/api/assets/450877
         # IDs: imdb://tt26771826, tmdb://230364, tvdb://431397
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20Is%20Easy&category=Shows&year_filter=equals&yone=2023&tmdb_id=230364&imdb_id=tt26771826&tvdb_id=431397
         # tmdb: https://www.themoviedb.org/tv/230364

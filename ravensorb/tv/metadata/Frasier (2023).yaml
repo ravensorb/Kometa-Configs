@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Frasier (2023)":
         year: 2023
         title: "Frasier (2023)"
-        url_poster: https://theposterdb.com/api/assets/418518
         match:
-          mapping_id: 425711
+          mapping_id: 195241
+        url_poster: https://theposterdb.com/api/assets/418518
         # IDs: imdb://tt14124236, tmdb://195241, tvdb://425711
         # tpdb: https://theposterdb.com/search/advanced/results?term=Frasier%20%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=195241&imdb_id=tt14124236&tvdb_id=425711
         # tmdb: https://www.themoviedb.org/tv/195241
@@ -13,3 +13,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/418520
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

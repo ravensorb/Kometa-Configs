@@ -1,13 +1,11 @@
 collections:
   "Death of Superman":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "487672, 487670", poster: https://theposterdb.com/api/assets/193370 }
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "487672, 487670", poster: "https://theposterdb.com/api/assets/193370" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      This collection expands the story line of Superman within the DC Animated Movie Universe.  When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.  In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world's greatest champion. Meanwhile, Superman's death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
     # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20of%20Superman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Death%20of%20Superman%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Death%20of%20Superman

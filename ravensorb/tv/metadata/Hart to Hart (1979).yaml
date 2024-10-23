@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Hart to Hart (1979)":
         year: 1979
         title: "Hart to Hart"
-        url_poster: https://theposterdb.com/api/assets/290440
         match:
-          mapping_id: 71308
+          mapping_id: 3162
+        url_poster: https://theposterdb.com/api/assets/290440
         # IDs: imdb://tt0078622, tmdb://3162, tvdb://71308
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hart%20to%20Hart&category=Shows&year_filter=equals&yone=1979&tmdb_id=3162&imdb_id=tt0078622&tvdb_id=71308
         # tmdb: https://www.themoviedb.org/tv/3162

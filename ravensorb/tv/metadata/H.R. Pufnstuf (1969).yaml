@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "H.R. Pufnstuf (1969)":
         year: 1969
         title: "H.R. Pufnstuf"
-        url_poster: https://theposterdb.com/api/assets/253659
         match:
-          mapping_id: 73513
+          mapping_id: 4284
+        url_poster: https://theposterdb.com/api/assets/253659
         # IDs: imdb://tt0063907, tmdb://4284, tvdb://73513
         # tpdb: https://theposterdb.com/search/advanced/results?term=H.R.%20Pufnstuf&category=Shows&year_filter=equals&yone=1969&tmdb_id=4284&imdb_id=tt0063907&tvdb_id=73513
         # tmdb: https://www.themoviedb.org/tv/4284

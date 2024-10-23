@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Holmes on Homes (2003)":
         year: 2003
         title: "Holmes on Homes"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 80258
+          mapping_id: 12261
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0765621, tmdb://12261, tvdb://80258
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20on%20Homes&category=Shows&year_filter=equals&yone=2003&tmdb_id=12261&imdb_id=tt0765621&tvdb_id=80258
         # tmdb: https://www.themoviedb.org/tv/12261
@@ -27,13 +27,13 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 7:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes Inspection (2009)":
         year: 2009
         title: "Holmes Inspection"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 117701
+          mapping_id: 31134
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1785938, tmdb://31134, tvdb://117701
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20Inspection&category=Shows&year_filter=equals&yone=2009&tmdb_id=31134&imdb_id=tt1785938&tvdb_id=117701
         # tmdb: https://www.themoviedb.org/tv/31134
@@ -44,13 +44,13 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 2:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes Makes It Right (2012)":
         year: 2012
         title: "Holmes Makes It Right"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 263011
+          mapping_id: 55513
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt2945036, tmdb://55513, tvdb://263011
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20Makes%20It%20Right&category=Shows&year_filter=equals&yone=2012&tmdb_id=55513&imdb_id=tt2945036&tvdb_id=263011
         # tmdb: https://www.themoviedb.org/tv/55513
@@ -59,13 +59,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes: Buy It Right (2016)":
         year: 2016
         title: "Holmes: Buy It Right"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 318842
+          mapping_id: 209975
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt6174252, tmdb://209975, tvdb://318842
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%3A%20Buy%20It%20Right&category=Shows&year_filter=equals&yone=2016&tmdb_id=209975&imdb_id=tt6174252&tvdb_id=318842
         # tmdb: https://www.themoviedb.org/tv/209975
@@ -74,13 +74,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes and Holmes (2017)":
         year: 2017
         title: "Holmes and Holmes"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 319596
+          mapping_id: 80977
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt8001366, tmdb://80977, tvdb://319596
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20and%20Holmes&category=Shows&year_filter=equals&yone=2017&tmdb_id=80977&imdb_id=tt8001366&tvdb_id=319596
         # tmdb: https://www.themoviedb.org/tv/80977
@@ -95,13 +95,13 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 4:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes: Next Generation (2018)":
         year: 2018
         title: "Holmes: Next Generation"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 345718
+          mapping_id: 79092
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt8018622, tmdb://79092, tvdb://345718
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%3A%20Next%20Generation&category=Shows&year_filter=equals&yone=2018&tmdb_id=79092&imdb_id=tt8018622&tvdb_id=345718
         # tmdb: https://www.themoviedb.org/tv/79092
@@ -110,13 +110,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Holmes Family Effect (2021)":
         year: 2021
         title: "Holmes Family Effect"
-        url_poster: https://theposterdb.com/api/assets/367892
         match:
-          mapping_id: 395065
+          mapping_id: 118394
+        url_poster: https://theposterdb.com/api/assets/367892
         # IDs: imdb://tt13836352, tmdb://118394, tvdb://395065
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20Family%20Effect&category=Shows&year_filter=equals&yone=2021&tmdb_id=118394&imdb_id=tt13836352&tvdb_id=395065
         # tmdb: https://www.themoviedb.org/tv/118394
@@ -125,13 +125,13 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/367893
-    
+
     "Holmes Family Rescue (2021)":
         year: 2021
         title: "Holmes Family Rescue"
-        url_poster: https://theposterdb.com/api/assets/367898
         match:
-          mapping_id: 412152
+          mapping_id: 153402
+        url_poster: https://theposterdb.com/api/assets/367898
         # IDs: imdb://tt10902108, tmdb://153402, tvdb://412152
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holmes%20Family%20Rescue&category=Shows&year_filter=equals&yone=2021&tmdb_id=153402&imdb_id=tt10902108&tvdb_id=412152
         # tmdb: https://www.themoviedb.org/tv/153402

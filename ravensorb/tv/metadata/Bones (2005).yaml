@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Bones (2005)":
         year: 2005
         title: "Bones"
-        url_poster: https://theposterdb.com/api/assets/349281
         match:
-          mapping_id: 75682
+          mapping_id: 1911
+        url_poster: https://theposterdb.com/api/assets/349281
         # IDs: imdb://tt0460627, tmdb://1911, tvdb://75682
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bones&category=Shows&year_filter=equals&yone=2005&tmdb_id=1911&imdb_id=tt0460627&tvdb_id=75682
         # tmdb: https://www.themoviedb.org/tv/1911

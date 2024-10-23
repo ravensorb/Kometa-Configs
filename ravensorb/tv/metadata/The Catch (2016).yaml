@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Catch (2016)":
         year: 2016
         title: "The Catch"
         sort_title: "Catch"
-        url_poster: https://theposterdb.com/api/assets/422622
         match:
-          mapping_id: 295696
+          mapping_id: 65579
+        url_poster: https://theposterdb.com/api/assets/422622
         # IDs: imdb://tt4396862, tmdb://65579, tvdb://295696
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Catch&category=Shows&year_filter=equals&yone=2016&tmdb_id=65579&imdb_id=tt4396862&tvdb_id=295696
         # tmdb: https://www.themoviedb.org/tv/65579

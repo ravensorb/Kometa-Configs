@@ -1,13 +1,11 @@
 collections:
   "National Treasure":
-    variables: { movie: "2059, 6637", poster: https://theposterdb.com/api/assets/163397 }
+    variables: { movie: "2059, 6637", poster: "https://theposterdb.com/api/assets/163397" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The collection of theatrical action-adventure mystery films starring Nicolas Cage as Benjamin Gates, a treasure hunter who, with the help of his father, Patrick Henry Gates (Jon Voight), his girlfriend, Abigail Chase (Diane Kruger) and his loyal sidekick, Riley Poole (Justin Bartha), uncovers hidden troves and secrets from America's past.
     # tpdb: https://theposterdb.com/search/advanced/results?term=National%20Treasure&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22National%20Treasure%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=National%20Treasure

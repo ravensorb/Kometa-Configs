@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mr. Robot (2015)":
         year: 2015
         title: "Mr. Robot"
-        url_poster: https://theposterdb.com/api/assets/252145
         match:
-          mapping_id: 289590
+          mapping_id: 62560
+        url_poster: https://theposterdb.com/api/assets/252145
         # IDs: imdb://tt4158110, tmdb://62560, tvdb://289590
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.%20Robot&category=Shows&year_filter=equals&yone=2015&tmdb_id=62560&imdb_id=tt4158110&tvdb_id=289590
         # tmdb: https://www.themoviedb.org/tv/62560

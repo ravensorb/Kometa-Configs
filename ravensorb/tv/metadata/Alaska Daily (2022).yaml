@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Alaska Daily (2022)":
         year: 2022
         title: "Alaska Daily"
-        url_poster: https://theposterdb.com/api/assets/382313
         match:
-          mapping_id: 420107
+          mapping_id: 201948
+        url_poster: https://theposterdb.com/api/assets/382313
         # IDs: imdb://tt15421858, tmdb://201948, tvdb://420107
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alaska%20Daily&category=Shows&year_filter=equals&yone=2022&tmdb_id=201948&imdb_id=tt15421858&tvdb_id=420107
         # tmdb: https://www.themoviedb.org/tv/201948

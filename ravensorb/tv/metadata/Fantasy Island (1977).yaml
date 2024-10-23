@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Fantasy Island (1977)":
         year: 1977
         title: "Fantasy Island"
-        url_poster: https://theposterdb.com/api/assets/379774
         match:
-          mapping_id: 77722
+          mapping_id: 39775
+        url_poster: https://theposterdb.com/api/assets/379774
         # IDs: imdb://tt0077008, tmdb://39775, tvdb://77722
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fantasy%20Island&category=Shows&year_filter=equals&yone=1977&tmdb_id=39775&imdb_id=tt0077008&tvdb_id=77722
         # tmdb: https://www.themoviedb.org/tv/39775

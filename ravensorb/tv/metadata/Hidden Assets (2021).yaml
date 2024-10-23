@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Hidden Assets (2021)":
         year: 2021
         title: "Hidden Assets"
-        url_poster: https://theposterdb.com/api/assets/405583
         match:
-          mapping_id: 412213
+          mapping_id: 138108
+        url_poster: https://theposterdb.com/api/assets/405583
         # IDs: imdb://tt15813014, tmdb://138108, tvdb://412213
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hidden%20Assets&category=Shows&year_filter=equals&yone=2021&tmdb_id=138108&imdb_id=tt15813014&tvdb_id=412213
         # tmdb: https://www.themoviedb.org/tv/138108

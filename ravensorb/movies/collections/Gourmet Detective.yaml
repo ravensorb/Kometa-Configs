@@ -1,20 +1,19 @@
 collections:
   "Gourmet Detective":
-    variables: { movie: "330161, 348631, 414767, 479242, 648597", collection: "364342" } # , poster: https://theposterdb.com/api/assets/ }
+    variables: { movie: "330161, 348631, 414767, 479242, 648597", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplTMDBCollection, collection: "364342" },
     ]
-    # summary: |
     # tpdb: https://theposterdb.com/search/advanced/results?term=Gourmet%20Detective&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Gourmet%20Detective%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Gourmet%20Detective
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Gourmet%20Detective
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Gourmet%20Detective
     # trakt: https://trakt.tv/search/lists?query=Gourmet%20Detective
     # collection_mode: hide
     trakt_list:
-      - https://trakt.tv/lists/official/gourmet-detective-collection?sort=rank,asc
+       - https://trakt.tv/lists/official/gourmet-detective-collection?sort=rank,asc 
 
 ########################################################################################################################
 ########################################################################################################################

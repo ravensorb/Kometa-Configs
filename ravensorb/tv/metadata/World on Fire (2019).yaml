@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "World on Fire (2019)":
         year: 2019
         title: "World on Fire"
-        url_poster: https://theposterdb.com/api/assets/366239
         match:
-          mapping_id: 364391
+          mapping_id: 83015
+        url_poster: https://theposterdb.com/api/assets/366239
         # IDs: imdb://tt8001092, tmdb://83015, tvdb://364391
         # tpdb: https://theposterdb.com/search/advanced/results?term=World%20on%20Fire&category=Shows&year_filter=equals&yone=2019&tmdb_id=83015&imdb_id=tt8001092&tvdb_id=364391
         # tmdb: https://www.themoviedb.org/tv/83015

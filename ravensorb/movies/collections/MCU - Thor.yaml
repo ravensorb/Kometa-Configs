@@ -1,13 +1,11 @@
 collections:
   "Thor":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "284053, 10195, 76338", poster: https://theposterdb.com/api/assets/162406 }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "284053, 10195, 76338", poster: "https://theposterdb.com/api/assets/162406" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A superhero film series based on the comic book character of the same name published by Marvel Comics, and part of the Marvel Cinematic Universe (MCU) film series. The series centers on Thor, the crown prince of Asgard.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Thor&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Thor
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Thor

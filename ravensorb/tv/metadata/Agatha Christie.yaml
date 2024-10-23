@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Agatha Christie Hour (1982)":
         year: 1982
         title: "The Agatha Christie Hour"
         sort_title: "Agatha Christie Hour"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 78535
+          mapping_id: 28007
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0343230, tmdb://28007, tvdb://78535
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Agatha%20Christie%20Hour&category=Shows&year_filter=equals&yone=1982&tmdb_id=28007&imdb_id=tt0343230&tvdb_id=78535
         # tmdb: https://www.themoviedb.org/tv/28007
@@ -14,13 +14,13 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Agatha Christie's Partners in Crime (1983)":
         year: 1983
         title: "Agatha Christie's Partners in Crime"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 77818
+          mapping_id: 14777
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0080336, tmdb://14777, tvdb://77818
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Partners%20in%20Crime&category=Shows&year_filter=equals&yone=1983&tmdb_id=14777&imdb_id=tt0080336&tvdb_id=77818
         # tmdb: https://www.themoviedb.org/tv/14777
@@ -29,13 +29,30 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
+    "Miss Marple (1984)":
+        year: 1984
+        title: "Miss Marple"
+        match:
+          mapping_id: 239625
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9907044, tmdb://239625, tvdb://250440
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple&category=Shows&year_filter=equals&yone=1984&tmdb_id=239625&imdb_id=tt9907044&tvdb_id=250440
+        # tmdb: https://www.themoviedb.org/tv/239625
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1984&query=250440
+        # imdb: https://www.imdb.com/title/tt9907044
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+
     "Agatha Christie's Poirot (1989)":
         year: 1989
         title: "Agatha Christie's Poirot"
-        url_poster: https://theposterdb.com/api/assets/360925
         match:
-          mapping_id: 76133
+          mapping_id: 790
+        url_poster: https://theposterdb.com/api/assets/360925
         # IDs: imdb://tt0094525, tmdb://790, tvdb://76133
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Poirot&category=Shows&year_filter=equals&yone=1989&tmdb_id=790&imdb_id=tt0094525&tvdb_id=76133
         # tmdb: https://www.themoviedb.org/tv/790
@@ -68,21 +85,19 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360937
             13:
                 url_poster: https://theposterdb.com/api/assets/360938
-    
+
     "Agatha Christie's Marple (2004)":
         year: 2004
         title: "Agatha Christie's Marple"
-        url_poster: https://theposterdb.com/api/assets/365239
         match:
-          mapping_id: 78895
+          mapping_id: 6127
+        url_poster: https://theposterdb.com/api/assets/365239
         # IDs: imdb://tt1734537, tmdb://6127, tvdb://78895
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Marple&category=Shows&year_filter=equals&yone=2004&tmdb_id=6127&imdb_id=tt1734537&tvdb_id=78895
         # tmdb: https://www.themoviedb.org/tv/6127
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2004&query=78895
         # imdb: https://www.imdb.com/title/tt1734537
         seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/365240
             2:
                 url_poster: https://theposterdb.com/api/assets/365241
             3:
@@ -91,13 +106,31 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/365243
             5:
                 url_poster: https://theposterdb.com/api/assets/365244
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
 
+    "A Very British Murder with Lucy Worsley (2013)":
+        year: 2013
+        title: "A Very British Murder with Lucy Worsley"
+        sort_title: "Very British Murder with Lucy Worsley"
+        match:
+          mapping_id: 60157
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3225924, tmdb://60157, tvdb://273461
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Very%20British%20Murder%20with%20Lucy%20Worsley&category=Shows&year_filter=equals&yone=2013&tmdb_id=60157&imdb_id=tt3225924&tvdb_id=273461
+        # tmdb: https://www.themoviedb.org/tv/60157
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=273461
+        # imdb: https://www.imdb.com/title/tt3225924
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+                
     "And Then There Were None (2015)":
         year: 2015
         title: "And Then There Were None"
-        url_poster: https://theposterdb.com/api/assets/372435
         match:
-          mapping_id: 299855
+          mapping_id: 64684
+        url_poster: https://theposterdb.com/api/assets/372435
         # IDs: imdb://tt3581932, tmdb://64684, tvdb://299855
         # tpdb: https://theposterdb.com/search/advanced/results?term=And%20Then%20There%20Were%20None&category=Shows&year_filter=equals&yone=2015&tmdb_id=64684&imdb_id=tt3581932&tvdb_id=299855
         # tmdb: https://www.themoviedb.org/tv/64684
@@ -110,9 +143,9 @@ metadata:
     "Ordeal by Innocence (2018)":
         year: 2018
         title: "Ordeal by Innocence"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 344813
+          mapping_id: 74430
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt6118426, tmdb://74430, tvdb://344813
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ordeal%20by%20Innocence&category=Shows&year_filter=equals&yone=2018&tmdb_id=74430&imdb_id=tt6118426&tvdb_id=344813
         # tmdb: https://www.themoviedb.org/tv/74430
@@ -121,14 +154,14 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "The ABC Murders (2018)":
         year: 2018
         title: "The ABC Murders"
         sort_title: "ABC Murders"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 348026
+          mapping_id: 81049
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt8463714, tmdb://81049, tvdb://348026
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20ABC%20Murders&category=Shows&year_filter=equals&yone=2018&tmdb_id=81049&imdb_id=tt8463714&tvdb_id=348026
         # tmdb: https://www.themoviedb.org/tv/81049
@@ -137,14 +170,14 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "The Pale Horse (2020)":
         year: 2020
         title: "The Pale Horse"
         sort_title: "Pale Horse"
-        url_poster: https://theposterdb.com/api/assets/417856
         match:
-          mapping_id: 373830
+          mapping_id: 93705
+        url_poster: https://theposterdb.com/api/assets/417856
         # IDs: imdb://tt10485750, tmdb://93705, tvdb://373830
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Pale%20Horse&category=Shows&year_filter=equals&yone=2020&tmdb_id=93705&imdb_id=tt10485750&tvdb_id=373830
         # tmdb: https://www.themoviedb.org/tv/93705

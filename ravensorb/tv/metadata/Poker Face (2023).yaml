@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Poker Face (2023)":
         year: 2023
         title: "Poker Face"
-        url_poster: https://theposterdb.com/api/assets/312298
         match:
-          mapping_id: 398822
+          mapping_id: 120998
+        url_poster: https://theposterdb.com/api/assets/312298
         # IDs: imdb://tt14269590, tmdb://120998, tvdb://398822
         # tpdb: https://theposterdb.com/search/advanced/results?term=Poker%20Face&category=Shows&year_filter=equals&yone=2023&tmdb_id=120998&imdb_id=tt14269590&tvdb_id=398822
         # tmdb: https://www.themoviedb.org/tv/120998

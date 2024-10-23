@@ -1,13 +1,11 @@
 collections:
   "Captain America":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "271110, 1771, 100402", poster: https://theposterdb.com/api/assets/162381 }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "271110, 1771, 100402", poster: "https://theposterdb.com/api/assets/162381" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A superhero film series based on the Marvel Comics character Captain America, and part of the Marvel Cinematic Universe (MCU) series. The series is centered on Steve Rogers, a man from World War II era Brooklyn who is transformed into super-soldier Captain America.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Captain%20America&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Captain%20America%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Captain%20America

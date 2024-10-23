@@ -1,13 +1,11 @@
 collections:
   "Death Race":
-    variables: { movie: "10483, 51620, 156717", poster: https://theposterdb.com/api/assets/131496 }
+    variables: { movie: "10483, 51620, 156717", poster: "https://theposterdb.com/api/assets/131496" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Based on car combat encompassing a series of films and other media centered on a reality show set in a prison, where inmates race against each other in order to win their freedom.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20Race&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Death%20Race%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Death%20Race

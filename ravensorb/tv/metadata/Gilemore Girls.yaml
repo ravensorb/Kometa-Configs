@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Gilmore Girls (2000)":
         year: 2000
         title: "Gilmore Girls"
-        url_poster: https://theposterdb.com/api/assets/453037
         match:
-          mapping_id: 76568
+          mapping_id: 4586
+        url_poster: https://theposterdb.com/api/assets/453037
         # IDs: imdb://tt0238784, tmdb://4586, tvdb://76568
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gilmore%20Girls&category=Shows&year_filter=equals&yone=2000&tmdb_id=4586&imdb_id=tt0238784&tvdb_id=76568
         # tmdb: https://www.themoviedb.org/tv/4586
@@ -25,13 +25,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/453044
             7:
                 url_poster: https://theposterdb.com/api/assets/453045
-    
+
     "Gilmore Girls: A Year in the Life (2016)":
         year: 2016
         title: "Gilmore Girls: A Year in the Life"
-        url_poster: https://theposterdb.com/api/assets/337284
         match:
-          mapping_id: 311987
+          mapping_id: 68799
+        url_poster: https://theposterdb.com/api/assets/337284
         # IDs: imdb://tt5435008, tmdb://68799, tvdb://311987
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gilmore%20Girls%3A%20A%20Year%20in%20the%20Life&category=Shows&year_filter=equals&yone=2016&tmdb_id=68799&imdb_id=tt5435008&tvdb_id=311987
         # tmdb: https://www.themoviedb.org/tv/68799

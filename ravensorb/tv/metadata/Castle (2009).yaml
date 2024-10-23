@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Castle (2009)":
         year: 2009
         title: "Castle (2009)"
-        url_poster: https://theposterdb.com/api/assets/353308
         match:
-          mapping_id: 83462
+          mapping_id: 1419
+        url_poster: https://theposterdb.com/api/assets/353308
         # IDs: imdb://tt1219024, tmdb://1419, tvdb://83462
         # tpdb: https://theposterdb.com/search/advanced/results?term=Castle%20%282009%29&category=Shows&year_filter=equals&yone=2009&tmdb_id=1419&imdb_id=tt1219024&tvdb_id=83462
         # tmdb: https://www.themoviedb.org/tv/1419

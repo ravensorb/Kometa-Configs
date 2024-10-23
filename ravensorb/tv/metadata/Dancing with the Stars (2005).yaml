@@ -1,54 +1,54 @@
-metadata:    
+metadata:
     "Dancing with the Stars (2005)":
         year: 2005
         title: "Dancing with the Stars"
-        url_poster: https://theposterdb.com/api/assets/452476
         match:
-          mapping_id: 79590
+          mapping_id: 1508
+        url_poster: https://theposterdb.com/api/assets/452476
         # IDs: imdb://tt0463398, tmdb://1508, tvdb://79590
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dancing%20with%20the%20Stars&category=Shows&year_filter=equals&yone=2005&tmdb_id=1508&imdb_id=tt0463398&tvdb_id=79590
         # tmdb: https://www.themoviedb.org/tv/1508
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=79590
         # imdb: https://www.imdb.com/title/tt0463398
-        # seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/452477
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/452478
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/452479
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/452480
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/452481
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/452482
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/452483
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/452484
-            # 8:
-                # url_poster: https://theposterdb.com/api/assets/452485
-            # 9:
-                # url_poster: https://theposterdb.com/api/assets/452486
-            # 10:
-                # url_poster: https://theposterdb.com/api/assets/452487
-            # 11:
-                # url_poster: https://theposterdb.com/api/assets/452488
-            # 12:
-                # url_poster: https://theposterdb.com/api/assets/452489
-            # 13:
-                # url_poster: https://theposterdb.com/api/assets/452490
-            # 14:
-                # url_poster: https://theposterdb.com/api/assets/452491
-            # 15:
-                # url_poster: https://theposterdb.com/api/assets/452492
-            # 16:
-                # url_poster: https://theposterdb.com/api/assets/452493
-            # 17:
-                # url_poster: https://theposterdb.com/api/assets/452494
-            # 18:
-                # url_poster: https://theposterdb.com/api/assets/452495
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/452477
+            1:
+                url_poster: https://theposterdb.com/api/assets/452478
+            2:
+                url_poster: https://theposterdb.com/api/assets/452479
+            3:
+                url_poster: https://theposterdb.com/api/assets/452480
+            4:
+                url_poster: https://theposterdb.com/api/assets/452481
+            5:
+                url_poster: https://theposterdb.com/api/assets/452482
+            6:
+                url_poster: https://theposterdb.com/api/assets/452483
+            7:
+                url_poster: https://theposterdb.com/api/assets/452484
+            8:
+                url_poster: https://theposterdb.com/api/assets/452485
+            9:
+                url_poster: https://theposterdb.com/api/assets/452486
+            10:
+                url_poster: https://theposterdb.com/api/assets/452487
+            11:
+                url_poster: https://theposterdb.com/api/assets/452488
+            12:
+                url_poster: https://theposterdb.com/api/assets/452489
+            13:
+                url_poster: https://theposterdb.com/api/assets/452490
+            14:
+                url_poster: https://theposterdb.com/api/assets/452491
+            15:
+                url_poster: https://theposterdb.com/api/assets/452492
+            16:
+                url_poster: https://theposterdb.com/api/assets/452493
+            17:
+                url_poster: https://theposterdb.com/api/assets/452494
+            18:
+                url_poster: https://theposterdb.com/api/assets/452495
             # 19:
                 # url_poster: https://theposterdb.com/api/assets/
             # 20:

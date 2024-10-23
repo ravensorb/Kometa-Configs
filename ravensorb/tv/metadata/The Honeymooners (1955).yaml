@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Honeymooners (1955)":
         year: 1955
         title: "The Honeymooners"
         sort_title: "Honeymooners"
-        url_poster: https://theposterdb.com/api/assets/392804
         match:
-          mapping_id: 73923
+          mapping_id: 4439
+        url_poster: https://theposterdb.com/api/assets/392804
         # IDs: imdb://tt0042114, tmdb://4439, tvdb://73923
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Honeymooners&category=Shows&year_filter=equals&yone=1955&tmdb_id=4439&imdb_id=tt0042114&tvdb_id=73923
         # tmdb: https://www.themoviedb.org/tv/4439

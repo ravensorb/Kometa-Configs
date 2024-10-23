@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Man Seeking Woman (2015)":
         year: 2015
         title: "Man Seeking Woman"
-        url_poster: https://theposterdb.com/api/assets/342233
         match:
-          mapping_id: 283346
+          mapping_id: 61871
+        url_poster: https://theposterdb.com/api/assets/342233
         # IDs: imdb://tt4189492, tmdb://61871, tvdb://283346
         # tpdb: https://theposterdb.com/search/advanced/results?term=Man%20Seeking%20Woman&category=Shows&year_filter=equals&yone=2015&tmdb_id=61871&imdb_id=tt4189492&tvdb_id=283346
         # tmdb: https://www.themoviedb.org/tv/61871

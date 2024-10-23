@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Outlander (2014)":
         year: 2014
         title: "Outlander"
-        url_poster: https://theposterdb.com/api/assets/345943
         match:
-          mapping_id: 270408
+          mapping_id: 56570
+        url_poster: https://theposterdb.com/api/assets/345943
         # IDs: imdb://tt3006802, tmdb://56570, tvdb://270408
         # tpdb: https://theposterdb.com/search/advanced/results?term=Outlander&category=Shows&year_filter=equals&yone=2014&tmdb_id=56570&imdb_id=tt3006802&tvdb_id=270408
         # tmdb: https://www.themoviedb.org/tv/56570

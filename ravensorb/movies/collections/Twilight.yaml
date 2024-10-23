@@ -1,13 +1,11 @@
 collections:
   "Twilight":
-    variables: { movie: "24021, 50620, 50619, 18239, 8966", poster: https://theposterdb.com/api/assets/161853 }
+    variables: { movie: "24021, 50620, 50619, 18239, 8966", poster: "https://theposterdb.com/api/assets/161853" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The Twilight movies are a romantic fantasy vampire series based on the series of novels by Stephenie Meyer.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Twilight&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Twilight
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Twilight

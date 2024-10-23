@@ -1,13 +1,11 @@
 collections:
   "Matt Helm":
-    variables: { movie: "36642", poster: https://theposterdb.com/api/assets/164806 }
+    variables: { movie: "36642", poster: "https://theposterdb.com/api/assets/164806" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Tounge-in-cheek spy-spoof series staring Dean Martin. Loosely (VERY loosely) based on the series of novels by Donald Hamilton. The films used the name Matt Helm, his cover identity, plus book titles and some very loose plot elements, but otherwise the series bore no resemblance at all to the character, atmosphere, or themes of Hamilton's original books, nor to the hard-edged action of Bond. One reason was the attitude of the filmmakers that the only way to compete with the Bond films was to parody them.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Matt%20Helm&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Matt%20Helm%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Matt%20Helm

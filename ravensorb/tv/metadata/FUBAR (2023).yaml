@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "FUBAR (2023)":
         year: 2023
         title: "FUBAR"
-        url_poster: https://theposterdb.com/api/assets/367366
         match:
-          mapping_id: 427281
+          mapping_id: 221300
+        url_poster: https://theposterdb.com/api/assets/367366
         # IDs: imdb://tt13064902, tmdb://221300, tvdb://427281
         # tpdb: https://theposterdb.com/search/advanced/results?term=FUBAR&category=Shows&year_filter=equals&yone=2023&tmdb_id=221300&imdb_id=tt13064902&tvdb_id=427281
         # tmdb: https://www.themoviedb.org/tv/221300

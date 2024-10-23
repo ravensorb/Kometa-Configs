@@ -1,13 +1,11 @@
 collections:
   "Murder, She Wrote":
-    variables: { show: "484", poster: https://theposterdb.com/api/assets/172446 }
+    variables: { show: "484", poster: "https://theposterdb.com/api/assets/172446" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Murder, She Wrote
     # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%2C%20She%20Wrote&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Murder%2C%20She%20Wrote%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Murder%2C%20She%20Wrote

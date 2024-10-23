@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "First Kill (2022)":
         year: 2022
         title: "First Kill"
-        url_poster: https://theposterdb.com/api/assets/346618
         match:
-          mapping_id: 390191
+          mapping_id: 111616
+        url_poster: https://theposterdb.com/api/assets/346618
         # IDs: imdb://tt13315156, tmdb://111616, tvdb://390191
         # tpdb: https://theposterdb.com/search/advanced/results?term=First%20Kill&category=Shows&year_filter=equals&yone=2022&tmdb_id=111616&imdb_id=tt13315156&tvdb_id=390191
         # tmdb: https://www.themoviedb.org/tv/111616

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "21 Jump Street (1987)":
         year: 1987
         title: "21 Jump Street"
-        url_poster: https://theposterdb.com/api/assets/365609
         match:
-          mapping_id: 77585
+          mapping_id: 1486
+        url_poster: https://theposterdb.com/api/assets/365609
         # IDs: imdb://tt0092312, tmdb://1486, tvdb://77585
         # tpdb: https://theposterdb.com/search/advanced/results?term=21%20Jump%20Street&category=Shows&year_filter=equals&yone=1987&tmdb_id=1486&imdb_id=tt0092312&tvdb_id=77585
         # tmdb: https://www.themoviedb.org/tv/1486

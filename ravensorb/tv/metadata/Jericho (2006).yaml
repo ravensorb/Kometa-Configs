@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Jericho (2006)":
         year: 2006
         title: "Jericho"
         sort_title: "Jericho (2006)"
-        url_poster: https://theposterdb.com/api/assets/367783
         match:
-          mapping_id: 79330
+          mapping_id: 365
+        url_poster: https://theposterdb.com/api/assets/367783
         # IDs: imdb://tt0805663, tmdb://365, tvdb://79330
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jericho&category=Shows&year_filter=equals&yone=2006&tmdb_id=365&imdb_id=tt0805663&tvdb_id=79330
         # tmdb: https://www.themoviedb.org/tv/365

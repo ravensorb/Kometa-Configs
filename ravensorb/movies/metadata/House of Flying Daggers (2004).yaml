@@ -2,7 +2,6 @@ metadata:
     "House of Flying Daggers (2004)":
         year: 2004
         title: "House of Flying Daggers"
-        orig_title: "十面埋伏"
         match:
           mapping_id: 9550
         url_poster: https://theposterdb.com/api/assets/293258

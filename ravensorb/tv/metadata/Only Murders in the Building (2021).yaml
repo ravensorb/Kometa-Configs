@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Only Murders in the Building (2021)":
         year: 2021
         title: "Only Murders in the Building"
-        url_poster: https://theposterdb.com/api/assets/326876
         match:
-          mapping_id: 399959
+          mapping_id: 107113
+        url_poster: https://theposterdb.com/api/assets/326876
         # IDs: imdb://tt11691774, tmdb://107113, tvdb://399959
         # tpdb: https://theposterdb.com/search/advanced/results?term=Only%20Murders%20in%20the%20Building&category=Shows&year_filter=equals&yone=2021&tmdb_id=107113&imdb_id=tt11691774&tvdb_id=399959
         # tmdb: https://www.themoviedb.org/tv/107113
@@ -17,3 +17,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/326879
             3:
                 url_poster: https://theposterdb.com/api/assets/406277
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

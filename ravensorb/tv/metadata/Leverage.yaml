@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Leverage (2008)":
         year: 2008
         title: "Leverage"
-        url_poster: https://theposterdb.com/api/assets/348841
         match:
-          mapping_id: 82339
+          mapping_id: 7482
+        url_poster: https://theposterdb.com/api/assets/348841
         # IDs: imdb://tt1103987, tmdb://7482, tvdb://82339
         # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage&category=Shows&year_filter=equals&yone=2008&tmdb_id=7482&imdb_id=tt1103987&tvdb_id=82339
         # tmdb: https://www.themoviedb.org/tv/7482
@@ -21,13 +21,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/348846
             5:
                 url_poster: https://theposterdb.com/api/assets/348847
-    
+
     "Leverage: Redemption (2021)":
         year: 2021
         title: "Leverage: Redemption"
-        url_poster: https://theposterdb.com/api/assets/367943
         match:
-          mapping_id: 402166
+          mapping_id: 106502
+        url_poster: https://theposterdb.com/api/assets/367943
         # IDs: imdb://tt12197698, tmdb://106502, tvdb://402166
         # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage%3A%20Redemption&category=Shows&year_filter=equals&yone=2021&tmdb_id=106502&imdb_id=tt12197698&tvdb_id=402166
         # tmdb: https://www.themoviedb.org/tv/106502

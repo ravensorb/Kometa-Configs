@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Almost Paradise (2020)":
         year: 2020
         title: "Almost Paradise"
-        url_poster: https://theposterdb.com/api/assets/382444
         match:
-          mapping_id: 374548
+          mapping_id: 100383
+        url_poster: https://theposterdb.com/api/assets/382444
         # IDs: imdb://tt11266702, tmdb://100383, tvdb://374548
         # tpdb: https://theposterdb.com/search/advanced/results?term=Almost%20Paradise&category=Shows&year_filter=equals&yone=2020&tmdb_id=100383&imdb_id=tt11266702&tvdb_id=374548
         # tmdb: https://www.themoviedb.org/tv/100383

@@ -1,13 +1,11 @@
 collections:
   "Avengers":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "299534, 24428, 99861, 299536", poster: https://theposterdb.com/api/assets/162376 }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "299534, 24428, 99861, 299536", poster: "https://theposterdb.com/api/assets/162376" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A superhero film series produced by Marvel Studios based on the Marvel Comics superhero team of the same name, and part of the Marvel Cinematic Universe (MCU).  The series features an ensemble cast from the Marvel Cinematic Universe series films, as they join forces for the peacekeeping organization S.H.I.E.L.D. led by Nick Fury.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Avengers&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Avengers
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Avengers

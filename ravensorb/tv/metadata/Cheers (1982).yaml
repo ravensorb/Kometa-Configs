@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Cheers (1982)":
         year: 1982
         title: "Cheers"
-        url_poster: https://theposterdb.com/api/assets/241397
         match:
-          mapping_id: 77623
+          mapping_id: 141
+        url_poster: https://theposterdb.com/api/assets/241397
         # IDs: imdb://tt0083399, tmdb://141, tvdb://77623
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cheers&category=Shows&year_filter=equals&yone=1982&tmdb_id=141&imdb_id=tt0083399&tvdb_id=77623
         # tmdb: https://www.themoviedb.org/tv/141

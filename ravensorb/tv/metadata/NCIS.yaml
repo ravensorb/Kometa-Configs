@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "NCIS (2003)":
         year: 2003
         title: "NCIS"
-        url_poster: https://theposterdb.com/api/assets/360206
         match:
-          mapping_id: 72108
+          mapping_id: 4614
+        url_poster: https://theposterdb.com/api/assets/360206
         # IDs: imdb://tt0364845, tmdb://4614, tvdb://72108
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS&category=Shows&year_filter=equals&yone=2003&tmdb_id=4614&imdb_id=tt0364845&tvdb_id=72108
         # tmdb: https://www.themoviedb.org/tv/4614
@@ -51,13 +51,17 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360226
             20:
                 url_poster: https://theposterdb.com/api/assets/360227
-    
+            # 21:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 22:
+                # url_poster: https://theposterdb.com/api/assets/
+
     "NCIS: Los Angeles (2009)":
         year: 2009
         title: "NCIS: Los Angeles"
-        url_poster: https://theposterdb.com/api/assets/360231
         match:
-          mapping_id: 95441
+          mapping_id: 17610
+        url_poster: https://theposterdb.com/api/assets/360231
         # IDs: imdb://tt1378167, tmdb://17610, tvdb://95441
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20Los%20Angeles&category=Shows&year_filter=equals&yone=2009&tmdb_id=17610&imdb_id=tt1378167&tvdb_id=95441
         # tmdb: https://www.themoviedb.org/tv/17610
@@ -92,13 +96,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360245
             14:
                 url_poster: https://theposterdb.com/api/assets/360246
-    
+
     "NCIS: New Orleans (2014)":
         year: 2014
         title: "NCIS: New Orleans"
-        url_poster: https://theposterdb.com/api/assets/360247
         match:
-          mapping_id: 278125
+          mapping_id: 61387
+        url_poster: https://theposterdb.com/api/assets/360247
         # IDs: imdb://tt3560084, tmdb://61387, tvdb://278125
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20New%20Orleans&category=Shows&year_filter=equals&yone=2014&tmdb_id=61387&imdb_id=tt3560084&tvdb_id=278125
         # tmdb: https://www.themoviedb.org/tv/61387
@@ -119,13 +123,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360253
             7:
                 url_poster: https://theposterdb.com/api/assets/360254
-    
+
     "NCIS: Hawai'i (2021)":
         year: 2021
         title: "NCIS: Hawai'i"
-        url_poster: https://theposterdb.com/api/assets/360228
         match:
-          mapping_id: 401630
+          mapping_id: 124271
+        url_poster: https://theposterdb.com/api/assets/360228
         # IDs: imdb://tt14218674, tmdb://124271, tvdb://401630
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20Hawai%27i&category=Shows&year_filter=equals&yone=2021&tmdb_id=124271&imdb_id=tt14218674&tvdb_id=401630
         # tmdb: https://www.themoviedb.org/tv/124271
@@ -136,18 +140,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360229
             2:
                 url_poster: https://theposterdb.com/api/assets/360230
-
-    "NCIS: Sydney (2023)":
-        year: 2023
-        title: "NCIS: Sydney"
-        url_poster: https://theposterdb.com/api/assets/432220
-        match:
-          mapping_id: 416493
-        # IDs: imdb://tt18258908, tmdb://157950, tvdb://416493
-        # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20Sydney&category=Shows&year_filter=equals&yone=2023&tmdb_id=157950&imdb_id=tt18258908&tvdb_id=416493
-        # tmdb: https://www.themoviedb.org/tv/157950
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=416493
-        # imdb: https://www.imdb.com/title/tt18258908
-        seasons:
-            1:
-                url_poster: https://theposterdb.com/api/assets/432221
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/

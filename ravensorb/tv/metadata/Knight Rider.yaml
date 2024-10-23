@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Knight Rider (1982)":
         year: 1982
         title: "Knight Rider"
-        url_poster: https://theposterdb.com/api/assets/322634
         match:
-          mapping_id: 77216
+          mapping_id: 2384
+        url_poster: https://theposterdb.com/api/assets/322634
         # IDs: imdb://tt0083437, tmdb://2384, tvdb://77216
         # tpdb: https://theposterdb.com/search/advanced/results?term=Knight%20Rider&category=Shows&year_filter=equals&yone=1982&tmdb_id=2384&imdb_id=tt0083437&tvdb_id=77216
         # tmdb: https://www.themoviedb.org/tv/2384
@@ -19,13 +19,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/322638
             4:
                 url_poster: https://theposterdb.com/api/assets/322639
-    
+
     "Team Knight Rider (1997)":
         year: 1997
         title: "Team Knight Rider"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 70930
+          mapping_id: 10964
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0127398, tmdb://10964, tvdb://70930
         # tpdb: https://theposterdb.com/search/advanced/results?term=Team%20Knight%20Rider&category=Shows&year_filter=equals&yone=1997&tmdb_id=10964&imdb_id=tt0127398&tvdb_id=70930
         # tmdb: https://www.themoviedb.org/tv/10964
@@ -34,14 +34,14 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
-    
+
     "Knight Rider (2008)":
         year: 2008
         title: "Knight Rider"
         sort_title: "Knight Rider (2008)"
-        url_poster: https://theposterdb.com/api/assets/322646
         match:
-          mapping_id: 81318
+          mapping_id: 15655
+        url_poster: https://theposterdb.com/api/assets/322646
         # IDs: imdb://tt1213404, tmdb://15655, tvdb://81318
         # tpdb: https://theposterdb.com/search/advanced/results?term=Knight%20Rider&category=Shows&year_filter=equals&yone=2008&tmdb_id=15655&imdb_id=tt1213404&tvdb_id=81318
         # tmdb: https://www.themoviedb.org/tv/15655

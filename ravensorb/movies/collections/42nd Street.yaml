@@ -1,13 +1,11 @@
 collections:
   "42nd Street":
-    variables: { movie: "594345, 3062", poster: https://theposterdb.com/api/assets/200267 }
+    variables: { movie: "594345, 3062", poster: "https://theposterdb.com/api/assets/200267" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The story of Peggy Sawyer, a talented young performer with stars in her eyes who gets her big break on Broadway.
     # tpdb: https://theposterdb.com/search/advanced/results?term=42nd%20Street&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%2242nd%20Street%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=42nd%20Street

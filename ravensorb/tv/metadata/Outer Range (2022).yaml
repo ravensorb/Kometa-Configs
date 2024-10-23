@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Outer Range (2022)":
         year: 2022
         title: "Outer Range"
-        url_poster: https://theposterdb.com/api/assets/335490
         match:
-          mapping_id: 391101
+          mapping_id: 113985
+        url_poster: https://theposterdb.com/api/assets/335490
         # IDs: imdb://tt11685912, tmdb://113985, tvdb://391101
         # tpdb: https://theposterdb.com/search/advanced/results?term=Outer%20Range&category=Shows&year_filter=equals&yone=2022&tmdb_id=113985&imdb_id=tt11685912&tvdb_id=391101
         # tmdb: https://www.themoviedb.org/tv/113985
@@ -13,3 +13,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/335491
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Ripper Street (2012)":
         year: 2012
         title: "Ripper Street"
-        url_poster: https://theposterdb.com/api/assets/345285
         match:
-          mapping_id: 260485
+          mapping_id: 46930
+        url_poster: https://theposterdb.com/api/assets/345285
         # IDs: imdb://tt2183641, tmdb://46930, tvdb://260485
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ripper%20Street&category=Shows&year_filter=equals&yone=2012&tmdb_id=46930&imdb_id=tt2183641&tvdb_id=260485
         # tmdb: https://www.themoviedb.org/tv/46930

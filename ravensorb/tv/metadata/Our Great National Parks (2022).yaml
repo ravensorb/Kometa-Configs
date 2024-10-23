@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Our Great National Parks (2022)":
         year: 2022
         title: "Our Great National Parks"
-        url_poster: https://theposterdb.com/api/assets/345600
         match:
-          mapping_id: 417835
+          mapping_id: 195258
+        url_poster: https://theposterdb.com/api/assets/345600
         # IDs: imdb://tt18750552, tmdb://195258, tvdb://417835
         # tpdb: https://theposterdb.com/search/advanced/results?term=Our%20Great%20National%20Parks&category=Shows&year_filter=equals&yone=2022&tmdb_id=195258&imdb_id=tt18750552&tvdb_id=417835
         # tmdb: https://www.themoviedb.org/tv/195258

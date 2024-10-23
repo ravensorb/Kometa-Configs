@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Carnivàle (2003)":
         year: 2003
         title: "Carnivàle"
         sort_title: "Carnivale"
-        url_poster: https://theposterdb.com/api/assets/332784
         match:
-          mapping_id: 70860
+          mapping_id: 185
+        url_poster: https://theposterdb.com/api/assets/332784
         # IDs: imdb://tt0319969, tmdb://185, tvdb://70860
         # tpdb: https://theposterdb.com/search/advanced/results?term=Carniv%C3%A0le&category=Shows&year_filter=equals&yone=2003&tmdb_id=185&imdb_id=tt0319969&tvdb_id=70860
         # tmdb: https://www.themoviedb.org/tv/185

@@ -1,13 +1,11 @@
 collections:
   "Divergent":
-    variables: { movie: "262504, 157350, 262500", poster: https://theposterdb.com/api/assets/163697 }
+    variables: { movie: "262504, 157350, 262500", poster: "https://theposterdb.com/api/assets/163697" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A series of dystopian science fiction action films based on the Divergent novels by the American author Veronica Roth. Set in a dystopian and post-apocalyptic Chicago where people are divided into distinct factions based on human virtues. Beatrice Prior (Tris) is warned that she is Divergent and thus will never fit into any one of the factions. She along with Tobias Eaton (Four) soon learn that a sinister plot is brewing in the seemingly perfect society.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Divergent&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Divergent
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Divergent

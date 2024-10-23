@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Les Misérables (2018)":
         year: 2018
         title: "Les Misérables"
         sort_title: "Les Miserables"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 354256
+          mapping_id: 81224
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt5900600, tmdb://81224, tvdb://354256
         # tpdb: https://theposterdb.com/search/advanced/results?term=Les%20Mis%C3%A9rables&category=Shows&year_filter=equals&yone=2018&tmdb_id=81224&imdb_id=tt5900600&tvdb_id=354256
         # tmdb: https://www.themoviedb.org/tv/81224

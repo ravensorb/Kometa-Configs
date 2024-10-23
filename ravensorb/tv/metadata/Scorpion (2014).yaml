@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Scorpion (2014)":
         year: 2014
         title: "Scorpion"
-        url_poster: https://theposterdb.com/api/assets/309701
         match:
-          mapping_id: 281630
+          mapping_id: 60797
+        url_poster: https://theposterdb.com/api/assets/309701
         # IDs: imdb://tt3514324, tmdb://60797, tvdb://281630
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scorpion&category=Shows&year_filter=equals&yone=2014&tmdb_id=60797&imdb_id=tt3514324&tvdb_id=281630
         # tmdb: https://www.themoviedb.org/tv/60797

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Librarians (2014)":
         year: 2014
         title: "The Librarians"
         sort_title: "Librarians (2014)"
-        url_poster: https://theposterdb.com/api/assets/348855
         match:
-          mapping_id: 281709
+          mapping_id: 61599
+        url_poster: https://theposterdb.com/api/assets/348855
         # IDs: imdb://tt3663490, tmdb://61599, tvdb://281709
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Librarians&category=Shows&year_filter=equals&yone=2014&tmdb_id=61599&imdb_id=tt3663490&tvdb_id=281709
         # tmdb: https://www.themoviedb.org/tv/61599

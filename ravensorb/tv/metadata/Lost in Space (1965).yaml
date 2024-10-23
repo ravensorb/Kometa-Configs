@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Lost in Space (1965)":
         year: 1965
         title: "Lost in Space"
-        url_poster: https://theposterdb.com/api/assets/260793
         match:
-          mapping_id: 72923
+          mapping_id: 3051
+        url_poster: https://theposterdb.com/api/assets/260793
         # IDs: imdb://tt0058824, tmdb://3051, tvdb://72923
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lost%20in%20Space&category=Shows&year_filter=equals&yone=1965&tmdb_id=3051&imdb_id=tt0058824&tvdb_id=72923
         # tmdb: https://www.themoviedb.org/tv/3051

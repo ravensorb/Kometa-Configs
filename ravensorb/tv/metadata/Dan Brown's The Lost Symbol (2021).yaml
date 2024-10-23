@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Dan Brown's The Lost Symbol (2021)":
         year: 2021
         title: "Dan Brown's The Lost Symbol"
-        url_poster: https://theposterdb.com/api/assets/347963
         match:
-          mapping_id: 365190
+          mapping_id: 120452
+        url_poster: https://theposterdb.com/api/assets/347963
         # IDs: imdb://tt10478054, tmdb://120452, tvdb://365190
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dan%20Brown%27s%20The%20Lost%20Symbol&category=Shows&year_filter=equals&yone=2021&tmdb_id=120452&imdb_id=tt10478054&tvdb_id=365190
         # tmdb: https://www.themoviedb.org/tv/120452

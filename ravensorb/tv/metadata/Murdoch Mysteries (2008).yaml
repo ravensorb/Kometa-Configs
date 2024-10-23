@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Murdoch Mysteries (2008)":
         year: 2008
         title: "Murdoch Mysteries"
         sort_title: "Murdoch Mysteries (2004)"
-        url_poster: https://theposterdb.com/api/assets/416772
         match:
-          mapping_id: 81670
+          mapping_id: 12786
+        url_poster: https://theposterdb.com/api/assets/416772
         # IDs: imdb://tt1091909, tmdb://12786, tvdb://81670
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murdoch%20Mysteries&category=Shows&year_filter=equals&yone=2008&tmdb_id=12786&imdb_id=tt1091909&tvdb_id=81670
         # tmdb: https://www.themoviedb.org/tv/12786
@@ -46,3 +46,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/416788
             16:
                 url_poster: https://theposterdb.com/api/assets/416789
+            # 17:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 18:
+                # url_poster: https://theposterdb.com/api/assets/

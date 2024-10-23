@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Stumptown (2019)":
         year: 2019
         title: "Stumptown"
-        url_poster: https://theposterdb.com/api/assets/355111
         match:
-          mapping_id: 359581
+          mapping_id: 89440
+        url_poster: https://theposterdb.com/api/assets/355111
         # IDs: imdb://tt10313066, tmdb://89440, tvdb://359581
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stumptown&category=Shows&year_filter=equals&yone=2019&tmdb_id=89440&imdb_id=tt10313066&tvdb_id=359581
         # tmdb: https://www.themoviedb.org/tv/89440

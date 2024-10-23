@@ -1,13 +1,11 @@
 collections:
   "Peanuts":
-    variables: { show: "110948, 91249, 203872", poster: https://theposterdb.com/api/assets/188207 }
+    variables: { show: "110948, 91249, 203872", poster: "https://theposterdb.com/api/assets/188207" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Charles Schulz's classic comic strip Peanuts started in 1950. Fifteen years later, A Charlie Brown Christmas debuted. When The Little Christmas Special that Could proved to be an unexpected success, the stage was set for successive television specials. To date, over forty have been made. The Charlie Brown specials focus on one round-headed kid, his goofy but intelligent beagle, and their vast array of friends. Each has distinctive qualities: Lucy, the crabby, self-proclaimed psychiatrist; Linus, the blanket-toting theologian; Schroeder, the Beethoven worshiper whose black piano keys are only painted on; Peppermint Patty, the tomboy whose affections toward 'Chuck' are only outweighed by her sports abilities; and so on. The wit, the charm, the pleasantness of these specials make them appropriate not just for children, but for the whole family.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Peanuts&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Peanuts
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Peanuts

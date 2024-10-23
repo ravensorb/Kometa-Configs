@@ -1,13 +1,11 @@
 collections:
   "War of The Worlds":
-    variables: { movie: "74", poster: https://theposterdb.com/api/assets/294686 }
+    variables: { movie: "74", poster: "https://theposterdb.com/api/assets/294686" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world’s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question – who are these attackers and why are they hell-bent on our destruction?
     # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20The%20Worlds&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22War%20of%20The%20Worlds%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=War%20of%20The%20Worlds

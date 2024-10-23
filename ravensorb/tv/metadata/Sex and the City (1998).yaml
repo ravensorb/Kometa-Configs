@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Sex and the City (1998)":
         year: 1998
         title: "Sex and the City"
-        url_poster: https://theposterdb.com/api/assets/204309
         match:
-          mapping_id: 76648
+          mapping_id: 105
+        url_poster: https://theposterdb.com/api/assets/204309
         # IDs: imdb://tt0159206, tmdb://105, tvdb://76648
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sex%20and%20the%20City&category=Shows&year_filter=equals&yone=1998&tmdb_id=105&imdb_id=tt0159206&tvdb_id=76648
         # tmdb: https://www.themoviedb.org/tv/105

@@ -1,13 +1,11 @@
 collections:
   "V":
-    variables: { show: "75893, 21494", poster: https://theposterdb.com/api/assets/366977 }
+    variables: { show: "75893, 21494", poster: "https://theposterdb.com/api/assets/366977" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      V
     # tpdb: https://theposterdb.com/search/advanced/results?term=V&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=V
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=V

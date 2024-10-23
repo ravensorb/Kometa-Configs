@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Cursed (2020)":
         year: 2020
         title: "Cursed"
         sort_title: "Cursed (2020)"
-        url_poster: https://theposterdb.com/api/assets/336767
         match:
-          mapping_id: 369950
+          mapping_id: 83125
+        url_poster: https://theposterdb.com/api/assets/336767
         # IDs: imdb://tt8210856, tmdb://83125, tvdb://369950
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cursed&category=Shows&year_filter=equals&yone=2020&tmdb_id=83125&imdb_id=tt8210856&tvdb_id=369950
         # tmdb: https://www.themoviedb.org/tv/83125

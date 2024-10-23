@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Flintstones (1960)":
         year: 1960
         title: "The Flintstones"
         sort_title: "Flintstones"
-        url_poster: https://theposterdb.com/api/assets/253209
         match:
-          mapping_id: 76171
+          mapping_id: 1996
+        url_poster: https://theposterdb.com/api/assets/253209
         # IDs: imdb://tt0053502, tmdb://1996, tvdb://76171
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Flintstones&category=Shows&year_filter=equals&yone=1960&tmdb_id=1996&imdb_id=tt0053502&tvdb_id=76171
         # tmdb: https://www.themoviedb.org/tv/1996

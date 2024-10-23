@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Incredible Hulk (1977)":
         year: 1977
         title: "The Incredible Hulk"
         sort_title: "Incredible Hulk"
-        url_poster: https://theposterdb.com/api/assets/329546
         match:
-          mapping_id: 71746
+          mapping_id: 648
+        url_poster: https://theposterdb.com/api/assets/329546
         # IDs: imdb://tt0077031, tmdb://648, tvdb://71746
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk&category=Shows&year_filter=equals&yone=1977&tmdb_id=648&imdb_id=tt0077031&tvdb_id=71746
         # tmdb: https://www.themoviedb.org/tv/648
@@ -22,14 +22,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/329551
             5:
                 url_poster: https://theposterdb.com/api/assets/329552
-    
+
     "The Incredible Hulk (1982)":
         year: 1982
         title: "The Incredible Hulk"
         sort_title: "Incredible Hulk"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 72215
+          mapping_id: 11328
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0083430, tmdb://11328, tvdb://72215
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk&category=Shows&year_filter=equals&yone=1982&tmdb_id=11328&imdb_id=tt0083430&tvdb_id=72215
         # tmdb: https://www.themoviedb.org/tv/11328
@@ -38,3 +38,36 @@ metadata:
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/
+
+    "The Incredible Hulk (1996)":
+        year: 1996
+        title: "The Incredible Hulk (1996)"
+        sort_title: "Incredible Hulk (1996)"
+        match:
+          mapping_id: 6332
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0115215, tmdb://6332, tvdb://77155
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Incredible%20Hulk%20%281996%29&category=Shows&year_filter=equals&yone=1996&tmdb_id=6332&imdb_id=tt0115215&tvdb_id=77155
+        # tmdb: https://www.themoviedb.org/tv/6332
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1996&query=77155
+        # imdb: https://www.imdb.com/title/tt0115215
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Marvel's Hulk and the Agents of S.M.A.S.H. (2013)":
+        year: 2013
+        title: "Marvel's Hulk and the Agents of S.M.A.S.H."
+        match:
+          mapping_id: 40044
+        url_poster: https://theposterdb.com/api/assets/433214
+        # IDs: imdb://tt2455514, tmdb://40044, tvdb://267543
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Hulk%20and%20the%20Agents%20of%20S.M.A.S.H.&category=Shows&year_filter=equals&yone=2013&tmdb_id=40044&imdb_id=tt2455514&tvdb_id=267543
+        # tmdb: https://www.themoviedb.org/tv/40044
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=267543
+        # imdb: https://www.imdb.com/title/tt2455514
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/433216
+            2:
+                url_poster: https://theposterdb.com/api/assets/433217

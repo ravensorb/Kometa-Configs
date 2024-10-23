@@ -1,20 +1,19 @@
 collections:
-  "Batman: Unlimited":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", poster: https://theposterdb.com/api/assets/383223 }
+  "Planet of the Apes (Original)":
+    variables: { label: "Planet of the Apes", movie: "1688, 1705, 1685, 17244, 871, 1687", poster: "https://theposterdb.com/api/assets/163979" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # summary: 
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Batman+Unlimited&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Batman+Unlimited
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Batman+Unlimited
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Batman+Unlimited
-    # trakt: https://trakt.tv/search/lists?query=Batman+Unlimited
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20of%20the%20Apes%20%28Original%29&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Planet%20of%20the%20Apes%20%28Original%29%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Planet%20of%20the%20Apes%20%28Original%29
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Planet%20of%20the%20Apes%20%28Original%29
+    # trakt: https://trakt.tv/search/lists?query=Planet%20of%20the%20Apes%20%28Original%29
     # collection_mode: hide
-    trakt_list:
-      - https://trakt.tv/lists/official/batman-unlimited-collection?sort=released,asc
+    # trakt_list:
+    #   -
 
 ########################################################################################################################
 ########################################################################################################################

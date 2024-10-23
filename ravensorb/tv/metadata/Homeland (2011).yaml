@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Homeland (2011)":
         year: 2011
         title: "Homeland"
-        url_poster: https://theposterdb.com/api/assets/243259
         match:
-          mapping_id: 247897
+          mapping_id: 1407
+        url_poster: https://theposterdb.com/api/assets/243259
         # IDs: imdb://tt1796960, tmdb://1407, tvdb://247897
         # tpdb: https://theposterdb.com/search/advanced/results?term=Homeland&category=Shows&year_filter=equals&yone=2011&tmdb_id=1407&imdb_id=tt1796960&tvdb_id=247897
         # tmdb: https://www.themoviedb.org/tv/1407

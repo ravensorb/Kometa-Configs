@@ -5,7 +5,7 @@ metadata:
         match:
           mapping_id: 13377
         url_poster: https://theposterdb.com/api/assets/190422
-        # IDs: imdb://tt0060345, tmdb://13377, tvdb://37255, tvdb://3971
+        # IDs: imdb://tt0060345, tmdb://13377, tvdb://3971
         # tpdb: https://theposterdb.com/search/advanced/results?term=How%20the%20Grinch%20Stole%20Christmas%21&category=Movies&year_filter=equals&yone=1966&tmdb_id=13377&imdb_id=tt0060345&tvdb_id=3971
         # tmdb: https://www.themoviedb.org/movie/13377
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1966&query=3971
@@ -22,6 +22,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/29233
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1970&query=29948
         # imdb: https://www.imdb.com/title/tt0198545
+
+    "The Cat in the Hat (1971)":
+        year: 1971
+        title: "The Cat in the Hat"
+        sort_title: "Cat in the Hat"
+        match:
+          mapping_id: 43580
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0284714, tmdb://43580, tvdb://43273
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Cat%20in%20the%20Hat&category=Movies&year_filter=equals&yone=1971&tmdb_id=43580&imdb_id=tt0284714&tvdb_id=43273
+        # tmdb: https://www.themoviedb.org/movie/43580
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1971&query=43273
+        # imdb: https://www.imdb.com/title/tt0284714
 
     "The Lorax (1972)":
         year: 1972
@@ -122,3 +135,29 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/73723
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=391
         # imdb: https://www.imdb.com/title/tt1482459
+
+    "The Grinch (2018)":
+        year: 2018
+        title: "The Grinch"
+        sort_title: "Grinch"
+        match:
+          mapping_id: 360920
+        url_poster: https://theposterdb.com/api/assets/190421
+        # IDs: imdb://tt2709692, tmdb://360920, tvdb://95
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Grinch&category=Movies&year_filter=equals&yone=2018&tmdb_id=360920&imdb_id=tt2709692&tvdb_id=95
+        # tmdb: https://www.themoviedb.org/movie/360920
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=95
+        # imdb: https://www.imdb.com/title/tt2709692
+
+    "The Grinch Musical! (2020)":
+        year: 2020
+        title: "The Grinch Musical!"
+        sort_title: "Grinch Musical!"
+        match:
+          mapping_id: 762951
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt13437728, tmdb://762951, tvdb://143381
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Grinch%20Musical%21&category=Movies&year_filter=equals&yone=2020&tmdb_id=762951&imdb_id=tt13437728&tvdb_id=143381
+        # tmdb: https://www.themoviedb.org/movie/762951
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=143381
+        # imdb: https://www.imdb.com/title/tt13437728

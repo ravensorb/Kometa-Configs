@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Locke & Key (2020)":
         year: 2020
         title: "Locke & Key"
-        url_poster: https://theposterdb.com/api/assets/283475
         match:
-          mapping_id: 361594
+          mapping_id: 86423
+        url_poster: https://theposterdb.com/api/assets/283475
         # IDs: imdb://tt3007572, tmdb://86423, tvdb://361594
         # tpdb: https://theposterdb.com/search/advanced/results?term=Locke%20%26%20Key&category=Shows&year_filter=equals&yone=2020&tmdb_id=86423&imdb_id=tt3007572&tvdb_id=361594
         # tmdb: https://www.themoviedb.org/tv/86423

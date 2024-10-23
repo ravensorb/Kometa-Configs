@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Echoes (2022)":
         year: 2022
         title: "Echoes"
-        url_poster: https://theposterdb.com/api/assets/259103
         match:
-          mapping_id: 405793
+          mapping_id: 129612
+        url_poster: https://theposterdb.com/api/assets/259103
         # IDs: imdb://tt14954498, tmdb://129612, tvdb://405793
         # tpdb: https://theposterdb.com/search/advanced/results?term=Echoes&category=Shows&year_filter=equals&yone=2022&tmdb_id=129612&imdb_id=tt14954498&tvdb_id=405793
         # tmdb: https://www.themoviedb.org/tv/129612

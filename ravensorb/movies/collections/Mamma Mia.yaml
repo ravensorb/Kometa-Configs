@@ -1,13 +1,11 @@
 collections:
   "Mamma Mia":
-    variables: { movie: "11631, 458423", poster: https://theposterdb.com/api/assets/160962 }
+    variables: { movie: "11631, 458423", poster: "https://theposterdb.com/api/assets/160962" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A series of jukebox musical romantic comedy films based on the 1999 musical of the same name, which itself is based on the songs of pop group ABBA.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Mamma%20Mia&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Mamma%20Mia%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Mamma%20Mia

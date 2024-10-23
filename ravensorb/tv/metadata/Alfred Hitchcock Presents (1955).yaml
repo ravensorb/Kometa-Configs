@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Alfred Hitchcock Presents (1955)":
         year: 1955
         title: "Alfred Hitchcock Presents"
-        url_poster: https://theposterdb.com/api/assets/324773
         match:
-          mapping_id: 73614
+          mapping_id: 5273
+        url_poster: https://theposterdb.com/api/assets/324773
         # IDs: imdb://tt0047708, tmdb://5273, tvdb://73614
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alfred%20Hitchcock%20Presents&category=Shows&year_filter=equals&yone=1955&tmdb_id=5273&imdb_id=tt0047708&tvdb_id=73614
         # tmdb: https://www.themoviedb.org/tv/5273

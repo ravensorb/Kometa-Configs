@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Nevers (2021)":
         year: 2021
         title: "The Nevers"
         sort_title: "Nevers"
-        url_poster: https://theposterdb.com/api/assets/332955
         match:
-          mapping_id: 364315
+          mapping_id: 80828
+        url_poster: https://theposterdb.com/api/assets/332955
         # IDs: imdb://tt8697870, tmdb://80828, tvdb://364315
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Nevers&category=Shows&year_filter=equals&yone=2021&tmdb_id=80828&imdb_id=tt8697870&tvdb_id=364315
         # tmdb: https://www.themoviedb.org/tv/80828

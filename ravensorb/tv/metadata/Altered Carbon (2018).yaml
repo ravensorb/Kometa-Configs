@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Altered Carbon (2018)":
         year: 2018
         title: "Altered Carbon"
-        url_poster: https://theposterdb.com/api/assets/242993
         match:
-          mapping_id: 332331
+          mapping_id: 68421
+        url_poster: https://theposterdb.com/api/assets/242993
         # IDs: imdb://tt2261227, tmdb://68421, tvdb://332331
         # tpdb: https://theposterdb.com/search/advanced/results?term=Altered%20Carbon&category=Shows&year_filter=equals&yone=2018&tmdb_id=68421&imdb_id=tt2261227&tvdb_id=332331
         # tmdb: https://www.themoviedb.org/tv/68421

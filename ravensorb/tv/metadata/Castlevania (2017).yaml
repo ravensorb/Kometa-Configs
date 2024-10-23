@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Castlevania (2017)":
         year: 2017
         title: "Castlevania"
-        url_poster: https://theposterdb.com/api/assets/216624
         match:
-          mapping_id: 329065
+          mapping_id: 71024
+        url_poster: https://theposterdb.com/api/assets/216624
         # IDs: imdb://tt6517102, tmdb://71024, tvdb://329065
         # tpdb: https://theposterdb.com/search/advanced/results?term=Castlevania&category=Shows&year_filter=equals&yone=2017&tmdb_id=71024&imdb_id=tt6517102&tvdb_id=329065
         # tmdb: https://www.themoviedb.org/tv/71024

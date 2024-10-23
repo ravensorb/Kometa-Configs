@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Wynonna Earp (2016)":
         year: 2016
         title: "Wynonna Earp"
-        url_poster: https://theposterdb.com/api/assets/348322
         match:
-          mapping_id: 305582
+          mapping_id: 65988
+        url_poster: https://theposterdb.com/api/assets/348322
         # IDs: imdb://tt4878326, tmdb://65988, tvdb://305582
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wynonna%20Earp&category=Shows&year_filter=equals&yone=2016&tmdb_id=65988&imdb_id=tt4878326&tvdb_id=305582
         # tmdb: https://www.themoviedb.org/tv/65988

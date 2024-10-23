@@ -1,13 +1,11 @@
 collections:
   "Naked Gun":
-    variables: { movie: "37136, 37137, 36593", poster: https://theposterdb.com/api/assets/164812 }
+    variables: { movie: "37136, 37137, 36593", poster: "https://theposterdb.com/api/assets/164812" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The escapades of incompetent cop Frank Drebbin.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Naked%20Gun&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Naked%20Gun%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Naked%20Gun

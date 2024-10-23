@@ -1,13 +1,11 @@
 collections:
   "Amazing Stories":
-    variables: { show: "98178, 1026", poster: https://theposterdb.com/api/assets/333608 }
+    variables: { show: "98178, 1026", poster: "https://theposterdb.com/api/assets/333608" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Each episode transports the audience to worlds of wonder through the lens of today’s most imaginative filmmakers, directors and writers. A reimagining of the original anthology series by Steven Spielberg
     # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing%20Stories&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Amazing%20Stories%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Amazing%20Stories

@@ -2,7 +2,6 @@ metadata:
     "The Passenger (1975)":
         year: 1975
         title: "The Passenger"
-        orig_title: "Professione: reporter"
         sort_title: "Passenger"
         match:
           mapping_id: 9652

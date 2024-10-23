@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Lethal Weapon (2016)":
         year: 2016
         title: "Lethal Weapon"
-        url_poster: https://theposterdb.com/api/assets/350135
         match:
-          mapping_id: 311790
+          mapping_id: 67116
+        url_poster: https://theposterdb.com/api/assets/350135
         # IDs: imdb://tt5164196, tmdb://67116, tvdb://311790
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lethal%20Weapon&category=Shows&year_filter=equals&yone=2016&tmdb_id=67116&imdb_id=tt5164196&tvdb_id=311790
         # tmdb: https://www.themoviedb.org/tv/67116

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Around the World in 80 Days (2021)":
         year: 2021
         title: "Around the World in 80 Days"
         sort_title: "Around the World in 80 Days (2021)"
-        url_poster: https://theposterdb.com/api/assets/366139
         match:
-          mapping_id: 388899
+          mapping_id: 96228
+        url_poster: https://theposterdb.com/api/assets/366139
         # IDs: imdb://tt9174578, tmdb://96228, tvdb://388899
         # tpdb: https://theposterdb.com/search/advanced/results?term=Around%20the%20World%20in%2080%20Days&category=Shows&year_filter=equals&yone=2021&tmdb_id=96228&imdb_id=tt9174578&tvdb_id=388899
         # tmdb: https://www.themoviedb.org/tv/96228

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Sliders (1995)":
         year: 1995
         title: "Sliders"
-        url_poster: https://theposterdb.com/api/assets/348301
         match:
-          mapping_id: 76557
+          mapping_id: 1649
+        url_poster: https://theposterdb.com/api/assets/348301
         # IDs: imdb://tt0112167, tmdb://1649, tvdb://76557
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sliders&category=Shows&year_filter=equals&yone=1995&tmdb_id=1649&imdb_id=tt0112167&tvdb_id=76557
         # tmdb: https://www.themoviedb.org/tv/1649

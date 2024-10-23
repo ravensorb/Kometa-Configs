@@ -1,13 +1,11 @@
 collections:
   "Battlestar Galactica (Reboot)":
-    variables: { sort_prefix: "Battlestar Galactica", sort_order: "00", sort_separator: " - ", show: "129621, 129631, 71365, 33240, 877, 1972", poster: https://theposterdb.com/api/assets/186153 }
+    variables: { sort_prefix: "Battlestar Galactica", sort_order: "00", sort_separator: " - ", show: "129621, 129631, 71365, 33240, 877, 1972", poster: "https://theposterdb.com/api/assets/186153" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Battlestar Galactica (Reboot)
     # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Reboot%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Battlestar%20Galactica%20%28Reboot%29%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Battlestar%20Galactica%20%28Reboot%29

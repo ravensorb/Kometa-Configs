@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mr. & Mrs. Smith (1996)":
         year: 1996
         title: "Mr. & Mrs. Smith"
-        url_poster: https://theposterdb.com/api/assets/452873
         match:
-          mapping_id: 74945
+          mapping_id: 10058
+        url_poster: https://theposterdb.com/api/assets/452873
         # IDs: imdb://tt0115277, tmdb://10058, tvdb://74945
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.%20%26%20Mrs.%20Smith&category=Shows&year_filter=equals&yone=1996&tmdb_id=10058&imdb_id=tt0115277&tvdb_id=74945
         # tmdb: https://www.themoviedb.org/tv/10058

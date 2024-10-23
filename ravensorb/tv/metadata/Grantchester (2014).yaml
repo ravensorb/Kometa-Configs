@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Grantchester (2014)":
         year: 2014
         title: "Grantchester"
-        url_poster: https://theposterdb.com/api/assets/506712
         match:
-          mapping_id: 286058
+          mapping_id: 61457
+        url_poster: https://theposterdb.com/api/assets/506712
         # IDs: imdb://tt3747572, tmdb://61457, tvdb://286058
         # tpdb: https://theposterdb.com/search/advanced/results?term=Grantchester&category=Shows&year_filter=equals&yone=2014&tmdb_id=61457&imdb_id=tt3747572&tvdb_id=286058
         # tmdb: https://www.themoviedb.org/tv/61457
@@ -27,3 +27,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/506720
             8:
                 url_poster: https://theposterdb.com/api/assets/506721
+            # 9:
+                # url_poster: https://theposterdb.com/api/assets/

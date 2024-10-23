@@ -2,7 +2,6 @@ metadata:
     "Crouching Tiger, Hidden Dragon (2000)":
         year: 2000
         title: "Crouching Tiger, Hidden Dragon"
-        orig_title: "卧虎藏龍"
         match:
           mapping_id: 146
         url_poster: https://theposterdb.com/api/assets/202131

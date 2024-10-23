@@ -157,18 +157,6 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1981&query=1159
         # imdb: https://www.imdb.com/title/tt0082398
 
-    "Octopussy (1983)":
-        year: 1983
-        title: "Octopussy"
-        match:
-          mapping_id: 700
-        url_poster: https://theposterdb.com/api/assets/189928
-        # IDs: imdb://tt0086034, tmdb://700, tvdb://1272
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Octopussy&category=Movies&year_filter=equals&yone=1983&tmdb_id=700&imdb_id=tt0086034&tvdb_id=1272
-        # tmdb: https://www.themoviedb.org/movie/700
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=1272
-        # imdb: https://www.imdb.com/title/tt0086034
-
     "Never Say Never Again (1983)":
         year: 1983
         title: "Never Say Never Again"
@@ -180,6 +168,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/36670
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=4831
         # imdb: https://www.imdb.com/title/tt0086006
+
+    "Octopussy (1983)":
+        year: 1983
+        title: "Octopussy"
+        match:
+          mapping_id: 700
+        url_poster: https://theposterdb.com/api/assets/189928
+        # IDs: imdb://tt0086034, tmdb://700, tvdb://1272
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Octopussy&category=Movies&year_filter=equals&yone=1983&tmdb_id=700&imdb_id=tt0086034&tvdb_id=1272
+        # tmdb: https://www.themoviedb.org/movie/700
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=1272
+        # imdb: https://www.imdb.com/title/tt0086034
 
     "A View to a Kill (1985)":
         year: 1985
@@ -206,6 +206,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/708
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1987&query=680
         # imdb: https://www.imdb.com/title/tt0093428
+
+    "Goldeneye (1989)":
+        year: 1989
+        title: "Goldeneye"
+        match:
+          mapping_id: 141859
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0097446, tmdb://141859, tvdb://18336
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Goldeneye&category=Movies&year_filter=equals&yone=1989&tmdb_id=141859&imdb_id=tt0097446&tvdb_id=18336
+        # tmdb: https://www.themoviedb.org/movie/141859
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=18336
+        # imdb: https://www.imdb.com/title/tt0097446
 
     "Licence to Kill (1989)":
         year: 1989
@@ -363,18 +375,6 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/370172
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=131152
         # imdb: https://www.imdb.com/title/tt2382320
-
-    "Goldeneye (1989)":
-        year: 1989
-        title: "Goldeneye"
-        match:
-          mapping_id: 141859
-        # url_poster: https://theposterdb.com/api/assets/
-        # IDs: imdb://tt0097446, tmdb://141859, tvdb://18336
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Goldeneye&category=Movies&year_filter=equals&yone=1989&tmdb_id=141859&imdb_id=tt0097446&tvdb_id=18336
-        # tmdb: https://www.themoviedb.org/movie/141859
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=18336
-        # imdb: https://www.imdb.com/title/tt0097446
 
     "The Sound of 007 (2022)":
         year: 2022

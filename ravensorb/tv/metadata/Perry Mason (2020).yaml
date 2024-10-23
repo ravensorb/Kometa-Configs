@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Perry Mason (2020)":
         year: 2020
         title: "Perry Mason (2020)"
-        url_poster: https://theposterdb.com/api/assets/342339
         match:
-          mapping_id: 363026
+          mapping_id: 85853
+        url_poster: https://theposterdb.com/api/assets/342339
         # IDs: imdb://tt2077823, tmdb://85853, tvdb://363026
         # tpdb: https://theposterdb.com/search/advanced/results?term=Perry%20Mason%20%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=85853&imdb_id=tt2077823&tvdb_id=363026
         # tmdb: https://www.themoviedb.org/tv/85853

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Magnum, P.I. (1980)":
         year: 1980
         title: "Magnum, P.I."
-        url_poster: https://theposterdb.com/api/assets/369730
         match:
-          mapping_id: 74380
+          mapping_id: 734
+        url_poster: https://theposterdb.com/api/assets/369730
         # IDs: imdb://tt0080240, tmdb://734, tvdb://74380
         # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum%2C%20P.I.&category=Shows&year_filter=equals&yone=1980&tmdb_id=734&imdb_id=tt0080240&tvdb_id=74380
         # tmdb: https://www.themoviedb.org/tv/734
@@ -27,13 +27,13 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/369738
             8:
                 url_poster: https://theposterdb.com/api/assets/369739
-    
+
     "Magnum P.I. (2018)":
         year: 2018
         title: "Magnum P.I."
-        url_poster: https://theposterdb.com/api/assets/369724
         match:
-          mapping_id: 350068
+          mapping_id: 79593
+        url_poster: https://theposterdb.com/api/assets/369724
         # IDs: imdb://tt7942796, tmdb://79593, tvdb://350068
         # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum%20P.I.&category=Shows&year_filter=equals&yone=2018&tmdb_id=79593&imdb_id=tt7942796&tvdb_id=350068
         # tmdb: https://www.themoviedb.org/tv/79593

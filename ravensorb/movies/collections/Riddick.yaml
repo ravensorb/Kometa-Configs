@@ -1,13 +1,11 @@
 collections:
   "Riddick":
-    variables: { movie: "87421, 244839, 2789, 2787", poster: https://theposterdb.com/api/assets/163647 }
+    variables: { movie: "87421, 244839, 2789, 2787", poster: "https://theposterdb.com/api/assets/163647" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The Chronicles of Riddick is a science fiction action film series which follows the exploits of the antihero Richard B. Riddick.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Riddick&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Riddick
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Riddick

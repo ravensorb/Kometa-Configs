@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Diagnosis Murder (1993)":
         year: 1993
         title: "Diagnosis Murder"
-        url_poster: https://theposterdb.com/api/assets/380642
         match:
-          mapping_id: 72484
+          mapping_id: 2625
+        url_poster: https://theposterdb.com/api/assets/380642
         # IDs: imdb://tt0105986, tmdb://2625, tvdb://72484
         # tpdb: https://theposterdb.com/search/advanced/results?term=Diagnosis%20Murder&category=Shows&year_filter=equals&yone=1993&tmdb_id=2625&imdb_id=tt0105986&tvdb_id=72484
         # tmdb: https://www.themoviedb.org/tv/2625

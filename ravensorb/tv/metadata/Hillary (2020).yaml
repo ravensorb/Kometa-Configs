@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Hillary (2020)":
         year: 2020
         title: "Hillary"
         sort_title: "Hillary (2020)"
-        url_poster: https://theposterdb.com/api/assets/453172
         match:
-          mapping_id: 375373
+          mapping_id: 96391
+        url_poster: https://theposterdb.com/api/assets/453172
         # IDs: imdb://tt11558924, tmdb://96391, tvdb://375373
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hillary&category=Shows&year_filter=equals&yone=2020&tmdb_id=96391&imdb_id=tt11558924&tvdb_id=375373
         # tmdb: https://www.themoviedb.org/tv/96391

@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Blood & Treasure (2019)":
         year: 2019
         title: "Blood & Treasure"
-        url_poster: https://theposterdb.com/api/assets/292852
         match:
-          mapping_id: 361585
+          mapping_id: 88118
+        url_poster: https://theposterdb.com/api/assets/292852
         # IDs: imdb://tt7712598, tmdb://88118, tvdb://361585
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blood%20%26%20Treasure&category=Shows&year_filter=equals&yone=2019&tmdb_id=88118&imdb_id=tt7712598&tvdb_id=361585
         # tmdb: https://www.themoviedb.org/tv/88118

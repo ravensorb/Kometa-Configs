@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Vienna Blood (2019)":
         year: 2019
         title: "Vienna Blood"
-        url_poster: https://theposterdb.com/api/assets/513859
         match:
-          mapping_id: 372031
+          mapping_id: 94000
+        url_poster: https://theposterdb.com/api/assets/513859
         # IDs: imdb://tt9179616, tmdb://94000, tvdb://372031
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vienna%20Blood&category=Shows&year_filter=equals&yone=2019&tmdb_id=94000&imdb_id=tt9179616&tvdb_id=372031
         # tmdb: https://www.themoviedb.org/tv/94000

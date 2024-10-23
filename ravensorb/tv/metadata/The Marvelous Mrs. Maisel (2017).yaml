@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Marvelous Mrs. Maisel (2017)":
         year: 2017
         title: "The Marvelous Mrs. Maisel"
         sort_title: "Marvelous Mrs. Maisel"
-        url_poster: https://theposterdb.com/api/assets/323880
         match:
-          mapping_id: 326791
+          mapping_id: 70796
+        url_poster: https://theposterdb.com/api/assets/323880
         # IDs: imdb://tt5788792, tmdb://70796, tvdb://326791
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Marvelous%20Mrs.%20Maisel&category=Shows&year_filter=equals&yone=2017&tmdb_id=70796&imdb_id=tt5788792&tvdb_id=326791
         # tmdb: https://www.themoviedb.org/tv/70796

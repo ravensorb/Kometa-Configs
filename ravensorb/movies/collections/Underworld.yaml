@@ -1,13 +1,11 @@
 collections:
   "Underworld":
-    variables: { movie: "161337, 277, 346672, 834, 52520, 12437", poster: https://theposterdb.com/api/assets/161852 }
+    variables: { movie: "161337, 277, 346672, 834, 52520, 12437", poster: "https://theposterdb.com/api/assets/161852" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A series of action horror films centered on Vampires and Lycans. In the 5th century, a man named Alexander Corvinus was the only survivor of a plague that wiped out his village. Somehow, Alexander's body was able to turn the disease to his own benefit and so he became the first true Immortal. Later, he fathered two sons who became the first Vampire and Lycan by being bitten by a bat and a wolf.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Underworld&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Underworld
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Underworld

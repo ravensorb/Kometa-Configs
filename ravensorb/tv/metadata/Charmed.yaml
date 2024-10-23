@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Charmed (1998)":
         year: 1998
         title: "Charmed"
-        url_poster: https://theposterdb.com/api/assets/363960
         match:
-          mapping_id: 70626
+          mapping_id: 1981
+        url_poster: https://theposterdb.com/api/assets/363960
         # IDs: imdb://tt0158552, tmdb://1981, tvdb://70626
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed&category=Shows&year_filter=equals&yone=1998&tmdb_id=1981&imdb_id=tt0158552&tvdb_id=70626
         # tmdb: https://www.themoviedb.org/tv/1981
@@ -27,14 +27,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/363968
             8:
                 url_poster: https://theposterdb.com/api/assets/363969
-    
+
     "Charmed (2018)":
         year: 2018
         title: "Charmed"
         sort_title: "Charmed (2018)"
-        url_poster: https://theposterdb.com/api/assets/380152
         match:
-          mapping_id: 349317
+          mapping_id: 79611
+        url_poster: https://theposterdb.com/api/assets/380152
         # IDs: imdb://tt6394324, tmdb://79611, tvdb://349317
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed&category=Shows&year_filter=equals&yone=2018&tmdb_id=79611&imdb_id=tt6394324&tvdb_id=349317
         # tmdb: https://www.themoviedb.org/tv/79611

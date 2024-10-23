@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "I Dream of Jeannie (1965)":
         year: 1965
         title: "I Dream of Jeannie"
-        url_poster: https://theposterdb.com/api/assets/285539
         match:
-          mapping_id: 77388
+          mapping_id: 1660
+        url_poster: https://theposterdb.com/api/assets/285539
         # IDs: imdb://tt0058815, tmdb://1660, tvdb://77388
         # tpdb: https://theposterdb.com/search/advanced/results?term=I%20Dream%20of%20Jeannie&category=Shows&year_filter=equals&yone=1965&tmdb_id=1660&imdb_id=tt0058815&tvdb_id=77388
         # tmdb: https://www.themoviedb.org/tv/1660

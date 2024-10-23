@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Shadowhunters (2016)":
         year: 2016
         title: "Shadowhunters"
-        url_poster: https://theposterdb.com/api/assets/381069
         match:
-          mapping_id: 295837
+          mapping_id: 63210
+        url_poster: https://theposterdb.com/api/assets/381069
         # IDs: imdb://tt4145054, tmdb://63210, tvdb://295837
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shadowhunters&category=Shows&year_filter=equals&yone=2016&tmdb_id=63210&imdb_id=tt4145054&tvdb_id=295837
         # tmdb: https://www.themoviedb.org/tv/63210

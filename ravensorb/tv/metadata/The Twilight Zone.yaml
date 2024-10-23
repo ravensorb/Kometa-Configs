@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Twilight Zone (1959)":
         year: 1959
         title: "The Twilight Zone"
         sort_title: "Twilight Zone"
-        url_poster: https://theposterdb.com/api/assets/179766
         match:
-          mapping_id: 73587
+          mapping_id: 6357
+        url_poster: https://theposterdb.com/api/assets/179766
         # IDs: imdb://tt0052520, tmdb://6357, tvdb://73587
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone&category=Shows&year_filter=equals&yone=1959&tmdb_id=6357&imdb_id=tt0052520&tvdb_id=73587
         # tmdb: https://www.themoviedb.org/tv/6357
@@ -22,15 +22,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/238707
             5:
                 url_poster: https://theposterdb.com/api/assets/238708
-    
+
     "The Twilight Zone (1985)":
         year: 1985
         title: "The Twilight Zone (1985)"
-        orig_title: "The Twilight Zone"
         sort_title: "Twilight Zone (1985)"
-        url_poster: https://theposterdb.com/api/assets/362732
         match:
-          mapping_id: 72176
+          mapping_id: 1918
+        url_poster: https://theposterdb.com/api/assets/362732
         # IDs: imdb://tt0088634, tmdb://1918, tvdb://72176
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone%20%281985%29&category=Shows&year_filter=equals&yone=1985&tmdb_id=1918&imdb_id=tt0088634&tvdb_id=72176
         # tmdb: https://www.themoviedb.org/tv/1918
@@ -43,14 +42,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/362735
             3:
                 url_poster: https://theposterdb.com/api/assets/362736
-    
+
     "The Twilight Zone (2019)":
         year: 2019
         title: "The Twilight Zone (2019)"
         sort_title: "Twilight Zone (2019)"
-        url_poster: https://theposterdb.com/api/assets/179767
         match:
-          mapping_id: 358915
+          mapping_id: 83135
+        url_poster: https://theposterdb.com/api/assets/179767
         # IDs: imdb://tt2583620, tmdb://83135, tvdb://358915
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Twilight%20Zone%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=83135&imdb_id=tt2583620&tvdb_id=358915
         # tmdb: https://www.themoviedb.org/tv/83135

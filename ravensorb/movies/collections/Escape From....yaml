@@ -1,13 +1,11 @@
 collections:
   "Escape From...":
-    variables: { movie: "1103, 10061", poster: https://theposterdb.com/api/assets/164118 }
+    variables: { movie: "1103, 10061", poster: "https://theposterdb.com/api/assets/164118" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      A John Carpenter action film series following the main protagonist Snake Plissken, a former Special Forces operative turned criminal who is called upon to breach dangerous environments for search-and-rescue missions of the utmost priority.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20From...&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Escape%20From...%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Escape%20From...

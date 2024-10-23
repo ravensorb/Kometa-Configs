@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Old Man (2022)":
         year: 2022
         title: "The Old Man"
         sort_title: "Old Man"
-        url_poster: https://theposterdb.com/api/assets/342269
         match:
-          mapping_id: 367392
+          mapping_id: 111800
+        url_poster: https://theposterdb.com/api/assets/342269
         # IDs: imdb://tt5645432, tmdb://111800, tvdb://367392
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Old%20Man&category=Shows&year_filter=equals&yone=2022&tmdb_id=111800&imdb_id=tt5645432&tvdb_id=367392
         # tmdb: https://www.themoviedb.org/tv/111800
@@ -14,3 +14,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/342270
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

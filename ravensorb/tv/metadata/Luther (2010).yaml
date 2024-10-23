@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Luther (2010)":
         year: 2010
         title: "Luther"
-        url_poster: https://theposterdb.com/api/assets/359948
         match:
-          mapping_id: 159591
+          mapping_id: 1426
+        url_poster: https://theposterdb.com/api/assets/359948
         # IDs: imdb://tt1474684, tmdb://1426, tvdb://159591
         # tpdb: https://theposterdb.com/search/advanced/results?term=Luther&category=Shows&year_filter=equals&yone=2010&tmdb_id=1426&imdb_id=tt1474684&tvdb_id=159591
         # tmdb: https://www.themoviedb.org/tv/1426

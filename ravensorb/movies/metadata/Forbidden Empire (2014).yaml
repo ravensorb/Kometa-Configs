@@ -2,7 +2,6 @@ metadata:
     "Forbidden Empire (2014)":
         year: 2014
         title: "Forbidden Empire"
-        orig_title: "Вий"
         match:
           mapping_id: 208763
         url_poster: https://theposterdb.com/api/assets/331758

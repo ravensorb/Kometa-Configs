@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Tulsa King (2022)":
         year: 2022
         title: "Tulsa King"
-        url_poster: https://theposterdb.com/api/assets/302797
         match:
-          mapping_id: 413215
+          mapping_id: 153312
+        url_poster: https://theposterdb.com/api/assets/302797
         # IDs: imdb://tt16358384, tmdb://153312, tvdb://413215
         # tpdb: https://theposterdb.com/search/advanced/results?term=Tulsa%20King&category=Shows&year_filter=equals&yone=2022&tmdb_id=153312&imdb_id=tt16358384&tvdb_id=413215
         # tmdb: https://www.themoviedb.org/tv/153312
@@ -13,3 +13,5 @@ metadata:
         seasons:
             1:
                 url_poster: https://theposterdb.com/api/assets/302798
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,6 +1,6 @@
 collections:
   "Carousel":
-    variables: { movie: "28100, 408974", poster: https://theposterdb.com/api/assets/229729 }
+    variables: { movie: "28100, 408974", poster: "https://theposterdb.com/api/assets/229729" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

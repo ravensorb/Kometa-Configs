@@ -2,7 +2,6 @@ metadata:
     "A Fistful of Dollars (1964)":
         year: 1964
         title: "A Fistful of Dollars"
-        orig_title: "Per un pugno di dollari"
         sort_title: "Man with No  Name - 01 - A Fistful of Dollars"
         match:
           mapping_id: 391
@@ -16,7 +15,6 @@ metadata:
     "For a Few Dollars More (1965)":
         year: 1965
         title: "For a Few Dollars More"
-        orig_title: "Per qualche dollaro in più"
         match:
           mapping_id: 938
         url_poster: https://theposterdb.com/api/assets/211756
@@ -29,7 +27,6 @@ metadata:
     "The Good, the Bad and the Ugly (1966)":
         year: 1966
         title: "The Good, the Bad and the Ugly"
-        orig_title: "Il buono, il brutto, il cattivo"
         sort_title: "Good, the Bad and the Ugly"
         match:
           mapping_id: 429

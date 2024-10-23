@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "A League of Their Own (2022)":
         year: 2022
         title: "A League of Their Own (2022)"
         sort_title: "League of Their Own (2022)"
-        url_poster: https://theposterdb.com/api/assets/335462
         match:
-          mapping_id: 402931
+          mapping_id: 107005
+        url_poster: https://theposterdb.com/api/assets/335462
         # IDs: imdb://tt8226360, tmdb://107005, tvdb://402931
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20League%20of%20Their%20Own%20%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=107005&imdb_id=tt8226360&tvdb_id=402931
         # tmdb: https://www.themoviedb.org/tv/107005

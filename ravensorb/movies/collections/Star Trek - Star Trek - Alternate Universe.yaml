@@ -1,21 +1,19 @@
 collections:
-  "Battlestar Galactica (Original)":
-    variables: { label: "Battlestar Galactica", collection: "284151", movie: "148980, 9640, 65288", poster: https://theposterdb.com/api/assets/160915 }
+  "Star Trek: Alternate Universe":
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "03", sort_separator: " - ", movie: "54138, 13475, 188927", poster: "https://theposterdb.com/api/assets/308179" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Battlestar Galactica (Original) Collection
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Original%29&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Battlestar%20Galactica%20%28Original%29%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Battlestar%20Galactica%20%28Original%29
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Battlestar%20Galactica%20%28Original%29
-    # trakt: https://trakt.tv/search/lists?query=Battlestar%20Galactica%20%28Original%29
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Alternate%20Universe&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20Alternate%20Universe%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Trek%3A%20Alternate%20Universe
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Star%20Trek%3A%20Alternate%20Universe
+    # trakt: https://trakt.tv/search/lists?query=Star%20Trek%3A%20Alternate%20Universe
     # collection_mode: hide
     trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/battlestar-galactica?sort=released,desc 
+       - https://trakt.tv/users/ravensorb/lists/star-trek-alternate-universe?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

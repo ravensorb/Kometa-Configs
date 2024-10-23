@@ -1,17 +1,4 @@
 metadata:
-    "Babylon 5: The Gathering (1993)":
-        year: 1993
-        title: "Babylon 5: The Gathering"
-        sort_title: "Babylon 5 (1993): 1 - The Gathering"
-        match:
-          mapping_id: 10942
-        url_poster: https://theposterdb.com/api/assets/295299
-        # IDs: imdb://, tmdb://10942, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Gathering&category=Movies&year_filter=equals&yone=1993&tmdb_id=10942&imdb_id=&tvdb_id=
-        # tmdb: https://www.themoviedb.org/movie/10942
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1993&query=
-        # imdb: https://www.imdb.com/title/
-
     "Babylon 5: In The Begining (1998)":
         year: 1998
         title: "Babylon 5: In The Begining"
@@ -19,24 +6,11 @@ metadata:
         match:
           mapping_id: 10940
         url_poster: https://theposterdb.com/api/assets/295298
-        # IDs: imdb://, tmdb://10940, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+In+The+Begining&category=Movies&year_filter=equals&yone=1998&tmdb_id=10940&imdb_id=&tvdb_id=
+        # IDs: imdb://tt0120711, tmdb://10940, tvdb://14333
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20In%20The%20Begining&category=Movies&year_filter=equals&yone=1998&tmdb_id=10940&imdb_id=tt0120711&tvdb_id=14333
         # tmdb: https://www.themoviedb.org/movie/10940
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
-        # imdb: https://www.imdb.com/title/
-
-    "Babylon 5: Thirdspace (1998)":
-        year: 1998
-        title: "Babylon 5: Thirdspace"
-        sort_title: "Babylon 5 (1998): 3 - Thirdspace"
-        match:
-          mapping_id: 10941
-        url_poster: https://theposterdb.com/api/assets/295299
-        # IDs: imdb://, tmdb://10941, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+Thirdspace&category=Movies&year_filter=equals&yone=1998&tmdb_id=10941&imdb_id=&tvdb_id=
-        # tmdb: https://www.themoviedb.org/movie/10941
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
-        # imdb: https://www.imdb.com/title/
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=14333
+        # imdb: https://www.imdb.com/title/tt0120711
 
     "Babylon 5: The River of Souls (1998)":
         year: 1998
@@ -45,11 +19,24 @@ metadata:
         match:
           mapping_id: 10921
         url_poster: https://theposterdb.com/api/assets/295300
-        # IDs: imdb://, tmdb://10921, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+River+of+Souls&category=Movies&year_filter=equals&yone=1998&tmdb_id=10921&imdb_id=&tvdb_id=
+        # IDs: imdb://tt0146247, tmdb://10921, tvdb://15433
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20The%20River%20of%20Souls&category=Movies&year_filter=equals&yone=1998&tmdb_id=10921&imdb_id=tt0146247&tvdb_id=15433
         # tmdb: https://www.themoviedb.org/movie/10921
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=
-        # imdb: https://www.imdb.com/title
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=15433
+        # imdb: https://www.imdb.com/title/tt0146247
+
+    "Babylon 5: Thirdspace (1998)":
+        year: 1998
+        title: "Babylon 5: Thirdspace"
+        sort_title: "Babylon 5 (1998): 3 - Thirdspace"
+        match:
+          mapping_id: 10941
+        url_poster: https://theposterdb.com/api/assets/295299
+        # IDs: imdb://tt0121804, tmdb://10941, tvdb://12810
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20Thirdspace&category=Movies&year_filter=equals&yone=1998&tmdb_id=10941&imdb_id=tt0121804&tvdb_id=12810
+        # tmdb: https://www.themoviedb.org/movie/10941
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=12810
+        # imdb: https://www.imdb.com/title/tt0121804
 
     "Babylon 5: A Call to Arms (1999)":
         year: 1999
@@ -58,25 +45,24 @@ metadata:
         match:
           mapping_id: 10916
         url_poster: https://theposterdb.com/api/assets/295301
-        # IDs: imdb://, tmdb://10916, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+A+Call+to+Arms&category=Movies&year_filter=equals&yone=1999&tmdb_id=10916&imdb_id=&tvdb_id=
+        # IDs: imdb://tt0146455, tmdb://10916, tvdb://10069
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20A%20Call%20to%20Arms&category=Movies&year_filter=equals&yone=1999&tmdb_id=10916&imdb_id=tt0146455&tvdb_id=10069
         # tmdb: https://www.themoviedb.org/movie/10916
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=
-        # imdb: https://www.imdb.com/title
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1999&query=10069
+        # imdb: https://www.imdb.com/title/tt0146455
 
     "Babylon 5: The Legend of the Rangers - To Live and Die in Starlight (2002)":
         year: 2002
         title: "Babylon 5: The Legend of the Rangers - To Live and Die in Starlight"
-        alt_title: "Babylon 5: The Legend of the Rangers"
         sort_title: "Babylon 5 (2002): 6 - The Legend of the Rangers - To Live and Die in Starlight"
         match:
           mapping_id: 16068
         url_poster: https://theposterdb.com/api/assets/295302
-        # IDs: imdb://, tmdb://16068, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Legend+of+the+Rangers&category=Movies&year_filter=equals&yone=2002&tmdb_id=16068&imdb_id=&tvdb_id=
+        # IDs: imdb://tt0280453, tmdb://16068, tvdb://28252
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20The%20Legend%20of%20the%20Rangers%20-%20To%20Live%20and%20Die%20in%20Starlight&category=Movies&year_filter=equals&yone=2002&tmdb_id=16068&imdb_id=tt0280453&tvdb_id=28252
         # tmdb: https://www.themoviedb.org/movie/16068
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=
-        # imdb: https://www.imdb.com/title
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=28252
+        # imdb: https://www.imdb.com/title/tt0280453
 
     "Babylon 5: The Lost Tales - Voices in the Dark (2007)":
         year: 2007
@@ -85,21 +71,21 @@ metadata:
         match:
           mapping_id: 15289
         url_poster: https://theposterdb.com/api/assets/295295
-        # IDs: imdb://, tmdb://15289, tvdb://
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Lost+Tales+-+Voices+in+the+Dark&category=Movies&year_filter=equals&yone=2007&tmdb_id=15289&imdb_id=&tvdb_id=
+        # IDs: imdb://tt0871427, tmdb://15289, tvdb://23501
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20The%20Lost%20Tales%20-%20Voices%20in%20the%20Dark&category=Movies&year_filter=equals&yone=2007&tmdb_id=15289&imdb_id=tt0871427&tvdb_id=23501
         # tmdb: https://www.themoviedb.org/movie/15289
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=
-        # imdb: https://www.imdb.com/title
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=23501
+        # imdb: https://www.imdb.com/title/tt0871427
 
-    "Babylon 5: The Road Home (2023)":
-        year: 2023
+    "Babylon 5: The Road Home (2024)":
+        year: 2024
         title: "Babylon 5: The Road Home"
         sort_title: "Babylon 5 (2023): 12 - The Road Home"
         match:
           mapping_id: 1121575
         url_poster: https://theposterdb.com/api/assets/395505
         # IDs: imdb://tt27712788, tmdb://1121575, tvdb://346426
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon+5%3A+The+Road+Home&category=Movies&year_filter=equals&yone=2023&tmdb_id=1121575&imdb_id=tt27712788&tvdb_id=346426
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205%3A%20The%20Road%20Home&category=Movies&year_filter=equals&yone=2024&tmdb_id=1121575&imdb_id=tt27712788&tvdb_id=346426
         # tmdb: https://www.themoviedb.org/movie/1121575
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=346426
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2024&query=346426
         # imdb: https://www.imdb.com/title/tt27712788

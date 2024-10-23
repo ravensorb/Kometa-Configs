@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Good Place (2016)":
         year: 2016
         title: "The Good Place"
         sort_title: "Good Place"
-        url_poster: https://theposterdb.com/api/assets/261830
         match:
-          mapping_id: 311711
+          mapping_id: 66573
+        url_poster: https://theposterdb.com/api/assets/261830
         # IDs: imdb://tt4955642, tmdb://66573, tvdb://311711
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Good%20Place&category=Shows&year_filter=equals&yone=2016&tmdb_id=66573&imdb_id=tt4955642&tvdb_id=311711
         # tmdb: https://www.themoviedb.org/tv/66573

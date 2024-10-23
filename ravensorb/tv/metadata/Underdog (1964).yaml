@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Underdog (1964)":
         year: 1964
         title: "Underdog"
-        url_poster: https://theposterdb.com/api/assets/401924
         match:
-          mapping_id: 77763
+          mapping_id: 4979
+        url_poster: https://theposterdb.com/api/assets/401924
         # IDs: imdb://tt0060037, tmdb://4979, tvdb://77763
         # tpdb: https://theposterdb.com/search/advanced/results?term=Underdog&category=Shows&year_filter=equals&yone=1964&tmdb_id=4979&imdb_id=tt0060037&tvdb_id=77763
         # tmdb: https://www.themoviedb.org/tv/4979

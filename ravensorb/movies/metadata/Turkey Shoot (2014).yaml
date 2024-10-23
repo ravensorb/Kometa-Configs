@@ -4,7 +4,7 @@ metadata:
         title: "Turkey Shoot"
         match:
           mapping_id: 301730
-        # url_poster: https://theposterdb.com/api/assets/225130
+        url_poster: https://theposterdb.com/api/assets/225130
         # IDs: imdb://tt3816614, tmdb://301730, tvdb://23255
         # tpdb: https://theposterdb.com/search/advanced/results?term=Turkey%20Shoot&category=Movies&year_filter=equals&yone=2014&tmdb_id=301730&imdb_id=tt3816614&tvdb_id=23255
         # tmdb: https://www.themoviedb.org/movie/301730

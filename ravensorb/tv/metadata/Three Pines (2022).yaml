@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Three Pines (2022)":
         year: 2022
         title: "Three Pines"
-        url_poster: https://theposterdb.com/api/assets/396804
         match:
-          mapping_id: 409508
+          mapping_id: 197242
+        url_poster: https://theposterdb.com/api/assets/396804
         # IDs: imdb://tt15351648, tmdb://197242, tvdb://409508
         # tpdb: https://theposterdb.com/search/advanced/results?term=Three%20Pines&category=Shows&year_filter=equals&yone=2022&tmdb_id=197242&imdb_id=tt15351648&tvdb_id=409508
         # tmdb: https://www.themoviedb.org/tv/197242

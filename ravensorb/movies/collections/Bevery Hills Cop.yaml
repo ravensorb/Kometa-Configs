@@ -1,13 +1,11 @@
 collections:
-  "Bevery Hills Cop":
-    variables: { movie: "96, 90, 306", poster: https://theposterdb.com/api/assets/163980 }
+  "Beverly Hills Cop":
+    variables: { movie: "96, 90, 306, 280180", poster: "https://theposterdb.com/api/assets/163980" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Beverly Hills Cop is a series of action-comedy films starring Eddie Murphy as Axel Foley, a street-smart Detroit cop who travels to Beverly Hills, California to investigate crimes out of his jurisdiction, and help his friends, local detectives Rosewood and Taggart, solve crimes.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Bevery%20Hills%20Cop&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Bevery%20Hills%20Cop%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Bevery%20Hills%20Cop

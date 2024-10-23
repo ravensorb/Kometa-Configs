@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Sugar (2024)":
         year: 2024
         title: "Sugar (2024)"
-        url_poster: https://theposterdb.com/api/assets/478097
         match:
-          mapping_id: 421070
+          mapping_id: 203744
+        url_poster: https://theposterdb.com/api/assets/478097
         # IDs: imdb://tt16418808, tmdb://203744, tvdb://421070
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sugar%20%282024%29&category=Shows&year_filter=equals&yone=2024&tmdb_id=203744&imdb_id=tt16418808&tvdb_id=421070
         # tmdb: https://www.themoviedb.org/tv/203744

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Witcher (2019)":
         year: 2019
         title: "The Witcher"
         sort_title: "Witcher"
-        url_poster: https://theposterdb.com/api/assets/236507
         match:
-          mapping_id: 362696
+          mapping_id: 71912
+        url_poster: https://theposterdb.com/api/assets/236507
         # IDs: imdb://tt5180504, tmdb://71912, tvdb://362696
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Witcher&category=Shows&year_filter=equals&yone=2019&tmdb_id=71912&imdb_id=tt5180504&tvdb_id=362696
         # tmdb: https://www.themoviedb.org/tv/71912
@@ -18,14 +18,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/236510
             3:
                 url_poster: https://theposterdb.com/api/assets/373574
-    
+
     "The Witcher: Blood Origin (2022)":
         year: 2022
         title: "The Witcher: Blood Origin"
         sort_title: "Witcher: Blood Origin"
-        url_poster: https://theposterdb.com/api/assets/339439
         match:
-          mapping_id: 399987
+          mapping_id: 106541
+        url_poster: https://theposterdb.com/api/assets/339439
         # IDs: imdb://tt12785720, tmdb://106541, tvdb://399987
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Witcher%3A%20Blood%20Origin&category=Shows&year_filter=equals&yone=2022&tmdb_id=106541&imdb_id=tt12785720&tvdb_id=399987
         # tmdb: https://www.themoviedb.org/tv/106541

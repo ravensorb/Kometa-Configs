@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Good Witch (2015)":
         year: 2015
         title: "Good Witch"
-        # url_poster: https://theposterdb.com/api/assets/
         match:
-          mapping_id: 289855
+          mapping_id: 61864
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt3906732, tmdb://61864, tvdb://289855
         # tpdb: https://theposterdb.com/search/advanced/results?term=Good%20Witch&category=Shows&year_filter=equals&yone=2015&tmdb_id=61864&imdb_id=tt3906732&tvdb_id=289855
         # tmdb: https://www.themoviedb.org/tv/61864

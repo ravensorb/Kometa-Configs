@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "For All Mankind (2019)":
         year: 2019
         title: "For All Mankind"
-        url_poster: https://theposterdb.com/api/assets/285057
         match:
-          mapping_id: 356202
+          mapping_id: 87917
+        url_poster: https://theposterdb.com/api/assets/285057
         # IDs: imdb://tt7772588, tmdb://87917, tvdb://356202
         # tpdb: https://theposterdb.com/search/advanced/results?term=For%20All%20Mankind&category=Shows&year_filter=equals&yone=2019&tmdb_id=87917&imdb_id=tt7772588&tvdb_id=356202
         # tmdb: https://www.themoviedb.org/tv/87917
@@ -17,3 +17,5 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/285059
             3:
                 url_poster: https://theposterdb.com/api/assets/285060
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "La Femme Nikita (1997)":
         year: 1997
         title: "La Femme Nikita"
         sort_title: "Femme Nikita"
-        url_poster: https://theposterdb.com/api/assets/470147
         match:
-          mapping_id: 78527
+          mapping_id: 167
+        url_poster: https://theposterdb.com/api/assets/470147
         # IDs: imdb://tt0118379, tmdb://167, tvdb://78527
         # tpdb: https://theposterdb.com/search/advanced/results?term=La%20Femme%20Nikita&category=Shows&year_filter=equals&yone=1997&tmdb_id=167&imdb_id=tt0118379&tvdb_id=78527
         # tmdb: https://www.themoviedb.org/tv/167

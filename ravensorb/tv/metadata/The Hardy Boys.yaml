@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Hardy Boys (2020)":
         year: 2020
         title: "The Hardy Boys (2020)"
         sort_title: "Hardy Boys (2020)"
-        # url_poster: https://theposterdb.com/api/assets/479201
         match:
-          mapping_id: 391628
+          mapping_id: 112945
+        url_poster: https://theposterdb.com/api/assets/479201
         # IDs: imdb://tt11252090, tmdb://112945, tvdb://391628
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys%20%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=112945&imdb_id=tt11252090&tvdb_id=391628
         # tmdb: https://www.themoviedb.org/tv/112945

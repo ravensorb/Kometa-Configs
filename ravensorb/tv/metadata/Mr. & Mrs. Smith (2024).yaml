@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Mr. & Mrs. Smith (2024)":
         year: 2024
         title: "Mr. & Mrs. Smith (2024)"
-        url_poster: https://theposterdb.com/api/assets/452876
         match:
-          mapping_id: 396773
+          mapping_id: 118642
+        url_poster: https://theposterdb.com/api/assets/452876
         # IDs: imdb://tt14044212, tmdb://118642, tvdb://396773
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mr.%20%26%20Mrs.%20Smith%20%282024%29&category=Shows&year_filter=equals&yone=2024&tmdb_id=118642&imdb_id=tt14044212&tvdb_id=396773
         # tmdb: https://www.themoviedb.org/tv/118642

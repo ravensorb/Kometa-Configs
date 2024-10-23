@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Remington Steele (1982)":
         year: 1982
         title: "Remington Steele"
-        url_poster: https://theposterdb.com/api/assets/482993
         match:
-          mapping_id: 78189
+          mapping_id: 589
+        url_poster: https://theposterdb.com/api/assets/482993
         # IDs: imdb://tt0083470, tmdb://589, tvdb://78189
         # tpdb: https://theposterdb.com/search/advanced/results?term=Remington%20Steele&category=Shows&year_filter=equals&yone=1982&tmdb_id=589&imdb_id=tt0083470&tvdb_id=78189
         # tmdb: https://www.themoviedb.org/tv/589

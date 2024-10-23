@@ -1,13 +1,11 @@
 collections:
   "Marshal Samuel Gerard":
-    variables: { movie: "5503, 11808", poster: https://theposterdb.com/api/assets/94573 }
+    variables: { movie: "5503, 11808", poster: "https://theposterdb.com/api/assets/94573" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Tommy Lee Jones as Senior Deputy U.S. Marshal Samual Gerard
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marshal%20Samuel%20Gerard&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Marshal%20Samuel%20Gerard%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Marshal%20Samuel%20Gerard

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Pandora (2019)":
         year: 2019
         title: "Pandora"
         sort_title: "Pandora (2019)"
-        url_poster: https://theposterdb.com/api/assets/309242
         match:
-          mapping_id: 363998
+          mapping_id: 90670
+        url_poster: https://theposterdb.com/api/assets/309242
         # IDs: imdb://tt10207090, tmdb://90670, tvdb://363998
         # tpdb: https://theposterdb.com/search/advanced/results?term=Pandora&category=Shows&year_filter=equals&yone=2019&tmdb_id=90670&imdb_id=tt10207090&tvdb_id=363998
         # tmdb: https://www.themoviedb.org/tv/90670

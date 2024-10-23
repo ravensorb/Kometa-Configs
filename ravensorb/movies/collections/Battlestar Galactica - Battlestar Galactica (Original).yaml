@@ -1,21 +1,19 @@
 collections:
-  "Amazing Spider-Man":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "102382, 1930", poster: https://theposterdb.com/api/assets/171152 }
+  "Battlestar Galactica (Original)":
+    variables: { label: "Battlestar Galactica", movie: "148980, 9640, 65288", poster: "https://theposterdb.com/api/assets/160915" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplTMDBCollection, collection: "284151" },
     ]
-    summary: |
-      A superhero film series based on the Marvel Comics character Spider-Man. The series is centered on Peter Parker, a teenager struggling to find his place in life ever since his parents disappeared when he was a child. A spider bites him on the back of his neck, giving him spider-powers. It is a reboot of Sony's Spider-Man film franchise.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing%20Spider-Man&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Amazing%20Spider-Man%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Amazing%20Spider-Man
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Amazing%20Spider-Man
-    # trakt: https://trakt.tv/search/lists?query=Amazing%20Spider-Man
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Original%29&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Battlestar%20Galactica%20%28Original%29%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Battlestar%20Galactica%20%28Original%29
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Battlestar%20Galactica%20%28Original%29
+    # trakt: https://trakt.tv/search/lists?query=Battlestar%20Galactica%20%28Original%29
     # collection_mode: hide
-    # trakt_list:
-    #   -
+    trakt_list:
+       - https://trakt.tv/users/ravensorb/lists/battlestar-galactica?sort=released,desc 
 
 ########################################################################################################################
 ########################################################################################################################

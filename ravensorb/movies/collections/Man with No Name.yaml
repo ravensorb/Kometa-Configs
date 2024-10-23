@@ -1,13 +1,11 @@
 collections:
   "Man with No Name":
-    variables: { movie: "429, 938, 391", poster: https://theposterdb.com/api/assets/211754 }
+    variables: { movie: "429, 938, 391", poster: "https://theposterdb.com/api/assets/211754" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Man%20with%20No%20Name&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Man%20with%20No%20Name%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Man%20with%20No%20Name

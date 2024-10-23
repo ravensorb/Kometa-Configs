@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Dresden Files (2007)":
         year: 2007
         title: "The Dresden Files"
         sort_title: "Dresden Files"
-        url_poster: https://theposterdb.com/api/assets/348154
         match:
-          mapping_id: 79759
+          mapping_id: 4955
+        url_poster: https://theposterdb.com/api/assets/348154
         # IDs: imdb://tt0486657, tmdb://4955, tvdb://79759
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dresden%20Files&category=Shows&year_filter=equals&yone=2007&tmdb_id=4955&imdb_id=tt0486657&tvdb_id=79759
         # tmdb: https://www.themoviedb.org/tv/4955

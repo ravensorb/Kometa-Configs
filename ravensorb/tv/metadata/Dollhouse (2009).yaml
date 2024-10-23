@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Dollhouse (2009)":
         year: 2009
         title: "Dollhouse"
-        url_poster: https://theposterdb.com/api/assets/349448
         match:
-          mapping_id: 82046
+          mapping_id: 14956
+        url_poster: https://theposterdb.com/api/assets/349448
         # IDs: imdb://tt1135300, tmdb://14956, tvdb://82046
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dollhouse&category=Shows&year_filter=equals&yone=2009&tmdb_id=14956&imdb_id=tt1135300&tvdb_id=82046
         # tmdb: https://www.themoviedb.org/tv/14956

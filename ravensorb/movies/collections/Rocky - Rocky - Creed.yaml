@@ -1,18 +1,16 @@
 collections:
-  "X-Files":
-    variables: { movie: "8836, 846", poster: https://theposterdb.com/api/assets/162229 }
+  "Rocky/Creed":
+    variables: { label: "Rocky", movie: "480530, 677179, 312221", poster: "https://theposterdb.com/api/assets/307792" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      The X-Files (also known as The X-Files: Fight the Future) is a 1998 American science fiction thriller film directed by Rob Bowman. Chris Carter wrote the screenplay. The story is by Carter and Frank Spotnitz. It is the first feature film based on Carter's television series The X-Files that revolves around fictional unsolved cases called the X-Files and the characters solving them. The X-Files has spawned one sequel, a 2008 film entitled The X-Files: I Want to Believe released six years after the series ended.
-    # tpdb: https://theposterdb.com/search/advanced/results?term=X-Files&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=X-Files
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=X-Files
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=X-Files
-    # trakt: https://trakt.tv/search/lists?query=X-Files
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Rocky%2FCreed&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=Rocky/Creed
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Rocky/Creed
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Rocky/Creed
+    # trakt: https://trakt.tv/search/lists?query=Rocky/Creed
     # collection_mode: hide
     # trakt_list:
     #   -

@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Company You Keep (2023)":
         year: 2023
         title: "The Company You Keep"
         sort_title: "Company You Keep"
-        url_poster: https://theposterdb.com/api/assets/353339
         match:
-          mapping_id: 419747
+          mapping_id: 208713
+        url_poster: https://theposterdb.com/api/assets/353339
         # IDs: imdb://tt18412092, tmdb://208713, tvdb://419747
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Company%20You%20Keep&category=Shows&year_filter=equals&yone=2023&tmdb_id=208713&imdb_id=tt18412092&tvdb_id=419747
         # tmdb: https://www.themoviedb.org/tv/208713

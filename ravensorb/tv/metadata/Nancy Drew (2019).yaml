@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Nancy Drew (2019)":
         year: 2019
         title: "Nancy Drew (2019)"
-        url_poster: https://theposterdb.com/api/assets/480145
         match:
-          mapping_id: 363673
+          mapping_id: 89572
+        url_poster: https://theposterdb.com/api/assets/480145
         # IDs: imdb://tt10313176, tmdb://89572, tvdb://363673
         # tpdb: https://theposterdb.com/search/advanced/results?term=Nancy%20Drew%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=89572&imdb_id=tt10313176&tvdb_id=363673
         # tmdb: https://www.themoviedb.org/tv/89572

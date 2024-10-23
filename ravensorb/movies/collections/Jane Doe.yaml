@@ -1,13 +1,11 @@
 collections:
   "Jane Doe":
-    variables: { movie: "68676, 68688, 68678, 105443, 105460", poster: https://artworks.thetvdb.com/banners/posters/259155-1.jpg }
+    variables: { movie: "68676, 68688, 68678, 105443, 105460", poster: "https://artworks.thetvdb.com/banners/posters/259155-1.jpg" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Jane Doe is the name of a series of nine made-for-television mystery films released by the Hallmark Channel between 2005 and 2008. In the series, created by Dean Hargrove, Lea Thompson stars as Cathy Davis, a soccer mom who is secretly Jane Doe, an agent for the federal "Central Security Agency". The films focus on her efforts to keep her lives separate while solving mysteries.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Jane%20Doe%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Jane%20Doe

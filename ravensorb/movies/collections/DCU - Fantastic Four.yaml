@@ -1,13 +1,11 @@
 collections:
   "Fantastic Four":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "9738, 1979, 617126, 166424", poster: https://theposterdb.com/api/assets/171129 }
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "9738, 1979, 617126, 166424", poster: "https://theposterdb.com/api/assets/171129" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Superhero films based on the Marvel Comics team of the same name. Four individuals gained superpowers after exposure to cosmic rays during a scientific mission to outer space: Mr. Fantastic (Reed Richards), the Invisible Woman (Susan "Sue" Storm), the Human Torch (Johnny Storm), and the monstrous Thing (Ben Grimm).
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic%20Four&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Fantastic%20Four%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Fantastic%20Four

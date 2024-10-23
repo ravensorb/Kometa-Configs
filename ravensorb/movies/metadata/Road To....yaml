@@ -35,16 +35,16 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1943&query=39483
         # imdb: https://www.imdb.com/title/tt0035262
 
-    "Road to Utopia (1945)":
-        year: 1945
+    "Road to Utopia (1946)":
+        year: 1946
         title: "Road to Utopia"
         match:
           mapping_id: 29021
         url_poster: https://theposterdb.com/api/assets/235009
         # IDs: imdb://tt0038032, tmdb://29021, tvdb://82616
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Road%20to%20Utopia&category=Movies&year_filter=equals&yone=1945&tmdb_id=29021&imdb_id=tt0038032&tvdb_id=82616
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Road%20to%20Utopia&category=Movies&year_filter=equals&yone=1946&tmdb_id=29021&imdb_id=tt0038032&tvdb_id=82616
         # tmdb: https://www.themoviedb.org/movie/29021
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1945&query=82616
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1946&query=82616
         # imdb: https://www.imdb.com/title/tt0038032
 
     "Road to Rio (1947)":

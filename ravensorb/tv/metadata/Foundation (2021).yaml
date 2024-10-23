@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "Foundation (2021)":
         year: 2021
         title: "Foundation"
         sort_title: "Foundation (2021)"
-        url_poster: https://theposterdb.com/api/assets/321899
         match:
-          mapping_id: 366972
+          mapping_id: 93740
+        url_poster: https://theposterdb.com/api/assets/321899
         # IDs: imdb://tt0804484, tmdb://93740, tvdb://366972
         # tpdb: https://theposterdb.com/search/advanced/results?term=Foundation&category=Shows&year_filter=equals&yone=2021&tmdb_id=93740&imdb_id=tt0804484&tvdb_id=366972
         # tmdb: https://www.themoviedb.org/tv/93740

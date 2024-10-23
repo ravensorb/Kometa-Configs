@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Hanna (2019)":
         year: 2019
         title: "Hanna"
-        url_poster: https://theposterdb.com/api/assets/245388
         match:
-          mapping_id: 357690
+          mapping_id: 54155
+        url_poster: https://theposterdb.com/api/assets/245388
         # IDs: imdb://tt6932244, tmdb://54155, tvdb://357690
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hanna&category=Shows&year_filter=equals&yone=2019&tmdb_id=54155&imdb_id=tt6932244&tvdb_id=357690
         # tmdb: https://www.themoviedb.org/tv/54155

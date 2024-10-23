@@ -1,10 +1,10 @@
-metadata:    
+metadata:
     "Falling Skies (2011)":
         year: 2011
         title: "Falling Skies"
-        url_poster: https://theposterdb.com/api/assets/296246
         match:
-          mapping_id: 205281
+          mapping_id: 34967
+        url_poster: https://theposterdb.com/api/assets/296246
         # IDs: imdb://tt1462059, tmdb://34967, tvdb://205281
         # tpdb: https://theposterdb.com/search/advanced/results?term=Falling%20Skies&category=Shows&year_filter=equals&yone=2011&tmdb_id=34967&imdb_id=tt1462059&tvdb_id=205281
         # tmdb: https://www.themoviedb.org/tv/34967
