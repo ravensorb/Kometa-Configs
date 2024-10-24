@@ -11,6 +11,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1966&query=77526
         # imdb: https://www.imdb.com/title/tt0060028
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222244
             2:
@@ -30,6 +32,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1973&query=73566
         # imdb: https://www.imdb.com/title/tt0069637
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222248
             2:
@@ -47,6 +51,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1987&query=71470
         # imdb: https://www.imdb.com/title/tt0092455
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222251
             2:
@@ -74,6 +80,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1993&query=72073
         # imdb: https://www.imdb.com/title/tt0106145
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222259
             2:
@@ -101,6 +109,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1995&query=74550
         # imdb: https://www.imdb.com/title/tt0112178
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222267
             2:
@@ -128,6 +138,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=73893
         # imdb: https://www.imdb.com/title/tt0244365
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222275
             2:
@@ -162,6 +174,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328711
         # imdb: https://www.imdb.com/title/tt5171438
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/222157
             2:
@@ -185,6 +199,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=376108
         # imdb: https://www.imdb.com/title/tt9059594
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327964
             # 2:
@@ -226,6 +242,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=367138
         # imdb: https://www.imdb.com/title/tt9184820
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327952
             2:
@@ -233,6 +251,8 @@ metadata:
             # 3:
                 # url_poster: https://theposterdb.com/api/assets/
             # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
                 # url_poster: https://theposterdb.com/api/assets/
 
     "Star Trek: Picard (2020)":
@@ -247,6 +267,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=364093
         # imdb: https://www.imdb.com/title/tt8806524
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218153
             2:
@@ -266,6 +288,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=385811
         # imdb: https://www.imdb.com/title/tt9795876
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327961
             # 2:
@@ -284,6 +308,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=398399
         # imdb: https://www.imdb.com/title/tt15766736
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/367794
 
@@ -299,6 +325,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=382389
         # imdb: https://www.imdb.com/title/tt12327578
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327968
             2:

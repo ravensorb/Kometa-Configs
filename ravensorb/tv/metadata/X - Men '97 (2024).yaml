@@ -1,15 +1,17 @@
-metadata:    
+metadata:
     "X-Men '97 (2024)":
         year: 2024
         title: "X-Men '97"
-        url_poster: https://theposterdb.com/api/assets/471246
         match:
-          mapping_id: 412432
+          mapping_id: 138502
+        url_poster: https://theposterdb.com/api/assets/471246
         # IDs: imdb://tt16026746, tmdb://138502, tvdb://412432
         # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%20%2797&category=Shows&year_filter=equals&yone=2024&tmdb_id=138502&imdb_id=tt16026746&tvdb_id=412432
         # tmdb: https://www.themoviedb.org/tv/138502
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412432
         # imdb: https://www.imdb.com/title/tt16026746
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/471248

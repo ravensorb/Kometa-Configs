@@ -1,6 +1,6 @@
 collections:
   "Hercules":
-    variables: { movie: "75826, 75822, 37404, 75834, 70811", poster: "https://theposterdb.com/api/assets/162041" }
+    variables: { movie: "37404, 70811, 75822, 75826, 75834", poster: "https://theposterdb.com/api/assets/162041" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

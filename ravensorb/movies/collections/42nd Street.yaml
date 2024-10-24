@@ -1,6 +1,6 @@
 collections:
   "42nd Street":
-    variables: { movie: "594345, 3062", poster: "https://theposterdb.com/api/assets/200267" }
+    variables: { movie: "3062, 594345", poster: "https://theposterdb.com/api/assets/200267" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

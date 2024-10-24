@@ -1,6 +1,6 @@
 collections:
   "Hailey Dean Mysteries":
-    variables: { } # poster: "https://theposterdb.com/api/assets/" }
+    variables: { movie: "422842, 446865, 479630, 528094, 529369, 529371, 594631, 594633, 603475", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

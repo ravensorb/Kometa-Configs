@@ -1,6 +1,6 @@
 collections:
   "Stargate":
-    variables: { show: "72925, 2290, 5148, 4629", poster: "https://theposterdb.com/api/assets/228932" }
+    variables: { show: "339552, 70851, 72449, 83237", poster: "https://theposterdb.com/api/assets/228932" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

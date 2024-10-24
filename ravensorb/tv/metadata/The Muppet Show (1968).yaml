@@ -1,4 +1,4 @@
-metadata:    
+metadata:
     "The Muppet Show (1968)":
         year: 1968
         title: "The Muppet Show"
@@ -10,6 +10,8 @@ metadata:
         # tvdb: 
         # imdb: 
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/262511
             2:

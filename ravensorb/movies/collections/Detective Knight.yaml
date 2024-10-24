@@ -1,6 +1,6 @@
 collections:
   "Detective Knight":
-    variables: { movie: "1035803, 1035806, 1024546", poster: "https://theposterdb.com/api/assets/296269" }
+    variables: { movie: "1024546, 1035803, 1035806", poster: "https://theposterdb.com/api/assets/296269" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

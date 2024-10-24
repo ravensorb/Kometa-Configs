@@ -1,6 +1,6 @@
 collections:
   "Prison Break":
-    variables: { show: "2288", poster: "https://theposterdb.com/api/assets/263873" }
+    variables: { show: "360115", poster: "https://theposterdb.com/api/assets/263873" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

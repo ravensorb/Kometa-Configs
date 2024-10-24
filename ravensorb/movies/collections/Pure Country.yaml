@@ -1,6 +1,6 @@
 collections:
   "Pure Country":
-    variables: { movie: "468201, 58936, 22627", poster: "https://theposterdb.com/api/assets/469595" }
+    variables: { movie: "22627, 468201, 58936", poster: "https://theposterdb.com/api/assets/469595" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

@@ -1,6 +1,6 @@
 collections:
   "Quantum Leap":
-    variables: { show: "202102, 4018", poster: "https://theposterdb.com/api/assets/272440" }
+    variables: { show: "419936, 72248", poster: "https://theposterdb.com/api/assets/272440" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

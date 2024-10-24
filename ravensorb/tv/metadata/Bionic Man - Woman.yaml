@@ -1,11 +1,11 @@
-metadata:    
+metadata:
     "The Six Million Dollar Man (1974)":
         year: 1974
         title: "The Six Million Dollar Man"
         sort_title: "Bionic: Six Million Dollar Man 1974"
-        url_poster: https://theposterdb.com/api/assets/261151
         match:
-          mapping_id: 77294
+          mapping_id: 1663
+        url_poster: https://theposterdb.com/api/assets/261151
         # IDs: imdb://tt0071054, tmdb://1663, tvdb://77294
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Six%20Million%20Dollar%20Man&category=Shows&year_filter=equals&yone=1974&tmdb_id=1663&imdb_id=tt0071054&tvdb_id=77294
         # tmdb: https://www.themoviedb.org/tv/1663
@@ -24,14 +24,14 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/261156
             5:
                 url_poster: https://theposterdb.com/api/assets/261157
-    
+
     "The Bionic Woman (1976)":
         year: 1976
         title: "The Bionic Woman"
         sort_title: "Bionic: Bionic Woman 1976"
-        url_poster: https://theposterdb.com/api/assets/261356
         match:
-          mapping_id: 77259
+          mapping_id: 2275
+        url_poster: https://theposterdb.com/api/assets/261356
         # IDs: imdb://tt0073965, tmdb://2275, tvdb://77259
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bionic%20Woman&category=Shows&year_filter=equals&yone=1976&tmdb_id=2275&imdb_id=tt0073965&tvdb_id=77259
         # tmdb: https://www.themoviedb.org/tv/2275
@@ -46,19 +46,21 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/261359
             3:
                 url_poster: https://theposterdb.com/api/assets/261360
-    
+
     "Bionic Woman (2007)":
         year: 2007
         title: "Bionic Woman"
         sort_title: "Bionic: Bionic Woman 2007"
-        url_poster: https://theposterdb.com/api/assets/261637
         match:
-          mapping_id: 80370
+          mapping_id: 1246
+        url_poster: https://theposterdb.com/api/assets/261637
         # IDs: imdb://tt0880557, tmdb://1246, tvdb://80370
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bionic%20Woman&category=Shows&year_filter=equals&yone=2007&tmdb_id=1246&imdb_id=tt0880557&tvdb_id=80370
         # tmdb: https://www.themoviedb.org/tv/1246
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80370
         # imdb: https://www.imdb.com/title/tt0880557
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/261638

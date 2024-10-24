@@ -1,6 +1,6 @@
 collections:
   "Frosty":
-    variables: { movie: "13675, 26539, 28042, 27933", poster: "https://theposterdb.com/api/assets/313235" }
+    variables: { movie: "13675, 26539, 27933, 28042", poster: "https://theposterdb.com/api/assets/313235" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

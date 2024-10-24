@@ -1,6 +1,6 @@
 collections:
   "Star Trek":
-    variables: { sort_prefix: "Star Trek", sort_order: "00", sort_separator: " - ", show: "253, 100451, 314, 85949, 580, 137895, 1992, 655, 103516, 1855, 67198", poster: "https://theposterdb.com/api/assets/52754" }
+    variables: { sort_prefix: "Star Trek", sort_order: "00", sort_separator: " - ", show: "328711, 358781, 364093, 367138, 368778, 376108, 382389, 385811, 398399, 71470, 72073, 73566, 73893, 74550, 77526", poster: "https://theposterdb.com/api/assets/52754" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

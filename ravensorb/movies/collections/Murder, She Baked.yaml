@@ -1,6 +1,6 @@
 collections:
   "Murder, She Baked":
-    variables: { poster: "https://theposterdb.com/api/assets/419210" }
+    variables: { movie: "1093396, 1151579, 1248298, 328848, 361751, 371181, 392629, 436401, 840382", poster: "https://theposterdb.com/api/assets/419210" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

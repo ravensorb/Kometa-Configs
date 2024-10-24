@@ -1,6 +1,6 @@
 collections:
   "Aurora Teagarden Mysteries":
-    variables: { movie: "436398, 325078, 339580, 414768, 393737, 455034, 494466, 590123, 515696, 590121, 741755, 681638, 793425, 531158. 793465. 1101840, 845929, 910765", poster: "https://theposterdb.com/api/assets/440870" }
+    variables: { movie: "1101840, 325078, 339580, 393737, 414768, 436398, 455034, 494466, 531158, 590118, 590121, 590123, 681638, 741755, 793425, 793465, 845929, 910765", poster: "https://theposterdb.com/api/assets/440870" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

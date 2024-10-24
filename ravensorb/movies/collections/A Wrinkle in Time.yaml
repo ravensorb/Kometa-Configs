@@ -1,6 +1,6 @@
 collections:
   "A Wrinkle in Time":
-    variables: { movie: "407451, 27874", poster: "https://theposterdb.com/api/assets/173406" }
+    variables: { movie: "27874, 407451", poster: "https://theposterdb.com/api/assets/173406" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

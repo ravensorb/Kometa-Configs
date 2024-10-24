@@ -1,6 +1,6 @@
 collections:
   "V":
-    variables: { show: "75893, 21494", poster: "https://theposterdb.com/api/assets/366977" }
+    variables: { show: "76354, 94971", poster: "https://theposterdb.com/api/assets/366977" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

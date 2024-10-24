@@ -1,6 +1,6 @@
 collections:
   "Resident Evil":
-    variables: { movie: "35791, 173897, 1577, 460458, 1576, 71679, 7737", poster: "https://theposterdb.com/api/assets/161290" }
+    variables: { movie: "1576, 1577, 173897, 35791, 400136, 460458, 71679, 7737", poster: "https://theposterdb.com/api/assets/161290" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

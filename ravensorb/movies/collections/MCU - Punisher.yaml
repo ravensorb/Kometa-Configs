@@ -1,6 +1,6 @@
 collections:
   "Punisher":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "7220, 13056", poster: "https://theposterdb.com/api/assets/171137" }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "13056, 7220", poster: "https://theposterdb.com/api/assets/171137" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

@@ -1,6 +1,6 @@
 collections:
   "Oklahoma":
-    variables: { movie: "27074, 13936, 779074", poster: "https://theposterdb.com/api/assets/227680" }
+    variables: { movie: "13936, 27074", poster: "https://theposterdb.com/api/assets/227680" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

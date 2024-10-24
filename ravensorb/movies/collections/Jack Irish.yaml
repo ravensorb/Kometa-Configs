@@ -1,6 +1,6 @@
 collections:
   "Jack Irish":
-    variables: { movie: "141095, 264578, 141099", poster: "https://theposterdb.com/api/assets/462795" }
+    variables: { movie: "141095, 141099, 264578", poster: "https://theposterdb.com/api/assets/462795" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

@@ -1,6 +1,6 @@
 collections:
   "Death of Superman":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "487672, 487670", poster: "https://theposterdb.com/api/assets/193370" }
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "487670, 487672", poster: "https://theposterdb.com/api/assets/193370" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

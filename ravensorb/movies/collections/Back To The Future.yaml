@@ -1,6 +1,6 @@
 collections:
   "Back To The Future":
-    variables: { movie: "196, 165, 105, 330127", poster: "https://theposterdb.com/api/assets/163128" }
+    variables: { movie: "105, 165, 196, 330127", poster: "https://theposterdb.com/api/assets/163128" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

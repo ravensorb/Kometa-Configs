@@ -1,6 +1,6 @@
 collections:
   "Elvira":
-    variables: { show: "14254, 228222, 220764, 40177, 135136, 204121, 232350, 234796, 231872, 234792, 29911, 231880, 83921, 227555, 107281, 231928", } # poster: "https://theposterdb.com/api/assets/" }
+    variables: { show: "291105, 410631", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

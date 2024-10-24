@@ -1,6 +1,6 @@
 collections:
   "Chronicle Mysteries":
-    variables: { poster: "https://theposterdb.com/api/assets/419219" }
+    variables: { movie: "582623, 582624, 583372, 623922, 783305", poster: "https://theposterdb.com/api/assets/419219" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

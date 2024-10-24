@@ -1,6 +1,6 @@
 collections:
   "Star Wars":
-    variables: { show: "115036, 82856, 203085, 83867, 114461, 92830, 4194, 114479", poster: "https://theposterdb.com/api/assets/244730" }
+    variables: { show: "250498, 283468, 330710, 351575, 361753, 385376, 393187, 393189, 393190, 393197, 393199, 393589, 420659, 70399, 73697, 83268", poster: "https://theposterdb.com/api/assets/244730" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

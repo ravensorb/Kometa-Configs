@@ -1,6 +1,6 @@
 collections:
   "Bourne":
-    variables: { movie: "324668, 2501, 2502, 2503, 49040", poster: "https://theposterdb.com/api/assets/164761" }
+    variables: { movie: "2501, 2502, 2503, 324668, 49040", poster: "https://theposterdb.com/api/assets/164761" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

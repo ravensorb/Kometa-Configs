@@ -1,6 +1,6 @@
 collections:
   "Guardians of the Galaxy":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "283995, 447365, 118340", poster: "https://theposterdb.com/api/assets/162393" }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "118340, 283995, 447365", poster: "https://theposterdb.com/api/assets/162393" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

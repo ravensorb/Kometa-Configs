@@ -1,6 +1,6 @@
 collections:
   "The Immortals Universe":
-    variables: { show: "128098, 207863", poster: "https://theposterdb.com/api/assets/314241" }
+    variables: { show: "405535, 413074", poster: "https://theposterdb.com/api/assets/314241" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

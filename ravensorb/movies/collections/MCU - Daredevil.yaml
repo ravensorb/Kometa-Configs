@@ -1,6 +1,6 @@
 collections:
   "Daredevil":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "9947, 9480", poster: "https://theposterdb.com/api/assets/171145" }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "9480, 9947", poster: "https://theposterdb.com/api/assets/171145" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

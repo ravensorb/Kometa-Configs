@@ -1,6 +1,6 @@
 collections:
   "Ken Burns Films":
-    variables: { show: "9693, 30715, 102960, 56629, 65646, 20861, 19215, 111592, 86558, 39983, 46434, 76519", poster: "https://theposterdb.com/api/assets/57727" }
+    variables: { show: "116171, 251965, 264098, 277594, 282249, 293822, 310180, 333595, 359180, 379797, 394111, 403212, 415024, 421197, 78973, 80105, 80620, 80679, 81381", poster: "https://theposterdb.com/api/assets/57727" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

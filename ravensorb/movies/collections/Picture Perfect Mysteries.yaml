@@ -1,6 +1,6 @@
 collections:
   "Picture Perfect Mysteries":
-    variables: { } # poster: "https://theposterdb.com/api/assets/" }
+    variables: { movie: "603085, 661328, 733278", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

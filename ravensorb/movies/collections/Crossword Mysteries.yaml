@@ -1,6 +1,6 @@
 collections:
   "Crossword Mysteries":
-    variables: { poster: "https://theposterdb.com/api/assets/443726" }
+    variables: { movie: "529245, 639254, 639289, 783508, 784410", poster: "https://theposterdb.com/api/assets/443726" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

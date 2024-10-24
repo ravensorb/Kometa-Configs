@@ -1,6 +1,6 @@
 collections:
   "The Saint (RKO Radio Pictures)":
-    variables: { movie: "74545, 47744, 74547", } # poster: "https://theposterdb.com/api/assets/" }
+    variables: { movie: "47744, 74545, 74547", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

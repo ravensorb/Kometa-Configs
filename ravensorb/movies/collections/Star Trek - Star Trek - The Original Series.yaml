@@ -1,6 +1,6 @@
 collections:
   "Star Trek: The Original Series":
-    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", movie: "168, 157, 172, 152, 154, 174", poster: "https://theposterdb.com/api/assets/308181" }
+    variables: { label: "Star Trek", sort_prefix: "Star Trek", sort_order: "01", sort_separator: " - ", movie: "152, 154, 157, 168, 172, 174", poster: "https://theposterdb.com/api/assets/308181" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

@@ -1,17 +1,17 @@
 collections:
   "The Addams Family":
-    variables: { movie: "2907", poster: "https://theposterdb.com/api/assets/173458" }
+    variables: { movie: "2758, 2907, 639721", poster: "https://theposterdb.com/api/assets/173458" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Faily&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Addams%20Faily%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=The%20Addams%20Faily
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=The%20Addams%20Faily
-    # trakt: https://trakt.tv/search/lists?query=The%20Addams%20Faily
-    collection_mode: hide
+    # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Addams%20Family%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=The%20Addams%20Family
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=The%20Addams%20Family
+    # trakt: https://trakt.tv/search/lists?query=The%20Addams%20Family
+    # collection_mode: hide
     # trakt_list:
     #   -
 

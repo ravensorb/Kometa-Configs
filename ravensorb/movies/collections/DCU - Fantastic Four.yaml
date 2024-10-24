@@ -1,6 +1,6 @@
 collections:
   "Fantastic Four":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "9738, 1979, 617126, 166424", poster: "https://theposterdb.com/api/assets/171129" }
+    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "166424, 1979, 9738", poster: "https://theposterdb.com/api/assets/171129" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

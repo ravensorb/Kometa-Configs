@@ -1,6 +1,6 @@
 collections:
   "Matchmaker Mysteries":
-    variables: { } # poster: "https://theposterdb.com/api/assets/" }
+    variables: { movie: "681630, 799360", } # poster: "https://theposterdb.com/api/assets/" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

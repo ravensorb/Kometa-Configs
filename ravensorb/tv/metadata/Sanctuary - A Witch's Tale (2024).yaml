@@ -1,15 +1,17 @@
-metadata:    
+metadata:
     "Sanctuary: A Witch's Tale (2024)":
         year: 2024
         title: "Sanctuary: A Witch's Tale"
-        url_poster: https://theposterdb.com/api/assets/454804
         match:
-          mapping_id: 441669
+          mapping_id: 238585
+        url_poster: https://theposterdb.com/api/assets/454804
         # IDs: imdb://tt21632986, tmdb://238585, tvdb://441669
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sanctuary%3A%20A%20Witch%27s%20Tale&category=Shows&year_filter=equals&yone=2024&tmdb_id=238585&imdb_id=tt21632986&tvdb_id=441669
         # tmdb: https://www.themoviedb.org/tv/238585
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=441669
         # imdb: https://www.imdb.com/title/tt21632986
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/454805

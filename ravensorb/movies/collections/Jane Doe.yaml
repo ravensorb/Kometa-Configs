@@ -1,6 +1,6 @@
 collections:
   "Jane Doe":
-    variables: { movie: "68676, 68688, 68678, 105443, 105460", poster: "https://artworks.thetvdb.com/banners/posters/259155-1.jpg" }
+    variables: { movie: "105443, 105460, 68676, 68678, 68688", poster: "https://artworks.thetvdb.com/banners/posters/259155-1.jpg" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

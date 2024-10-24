@@ -1,6 +1,6 @@
 collections:
   "Marvel Universe":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "00", sort_separator: " - ", movie: "76170, 9738, 9947, 559, 1250, 1927, 36647, 558, 9480, 1930, 36658, 299537, 71676, 36586, 36657, 607, 166424, 49538, 497698, 36668, 211387, 2080, 127585, 566525, 102382, 608, 263115, 557, 1979, 246655, 36648, 609681", poster: "https://theposterdb.com/api/assets/162417" }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "00", sort_separator: " - ", movie: "102382, 10658, 1250, 127585, 13056, 166424, 1927, 1930, 1979, 2080, 211387, 23483, 246655, 253980, 263115, 299537, 36586, 36647, 36648, 36657, 36658, 36668, 41154, 49538, 497698, 557, 558, 559, 566525, 59859, 607, 608, 609681, 71676, 7220, 76170, 76535, 9480, 9738, 9947", poster: "https://theposterdb.com/api/assets/162417" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

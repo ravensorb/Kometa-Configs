@@ -1,6 +1,6 @@
 collections:
   "Signed, Sealed, Delivered":
-    variables: { movie: "407171, 483180, 231617, 414762, 438573, 526089, 308686, 473896, 860271, 379992, 355730, 361261, 338485", poster: "https://i.imgur.com/5hbuvta.jpg" }
+    variables: { movie: "231617, 308686, 338485, 355730, 361261, 379992, 407171, 414762, 438573, 473896, 483180, 526089, 860271", poster: "https://i.imgur.com/5hbuvta.jpg" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

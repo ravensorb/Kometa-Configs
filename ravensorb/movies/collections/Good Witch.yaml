@@ -1,6 +1,6 @@
 collections:
   "Good Witch":
-    variables: { movie: "61005, 148656, 638187, 81033, 60821, 638186, 32790", poster: "https://theposterdb.com/api/assets/445967" }
+    variables: { movie: "148656, 32790, 60821, 61005, 638186, 638187, 81033", poster: "https://theposterdb.com/api/assets/445967" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

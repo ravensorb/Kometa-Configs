@@ -1,6 +1,6 @@
 collections:
   "Incredible Hulk":
-    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "1724, 65294, 19593, 26881, 1927, 26883", poster: "https://theposterdb.com/api/assets/329539" }
+    variables: { label: "MCU", sort_prefix: "MCU", sort_order: "01", sort_separator: " - ", movie: "101907, 1724, 1927, 19593, 26881, 26883, 30675, 65294", poster: "https://theposterdb.com/api/assets/329539" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 

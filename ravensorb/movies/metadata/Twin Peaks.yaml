@@ -1,6 +1,5 @@
 metadata:
-    "Twin Peaks (1989)":
-        year: 1989
+    "Twin Peaks":
         title: "Twin Peaks"
         match:
           mapping_id: tt27449259

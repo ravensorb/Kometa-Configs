@@ -1,6 +1,6 @@
 collections:
   "Father O'Malley":
-    variables: { movie: "32430, 17661", poster: "https://theposterdb.com/api/assets/308481" }
+    variables: { movie: "17661, 32430", poster: "https://theposterdb.com/api/assets/308481" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
