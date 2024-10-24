@@ -1,16 +1,16 @@
 collections:
   "Beverly Hills Cop":
-    variables: { movie: "96, 90, 306, 280180", poster: "https://theposterdb.com/api/assets/163980" }
+    variables: { movie: "280180, 306, 90, 96", poster: "https://theposterdb.com/api/assets/163980" }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Bevery%20Hills%20Cop&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22Bevery%20Hills%20Cop%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Bevery%20Hills%20Cop
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Bevery%20Hills%20Cop
-    # trakt: https://trakt.tv/search/lists?query=Bevery%20Hills%20Cop
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Beverly%20Hills%20Cop&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Beverly%20Hills%20Cop%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Beverly%20Hills%20Cop
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Beverly%20Hills%20Cop
+    # trakt: https://trakt.tv/search/lists?query=Beverly%20Hills%20Cop
     # collection_mode: hide
     # trakt_list:
     #   -
