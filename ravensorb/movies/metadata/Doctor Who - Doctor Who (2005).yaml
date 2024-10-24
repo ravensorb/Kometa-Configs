@@ -29,24 +29,22 @@ metadata:
         match:
           mapping_id: 315623
         url_poster: https://theposterdb.com/api/assets/465075
-        # IDs: tmdb://315623, tvdb://62504
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Doctor%2C%20the%20Widow%20and%20the%20Wardrobe&category=Movies&year_filter=equals&yone=2011&tmdb_id=315623&tvdb_id=62504
+        # IDs: tmdb://315623
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Doctor%2C%20the%20Widow%20and%20the%20Wardrobe&category=Movies&year_filter=equals&yone=2011&tmdb_id=315623
         # tmdb: https://www.themoviedb.org/movie/315623
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=62504
+        # tvdb: 
         # imdb: 
 
-    "Doctor Who: Dreamland (2009)":
-        year: 2009
-        title: "Doctor Who: Dreamland"
+    "Doctor Who: The Day of the Doctor (2013)":
+        year: 2013
+        title: "Doctor Who: The Day of the Doctor"
         match:
-          mapping_id: 129387
-          title: 
-            - Doctor Who: Dreamland
-        # url_poster: https://theposterdb.com/api/assets/
-        # IDs: tvdb://37564
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Dreamland&category=Movies&year_filter=equals&yone=2009&tvdb_id=37564
-        # tmdb: 
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=37564
+          mapping_id: 313106
+        url_poster: https://theposterdb.com/api/assets/185057
+        # IDs: tmdb://313106
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Day%20of%20the%20Doctor&category=Movies&year_filter=equals&yone=2013&tmdb_id=313106
+        # tmdb: https://www.themoviedb.org/movie/313106
+        # tvdb: 
         # imdb: 
 
     "Doctor Who: The Time of the Doctor (2013)":
@@ -54,21 +52,9 @@ metadata:
         title: "Doctor Who: The Time of the Doctor"
         match:
           mapping_id: 282848
-        # url_poster: https://theposterdb.com/api/assets/463068
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: tmdb://282848
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Time%20of%20the%20Doctor&category=Movies&year_filter=equals&yone=2013&tmdb_id=282848
         # tmdb: https://www.themoviedb.org/movie/282848
         # tvdb: 
         # imdb: 
-
-    "Talking Doctor Who (2023)":
-        year: 2023
-        title: "Talking Doctor Who"
-        match:
-          mapping_id: 1193137
-        # url_poster: https://theposterdb.com/api/assets/
-        # IDs: imdb://tt29926368, tmdb://1193137
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Talking%20Doctor%20Who&category=Movies&year_filter=equals&yone=2023&tmdb_id=1193137&imdb_id=tt29926368
-        # tmdb: https://www.themoviedb.org/movie/1193137
-        # tvdb: 
-        # imdb: https://www.imdb.com/title/tt29926368
