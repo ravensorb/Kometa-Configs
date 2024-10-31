@@ -48,18 +48,6 @@ metadata:
         # tvdb: 
         # imdb: 
 
-    "Star Trek: Renegades (2015)":
-        year: 2015
-        title: "Star Trek: Renegades"
-        match:
-          mapping_id: 972398
-        # url_poster: https://theposterdb.com/api/assets/
-        # IDs: tmdb://972398
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Renegades&category=Movies&year_filter=equals&yone=2015&tmdb_id=972398
-        # tmdb: https://www.themoviedb.org/movie/972398
-        # tvdb: 
-        # imdb: 
-
     "50 Years of Star Trek (2016)":
         year: 2016
         title: "50 Years of Star Trek"

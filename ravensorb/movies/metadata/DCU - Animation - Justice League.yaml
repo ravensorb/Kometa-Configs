@@ -122,7 +122,7 @@ metadata:
     "Justice League vs the Fatal Five (2019)":
         year: 2019
         title: "Justice League vs the Fatal Five"
-        orig_title: "Justice League vs. the Fatal Five"
+        original_title: "Justice League vs. the Fatal Five"
         match:
           mapping_id: 537059
         url_poster: https://theposterdb.com/api/assets/193373

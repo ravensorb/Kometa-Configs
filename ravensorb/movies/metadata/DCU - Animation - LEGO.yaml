@@ -14,7 +14,7 @@ metadata:
     "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom! (2015)":
         year: 2015
         title: "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom!"
-        orig_title: "Lego DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!"
+        original_title: "Lego DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!"
         match:
           mapping_id: 353595
         url_poster: https://theposterdb.com/api/assets/294329
@@ -87,7 +87,7 @@ metadata:
     "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis (2018)":
         year: 2018
         title: "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis"
-        orig_title: "Lego DC Comics Super Heroes: Aquaman - Rage of Atlantis"
+        original_title: "Lego DC Comics Super Heroes: Aquaman - Rage of Atlantis"
         match:
           mapping_id: 513736
         url_poster: https://theposterdb.com/api/assets/294333
@@ -112,7 +112,7 @@ metadata:
     "LEGO DC: Shazam! Magic and Monsters (2020)":
         year: 2020
         title: "LEGO DC: Shazam! Magic and Monsters"
-        orig_title: "Lego DC Shazam!: Magic and Monsters"
+        original_title: "Lego DC Shazam!: Magic and Monsters"
         match:
           mapping_id: 690369
         url_poster: https://theposterdb.com/api/assets/294335

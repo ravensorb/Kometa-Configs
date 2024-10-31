@@ -14,7 +14,7 @@ metadata:
     "Green Arrow (2010)":
         year: 2010
         title: "Green Arrow"
-        orig_title: "DC Showcase: Green Arrow"
+        original_title: "DC Showcase: Green Arrow"
         match:
           mapping_id: 46718
         url_poster: https://theposterdb.com/api/assets/292452
@@ -63,7 +63,7 @@ metadata:
     "Constantine: City of Demons - The Movie (2018)":
         year: 2018
         title: "Constantine: City of Demons - The Movie"
-        orig_title: "Constantine: City of Demons"
+        original_title: "Constantine: City of Demons"
         match:
           mapping_id: 539517
         url_poster: https://theposterdb.com/api/assets/193371

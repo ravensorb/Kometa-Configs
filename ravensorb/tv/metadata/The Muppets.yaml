@@ -1,4 +1,30 @@
 metadata:
+    "The Muppet Show (1976)":
+        year: 1976
+        title: "The Muppet Show"
+        sort_title: "Muppet Show"
+        url_poster: https://theposterdb.com/api/assets/262572
+        match:
+          mapping_id: 4459
+        # IDs: 
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppet%20Show&category=Shows&year_filter=equals&yone=1968
+        # tmdb: 
+        # tvdb: 
+        # imdb: 
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/262511
+            2:
+                url_poster: https://theposterdb.com/api/assets/262512
+            3:
+                url_poster: https://theposterdb.com/api/assets/262513
+            4:
+                url_poster: https://theposterdb.com/api/assets/262514
+            5:
+                url_poster: https://theposterdb.com/api/assets/262515
+
     "The Muppets (2015)":
         year: 2015
         title: "The Muppets"

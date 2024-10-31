@@ -2,7 +2,7 @@ metadata:
     "Superman: The Mechanical Monsters (1941)":
         year: 1941
         title: "Superman: The Mechanical Monsters"
-        orig_title: "The Mechanical Monsters"
+        original_title: "The Mechanical Monsters"
         match:
           mapping_id: 71129
         # url_poster: https://theposterdb.com/api/assets/
@@ -15,7 +15,7 @@ metadata:
     "Superman: The Mad Scientist (1941)":
         year: 1941
         title: "Superman: The Mad Scientist"
-        orig_title: "Superman"
+        original_title: "Superman"
         match:
           mapping_id: 95414
         # url_poster: https://theposterdb.com/api/assets/
@@ -28,7 +28,7 @@ metadata:
     "Superman: Billion Dollar Limited (1942)":
         year: 1942
         title: "Superman: Billion Dollar Limited"
-        orig_title: "Billion Dollar Limited"
+        original_title: "Billion Dollar Limited"
         match:
           mapping_id: 145931
         # url_poster: https://theposterdb.com/api/assets/
@@ -41,7 +41,7 @@ metadata:
     "Superman: Terror on the Midway (1942)":
         year: 1942
         title: "Superman: Terror on the Midway"
-        orig_title: "Terror on the Midway"
+        original_title: "Terror on the Midway"
         match:
           mapping_id: 145977
         # url_poster: https://theposterdb.com/api/assets/
@@ -54,7 +54,7 @@ metadata:
     "Superman: Showdown (1942)":
         year: 1942
         title: "Superman: Showdown"
-        orig_title: "Showdown"
+        original_title: "Showdown"
         match:
           mapping_id: 146053
         # url_poster: https://theposterdb.com/api/assets/
@@ -67,7 +67,7 @@ metadata:
     "Superman: The Arctic Giant (1942)":
         year: 1942
         title: "Superman: The Arctic Giant"
-        orig_title: "The Arctic Giant"
+        original_title: "The Arctic Giant"
         match:
           mapping_id: 145961
         # url_poster: https://theposterdb.com/api/assets/
@@ -80,7 +80,7 @@ metadata:
     "Superman: The Bulleteers (1942)":
         year: 1942
         title: "Superman: The Bulleteers"
-        orig_title: "The Bulleteers"
+        original_title: "The Bulleteers"
         match:
           mapping_id: 145963
         # url_poster: https://theposterdb.com/api/assets/
@@ -93,7 +93,7 @@ metadata:
     "Superman: The Magnetic Telescope (1942)":
         year: 1942
         title: "Superman: The Magnetic Telescope"
-        orig_title: "The Magnetic Telescope"
+        original_title: "The Magnetic Telescope"
         match:
           mapping_id: 99678
         # url_poster: https://theposterdb.com/api/assets/
@@ -106,7 +106,7 @@ metadata:
     "Superman: Volcano (1942)":
         year: 1942
         title: "Superman: Volcano"
-        orig_title: "Volcano"
+        original_title: "Volcano"
         match:
           mapping_id: 145969
         # url_poster: https://theposterdb.com/api/assets/
@@ -119,7 +119,7 @@ metadata:
     "Superman: Japoteurs (1942)":
         year: 1942
         title: "Superman: Japoteurs"
-        orig_title: "Japoteurs"
+        original_title: "Japoteurs"
         match:
           mapping_id: 71128
         # url_poster: https://theposterdb.com/api/assets/
@@ -132,7 +132,7 @@ metadata:
     "Superman: Eleventh Hour (1942)":
         year: 1942
         title: "Superman: Eleventh Hour"
-        orig_title: "Eleventh Hour"
+        original_title: "Eleventh Hour"
         match:
           mapping_id: 146058
         # url_poster: https://theposterdb.com/api/assets/
@@ -145,7 +145,7 @@ metadata:
     "Superman: Electric Earthquake (1942)":
         year: 1942
         title: "Superman: Electric Earthquake"
-        orig_title: "Electric Earthquake"
+        original_title: "Electric Earthquake"
         match:
           mapping_id: 145967
         # url_poster: https://theposterdb.com/api/assets/
@@ -158,7 +158,7 @@ metadata:
     "Superman: Destruction Inc. (1942)":
         year: 1942
         title: "Superman: Destruction Inc."
-        orig_title: "Destruction Inc."
+        original_title: "Destruction Inc."
         match:
           mapping_id: 146059
         # url_poster: https://theposterdb.com/api/assets/
@@ -209,7 +209,7 @@ metadata:
     "Superman: Secret Agent (1943)":
         year: 1943
         title: "Superman: Secret Agent"
-        orig_title: "Secret Agent"
+        original_title: "Secret Agent"
         match:
           mapping_id: 146074
         # url_poster: https://theposterdb.com/api/assets/
@@ -234,7 +234,7 @@ metadata:
     "Superman/Doomsday (2007)":
         year: 2007
         title: "Superman/Doomsday"
-        orig_title: "Superman: Doomsday"
+        original_title: "Superman: Doomsday"
         match:
           mapping_id: 13640
         url_poster: https://theposterdb.com/api/assets/193337

@@ -111,7 +111,7 @@ metadata:
     "Ten Little Indians (1974)":
         year: 1974
         title: "Ten Little Indians"
-        orig_title: "And Then There Were None"
+        original_title: "And Then There Were None"
         match:
           mapping_id: 4883
         url_poster: https://theposterdb.com/api/assets/483669
@@ -305,7 +305,7 @@ metadata:
     "Agatha Christie: 100 Years of Suspense (2020)":
         year: 2020
         title: "Agatha Christie: 100 Years of Suspense"
-        orig_title: "Agatha Christie: 100 Years of Poirot and Miss Marple"
+        original_title: "Agatha Christie: 100 Years of Poirot and Miss Marple"
         match:
           mapping_id: 753489
         # url_poster: https://theposterdb.com/api/assets/

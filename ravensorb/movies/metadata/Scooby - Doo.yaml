@@ -530,7 +530,7 @@ metadata:
     "Scooby-Doo & Batman: The Brave and the Bold (2018)":
         year: 2018
         title: "Scooby-Doo & Batman: The Brave and the Bold"
-        orig_title: "Scooby-Doo! & Batman: The Brave and the Bold"
+        original_title: "Scooby-Doo! & Batman: The Brave and the Bold"
         match:
           mapping_id: 484862
         url_poster: https://theposterdb.com/api/assets/241219

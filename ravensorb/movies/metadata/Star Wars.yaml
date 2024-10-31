@@ -51,7 +51,7 @@ metadata:
     "The Ewok Adventure (1984)":
         year: 1984
         title: "The Ewok Adventure"
-        orig_title: "Caravan of Courage: An Ewok Adventure"
+        original_title: "Caravan of Courage: An Ewok Adventure"
         sort_title: "Ewok Adventure"
         match:
           mapping_id: 1884
@@ -176,7 +176,7 @@ metadata:
     "Star Wars: Episode VII - The Force Awakens (2015)":
         year: 2015
         title: "Star Wars: Episode VII - The Force Awakens"
-        orig_title: "Star Wars: The Force Awakens"
+        original_title: "Star Wars: The Force Awakens"
         match:
           mapping_id: 140607
         url_poster: https://theposterdb.com/api/assets/174467
@@ -265,7 +265,7 @@ metadata:
     "Lego Star Wars Terrifying Tales (2021)":
         year: 2021
         title: "Lego Star Wars Terrifying Tales"
-        orig_title: "LEGO Star Wars Terrifying Tales"
+        original_title: "LEGO Star Wars Terrifying Tales"
         match:
           mapping_id: 857702
         url_poster: https://theposterdb.com/api/assets/244817
@@ -278,7 +278,7 @@ metadata:
     "Lego Star Wars Summer Vacation (2022)":
         year: 2022
         title: "Lego Star Wars Summer Vacation"
-        orig_title: "LEGO Star Wars Summer Vacation"
+        original_title: "LEGO Star Wars Summer Vacation"
         match:
           mapping_id: 980804
         url_poster: https://theposterdb.com/api/assets/244819

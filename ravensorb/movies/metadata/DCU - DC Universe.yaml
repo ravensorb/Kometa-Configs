@@ -464,7 +464,7 @@ metadata:
     "Birds of Prey (2020)":
         year: 2020
         title: "Birds of Prey"
-        orig_title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
+        original_title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
         match:
           mapping_id: 495764
         url_poster: https://theposterdb.com/api/assets/171550

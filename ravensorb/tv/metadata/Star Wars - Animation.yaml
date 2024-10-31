@@ -78,7 +78,7 @@ metadata:
     "Star Wars: Rebels (2014)":
         year: 2014
         title: "Star Wars: Rebels"
-        orig_title: "Star Wars Rebels"
+        original_title: "Star Wars Rebels"
         url_poster: https://theposterdb.com/api/assets/328786
         match:
           mapping_id: 283468
@@ -98,7 +98,7 @@ metadata:
     "Star Wars: Forces of Destiny (2017)":
         year: 2017
         title: "Star Wars: Forces of Destiny"
-        orig_title: "Star Wars Forces of Destiny"
+        original_title: "Star Wars Forces of Destiny"
         url_poster: https://theposterdb.com/api/assets/328828
         match:
           mapping_id: 330710
@@ -116,7 +116,7 @@ metadata:
     "Star Wars: Resistance (2018)":
         year: 2018
         title: "Star Wars: Resistance"
-        orig_title: "Star Wars Resistance"
+        original_title: "Star Wars Resistance"
         url_poster: https://theposterdb.com/api/assets/328792
         match:
           mapping_id: 351575

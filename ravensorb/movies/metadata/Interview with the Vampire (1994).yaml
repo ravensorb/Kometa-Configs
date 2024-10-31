@@ -1,7 +1,7 @@
 metadata:
-    "Interview with the Vampire: The Vampire Chronicles (1994)":
+    "Interview with the Vampire":
         year: 1994
-        title: "Interview with the Vampire: The Vampire Chronicles"
+        title: "Interview with the Vampire"
         match:
           mapping_id: 628
         url_poster: https://theposterdb.com/api/assets/178121
