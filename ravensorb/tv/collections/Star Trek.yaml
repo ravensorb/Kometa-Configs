@@ -1,6 +1,12 @@
 collections:
   "Star Trek":
-    variables: { sort_prefix: "Star Trek", sort_order: "00", sort_separator: " - ", show: "328711, 358781, 364093, 367138, 368778, 376108, 382389, 385811, 398399, 71470, 72073, 73566, 73893, 74550, 77526", poster: "https://theposterdb.com/api/assets/52754" }
+    variables: {
+      sort_prefix: "Star Trek",
+      sort_order: "00",
+      sort_separator: " - ",
+      show: "328711, 358781, 364093, 367138, 368778, 376108, 382389, 385811, 398399, 71470, 72073, 73566, 73893, 74550, 77526",
+      poster: "https://theposterdb.com/api/assets/52754"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +40,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

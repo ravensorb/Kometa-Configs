@@ -1,6 +1,12 @@
 collections:
   "DC Universe":
-    variables: { sort_prefix: "DCU", sort_order: "00", sort_separator: " - ", show: "102621, 251807, 257655, 273690, 274431, 279121, 281470, 295685, 295759, 295760, 300472, 311786, 328599, 332525, 336139, 341663, 355622, 360733, 361315, 361735, 361868, 363008, 365677, 366211, 375655, 391153, 403412, 71228, 71788, 72218, 72468, 73180, 74603, 76168, 76320, 76837, 76857, 76871, 77084, 77403, 77746, 77871, 78650, 82824, 94801", poster: "https://theposterdb.com/api/assets/239356" }
+    variables: {
+      sort_prefix: "DCU",
+      sort_order: "00",
+      sort_separator: " - ",
+      show: "102621, 251807, 257655, 273690, 274431, 279121, 281470, 295685, 295759, 295760, 300472, 311786, 328599, 332525, 336139, 341663, 355622, 360733, 361315, 361735, 361868, 363008, 365677, 366211, 375655, 391153, 403412, 71228, 71788, 72218, 72468, 73180, 74603, 76168, 76320, 76837, 76857, 76871, 77084, 77403, 77746, 77871, 78650, 82824, 94801",
+      poster: "https://theposterdb.com/api/assets/239356"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -35,8 +41,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 
