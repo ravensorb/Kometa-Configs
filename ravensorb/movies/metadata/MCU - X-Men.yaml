@@ -18,7 +18,7 @@ metadata:
         sort_title: "MCU - 01 - Making 'Logan'"
         match:
           mapping_id: tt7178282
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/171119
         # IDs: imdb://tt7178282, tvdb://321029
         # tpdb: https://theposterdb.com/search/advanced/results?term=Making%20%27Logan%27&category=Movies&year_filter=equals&yone=2017&imdb_id=tt7178282&tvdb_id=321029
         # tmdb: 

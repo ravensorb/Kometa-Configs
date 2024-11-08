@@ -1,6 +1,7 @@
 collections:
   "Doctor Who (Classic)":
     variables: {
+      label: "Doctor Who",
       sort_prefix: "Doctor Who",
       sort_order: "01",
       sort_separator: " - ",

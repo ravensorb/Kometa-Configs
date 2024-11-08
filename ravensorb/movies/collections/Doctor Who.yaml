@@ -1,6 +1,13 @@
 collections:
   "Doctor Who":
-    variables: { label: "Doctor Who", sort_prefix: "Doctor Who", sort_order: "00", sort_separator: " - ", movie: "1008773, 1193137, 15691, 16387, 210024, 26581, 282848, 313106, 445374, 491940", poster: "https://theposterdb.com/api/assets/163698" }
+    variables: {
+      label: "Doctor Who",
+      sort_prefix: "Doctor Who",
+      sort_order: "00",
+      sort_separator: " - ",
+      movie: "1008773, 1193137, 15691, 16387, 210024, 26581, 282848, 293209, 313106, 382024, 436981, 445374, 491940",
+      poster: "https://theposterdb.com/api/assets/163698"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +41,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

@@ -4,7 +4,7 @@ metadata:
         title: "Mythica: A Quest for Heroes"
         match:
           mapping_id: 321068
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/501922
         # IDs: imdb://tt3405714, tmdb://321068, tvdb://5442
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20A%20Quest%20for%20Heroes&category=Movies&year_filter=equals&yone=2014&tmdb_id=321068&imdb_id=tt3405714&tvdb_id=5442
         # tmdb: https://www.themoviedb.org/movie/321068
@@ -16,7 +16,7 @@ metadata:
         title: "Mythica: The Darkspore"
         match:
           mapping_id: 347096
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt3478232, tmdb://347096, tvdb://8427
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20The%20Darkspore&category=Movies&year_filter=equals&yone=2015&tmdb_id=347096&imdb_id=tt3478232&tvdb_id=8427
         # tmdb: https://www.themoviedb.org/movie/347096
@@ -28,7 +28,7 @@ metadata:
         title: "Mythica: The Necromancer"
         match:
           mapping_id: 370687
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/501920
         # IDs: imdb://tt3608646, tmdb://370687, tvdb://10989
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20The%20Necromancer&category=Movies&year_filter=equals&yone=2015&tmdb_id=370687&imdb_id=tt3608646&tvdb_id=10989
         # tmdb: https://www.themoviedb.org/movie/370687
@@ -40,7 +40,7 @@ metadata:
         title: "Mythica: The Godslayer"
         match:
           mapping_id: 401689
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/501918
         # IDs: imdb://tt5327922, tmdb://401689, tvdb://11271
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20The%20Godslayer&category=Movies&year_filter=equals&yone=2016&tmdb_id=401689&imdb_id=tt5327922&tvdb_id=11271
         # tmdb: https://www.themoviedb.org/movie/401689
@@ -52,7 +52,7 @@ metadata:
         title: "Mythica: The Iron Crown"
         match:
           mapping_id: 388191
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/501919
         # IDs: imdb://tt5456798, tmdb://388191, tvdb://9868
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20The%20Iron%20Crown&category=Movies&year_filter=equals&yone=2016&tmdb_id=388191&imdb_id=tt5456798&tvdb_id=9868
         # tmdb: https://www.themoviedb.org/movie/388191

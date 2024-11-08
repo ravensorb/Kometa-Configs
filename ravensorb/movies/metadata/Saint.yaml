@@ -31,7 +31,7 @@ metadata:
         sort_title: "Saint"
         match:
           mapping_id: 10003
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/220576
         # IDs: imdb://tt0120053, tmdb://10003, tvdb://4684
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Saint&category=Movies&year_filter=equals&yone=1997&tmdb_id=10003&imdb_id=tt0120053&tvdb_id=4684
         # tmdb: https://www.themoviedb.org/movie/10003
@@ -44,7 +44,7 @@ metadata:
         sort_title: "Saint"
         match:
           mapping_id: 463906
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/477919
         # IDs: imdb://tt2569088, tmdb://463906, tvdb://7027
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Saint&category=Movies&year_filter=equals&yone=2017&tmdb_id=463906&imdb_id=tt2569088&tvdb_id=7027
         # tmdb: https://www.themoviedb.org/movie/463906

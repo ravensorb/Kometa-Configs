@@ -1,12 +1,14 @@
 collections:
   "Buffyverse":
-    variables: { movie: "10206", poster: https://theposterdb.com/api/assets/167010 }
+    variables: {
+      movie: "10206",
+      poster: "https://theposterdb.com/api/assets/167010"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # summary:
     # tpdb: https://theposterdb.com/search/advanced/results?term=Buffyverse&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Buffyverse
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Buffyverse
@@ -35,8 +37,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

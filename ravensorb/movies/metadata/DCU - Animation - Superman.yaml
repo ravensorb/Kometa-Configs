@@ -18,7 +18,7 @@ metadata:
         original_title: "Superman"
         match:
           mapping_id: 95414
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/450655
         # IDs: imdb://tt0034247, tmdb://95414
         # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Mad%20Scientist&category=Movies&year_filter=equals&yone=1941&tmdb_id=95414&imdb_id=tt0034247
         # tmdb: https://www.themoviedb.org/movie/95414
@@ -70,7 +70,7 @@ metadata:
         original_title: "The Arctic Giant"
         match:
           mapping_id: 145961
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/428869
         # IDs: imdb://tt0034466, tmdb://145961, tvdb://75391
         # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Arctic%20Giant&category=Movies&year_filter=equals&yone=1942&tmdb_id=145961&imdb_id=tt0034466&tvdb_id=75391
         # tmdb: https://www.themoviedb.org/movie/145961
@@ -161,7 +161,7 @@ metadata:
         original_title: "Destruction Inc."
         match:
           mapping_id: 146059
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/466151
         # IDs: imdb://tt0034648, tmdb://146059, tvdb://74807
         # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Destruction%20Inc.&category=Movies&year_filter=equals&yone=1942&tmdb_id=146059&imdb_id=tt0034648&tvdb_id=74807
         # tmdb: https://www.themoviedb.org/movie/146059

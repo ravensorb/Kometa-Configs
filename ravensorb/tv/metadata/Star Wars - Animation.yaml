@@ -63,7 +63,7 @@ metadata:
     "Star Wars: Tales of the Empire (2024)":
         year: 2024
         title: "Star Wars: Tales of the Empire"
-        # url_poster: https://theposterdb.com/api/assets/494873
+        url_poster: https://theposterdb.com/api/assets/494873
         match:
           mapping_id: 448549
         # IDs: imdb://tt32019314, tmdb://251091, tvdb://448549

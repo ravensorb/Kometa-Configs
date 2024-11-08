@@ -16,7 +16,7 @@ metadata:
         title: "Sleuth"
         match:
           mapping_id: 4520
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/523363
         # IDs: imdb://tt0857265, tmdb://4520, tvdb://9507
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sleuth&category=Movies&year_filter=equals&yone=2007&tmdb_id=4520&imdb_id=tt0857265&tvdb_id=9507
         # tmdb: https://www.themoviedb.org/movie/4520

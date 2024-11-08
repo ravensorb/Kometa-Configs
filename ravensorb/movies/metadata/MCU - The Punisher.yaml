@@ -5,7 +5,7 @@ metadata:
         sort_title: "MCU - 01 - The Punisher 1"
         match:
           mapping_id: 7220
-        # url_poster: https://theposterdb.com/api/assets/171139
+        url_poster: https://theposterdb.com/api/assets/171139
         # IDs: imdb://tt0330793, tmdb://7220, tvdb://1906
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Punisher&category=Movies&year_filter=equals&yone=2004&tmdb_id=7220&imdb_id=tt0330793&tvdb_id=1906
         # tmdb: https://www.themoviedb.org/movie/7220

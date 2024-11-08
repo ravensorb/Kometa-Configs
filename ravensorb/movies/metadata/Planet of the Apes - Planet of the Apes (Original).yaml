@@ -4,7 +4,7 @@ metadata:
         title: "Planet of the Apes"
         match:
           mapping_id: 871
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/187337
         # IDs: imdb://tt0063442, tmdb://871, tvdb://1440
         # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1968&tmdb_id=871&imdb_id=tt0063442&tvdb_id=1440
         # tmdb: https://www.themoviedb.org/movie/871

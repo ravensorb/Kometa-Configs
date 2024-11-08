@@ -16,9 +16,9 @@ metadata:
         title: "Scooby Goes Hollywood"
         match:
           mapping_id: 36972
-        # url_poster: https://theposterdb.com/api/assets/241181
+        url_poster: https://theposterdb.com/api/assets/241181
         # IDs: imdb://tt0191423, tmdb://36972, tvdb://34036
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby%20Goes%20Hollywood&category=Movies&year_filter=equals&yone=1979
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby%20Goes%20Hollywood&category=Movies&year_filter=equals&yone=1979&tmdb_id=36972&imdb_id=tt0191423&tvdb_id=34036
         # tmdb: https://www.themoviedb.org/movie/36972
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1979&query=34036
         # imdb: https://www.imdb.com/title/tt0191423
@@ -419,6 +419,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=14311
         # imdb: https://www.imdb.com/title/tt3025994
 
+    "Scooby-Doo! and the Spooky Scarecrow (2013)":
+        year: 2013
+        title: "Scooby-Doo! and the Spooky Scarecrow"
+        match:
+          mapping_id: 286387
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3328418, tmdb://286387, tvdb://40722
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20and%20the%20Spooky%20Scarecrow&category=Movies&year_filter=equals&yone=2013&tmdb_id=286387&imdb_id=tt3328418&tvdb_id=40722
+        # tmdb: https://www.themoviedb.org/movie/286387
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=40722
+        # imdb: https://www.imdb.com/title/tt3328418
+
     "Scooby-Doo! Frankencreepy (2014)":
         year: 2014
         title: "Scooby-Doo! Frankencreepy"
@@ -454,6 +466,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/370086
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=19273
         # imdb: https://www.imdb.com/title/tt5377164
+
+    "Scooby-Doo! And Kiss: Rock and Roll Mystery (2015)":
+        year: 2015
+        title: "Scooby-Doo! And Kiss: Rock and Roll Mystery"
+        match:
+          mapping_id: 347688
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4717798, tmdb://347688, tvdb://16760
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20And%20Kiss%3A%20Rock%20and%20Roll%20Mystery&category=Movies&year_filter=equals&yone=2015&tmdb_id=347688&imdb_id=tt4717798&tvdb_id=16760
+        # tmdb: https://www.themoviedb.org/movie/347688
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=16760
+        # imdb: https://www.imdb.com/title/tt4717798
 
     "Scooby-Doo! Moon Monster Madness (2015)":
         year: 2015
@@ -503,16 +527,16 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=13914
         # imdb: https://www.imdb.com/title/tt6946580
 
-    "Scooby-Doo! Shaggy's Showdown (2016)":
-        year: 2016
+    "Scooby-Doo! Shaggy's Showdown (2017)":
+        year: 2017
         title: "Scooby-Doo! Shaggy's Showdown"
         match:
           mapping_id: 427564
-        url_poster: https://theposterdb.com/api/assets/241218
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt6425560, tmdb://427564, tvdb://16132
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20Shaggy%27s%20Showdown&category=Movies&year_filter=equals&yone=2016&tmdb_id=427564&imdb_id=tt6425560&tvdb_id=16132
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20Shaggy%27s%20Showdown&category=Movies&year_filter=equals&yone=2017&tmdb_id=427564&imdb_id=tt6425560&tvdb_id=16132
         # tmdb: https://www.themoviedb.org/movie/427564
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=16132
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=16132
         # imdb: https://www.imdb.com/title/tt6425560
 
     "Daphne & Velma (2018)":

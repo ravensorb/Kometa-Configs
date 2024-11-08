@@ -29,7 +29,7 @@ metadata:
         sort_title: "Cat in the Hat"
         match:
           mapping_id: 43580
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/460978
         # IDs: imdb://tt0284714, tmdb://43580, tvdb://43273
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Cat%20in%20the%20Hat&category=Movies&year_filter=equals&yone=1971&tmdb_id=43580&imdb_id=tt0284714&tvdb_id=43273
         # tmdb: https://www.themoviedb.org/movie/43580

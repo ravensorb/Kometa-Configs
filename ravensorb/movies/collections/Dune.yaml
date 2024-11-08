@@ -1,6 +1,9 @@
 collections:
   "Dune":
-    variables: { movie: "438631, 693134, 841", poster: "https://theposterdb.com/api/assets/208231" }
+    variables: {
+      movie: "438631, 693134, 841",
+      poster: "https://theposterdb.com/api/assets/208231"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +37,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

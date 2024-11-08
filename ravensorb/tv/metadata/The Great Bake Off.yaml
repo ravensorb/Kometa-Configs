@@ -42,8 +42,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/293236
             14:
                 url_poster: https://theposterdb.com/api/assets/441609
-            # 15:
-                # url_poster: https://theposterdb.com/api/assets/
+            15:
+                url_poster: https://theposterdb.com/api/assets/536207
 
     "The Great British Baking Show Masterclass (2013)":
         year: 2013
@@ -163,4 +163,20 @@ metadata:
             # 6:
                 # url_poster: https://theposterdb.com/api/assets/
             # 7:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "The Great Kenyan Bake Off (2019)":
+        year: 2019
+        title: "The Great Kenyan Bake Off"
+        sort_title: "Great Kenyan Bake Off"
+        match:
+          mapping_id: 204644
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://204644
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Great%20Kenyan%20Bake%20Off&category=Shows&year_filter=equals&yone=2019&tmdb_id=204644
+        # tmdb: https://www.themoviedb.org/tv/204644
+        # tvdb: 
+        # imdb: 
+        # seasons:
+            # 2:
                 # url_poster: https://theposterdb.com/api/assets/

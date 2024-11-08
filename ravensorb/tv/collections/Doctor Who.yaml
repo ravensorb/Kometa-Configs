@@ -1,6 +1,7 @@
 collections:
   "Doctor Who":
     variables: {
+      label: "Doctor Who",
       sort_prefix: "Doctor Who",
       sort_order: "00",
       sort_separator: " - ",

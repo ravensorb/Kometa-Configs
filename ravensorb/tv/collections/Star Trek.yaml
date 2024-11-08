@@ -1,6 +1,7 @@
 collections:
   "Star Trek":
     variables: {
+      label: "Star Trek",
       sort_prefix: "Star Trek",
       sort_order: "00",
       sort_separator: " - ",

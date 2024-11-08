@@ -11,3 +11,16 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/11398
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2000&query=4688
         # imdb: https://www.imdb.com/title/tt0160009
+
+    "The Art of War II: Betrayal (2008)":
+        year: 2008
+        title: "The Art of War II: Betrayal"
+        sort_title: "Art of War II: Betrayal"
+        match:
+          mapping_id: 13988
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1233571, tmdb://13988, tvdb://15107
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Art%20of%20War%20II%3A%20Betrayal&category=Movies&year_filter=equals&yone=2008&tmdb_id=13988&imdb_id=tt1233571&tvdb_id=15107
+        # tmdb: https://www.themoviedb.org/movie/13988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=15107
+        # imdb: https://www.imdb.com/title/tt1233571

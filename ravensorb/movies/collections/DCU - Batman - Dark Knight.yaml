@@ -1,6 +1,13 @@
 collections:
   "Batman: Dark Knight":
-    variables: { label: "DCU", sort_prefix: "DCU", sort_order: "01", sort_separator: " - ", movie: "155, 272, 49026", poster: "https://theposterdb.com/api/assets/263847" }
+    variables: {
+      label: "DCU",
+      sort_prefix: "DCU",
+      sort_order: "01",
+      sort_separator: " - ",
+      movie: "155, 272, 49026",
+      poster: "https://theposterdb.com/api/assets/263847"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +41,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

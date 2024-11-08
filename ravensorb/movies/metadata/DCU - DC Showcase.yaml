@@ -52,7 +52,7 @@ metadata:
         title: "Catwoman"
         match:
           mapping_id: 76420
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/292453
         # IDs: imdb://tt1986806, tmdb://76420, tvdb://12826
         # tpdb: https://theposterdb.com/search/advanced/results?term=Catwoman&category=Movies&year_filter=equals&yone=2011&tmdb_id=76420&imdb_id=tt1986806&tvdb_id=12826
         # tmdb: https://www.themoviedb.org/movie/76420

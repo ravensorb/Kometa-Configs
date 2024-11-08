@@ -1,6 +1,9 @@
 collections:
   "Percy Jackson":
-    variables: { movie: "32657", poster: "https://theposterdb.com/api/assets/163402" }
+    variables: {
+      movie: "32657, 76285",
+      poster: "https://theposterdb.com/api/assets/163402"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -11,7 +14,7 @@ collections:
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Percy%20Jackson
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Percy%20Jackson
     # trakt: https://trakt.tv/search/lists?query=Percy%20Jackson
-    collection_mode: hide
+    # collection_mode: hide
     # trakt_list:
     #   -
 
@@ -34,8 +37,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

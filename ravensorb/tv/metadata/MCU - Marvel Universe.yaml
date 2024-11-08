@@ -1,4 +1,29 @@
 metadata:
+    "Marvel's Avengers Assemble (2012)":
+        year: 2012
+        title: "Marvel's Avengers Assemble"
+        match:
+          mapping_id: 59427
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2455546, tmdb://59427, tvdb://264030
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Avengers%20Assemble&category=Shows&year_filter=equals&yone=2012&tmdb_id=59427&imdb_id=tt2455546&tvdb_id=264030
+        # tmdb: https://www.themoviedb.org/tv/59427
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=264030
+        # imdb: https://www.imdb.com/title/tt2455546
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/468769
+            2:
+                url_poster: https://theposterdb.com/api/assets/468770
+            3:
+                url_poster: https://theposterdb.com/api/assets/468771
+            4:
+                url_poster: https://theposterdb.com/api/assets/468772
+            5:
+                url_poster: https://theposterdb.com/api/assets/468773
+
     "Marvel's Ultimate Spider-Man (2012)":
         year: 2012
         title: "Marvel's Ultimate Spider-Man"
@@ -51,31 +76,6 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/216604
             7:
                 url_poster: https://theposterdb.com/api/assets/216605
-
-    "Marvel's Avengers Assemble (2013)":
-        year: 2013
-        title: "Marvel's Avengers Assemble"
-        match:
-          mapping_id: 59427
-        url_poster: https://theposterdb.com/api/assets/468768
-        # IDs: imdb://tt2455546, tmdb://59427, tvdb://264030
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Avengers%20Assemble&category=Shows&year_filter=equals&yone=2013&tmdb_id=59427&imdb_id=tt2455546&tvdb_id=264030
-        # tmdb: https://www.themoviedb.org/tv/59427
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264030
-        # imdb: https://www.imdb.com/title/tt2455546
-        seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            1:
-                url_poster: https://theposterdb.com/api/assets/468769
-            2:
-                url_poster: https://theposterdb.com/api/assets/468770
-            3:
-                url_poster: https://theposterdb.com/api/assets/468771
-            4:
-                url_poster: https://theposterdb.com/api/assets/468772
-            5:
-                url_poster: https://theposterdb.com/api/assets/468773
 
     "Marvel's Agent Carter (2015)":
         year: 2015
@@ -419,6 +419,21 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/376619
+
+    "Agatha All Along (2024)":
+        year: 2024
+        title: "Agatha All Along"
+        match:
+          mapping_id: 138501
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt15571732, tmdb://138501, tvdb://412429
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20All%20Along&category=Shows&year_filter=equals&yone=2024&tmdb_id=138501&imdb_id=tt15571732&tvdb_id=412429
+        # tmdb: https://www.themoviedb.org/tv/138501
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412429
+        # imdb: https://www.imdb.com/title/tt15571732
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
 
     "Echo (2024)":
         year: 2024

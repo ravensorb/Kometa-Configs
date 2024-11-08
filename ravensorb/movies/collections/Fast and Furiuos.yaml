@@ -1,6 +1,9 @@
 collections:
   "Fast and Furiuos":
-    variables: { movie: "13804, 168259, 337339, 384018, 385128, 385687, 51497, 584, 82992, 9615, 9799", poster: "https://theposterdb.com/api/assets/164783" }
+    variables: {
+      movie: "13804, 168259, 337339, 384018, 385128, 385687, 51497, 584, 82992, 9615, 9799",
+      poster: "https://theposterdb.com/api/assets/164783"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +37,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

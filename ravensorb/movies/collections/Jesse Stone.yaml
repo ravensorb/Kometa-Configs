@@ -1,6 +1,9 @@
 collections:
   "Jesse Stone":
-    variables: { movie: "110148, 22555, 26114, 30347, 31046, 31047, 361263, 43263, 59238", poster: "https://theposterdb.com/api/assets/493789" }
+    variables: {
+      movie: "110148, 22555, 26114, 30347, 31046, 31047, 361263, 43263, 59238",
+      poster: "https://theposterdb.com/api/assets/493789"
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
@@ -34,8 +37,8 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
 

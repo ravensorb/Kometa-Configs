@@ -4,7 +4,7 @@ metadata:
         title: "MythBusters"
         match:
           mapping_id: 1428
-        url_poster: https://theposterdb.com/api/assets/411453-
+        url_poster: https://theposterdb.com/api/assets/411453
         # IDs: imdb://tt0383126, tmdb://1428, tvdb://73388
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters&category=Shows&year_filter=equals&yone=2003&tmdb_id=1428&imdb_id=tt0383126&tvdb_id=73388
         # tmdb: https://www.themoviedb.org/tv/1428

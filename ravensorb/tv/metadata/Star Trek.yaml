@@ -248,12 +248,12 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/327952
             2:
                 url_poster: https://theposterdb.com/api/assets/327953
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/327954
+            4:
+                url_poster: https://theposterdb.com/api/assets/407430
+            5:
+                url_poster: https://theposterdb.com/api/assets/536943
 
     "Star Trek: Picard (2020)":
         year: 2020
@@ -281,7 +281,7 @@ metadata:
         title: "Star Trek: Prodigy"
         match:
           mapping_id: 106393
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/327960
         # IDs: imdb://tt9795876, tmdb://106393, tvdb://385811
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Prodigy&category=Shows&year_filter=equals&yone=2021&tmdb_id=106393&imdb_id=tt9795876&tvdb_id=385811
         # tmdb: https://www.themoviedb.org/tv/106393
@@ -292,8 +292,8 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327961
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/536948
 
     "The Center Seat: 55 Years of Star Trek (2021)":
         year: 2021

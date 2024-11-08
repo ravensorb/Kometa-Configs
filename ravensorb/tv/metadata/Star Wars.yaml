@@ -84,8 +84,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/328789
             3:
                 url_poster: https://theposterdb.com/api/assets/328790
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            4:
+                url_poster: https://theposterdb.com/api/assets/244760
 
     "LEGO Star Wars (2016)":
         year: 2016
