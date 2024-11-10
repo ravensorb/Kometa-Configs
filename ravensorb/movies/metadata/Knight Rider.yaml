@@ -4,7 +4,7 @@ metadata:
         title: "Knight Rider 2000"
         match:
           mapping_id: 10969
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/322652
         # IDs: imdb://tt0102227, tmdb://10969, tvdb://13868
         # tpdb: https://theposterdb.com/search/advanced/results?term=Knight%20Rider%202000&category=Movies&year_filter=equals&yone=1991&tmdb_id=10969&imdb_id=tt0102227&tvdb_id=13868
         # tmdb: https://www.themoviedb.org/movie/10969

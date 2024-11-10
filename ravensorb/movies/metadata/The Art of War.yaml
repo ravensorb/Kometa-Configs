@@ -18,7 +18,7 @@ metadata:
         sort_title: "Art of War II: Betrayal"
         match:
           mapping_id: 13988
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/203981
         # IDs: imdb://tt1233571, tmdb://13988, tvdb://15107
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Art%20of%20War%20II%3A%20Betrayal&category=Movies&year_filter=equals&yone=2008&tmdb_id=13988&imdb_id=tt1233571&tvdb_id=15107
         # tmdb: https://www.themoviedb.org/movie/13988

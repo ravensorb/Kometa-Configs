@@ -78,7 +78,7 @@ metadata:
         title: "It Was a Short Summer, Charlie Brown"
         match:
           mapping_id: 52955
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284803
         # IDs: imdb://tt0064501, tmdb://52955, tvdb://121683
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%20Was%20a%20Short%20Summer%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1969&tmdb_id=52955&imdb_id=tt0064501&tvdb_id=121683
         # tmdb: https://www.themoviedb.org/movie/52955
@@ -139,7 +139,7 @@ metadata:
         title: "There's No Time for Love, Charlie Brown"
         match:
           mapping_id: 54912
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284807
         # IDs: imdb://tt0070793, tmdb://54912, tvdb://213078
         # tpdb: https://theposterdb.com/search/advanced/results?term=There%27s%20No%20Time%20for%20Love%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1973&tmdb_id=54912&imdb_id=tt0070793&tvdb_id=213078
         # tmdb: https://www.themoviedb.org/movie/54912
@@ -151,7 +151,7 @@ metadata:
         title: "It's a Mystery, Charlie Brown"
         match:
           mapping_id: 52956
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284790
         # IDs: imdb://tt0071678, tmdb://52956, tvdb://176115
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s%20a%20Mystery%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1974&tmdb_id=52956&imdb_id=tt0071678&tvdb_id=176115
         # tmdb: https://www.themoviedb.org/movie/52956
@@ -187,7 +187,7 @@ metadata:
         title: "You're a Good Sport, Charlie Brown"
         match:
           mapping_id: 40483
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284811
         # IDs: imdb://tt0073922, tmdb://40483, tvdb://62133
         # tpdb: https://theposterdb.com/search/advanced/results?term=You%27re%20a%20Good%20Sport%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1975&tmdb_id=40483&imdb_id=tt0073922&tvdb_id=62133
         # tmdb: https://www.themoviedb.org/movie/40483
@@ -247,7 +247,7 @@ metadata:
         title: "You're the Greatest, Charlie Brown"
         match:
           mapping_id: 52446
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284812
         # IDs: imdb://tt0080161, tmdb://52446, tvdb://212798
         # tpdb: https://theposterdb.com/search/advanced/results?term=You%27re%20the%20Greatest%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1979&tmdb_id=52446&imdb_id=tt0080161&tvdb_id=212798
         # tmdb: https://www.themoviedb.org/movie/52446
@@ -271,7 +271,7 @@ metadata:
         title: "Life Is a Circus, Charlie Brown"
         match:
           mapping_id: 68917
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284805
         # IDs: imdb://tt0173983, tmdb://68917, tvdb://105462
         # tpdb: https://theposterdb.com/search/advanced/results?term=Life%20Is%20a%20Circus%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1980&tmdb_id=68917&imdb_id=tt0173983&tvdb_id=105462
         # tmdb: https://www.themoviedb.org/movie/68917
@@ -320,7 +320,7 @@ metadata:
         sort_title: "Charlie Brown Celebration"
         match:
           mapping_id: 102973
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284793
         # IDs: imdb://tt0173721, tmdb://102973, tvdb://63722
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Charlie%20Brown%20Celebration&category=Movies&year_filter=equals&yone=1982&tmdb_id=102973&imdb_id=tt0173721&tvdb_id=63722
         # tmdb: https://www.themoviedb.org/movie/102973
@@ -332,7 +332,7 @@ metadata:
         title: "Is This Goodbye, Charlie Brown?"
         match:
           mapping_id: 40375
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284798
         # IDs: imdb://tt0123119, tmdb://40375, tvdb://76346
         # tpdb: https://theposterdb.com/search/advanced/results?term=Is%20This%20Goodbye%2C%20Charlie%20Brown%3F&category=Movies&year_filter=equals&yone=1983&tmdb_id=40375&imdb_id=tt0123119&tvdb_id=76346
         # tmdb: https://www.themoviedb.org/movie/40375
@@ -344,7 +344,7 @@ metadata:
         title: "It's an Adventure, Charlie Brown"
         match:
           mapping_id: 117314
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284794
         # IDs: imdb://tt0123123, tmdb://117314, tvdb://151111
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s%20an%20Adventure%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1983&tmdb_id=117314&imdb_id=tt0123123&tvdb_id=151111
         # tmdb: https://www.themoviedb.org/movie/117314
@@ -368,7 +368,7 @@ metadata:
         title: "Snoopy's Getting Married, Charlie Brown"
         match:
           mapping_id: 40481
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/480080
         # IDs: imdb://tt0174220, tmdb://40481, tvdb://68590
         # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%27s%20Getting%20Married%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1985&tmdb_id=40481&imdb_id=tt0174220&tvdb_id=68590
         # tmdb: https://www.themoviedb.org/movie/40481
@@ -380,7 +380,7 @@ metadata:
         title: "You're a Good Man, Charlie Brown"
         match:
           mapping_id: 51330
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284810
         # IDs: imdb://tt0153997, tmdb://51330
         # tpdb: https://theposterdb.com/search/advanced/results?term=You%27re%20a%20Good%20Man%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=1985&tmdb_id=51330&imdb_id=tt0153997
         # tmdb: https://www.themoviedb.org/movie/51330
@@ -417,7 +417,7 @@ metadata:
         title: "Why, Charlie Brown, Why?"
         match:
           mapping_id: 133131
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284792
         # IDs: imdb://tt0123325, tmdb://133131, tvdb://52945
         # tpdb: https://theposterdb.com/search/advanced/results?term=Why%2C%20Charlie%20Brown%2C%20Why%3F&category=Movies&year_filter=equals&yone=1990&tmdb_id=133131&imdb_id=tt0123325&tvdb_id=52945
         # tmdb: https://www.themoviedb.org/movie/133131
@@ -453,7 +453,7 @@ metadata:
         title: "It's Spring Training, Charlie Brown!"
         match:
           mapping_id: 54920
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284869
         # IDs: imdb://tt0173933, tmdb://54920, tvdb://79020
         # tpdb: https://theposterdb.com/search/advanced/results?term=It%27s%20Spring%20Training%2C%20Charlie%20Brown%21&category=Movies&year_filter=equals&yone=1992&tmdb_id=54920&imdb_id=tt0173933&tvdb_id=79020
         # tmdb: https://www.themoviedb.org/movie/54920
@@ -478,7 +478,7 @@ metadata:
         title: "Charlie Brown's Christmas Tales"
         match:
           mapping_id: 37556
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284795
         # IDs: imdb://tt0382602, tmdb://37556, tvdb://46138
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie%20Brown%27s%20Christmas%20Tales&category=Movies&year_filter=equals&yone=2002&tmdb_id=37556&imdb_id=tt0382602&tvdb_id=46138
         # tmdb: https://www.themoviedb.org/movie/37556
@@ -502,7 +502,7 @@ metadata:
         title: "Lucy Must Be Traded, Charlie Brown"
         match:
           mapping_id: 31113
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284876
         # IDs: imdb://tt0389128, tmdb://31113, tvdb://94921
         # tpdb: https://theposterdb.com/search/advanced/results?term=Lucy%20Must%20Be%20Traded%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=2003&tmdb_id=31113&imdb_id=tt0389128&tvdb_id=94921
         # tmdb: https://www.themoviedb.org/movie/31113
@@ -514,7 +514,7 @@ metadata:
         title: "He's a Bully, Charlie Brown"
         match:
           mapping_id: 54909
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/284880
         # IDs: imdb://tt0906322, tmdb://54909
         # tpdb: https://theposterdb.com/search/advanced/results?term=He%27s%20a%20Bully%2C%20Charlie%20Brown&category=Movies&year_filter=equals&yone=2006&tmdb_id=54909&imdb_id=tt0906322
         # tmdb: https://www.themoviedb.org/movie/54909

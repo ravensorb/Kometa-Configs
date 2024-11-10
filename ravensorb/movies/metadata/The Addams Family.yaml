@@ -30,7 +30,7 @@ metadata:
         sort_title: "Addams Family"
         match:
           mapping_id: 481084
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/173457
         # IDs: imdb://tt1620981, tmdb://481084, tvdb://63187
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Movies&year_filter=equals&yone=2019&tmdb_id=481084&imdb_id=tt1620981&tvdb_id=63187
         # tmdb: https://www.themoviedb.org/movie/481084

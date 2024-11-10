@@ -59,7 +59,7 @@ metadata:
         match:
           mapping_id: 120
           edition: Extended
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/184140
         # IDs: imdb://tt0120737, tmdb://120, tvdb://107
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring&category=Movies&year_filter=equals&yone=2001&tmdb_id=120&imdb_id=tt0120737&tvdb_id=107
         # tmdb: https://www.themoviedb.org/movie/120

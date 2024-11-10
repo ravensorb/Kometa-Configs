@@ -50,3 +50,16 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/131634
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=257
         # imdb: https://www.imdb.com/title/tt1951266
+
+    "The Hunger Games: The Ballad of Songbirds & Snakes (2023)":
+        year: 2023
+        title: "The Hunger Games: The Ballad of Songbirds & Snakes"
+        sort_title: "Hunger Games: The Ballad of Songbirds & Snakes"
+        match:
+          mapping_id: 695721
+        url_poster: https://theposterdb.com/api/assets/441190
+        # IDs: imdb://tt10545296, tmdb://695721, tvdb://135073
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hunger%20Games%3A%20The%20Ballad%20of%20Songbirds%20%26%20Snakes&category=Movies&year_filter=equals&yone=2023&tmdb_id=695721&imdb_id=tt10545296&tvdb_id=135073
+        # tmdb: https://www.themoviedb.org/movie/695721
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=135073
+        # imdb: https://www.imdb.com/title/tt10545296

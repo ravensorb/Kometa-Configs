@@ -53,10 +53,10 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360226
             20:
                 url_poster: https://theposterdb.com/api/assets/360227
-            # 21:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 22:
-                # url_poster: https://theposterdb.com/api/assets/
+            21:
+                url_poster: https://theposterdb.com/api/assets/451063
+            22:
+                url_poster: https://theposterdb.com/api/assets/534115
 
     "NCIS: Los Angeles (2009)":
         year: 2009
@@ -148,35 +148,35 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/360229
             2:
                 url_poster: https://theposterdb.com/api/assets/360230
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/451062
 
     "NCIS: Sydney (2023)":
         year: 2023
         title: "NCIS: Sydney"
         match:
           mapping_id: 157950
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/432220
         # IDs: imdb://tt18258908, tmdb://157950, tvdb://416493
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20Sydney&category=Shows&year_filter=equals&yone=2023&tmdb_id=157950&imdb_id=tt18258908&tvdb_id=416493
         # tmdb: https://www.themoviedb.org/tv/157950
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=416493
         # imdb: https://www.imdb.com/title/tt18258908
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/432221
 
     "NCIS: Origins (2024)":
         year: 2024
         title: "NCIS: Origins"
         match:
           mapping_id: 243006
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/534102
         # IDs: imdb://tt30796986, tmdb://243006, tvdb://444350
         # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS%3A%20Origins&category=Shows&year_filter=equals&yone=2024&tmdb_id=243006&imdb_id=tt30796986&tvdb_id=444350
         # tmdb: https://www.themoviedb.org/tv/243006
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=444350
         # imdb: https://www.imdb.com/title/tt30796986
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/534104

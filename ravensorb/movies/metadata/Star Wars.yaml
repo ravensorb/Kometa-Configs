@@ -293,7 +293,7 @@ metadata:
         title: "Rebel Moon - Part One: A Child of Fire"
         match:
           mapping_id: 848326
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/480394
         # IDs: imdb://tt14998742, tmdb://848326, tvdb://200733
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rebel%20Moon%20-%20Part%20One%3A%20A%20Child%20of%20Fire&category=Movies&year_filter=equals&yone=2023&tmdb_id=848326&imdb_id=tt14998742&tvdb_id=200733
         # tmdb: https://www.themoviedb.org/movie/848326
@@ -305,7 +305,7 @@ metadata:
         title: "Rebel Moon - Part Two: The Scargiver"
         match:
           mapping_id: 934632
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/480393
         # IDs: imdb://tt23137904, tmdb://934632, tvdb://348023
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rebel%20Moon%20-%20Part%20Two%3A%20The%20Scargiver&category=Movies&year_filter=equals&yone=2024&tmdb_id=934632&imdb_id=tt23137904&tvdb_id=348023
         # tmdb: https://www.themoviedb.org/movie/934632

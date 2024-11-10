@@ -424,7 +424,7 @@ metadata:
         title: "Scooby-Doo! and the Spooky Scarecrow"
         match:
           mapping_id: 286387
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/216575
         # IDs: imdb://tt3328418, tmdb://286387, tvdb://40722
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20and%20the%20Spooky%20Scarecrow&category=Movies&year_filter=equals&yone=2013&tmdb_id=286387&imdb_id=tt3328418&tvdb_id=40722
         # tmdb: https://www.themoviedb.org/movie/286387
@@ -472,7 +472,7 @@ metadata:
         title: "Scooby-Doo! And Kiss: Rock and Roll Mystery"
         match:
           mapping_id: 347688
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/241216
         # IDs: imdb://tt4717798, tmdb://347688, tvdb://16760
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20And%20Kiss%3A%20Rock%20and%20Roll%20Mystery&category=Movies&year_filter=equals&yone=2015&tmdb_id=347688&imdb_id=tt4717798&tvdb_id=16760
         # tmdb: https://www.themoviedb.org/movie/347688
@@ -532,7 +532,7 @@ metadata:
         title: "Scooby-Doo! Shaggy's Showdown"
         match:
           mapping_id: 427564
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/241218
         # IDs: imdb://tt6425560, tmdb://427564, tvdb://16132
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20Shaggy%27s%20Showdown&category=Movies&year_filter=equals&yone=2017&tmdb_id=427564&imdb_id=tt6425560&tvdb_id=16132
         # tmdb: https://www.themoviedb.org/movie/427564

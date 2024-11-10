@@ -52,7 +52,7 @@ metadata:
         title: "Mission: Impossible - Rogue Nation"
         match:
           mapping_id: 177677
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190913
         # IDs: imdb://tt2381249, tmdb://177677, tvdb://484
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mission%3A%20Impossible%20-%20Rogue%20Nation&category=Movies&year_filter=equals&yone=2015&tmdb_id=177677&imdb_id=tt2381249&tvdb_id=484
         # tmdb: https://www.themoviedb.org/movie/177677

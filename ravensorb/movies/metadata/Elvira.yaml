@@ -4,7 +4,7 @@ metadata:
         title: "Elvira: Mistress of the Dark"
         match:
           mapping_id: 5680
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/371207
         # IDs: imdb://tt0095088, tmdb://5680, tvdb://9239
         # tpdb: https://theposterdb.com/search/advanced/results?term=Elvira%3A%20Mistress%20of%20the%20Dark&category=Movies&year_filter=equals&yone=1988&tmdb_id=5680&imdb_id=tt0095088&tvdb_id=9239
         # tmdb: https://www.themoviedb.org/movie/5680
@@ -16,7 +16,7 @@ metadata:
         title: "Elvira's Haunted Hills"
         match:
           mapping_id: 21597
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/183620
         # IDs: imdb://tt0265171, tmdb://21597, tvdb://14545
         # tpdb: https://theposterdb.com/search/advanced/results?term=Elvira%27s%20Haunted%20Hills&category=Movies&year_filter=equals&yone=2002&tmdb_id=21597&imdb_id=tt0265171&tvdb_id=14545
         # tmdb: https://www.themoviedb.org/movie/21597

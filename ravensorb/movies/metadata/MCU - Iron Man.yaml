@@ -43,10 +43,6 @@ metadata:
         title: "Iron Man 3 Unmasked"
         match:
           mapping_id: tt3212636
-          title: 
-            - Iron Man 3 Unmasked
-            - Iron Man 3: Unmasked
-            - Iron Man 3: Unmasked (2013)
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt3212636, tvdb://77470
         # tpdb: https://theposterdb.com/search/advanced/results?term=Iron%20Man%203%20Unmasked&category=Movies&year_filter=equals&yone=2013&imdb_id=tt3212636&tvdb_id=77470

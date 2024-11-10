@@ -530,7 +530,7 @@ metadata:
         title: "Thor: Love and Thunder"
         match:
           mapping_id: 616037
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/383328
         # IDs: imdb://tt10648342, tmdb://616037, tvdb://131141
         # tpdb: https://theposterdb.com/search/advanced/results?term=Thor%3A%20Love%20and%20Thunder&category=Movies&year_filter=equals&yone=2022&tmdb_id=616037&imdb_id=tt10648342&tvdb_id=131141
         # tmdb: https://www.themoviedb.org/movie/616037

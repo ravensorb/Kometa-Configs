@@ -16,7 +16,7 @@ metadata:
         title: "Percy Jackson: Sea of Monsters"
         match:
           mapping_id: 76285
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/175214
         # IDs: imdb://tt1854564, tmdb://76285, tvdb://1636
         # tpdb: https://theposterdb.com/search/advanced/results?term=Percy%20Jackson%3A%20Sea%20of%20Monsters&category=Movies&year_filter=equals&yone=2013&tmdb_id=76285&imdb_id=tt1854564&tvdb_id=1636
         # tmdb: https://www.themoviedb.org/movie/76285

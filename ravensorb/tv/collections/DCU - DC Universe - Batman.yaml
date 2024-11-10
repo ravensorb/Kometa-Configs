@@ -1,22 +1,23 @@
 collections:
-  "Elvira":
+  "DC Universe - Batman":
     variables: {
-      show: "291105, 410631",
-      poster: "https://theposterdb.com/api/assets/371206"
+      label: "DCU",
+      show: "361315, 77871",
+      poster: "https://theposterdb.com/api/assets/162377"
     }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Elvira&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Elvira
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Elvira
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Elvira
-    # trakt: https://trakt.tv/search/lists?query=Elvira
+    # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Universe%20-%20Batman&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22DC%20Universe%20-%20Batman%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=DC%20Universe%20-%20Batman
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=DC%20Universe%20-%20Batman
+    # trakt: https://trakt.tv/search/lists?query=DC%20Universe%20-%20Batman
     # collection_mode: hide
-    trakt_list:
-       - https://trakt.tv/users/ravensorb/lists/elvira-collection?sort=released,desc 
+    # trakt_list:
+    #   -
 
 ########################################################################################################################
 ########################################################################################################################
