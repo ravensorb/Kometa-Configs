@@ -2,7 +2,7 @@ collections:
   "Elvira":
     variables: {
       show: "291105, 410631",
-      poster: "https://theposterdb.com/api/assets/371206"
+      poster: https://theposterdb.com/api/assets/371206
     }
     template: [ 
       { name: tplCommonBase }, 

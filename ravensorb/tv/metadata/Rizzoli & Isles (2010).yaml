@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Rizzoli & Isles"
         match:
-          mapping_id: 32895
+          mapping_id: 161461
         url_poster: https://theposterdb.com/api/assets/309511
         # IDs: imdb://tt1551632, tmdb://32895, tvdb://161461
         # tpdb: https://theposterdb.com/search/advanced/results?term=Rizzoli%20%26%20Isles&category=Shows&year_filter=equals&yone=2010&tmdb_id=32895&imdb_id=tt1551632&tvdb_id=161461

@@ -2,7 +2,7 @@ collections:
   "Broadway Melody":
     variables: {
       movie: "43809, 43857, 43890, 65203",
-      poster: "https://theposterdb.com/api/assets/314735"
+      poster: https://theposterdb.com/api/assets/314735
     }
     template: [ 
       { name: tplCommonBase }, 

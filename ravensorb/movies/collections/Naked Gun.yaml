@@ -2,7 +2,7 @@ collections:
   "Naked Gun":
     variables: {
       movie: "36593, 37136, 37137",
-      poster: "https://theposterdb.com/api/assets/164812"
+      poster: https://theposterdb.com/api/assets/164812
     }
     template: [ 
       { name: tplCommonBase }, 

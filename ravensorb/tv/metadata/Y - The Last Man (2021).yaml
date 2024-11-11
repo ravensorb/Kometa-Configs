@@ -3,7 +3,7 @@ metadata:
         year: 2021
         title: "Y: The Last Man"
         match:
-          mapping_id: 86550
+          mapping_id: 362250
         url_poster: https://theposterdb.com/api/assets/406252
         # IDs: imdb://tt8042500, tmdb://86550, tvdb://362250
         # tpdb: https://theposterdb.com/search/advanced/results?term=Y%3A%20The%20Last%20Man&category=Shows&year_filter=equals&yone=2021&tmdb_id=86550&imdb_id=tt8042500&tvdb_id=362250

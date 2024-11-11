@@ -3,7 +3,7 @@ metadata:
         year: 2018
         title: "Manifest"
         match:
-          mapping_id: 79696
+          mapping_id: 349271
         url_poster: https://theposterdb.com/api/assets/345588
         # IDs: imdb://tt8421350, tmdb://79696, tvdb://349271
         # tpdb: https://theposterdb.com/search/advanced/results?term=Manifest&category=Shows&year_filter=equals&yone=2018&tmdb_id=79696&imdb_id=tt8421350&tvdb_id=349271

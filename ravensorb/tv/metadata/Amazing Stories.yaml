@@ -4,7 +4,7 @@ metadata:
         title: "Amazing Stories"
         sort_title: "Amazing Stories (1985)"
         match:
-          mapping_id: 1026
+          mapping_id: 76149
         url_poster: https://theposterdb.com/api/assets/471876
         # IDs: imdb://tt0088478, tmdb://1026, tvdb://76149
         # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing%20Stories&category=Shows&year_filter=equals&yone=1985&tmdb_id=1026&imdb_id=tt0088478&tvdb_id=76149
@@ -23,7 +23,7 @@ metadata:
         year: 2020
         title: "Amazing Stories (2020)"
         match:
-          mapping_id: 98178
+          mapping_id: 368120
         url_poster: https://theposterdb.com/api/assets/333608
         # IDs: imdb://tt5165368, tmdb://98178, tvdb://368120
         # tpdb: https://theposterdb.com/search/advanced/results?term=Amazing%20Stories%20%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=98178&imdb_id=tt5165368&tvdb_id=368120

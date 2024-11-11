@@ -2,7 +2,7 @@ collections:
   "Yellowstone":
     variables: {
       show: "341164, 396390, 416491",
-      poster: "https://theposterdb.com/api/assets/302800"
+      poster: https://theposterdb.com/api/assets/302800
     }
     template: [ 
       { name: tplCommonBase }, 

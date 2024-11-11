@@ -2,7 +2,7 @@ collections:
   "The Librarians":
     variables: {
       show: "281709",
-      poster: "https://theposterdb.com/api/assets/234725"
+      poster: https://theposterdb.com/api/assets/234725
     }
     template: [ 
       { name: tplCommonBase }, 

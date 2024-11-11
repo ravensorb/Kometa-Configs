@@ -2,7 +2,7 @@ collections:
   "Shrek Collection":
     variables: {
       movie: "808, 809, 810",
-      poster: "https://theposterdb.com/api/assets/52729"
+      poster: https://theposterdb.com/api/assets/52729
     }
     template: [ 
       { name: tplCommonBase }, 

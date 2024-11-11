@@ -3,7 +3,7 @@ metadata:
         year: 1972
         title: "M*A*S*H"
         match:
-          mapping_id: 918
+          mapping_id: 70994
         url_poster: https://theposterdb.com/api/assets/363945
         # IDs: imdb://tt0068098, tmdb://918, tvdb://70994
         # tpdb: https://theposterdb.com/search/advanced/results?term=M%2AA%2AS%2AH&category=Shows&year_filter=equals&yone=1972&tmdb_id=918&imdb_id=tt0068098&tvdb_id=70994

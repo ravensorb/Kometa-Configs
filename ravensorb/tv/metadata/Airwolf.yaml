@@ -3,7 +3,7 @@ metadata:
         year: 1984
         title: "Airwolf"
         match:
-          mapping_id: 2119
+          mapping_id: 73200
         url_poster: https://theposterdb.com/api/assets/203183
         # IDs: imdb://tt0086662, tmdb://2119, tvdb://73200
         # tpdb: https://theposterdb.com/search/advanced/results?term=Airwolf&category=Shows&year_filter=equals&yone=1984&tmdb_id=2119&imdb_id=tt0086662&tvdb_id=73200

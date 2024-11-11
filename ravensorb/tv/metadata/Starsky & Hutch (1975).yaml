@@ -3,7 +3,7 @@ metadata:
         year: 1975
         title: "Starsky & Hutch"
         match:
-          mapping_id: 1532
+          mapping_id: 78194
         url_poster: https://theposterdb.com/api/assets/376097
         # IDs: imdb://tt0072567, tmdb://1532, tvdb://78194
         # tpdb: https://theposterdb.com/search/advanced/results?term=Starsky%20%26%20Hutch&category=Shows&year_filter=equals&yone=1975&tmdb_id=1532&imdb_id=tt0072567&tvdb_id=78194

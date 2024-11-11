@@ -2,7 +2,7 @@ collections:
   "Wallace & Gromit":
     variables: {
       movie: "14447, 211798, 303577, 530, 531, 532, 533",
-      poster: "https://theposterdb.com/api/assets/162952"
+      poster: https://theposterdb.com/api/assets/162952
     }
     template: [ 
       { name: tplCommonBase }, 

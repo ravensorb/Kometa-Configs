@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "City on a Hill"
         match:
-          mapping_id: 79618
+          mapping_id: 356672
         url_poster: https://theposterdb.com/api/assets/466700
         # IDs: imdb://tt7187044, tmdb://79618, tvdb://356672
         # tpdb: https://theposterdb.com/search/advanced/results?term=City%20on%20a%20Hill&category=Shows&year_filter=equals&yone=2019&tmdb_id=79618&imdb_id=tt7187044&tvdb_id=356672

@@ -3,7 +3,7 @@ metadata:
         year: 2023
         title: "Bodies (2023)"
         match:
-          mapping_id: 233629
+          mapping_id: 417257
         url_poster: https://theposterdb.com/api/assets/422809
         # IDs: imdb://tt18347622, tmdb://233629, tvdb://417257
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bodies%20%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=233629&imdb_id=tt18347622&tvdb_id=417257

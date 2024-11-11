@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Coroner"
         match:
-          mapping_id: 85586
+          mapping_id: 355066
         url_poster: https://theposterdb.com/api/assets/475975
         # IDs: imdb://tt8593252, tmdb://85586, tvdb://355066
         # tpdb: https://theposterdb.com/search/advanced/results?term=Coroner&category=Shows&year_filter=equals&yone=2019&tmdb_id=85586&imdb_id=tt8593252&tvdb_id=355066

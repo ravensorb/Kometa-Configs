@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Dickinson"
         match:
-          mapping_id: 89901
+          mapping_id: 361566
         url_poster: https://theposterdb.com/api/assets/321882
         # IDs: imdb://tt8518136, tmdb://89901, tvdb://361566
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dickinson&category=Shows&year_filter=equals&yone=2019&tmdb_id=89901&imdb_id=tt8518136&tvdb_id=361566

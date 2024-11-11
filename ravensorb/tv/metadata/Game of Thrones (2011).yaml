@@ -3,7 +3,7 @@ metadata:
         year: 2011
         title: "Game of Thrones"
         match:
-          mapping_id: 1399
+          mapping_id: 121361
         url_poster: https://theposterdb.com/api/assets/241588
         # IDs: imdb://tt0944947, tmdb://1399, tvdb://121361
         # tpdb: https://theposterdb.com/search/advanced/results?term=Game%20of%20Thrones&category=Shows&year_filter=equals&yone=2011&tmdb_id=1399&imdb_id=tt0944947&tvdb_id=121361

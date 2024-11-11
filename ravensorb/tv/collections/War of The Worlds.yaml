@@ -2,7 +2,7 @@ collections:
   "War of The Worlds":
     variables: {
       show: "370139, 76616",
-      poster: "https://theposterdb.com/api/assets/294686"
+      poster: https://theposterdb.com/api/assets/294686
     }
     template: [ 
       { name: tplCommonBase }, 

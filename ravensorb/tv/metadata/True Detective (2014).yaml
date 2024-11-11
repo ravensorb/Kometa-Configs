@@ -3,7 +3,7 @@ metadata:
         year: 2014
         title: "True Detective"
         match:
-          mapping_id: 46648
+          mapping_id: 270633
         url_poster: https://theposterdb.com/api/assets/258834
         # IDs: imdb://tt2356777, tmdb://46648, tvdb://270633
         # tpdb: https://theposterdb.com/search/advanced/results?term=True%20Detective&category=Shows&year_filter=equals&yone=2014&tmdb_id=46648&imdb_id=tt2356777&tvdb_id=270633

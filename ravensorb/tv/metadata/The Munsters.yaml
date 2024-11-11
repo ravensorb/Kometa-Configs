@@ -4,7 +4,7 @@ metadata:
         title: "The Munsters"
         sort_title: "Munsters"
         match:
-          mapping_id: 1712
+          mapping_id: 77280
         url_poster: https://theposterdb.com/api/assets/262588
         # IDs: imdb://tt0057773, tmdb://1712, tvdb://77280
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Munsters&category=Shows&year_filter=equals&yone=1964&tmdb_id=1712&imdb_id=tt0057773&tvdb_id=77280
@@ -23,7 +23,7 @@ metadata:
         year: 2012
         title: "Mockingbird Lane"
         match:
-          mapping_id: 98557
+          mapping_id: 333938
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tmdb://98557, tvdb://333938
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mockingbird%20Lane&category=Shows&year_filter=equals&yone=2012&tmdb_id=98557&tvdb_id=333938

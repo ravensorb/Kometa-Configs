@@ -1,9 +1,8 @@
 collections:
   "Beverly Hills, 90210":
     variables: {
-      label: "None",
       show: "363714, 74936",
-      poster: "https://theposterdb.com/api/assets/351355"
+      poster: https://theposterdb.com/api/assets/351355
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -3,7 +3,7 @@ metadata:
         year: 1997
         title: "Buffy the Vampire Slayer"
         match:
-          mapping_id: 95
+          mapping_id: 70327
         url_poster: https://theposterdb.com/api/assets/362939
         # IDs: imdb://tt0118276, tmdb://95, tvdb://70327
         # tpdb: https://theposterdb.com/search/advanced/results?term=Buffy%20the%20Vampire%20Slayer&category=Shows&year_filter=equals&yone=1997&tmdb_id=95&imdb_id=tt0118276&tvdb_id=70327
@@ -32,7 +32,7 @@ metadata:
         year: 1999
         title: "Angel"
         match:
-          mapping_id: 2426
+          mapping_id: 71035
         url_poster: https://theposterdb.com/api/assets/362932
         # IDs: imdb://tt0162065, tmdb://2426, tvdb://71035
         # tpdb: https://theposterdb.com/search/advanced/results?term=Angel&category=Shows&year_filter=equals&yone=1999&tmdb_id=2426&imdb_id=tt0162065&tvdb_id=71035

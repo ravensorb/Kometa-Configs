@@ -3,7 +3,7 @@ metadata:
         year: 1964
         title: "Gilligan's Island"
         match:
-          mapping_id: 1921
+          mapping_id: 77345
         url_poster: https://theposterdb.com/api/assets/324482
         # IDs: imdb://tt0057751, tmdb://1921, tvdb://77345
         # tpdb: https://theposterdb.com/search/advanced/results?term=Gilligan%27s%20Island&category=Shows&year_filter=equals&yone=1964&tmdb_id=1921&imdb_id=tt0057751&tvdb_id=77345

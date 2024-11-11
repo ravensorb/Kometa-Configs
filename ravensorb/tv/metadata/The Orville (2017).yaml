@@ -4,7 +4,7 @@ metadata:
         title: "The Orville"
         sort_title: "Orville"
         match:
-          mapping_id: 71738
+          mapping_id: 328487
         url_poster: https://theposterdb.com/api/assets/351009
         # IDs: imdb://tt5691552, tmdb://71738, tvdb://328487
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Orville&category=Shows&year_filter=equals&yone=2017&tmdb_id=71738&imdb_id=tt5691552&tvdb_id=328487

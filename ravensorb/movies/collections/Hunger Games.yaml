@@ -1,8 +1,8 @@
 collections:
   "Hunger Games":
     variables: {
-      movie: "101299, 131631, 131634, 70160",
-      poster: "https://theposterdb.com/api/assets/163851"
+      movie: "101299, 131631, 131634, 695721, 70160",
+      poster: https://theposterdb.com/api/assets/163851
     }
     template: [ 
       { name: tplCommonBase }, 

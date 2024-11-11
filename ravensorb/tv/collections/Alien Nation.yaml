@@ -2,7 +2,7 @@ collections:
   "Alien Nation":
     variables: {
       show: "72358",
-      poster: "https://theposterdb.com/api/assets/234611"
+      poster: https://theposterdb.com/api/assets/234611
     }
     template: [ 
       { name: tplCommonBase }, 

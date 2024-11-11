@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "Three Pines"
         match:
-          mapping_id: 197242
+          mapping_id: 409508
         url_poster: https://theposterdb.com/api/assets/396804
         # IDs: imdb://tt15351648, tmdb://197242, tvdb://409508
         # tpdb: https://theposterdb.com/search/advanced/results?term=Three%20Pines&category=Shows&year_filter=equals&yone=2022&tmdb_id=197242&imdb_id=tt15351648&tvdb_id=409508

@@ -2,7 +2,7 @@ collections:
   "The Chronicles of Narnia":
     variables: {
       movie: "10140, 2454, 411",
-      poster: "https://theposterdb.com/api/assets/162017"
+      poster: https://theposterdb.com/api/assets/162017
     }
     template: [ 
       { name: tplCommonBase }, 

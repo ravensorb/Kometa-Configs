@@ -2,7 +2,7 @@ collections:
   "Hercules":
     variables: {
       movie: "37404, 70811, 75822, 75826, 75834",
-      poster: "https://theposterdb.com/api/assets/162041"
+      poster: https://theposterdb.com/api/assets/162041
     }
     template: [ 
       { name: tplCommonBase }, 

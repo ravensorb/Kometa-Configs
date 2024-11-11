@@ -4,7 +4,7 @@ metadata:
         title: "Marvel's Daredevil"
         sort_title: "MCU: 03 - Daredevil"
         match:
-          mapping_id: 61889
+          mapping_id: 281662
         url_poster: https://theposterdb.com/api/assets/239468
         # IDs: imdb://tt3322312, tmdb://61889, tvdb://281662
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Daredevil&category=Shows&year_filter=equals&yone=2015&tmdb_id=61889&imdb_id=tt3322312&tvdb_id=281662
@@ -26,7 +26,7 @@ metadata:
         title: "Marvel's Jessica Jones"
         sort_title: "MCU: 03 - Jessica Jones"
         match:
-          mapping_id: 38472
+          mapping_id: 284190
         url_poster: https://theposterdb.com/api/assets/239477
         # IDs: imdb://tt2357547, tmdb://38472, tvdb://284190
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Jessica%20Jones&category=Shows&year_filter=equals&yone=2015&tmdb_id=38472&imdb_id=tt2357547&tvdb_id=284190
@@ -48,7 +48,7 @@ metadata:
         title: "Marvel's Luke Cage"
         sort_title: "MCU: 03 - Luke Cage"
         match:
-          mapping_id: 62126
+          mapping_id: 304219
         url_poster: https://theposterdb.com/api/assets/239481
         # IDs: imdb://tt3322314, tmdb://62126, tvdb://304219
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Luke%20Cage&category=Shows&year_filter=equals&yone=2016&tmdb_id=62126&imdb_id=tt3322314&tvdb_id=304219
@@ -68,7 +68,7 @@ metadata:
         title: "Marvel's Iron Fist"
         sort_title: "MCU: 03 - Iron Fist"
         match:
-          mapping_id: 62127
+          mapping_id: 317953
         url_poster: https://theposterdb.com/api/assets/239474
         # IDs: imdb://tt3322310, tmdb://62127, tvdb://317953
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Iron%20Fist&category=Shows&year_filter=equals&yone=2017&tmdb_id=62127&imdb_id=tt3322310&tvdb_id=317953
@@ -88,7 +88,7 @@ metadata:
         title: "Marvel's The Defenders"
         sort_title: "MCU: 03 - Defenders"
         match:
-          mapping_id: 62285
+          mapping_id: 326490
         url_poster: https://theposterdb.com/api/assets/239488
         # IDs: imdb://tt4230076, tmdb://62285, tvdb://326490
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20The%20Defenders&category=Shows&year_filter=equals&yone=2017&tmdb_id=62285&imdb_id=tt4230076&tvdb_id=326490
@@ -106,7 +106,7 @@ metadata:
         title: "Marvel's The Punisher"
         sort_title: "MCU: 03 - The Punisher"
         match:
-          mapping_id: 67178
+          mapping_id: 331980
         url_poster: https://theposterdb.com/api/assets/239490
         # IDs: imdb://tt5675620, tmdb://67178, tvdb://331980
         # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20The%20Punisher&category=Shows&year_filter=equals&yone=2017&tmdb_id=67178&imdb_id=tt5675620&tvdb_id=331980

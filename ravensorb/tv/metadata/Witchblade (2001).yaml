@@ -3,7 +3,7 @@ metadata:
         year: 2001
         title: "Witchblade"
         match:
-          mapping_id: 10190
+          mapping_id: 79072
         url_poster: https://theposterdb.com/api/assets/416957
         # IDs: imdb://tt0274298, tmdb://10190, tvdb://79072
         # tpdb: https://theposterdb.com/search/advanced/results?term=Witchblade&category=Shows&year_filter=equals&yone=2001&tmdb_id=10190&imdb_id=tt0274298&tvdb_id=79072

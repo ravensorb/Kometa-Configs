@@ -2,7 +2,7 @@ collections:
   "Fanny Brice":
     variables: {
       movie: "16085, 39282",
-      poster: "https://theposterdb.com/api/assets/166798"
+      poster: https://theposterdb.com/api/assets/166798
     }
     template: [ 
       { name: tplCommonBase }, 

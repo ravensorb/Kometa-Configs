@@ -3,7 +3,7 @@ metadata:
         year: 1976
         title: "Charlie's Angels"
         match:
-          mapping_id: 3382
+          mapping_id: 77170
         url_poster: https://theposterdb.com/api/assets/379476
         # IDs: imdb://tt0073972, tmdb://3382, tvdb://77170
         # tpdb: https://theposterdb.com/search/advanced/results?term=Charlie%27s%20Angels&category=Shows&year_filter=equals&yone=1976&tmdb_id=3382&imdb_id=tt0073972&tvdb_id=77170

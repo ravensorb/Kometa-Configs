@@ -3,7 +3,7 @@ metadata:
         year: 1985
         title: "Moonlighting"
         match:
-          mapping_id: 1998
+          mapping_id: 75078
         url_poster: https://theposterdb.com/api/assets/411102
         # IDs: imdb://tt0088571, tmdb://1998, tvdb://75078
         # tpdb: https://theposterdb.com/search/advanced/results?term=Moonlighting&category=Shows&year_filter=equals&yone=1985&tmdb_id=1998&imdb_id=tt0088571&tvdb_id=75078

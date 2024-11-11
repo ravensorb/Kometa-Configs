@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "DCU",
       show: "295759, 328599, 375655, 72218, 72468, 77403",
-      poster: "https://theposterdb.com/api/assets/162402"
+      poster: https://theposterdb.com/api/assets/162402
     }
     template: [ 
       { name: tplCommonBase }, 

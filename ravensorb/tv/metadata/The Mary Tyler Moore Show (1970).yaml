@@ -4,7 +4,7 @@ metadata:
         title: "The Mary Tyler Moore Show"
         sort_title: "Mary Tyler Moore Show"
         match:
-          mapping_id: 2962
+          mapping_id: 77051
         url_poster: https://theposterdb.com/api/assets/369799
         # IDs: imdb://tt0065314, tmdb://2962, tvdb://77051
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mary%20Tyler%20Moore%20Show&category=Shows&year_filter=equals&yone=1970&tmdb_id=2962&imdb_id=tt0065314&tvdb_id=77051

@@ -2,7 +2,7 @@ collections:
   "John Wick":
     variables: {
       movie: "245891, 324552, 458156, 603692",
-      poster: "https://theposterdb.com/api/assets/164798"
+      poster: https://theposterdb.com/api/assets/164798
     }
     template: [ 
       { name: tplCommonBase }, 

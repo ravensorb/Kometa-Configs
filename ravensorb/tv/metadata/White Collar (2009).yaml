@@ -3,7 +3,7 @@ metadata:
         year: 2009
         title: "White Collar"
         match:
-          mapping_id: 21510
+          mapping_id: 108611
         url_poster: https://theposterdb.com/api/assets/247787
         # IDs: imdb://tt1358522, tmdb://21510, tvdb://108611
         # tpdb: https://theposterdb.com/search/advanced/results?term=White%20Collar&category=Shows&year_filter=equals&yone=2009&tmdb_id=21510&imdb_id=tt1358522&tvdb_id=108611

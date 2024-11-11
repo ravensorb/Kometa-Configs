@@ -4,7 +4,7 @@ metadata:
         title: "The Bear"
         sort_title: "Bear"
         match:
-          mapping_id: 136315
+          mapping_id: 403294
         url_poster: https://theposterdb.com/api/assets/342151
         # IDs: imdb://tt14452776, tmdb://136315, tvdb://403294
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bear&category=Shows&year_filter=equals&yone=2022&tmdb_id=136315&imdb_id=tt14452776&tvdb_id=403294

@@ -4,7 +4,7 @@ metadata:
         title: "V"
         sort_title: "V (1983)"
         match:
-          mapping_id: 75893
+          mapping_id: 76354
         url_poster: https://theposterdb.com/api/assets/459129
         # IDs: imdb://tt0086822, tmdb://75893, tvdb://76354
         # tpdb: https://theposterdb.com/search/advanced/results?term=V&category=Shows&year_filter=equals&yone=1984&tmdb_id=75893&imdb_id=tt0086822&tvdb_id=76354
@@ -22,7 +22,7 @@ metadata:
         title: "V"
         sort_title: "V (2009)"
         match:
-          mapping_id: 21494
+          mapping_id: 94971
         url_poster: https://theposterdb.com/api/assets/459136
         # IDs: imdb://tt1307824, tmdb://21494, tvdb://94971
         # tpdb: https://theposterdb.com/search/advanced/results?term=V&category=Shows&year_filter=equals&yone=2009&tmdb_id=21494&imdb_id=tt1307824&tvdb_id=94971

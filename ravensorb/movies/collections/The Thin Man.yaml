@@ -2,7 +2,7 @@ collections:
   "The Thin Man":
     variables: {
       movie: "14588, 14589, 14590, 14594, 14595, 3529",
-      poster: "https://theposterdb.com/api/assets/167485"
+      poster: https://theposterdb.com/api/assets/167485
     }
     template: [ 
       { name: tplCommonBase }, 

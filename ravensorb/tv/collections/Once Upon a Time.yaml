@@ -1,9 +1,8 @@
 collections:
   "Once Upon a Time":
     variables: {
-      label: "None",
       show: "248835, 269654",
-      # poster: "https://theposterdb.com/api/assets/"
+      # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 

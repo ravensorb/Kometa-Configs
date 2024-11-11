@@ -4,7 +4,7 @@ metadata:
         title: "A Discovery of Witches"
         sort_title: "Discovery of Witches"
         match:
-          mapping_id: 77236
+          mapping_id: 351291
         url_poster: https://theposterdb.com/api/assets/295234
         # IDs: imdb://tt2177461, tmdb://77236, tvdb://351291
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Discovery%20of%20Witches&category=Shows&year_filter=equals&yone=2018&tmdb_id=77236&imdb_id=tt2177461&tvdb_id=351291

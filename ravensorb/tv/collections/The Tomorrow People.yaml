@@ -2,7 +2,7 @@ collections:
   "The Tomorrow People":
     variables: {
       show: "268591, 72458",
-      poster: "https://theposterdb.com/api/assets/32297"
+      poster: https://theposterdb.com/api/assets/32297
     }
     template: [ 
       { name: tplCommonBase }, 

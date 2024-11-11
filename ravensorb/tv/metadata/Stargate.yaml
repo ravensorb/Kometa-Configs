@@ -4,7 +4,7 @@ metadata:
         title: "Stargate SG-1"
         sort_title: "Stargate SG-1 (1997)"
         match:
-          mapping_id: 4629
+          mapping_id: 72449
         url_poster: https://theposterdb.com/api/assets/228947
         # IDs: imdb://tt0118480, tmdb://4629, tvdb://72449
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20SG-1&category=Shows&year_filter=equals&yone=1997&tmdb_id=4629&imdb_id=tt0118480&tvdb_id=72449
@@ -40,7 +40,7 @@ metadata:
         title: "Stargate Atlantis"
         sort_title: "Stargate Atlantis (2004)"
         match:
-          mapping_id: 2290
+          mapping_id: 70851
         url_poster: https://theposterdb.com/api/assets/228935
         # IDs: imdb://tt0374455, tmdb://2290, tvdb://70851
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Atlantis&category=Shows&year_filter=equals&yone=2004&tmdb_id=2290&imdb_id=tt0374455&tvdb_id=70851
@@ -66,7 +66,7 @@ metadata:
         title: "Stargate Universe"
         sort_title: "Stargate Universe (2009)"
         match:
-          mapping_id: 5148
+          mapping_id: 83237
         url_poster: https://theposterdb.com/api/assets/228959
         # IDs: imdb://tt1286039, tmdb://5148, tvdb://83237
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Universe&category=Shows&year_filter=equals&yone=2009&tmdb_id=5148&imdb_id=tt1286039&tvdb_id=83237
@@ -86,7 +86,7 @@ metadata:
         title: "Stargate Origins"
         sort_title: "Stargate Origins (2018)"
         match:
-          mapping_id: 72925
+          mapping_id: 339552
         url_poster: https://theposterdb.com/api/assets/228944
         # IDs: imdb://tt7161862, tmdb://72925, tvdb://339552
         # tpdb: https://theposterdb.com/search/advanced/results?term=Stargate%20Origins&category=Shows&year_filter=equals&yone=2018&tmdb_id=72925&imdb_id=tt7161862&tvdb_id=339552

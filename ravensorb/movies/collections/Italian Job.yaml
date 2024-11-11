@@ -2,7 +2,7 @@ collections:
   "Italian Job":
     variables: {
       movie: "10536, 9654",
-      poster: "https://theposterdb.com/api/assets/164854"
+      poster: https://theposterdb.com/api/assets/164854
     }
     template: [ 
       { name: tplCommonBase }, 

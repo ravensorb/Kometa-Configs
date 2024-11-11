@@ -2,7 +2,7 @@ collections:
   "TekWar":
     variables: {
       movie: "113209, 113210, 113215, 113219",
-      poster: "https://theposterdb.com/api/assets/234707"
+      poster: https://theposterdb.com/api/assets/234707
     }
     template: [ 
       { name: tplCommonBase }, 

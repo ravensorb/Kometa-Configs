@@ -3,7 +3,7 @@ metadata:
         year: 1992
         title: "Highlander: The Series"
         match:
-          mapping_id: 4414
+          mapping_id: 75160
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0103442, tmdb://4414, tvdb://75160
         # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander%3A%20The%20Series&category=Shows&year_filter=equals&yone=1992&tmdb_id=4414&imdb_id=tt0103442&tvdb_id=75160
@@ -28,7 +28,7 @@ metadata:
         year: 1998
         title: "Highlander: The Raven"
         match:
-          mapping_id: 4377
+          mapping_id: 75021
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0144714, tmdb://4377, tvdb://75021
         # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander%3A%20The%20Raven&category=Shows&year_filter=equals&yone=1998&tmdb_id=4377&imdb_id=tt0144714&tvdb_id=75021

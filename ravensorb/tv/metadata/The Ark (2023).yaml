@@ -4,7 +4,7 @@ metadata:
         title: "The Ark"
         sort_title: "Ark"
         match:
-          mapping_id: 47663
+          mapping_id: 415089
         url_poster: https://theposterdb.com/api/assets/382451
         # IDs: imdb://tt17371078, tmdb://47663, tvdb://415089
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Ark&category=Shows&year_filter=equals&yone=2023&tmdb_id=47663&imdb_id=tt17371078&tvdb_id=415089

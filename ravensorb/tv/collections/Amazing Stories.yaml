@@ -2,7 +2,7 @@ collections:
   "Amazing Stories":
     variables: {
       show: "368120, 76149",
-      poster: "https://theposterdb.com/api/assets/333608"
+      poster: https://theposterdb.com/api/assets/333608
     }
     template: [ 
       { name: tplCommonBase }, 

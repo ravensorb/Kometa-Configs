@@ -2,7 +2,7 @@ collections:
   "The Count of Monte Cristo":
     variables: {
       movie: "11362, 43691",
-      poster: "https://theposterdb.com/api/assets/194009"
+      poster: https://theposterdb.com/api/assets/194009
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -4,7 +4,7 @@ metadata:
         title: "The Enemy Within"
         sort_title: "Enemy Within"
         match:
-          mapping_id: 81946
+          mapping_id: 353561
         url_poster: https://theposterdb.com/api/assets/447719
         # IDs: imdb://tt8390342, tmdb://81946, tvdb://353561
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Enemy%20Within&category=Shows&year_filter=equals&yone=2019&tmdb_id=81946&imdb_id=tt8390342&tvdb_id=353561

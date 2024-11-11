@@ -3,7 +3,7 @@ metadata:
         year: 2005
         title: "Dancing with the Stars"
         match:
-          mapping_id: 1508
+          mapping_id: 79590
         url_poster: https://theposterdb.com/api/assets/452476
         # IDs: imdb://tt0463398, tmdb://1508, tvdb://79590
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dancing%20with%20the%20Stars&category=Shows&year_filter=equals&yone=2005&tmdb_id=1508&imdb_id=tt0463398&tvdb_id=79590

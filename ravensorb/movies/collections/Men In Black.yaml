@@ -2,7 +2,7 @@ collections:
   "Men In Black":
     variables: {
       movie: "607, 608",
-      poster: "https://theposterdb.com/api/assets/163929"
+      poster: https://theposterdb.com/api/assets/163929
     }
     template: [ 
       { name: tplCommonBase }, 

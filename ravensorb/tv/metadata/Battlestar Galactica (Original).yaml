@@ -4,7 +4,7 @@ metadata:
         title: "Battlestar Galactica (Original)"
         sort_title: "Battlestar Galactica (1978)"
         match:
-          mapping_id: 501
+          mapping_id: 71173
         url_poster: https://theposterdb.com/api/assets/326601
         # IDs: imdb://tt0076984, tmdb://501, tvdb://71173
         # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Original%29&category=Shows&year_filter=equals&yone=1978&tmdb_id=501&imdb_id=tt0076984&tvdb_id=71173
@@ -22,7 +22,7 @@ metadata:
         title: "Galactica 1980"
         sort_title: "Battlestar Galactica (1980)"
         match:
-          mapping_id: 4621
+          mapping_id: 71170
         url_poster: https://theposterdb.com/api/assets/326640
         # IDs: imdb://tt0080221, tmdb://4621, tvdb://71170
         # tpdb: https://theposterdb.com/search/advanced/results?term=Galactica%201980&category=Shows&year_filter=equals&yone=1980&tmdb_id=4621&imdb_id=tt0080221&tvdb_id=71170

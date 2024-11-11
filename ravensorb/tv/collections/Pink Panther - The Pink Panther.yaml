@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "Pink Panther",
       show: "368929, 71554",
-      poster: "https://theposterdb.com/api/assets/164817"
+      poster: https://theposterdb.com/api/assets/164817
     }
     template: [ 
       { name: tplCommonBase }, 

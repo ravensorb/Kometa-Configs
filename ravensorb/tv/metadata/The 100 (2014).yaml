@@ -4,7 +4,7 @@ metadata:
         title: "The 100"
         sort_title: "100"
         match:
-          mapping_id: 48866
+          mapping_id: 268592
         url_poster: https://theposterdb.com/api/assets/273214
         # IDs: imdb://tt2661044, tmdb://48866, tvdb://268592
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20100&category=Shows&year_filter=equals&yone=2014&tmdb_id=48866&imdb_id=tt2661044&tvdb_id=268592

@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "His Dark Materials"
         match:
-          mapping_id: 68507
+          mapping_id: 360295
         url_poster: https://theposterdb.com/api/assets/309614
         # IDs: imdb://tt5607976, tmdb://68507, tvdb://360295
         # tpdb: https://theposterdb.com/search/advanced/results?term=His%20Dark%20Materials&category=Shows&year_filter=equals&yone=2019&tmdb_id=68507&imdb_id=tt5607976&tvdb_id=360295

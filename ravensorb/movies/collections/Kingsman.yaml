@@ -2,7 +2,7 @@ collections:
   "Kingsman":
     variables: {
       movie: "207703, 343668, 476669",
-      poster: "https://theposterdb.com/api/assets/164805"
+      poster: https://theposterdb.com/api/assets/164805
     }
     template: [ 
       { name: tplCommonBase }, 

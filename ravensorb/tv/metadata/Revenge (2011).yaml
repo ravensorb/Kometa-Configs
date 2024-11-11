@@ -3,7 +3,7 @@ metadata:
         year: 2011
         title: "Revenge"
         match:
-          mapping_id: 39358
+          mapping_id: 248837
         url_poster: https://theposterdb.com/api/assets/423579
         # IDs: imdb://tt1837642, tmdb://39358, tvdb://248837
         # tpdb: https://theposterdb.com/search/advanced/results?term=Revenge&category=Shows&year_filter=equals&yone=2011&tmdb_id=39358&imdb_id=tt1837642&tvdb_id=248837

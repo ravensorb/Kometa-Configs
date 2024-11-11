@@ -2,7 +2,7 @@ collections:
   "Airwolf":
     variables: {
       show: "73200",
-      poster: "https://theposterdb.com/api/assets/203183"
+      poster: https://theposterdb.com/api/assets/203183
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "The Art of War":
     variables: {
       movie: "11398, 13988",
-      poster: "https://theposterdb.com/api/assets/163463"
+      poster: https://theposterdb.com/api/assets/163463
     }
     template: [ 
       { name: tplCommonBase }, 

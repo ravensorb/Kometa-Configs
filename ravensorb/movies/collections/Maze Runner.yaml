@@ -2,7 +2,7 @@ collections:
   "Maze Runner":
     variables: {
       movie: "198663, 294254, 336843",
-      poster: "https://theposterdb.com/api/assets/160968"
+      poster: https://theposterdb.com/api/assets/160968
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -3,7 +3,7 @@ metadata:
         year: 1976
         title: "Laverne & Shirley"
         match:
-          mapping_id: 3033
+          mapping_id: 78017
         url_poster: https://theposterdb.com/api/assets/285109
         # IDs: imdb://tt0074016, tmdb://3033, tvdb://78017
         # tpdb: https://theposterdb.com/search/advanced/results?term=Laverne%20%26%20Shirley&category=Shows&year_filter=equals&yone=1976&tmdb_id=3033&imdb_id=tt0074016&tvdb_id=78017

@@ -3,7 +3,7 @@ metadata:
         year: 2021
         title: "Fate: The Winx Saga"
         match:
-          mapping_id: 97175
+          mapping_id: 368185
         url_poster: https://theposterdb.com/api/assets/346612
         # IDs: imdb://tt8179402, tmdb://97175, tvdb://368185
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fate%3A%20The%20Winx%20Saga&category=Shows&year_filter=equals&yone=2021&tmdb_id=97175&imdb_id=tt8179402&tvdb_id=368185

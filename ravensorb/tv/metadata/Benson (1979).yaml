@@ -3,7 +3,7 @@ metadata:
         year: 1979
         title: "Benson"
         match:
-          mapping_id: 1849
+          mapping_id: 78553
         url_poster: https://theposterdb.com/api/assets/368338
         # IDs: imdb://tt0078569, tmdb://1849, tvdb://78553
         # tpdb: https://theposterdb.com/search/advanced/results?term=Benson&category=Shows&year_filter=equals&yone=1979&tmdb_id=1849&imdb_id=tt0078569&tvdb_id=78553

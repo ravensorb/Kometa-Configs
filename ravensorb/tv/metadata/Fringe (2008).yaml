@@ -3,7 +3,7 @@ metadata:
         year: 2008
         title: "Fringe"
         match:
-          mapping_id: 1705
+          mapping_id: 82066
         url_poster: https://theposterdb.com/api/assets/349652
         # IDs: imdb://tt1119644, tmdb://1705, tvdb://82066
         # tpdb: https://theposterdb.com/search/advanced/results?term=Fringe&category=Shows&year_filter=equals&yone=2008&tmdb_id=1705&imdb_id=tt1119644&tvdb_id=82066

@@ -2,7 +2,7 @@ collections:
   "Hitman":
     variables: {
       movie: "1620, 249070",
-      poster: "https://theposterdb.com/api/assets/164792"
+      poster: https://theposterdb.com/api/assets/164792
     }
     template: [ 
       { name: tplCommonBase }, 

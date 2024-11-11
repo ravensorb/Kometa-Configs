@@ -4,7 +4,7 @@ metadata:
         title: "The Alfred Hitchcock Hour"
         sort_title: "Alfred Hitchcock Hour"
         match:
-          mapping_id: 21728
+          mapping_id: 74488
         url_poster: https://theposterdb.com/api/assets/362722
         # IDs: imdb://tt0055657, tmdb://21728, tvdb://74488
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Alfred%20Hitchcock%20Hour&category=Shows&year_filter=equals&yone=1962&tmdb_id=21728&imdb_id=tt0055657&tvdb_id=74488

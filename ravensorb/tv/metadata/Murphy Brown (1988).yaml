@@ -3,7 +3,7 @@ metadata:
         year: 1988
         title: "Murphy Brown"
         match:
-          mapping_id: 3219
+          mapping_id: 78166
         url_poster: https://theposterdb.com/api/assets/411395
         # IDs: imdb://tt0094514, tmdb://3219, tvdb://78166
         # tpdb: https://theposterdb.com/search/advanced/results?term=Murphy%20Brown&category=Shows&year_filter=equals&yone=1988&tmdb_id=3219&imdb_id=tt0094514&tvdb_id=78166

@@ -2,7 +2,7 @@ collections:
   "The Twilight Zone":
     variables: {
       show: "358915, 72176, 73587",
-      poster: "https://theposterdb.com/api/assets/179766"
+      poster: https://theposterdb.com/api/assets/179766
     }
     template: [ 
       { name: tplCommonBase }, 

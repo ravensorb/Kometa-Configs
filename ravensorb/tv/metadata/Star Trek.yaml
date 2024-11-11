@@ -3,7 +3,7 @@ metadata:
         year: 1966
         title: "Star Trek"
         match:
-          mapping_id: 253
+          mapping_id: 77526
         url_poster: https://theposterdb.com/api/assets/175969
         # IDs: imdb://tt0060028, tmdb://253, tvdb://77526
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek&category=Shows&year_filter=equals&yone=1966&tmdb_id=253&imdb_id=tt0060028&tvdb_id=77526
@@ -24,7 +24,7 @@ metadata:
         year: 1973
         title: "Star Trek: The Animated Series"
         match:
-          mapping_id: 1992
+          mapping_id: 73566
         url_poster: https://theposterdb.com/api/assets/175976
         # IDs: imdb://tt0069637, tmdb://1992, tvdb://73566
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Animated%20Series&category=Shows&year_filter=equals&yone=1973&tmdb_id=1992&imdb_id=tt0069637&tvdb_id=73566
@@ -43,7 +43,7 @@ metadata:
         year: 1987
         title: "Star Trek: The Next Generation"
         match:
-          mapping_id: 655
+          mapping_id: 71470
         url_poster: https://theposterdb.com/api/assets/175970
         # IDs: imdb://tt0092455, tmdb://655, tvdb://71470
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Next%20Generation&category=Shows&year_filter=equals&yone=1987&tmdb_id=655&imdb_id=tt0092455&tvdb_id=71470
@@ -72,7 +72,7 @@ metadata:
         year: 1993
         title: "Star Trek: Deep Space Nine"
         match:
-          mapping_id: 580
+          mapping_id: 72073
         url_poster: https://theposterdb.com/api/assets/175971
         # IDs: imdb://tt0106145, tmdb://580, tvdb://72073
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Deep%20Space%20Nine&category=Shows&year_filter=equals&yone=1993&tmdb_id=580&imdb_id=tt0106145&tvdb_id=72073
@@ -101,7 +101,7 @@ metadata:
         year: 1995
         title: "Star Trek: Voyager"
         match:
-          mapping_id: 1855
+          mapping_id: 74550
         url_poster: https://theposterdb.com/api/assets/175972
         # IDs: imdb://tt0112178, tmdb://1855, tvdb://74550
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Voyager&category=Shows&year_filter=equals&yone=1995&tmdb_id=1855&imdb_id=tt0112178&tvdb_id=74550
@@ -130,7 +130,7 @@ metadata:
         year: 2001
         title: "Star Trek: Enterprise"
         match:
-          mapping_id: 314
+          mapping_id: 73893
         url_poster: https://theposterdb.com/api/assets/175973
         # IDs: imdb://tt0244365, tmdb://314, tvdb://73893
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Enterprise&category=Shows&year_filter=equals&yone=2001&tmdb_id=314&imdb_id=tt0244365&tvdb_id=73893
@@ -152,6 +152,8 @@ metadata:
     "Star Trek: The Original Series - The Roddenberry Vault (2016)":
         year: 2016
         title: "Star Trek: The Original Series - The Roddenberry Vault"
+        match:
+          mapping_id: 368778
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tvdb://368778
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Original%20Series%20-%20The%20Roddenberry%20Vault&category=Shows&year_filter=equals&yone=2016&tvdb_id=368778
@@ -166,7 +168,7 @@ metadata:
         year: 2017
         title: "Star Trek: Discovery"
         match:
-          mapping_id: 67198
+          mapping_id: 328711
         url_poster: https://theposterdb.com/api/assets/175974
         # IDs: imdb://tt5171438, tmdb://67198, tvdb://328711
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Discovery&category=Shows&year_filter=equals&yone=2017&tmdb_id=67198&imdb_id=tt5171438&tvdb_id=328711
@@ -191,7 +193,7 @@ metadata:
         year: 2018
         title: "Star Trek: Short Treks"
         match:
-          mapping_id: 82491
+          mapping_id: 376108
         url_poster: https://theposterdb.com/api/assets/327962
         # IDs: imdb://tt9059594, tmdb://82491, tvdb://376108
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Short%20Treks&category=Shows&year_filter=equals&yone=2018&tmdb_id=82491&imdb_id=tt9059594&tvdb_id=376108
@@ -211,7 +213,7 @@ metadata:
         title: "The Ready Room"
         sort_title: "Star Trek: Ready Room"
         match:
-          mapping_id: 100451
+          mapping_id: 358781
         url_poster: https://theposterdb.com/api/assets/347921
         # IDs: imdb://tt13485500, tmdb://100451, tvdb://358781
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Ready%20Room&category=Shows&year_filter=equals&yone=2019&tmdb_id=100451&imdb_id=tt13485500&tvdb_id=358781
@@ -234,7 +236,7 @@ metadata:
         year: 2020
         title: "Star Trek: Lower Decks"
         match:
-          mapping_id: 85948
+          mapping_id: 367138
         url_poster: https://theposterdb.com/api/assets/327950
         # IDs: imdb://tt9184820, tmdb://85948, tvdb://367138
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Lower%20Decks&category=Shows&year_filter=equals&yone=2020&tmdb_id=85948&imdb_id=tt9184820&tvdb_id=367138
@@ -259,7 +261,7 @@ metadata:
         year: 2020
         title: "Star Trek: Picard"
         match:
-          mapping_id: 85949
+          mapping_id: 364093
         url_poster: https://theposterdb.com/api/assets/175975
         # IDs: imdb://tt8806524, tmdb://85949, tvdb://364093
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Picard&category=Shows&year_filter=equals&yone=2020&tmdb_id=85949&imdb_id=tt8806524&tvdb_id=364093
@@ -280,7 +282,7 @@ metadata:
         year: 2021
         title: "Star Trek: Prodigy"
         match:
-          mapping_id: 106393
+          mapping_id: 385811
         url_poster: https://theposterdb.com/api/assets/327960
         # IDs: imdb://tt9795876, tmdb://106393, tvdb://385811
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Prodigy&category=Shows&year_filter=equals&yone=2021&tmdb_id=106393&imdb_id=tt9795876&tvdb_id=385811
@@ -300,7 +302,7 @@ metadata:
         title: "The Center Seat: 55 Years of Star Trek"
         sort_title: "Star Trek: Center Seat: 55 Years of Star Trek"
         match:
-          mapping_id: 137895
+          mapping_id: 398399
         url_poster: https://theposterdb.com/api/assets/367793
         # IDs: imdb://tt15766736, tmdb://137895, tvdb://398399
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Center%20Seat%3A%2055%20Years%20of%20Star%20Trek&category=Shows&year_filter=equals&yone=2021&tmdb_id=137895&imdb_id=tt15766736&tvdb_id=398399
@@ -317,7 +319,7 @@ metadata:
         year: 2022
         title: "Star Trek: Strange New Worlds"
         match:
-          mapping_id: 103516
+          mapping_id: 382389
         url_poster: https://theposterdb.com/api/assets/327966
         # IDs: imdb://tt12327578, tmdb://103516, tvdb://382389
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Strange%20New%20Worlds&category=Shows&year_filter=equals&yone=2022&tmdb_id=103516&imdb_id=tt12327578&tvdb_id=382389

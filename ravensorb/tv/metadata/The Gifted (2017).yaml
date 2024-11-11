@@ -4,7 +4,7 @@ metadata:
         title: "The Gifted"
         sort_title: "Gifted"
         match:
-          mapping_id: 69629
+          mapping_id: 328552
         url_poster: https://theposterdb.com/api/assets/239493
         # IDs: imdb://tt4396630, tmdb://69629, tvdb://328552
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gifted&category=Shows&year_filter=equals&yone=2017&tmdb_id=69629&imdb_id=tt4396630&tvdb_id=328552

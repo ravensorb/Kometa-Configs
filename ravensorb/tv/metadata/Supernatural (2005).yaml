@@ -3,7 +3,7 @@ metadata:
         year: 2005
         title: "Supernatural"
         match:
-          mapping_id: 1622
+          mapping_id: 78901
         url_poster: https://theposterdb.com/api/assets/259176
         # IDs: imdb://tt0460681, tmdb://1622, tvdb://78901
         # tpdb: https://theposterdb.com/search/advanced/results?term=Supernatural&category=Shows&year_filter=equals&yone=2005&tmdb_id=1622&imdb_id=tt0460681&tvdb_id=78901

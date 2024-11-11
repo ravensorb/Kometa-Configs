@@ -3,7 +3,7 @@ metadata:
         year: 2023
         title: "Wolf Pack"
         match:
-          mapping_id: 134865
+          mapping_id: 410488
         url_poster: https://theposterdb.com/api/assets/347929
         # IDs: imdb://tt15487922, tmdb://134865, tvdb://410488
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wolf%20Pack&category=Shows&year_filter=equals&yone=2023&tmdb_id=134865&imdb_id=tt15487922&tvdb_id=410488

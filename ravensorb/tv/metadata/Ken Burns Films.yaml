@@ -2,6 +2,8 @@ metadata:
     "Ken Burns Films (1981)":
         year: 1981
         title: "Ken Burns Films"
+        match:
+          mapping_id: 277594
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tvdb://277594
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ken%20Burns%20Films&category=Shows&year_filter=equals&yone=1981&tvdb_id=277594
@@ -23,7 +25,7 @@ metadata:
         title: "The Civil War"
         sort_title: "Civil War"
         match:
-          mapping_id: 9693
+          mapping_id: 78973
         url_poster: https://theposterdb.com/api/assets/216708
         # IDs: imdb://tt0098769, tmdb://9693, tvdb://78973
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Civil%20War&category=Shows&year_filter=equals&yone=1990&tmdb_id=9693&imdb_id=tt0098769&tvdb_id=78973
@@ -31,6 +33,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1990&query=78973
         # imdb: https://www.imdb.com/title/tt0098769
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/216710
 
@@ -38,7 +42,7 @@ metadata:
         year: 1994
         title: "Baseball"
         match:
-          mapping_id: 19215
+          mapping_id: 81381
         url_poster: https://theposterdb.com/api/assets/216660
         # IDs: imdb://tt0108700, tmdb://19215, tvdb://81381
         # tpdb: https://theposterdb.com/search/advanced/results?term=Baseball&category=Shows&year_filter=equals&yone=1994&tmdb_id=19215&imdb_id=tt0108700&tvdb_id=81381
@@ -46,6 +50,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1994&query=81381
         # imdb: https://www.imdb.com/title/tt0108700
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/216662
             # 2:
@@ -56,7 +62,7 @@ metadata:
         title: "The West"
         sort_title: "West"
         match:
-          mapping_id: 30715
+          mapping_id: 80105
         url_poster: https://theposterdb.com/api/assets/216730
         # IDs: imdb://tt0115418, tmdb://30715, tvdb://80105
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20West&category=Shows&year_filter=equals&yone=1996&tmdb_id=30715&imdb_id=tt0115418&tvdb_id=80105
@@ -64,6 +70,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1996&query=80105
         # imdb: https://www.imdb.com/title/tt0115418
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/216731
 
@@ -71,7 +79,7 @@ metadata:
         year: 1997
         title: "Thomas Jefferson"
         match:
-          mapping_id: 45343
+          mapping_id: 84784
         url_poster: https://theposterdb.com/api/assets/218079
         # IDs: imdb://tt0118489, tmdb://45343, tvdb://84784
         # tpdb: https://theposterdb.com/search/advanced/results?term=Thomas%20Jefferson&category=Shows&year_filter=equals&yone=1997&tmdb_id=45343&imdb_id=tt0118489&tvdb_id=84784
@@ -79,6 +87,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1997&query=84784
         # imdb: https://www.imdb.com/title/tt0118489
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218079
 
@@ -86,7 +96,7 @@ metadata:
         year: 2001
         title: "Jazz"
         match:
-          mapping_id: 20861
+          mapping_id: 80679
         url_poster: https://theposterdb.com/api/assets/218095
         # IDs: imdb://tt0221300, tmdb://20861, tvdb://80679
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jazz&category=Shows&year_filter=equals&yone=2001&tmdb_id=20861&imdb_id=tt0221300&tvdb_id=80679
@@ -94,6 +104,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=80679
         # imdb: https://www.imdb.com/title/tt0221300
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218097
 
@@ -102,7 +114,7 @@ metadata:
         title: "The War"
         sort_title: "War"
         match:
-          mapping_id: 31750
+          mapping_id: 80620
         url_poster: https://theposterdb.com/api/assets/218122
         # IDs: imdb://tt0996994, tmdb://31750, tvdb://80620
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20War&category=Shows&year_filter=equals&yone=2007&tmdb_id=31750&imdb_id=tt0996994&tvdb_id=80620
@@ -110,6 +122,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80620
         # imdb: https://www.imdb.com/title/tt0996994
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218123
 
@@ -118,7 +132,7 @@ metadata:
         title: "The National Parks: America's Best Idea"
         sort_title: "National Parks: America's Best Idea"
         match:
-          mapping_id: 31708
+          mapping_id: 116171
         url_poster: https://theposterdb.com/api/assets/218132
         # IDs: imdb://tt1464482, tmdb://31708, tvdb://116171
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20National%20Parks%3A%20America%27s%20Best%20Idea&category=Shows&year_filter=equals&yone=2009&tmdb_id=31708&imdb_id=tt1464482&tvdb_id=116171
@@ -126,6 +140,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=116171
         # imdb: https://www.imdb.com/title/tt1464482
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218134
 
@@ -133,7 +149,7 @@ metadata:
         year: 2011
         title: "Prohibition"
         match:
-          mapping_id: 39983
+          mapping_id: 251965
         url_poster: https://theposterdb.com/api/assets/218144
         # IDs: imdb://tt1950799, tmdb://39983, tvdb://251965
         # tpdb: https://theposterdb.com/search/advanced/results?term=Prohibition&category=Shows&year_filter=equals&yone=2011&tmdb_id=39983&imdb_id=tt1950799&tvdb_id=251965
@@ -141,6 +157,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2011&query=251965
         # imdb: https://www.imdb.com/title/tt1950799
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218146
 
@@ -149,7 +167,7 @@ metadata:
         title: "The Dust Bowl"
         sort_title: "Dust Bowl"
         match:
-          mapping_id: 56629
+          mapping_id: 264098
         url_poster: https://theposterdb.com/api/assets/218158
         # IDs: imdb://tt2357472, tmdb://56629, tvdb://264098
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dust%20Bowl&category=Shows&year_filter=equals&yone=2012&tmdb_id=56629&imdb_id=tt2357472&tvdb_id=264098
@@ -157,6 +175,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=264098
         # imdb: https://www.imdb.com/title/tt2357472
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218159
 
@@ -165,7 +185,7 @@ metadata:
         title: "The Roosevelts: An Intimate History"
         sort_title: "Roosevelts: An Intimate History"
         match:
-          mapping_id: 65646
+          mapping_id: 282249
         url_poster: https://theposterdb.com/api/assets/218594
         # IDs: imdb://tt3400010, tmdb://65646, tvdb://282249
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Roosevelts%3A%20An%20Intimate%20History&category=Shows&year_filter=equals&yone=2014&tmdb_id=65646&imdb_id=tt3400010&tvdb_id=282249
@@ -173,6 +193,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=282249
         # imdb: https://www.imdb.com/title/tt3400010
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218595
 
@@ -180,7 +202,7 @@ metadata:
         year: 2015
         title: "Cancer: The Emperor of All Maladies"
         match:
-          mapping_id: 77144
+          mapping_id: 293822
         url_poster: https://theposterdb.com/api/assets/218644
         # IDs: imdb://tt4383082, tmdb://77144, tvdb://293822
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cancer%3A%20The%20Emperor%20of%20All%20Maladies&category=Shows&year_filter=equals&yone=2015&tmdb_id=77144&imdb_id=tt4383082&tvdb_id=293822
@@ -188,6 +210,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=293822
         # imdb: https://www.imdb.com/title/tt4383082
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218645
 
@@ -195,7 +219,7 @@ metadata:
         year: 2016
         title: "Jackie Robinson"
         match:
-          mapping_id: 76519
+          mapping_id: 310180
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt5618356, tmdb://76519, tvdb://310180
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jackie%20Robinson&category=Shows&year_filter=equals&yone=2016&tmdb_id=76519&imdb_id=tt5618356&tvdb_id=310180
@@ -211,7 +235,7 @@ metadata:
         title: "The Vietnam War"
         sort_title: "Vietnam War (2017)"
         match:
-          mapping_id: 46434
+          mapping_id: 333595
         url_poster: https://theposterdb.com/api/assets/218602
         # IDs: imdb://tt1877514, tmdb://46434, tvdb://333595
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Vietnam%20War&category=Shows&year_filter=equals&yone=2017&tmdb_id=46434&imdb_id=tt1877514&tvdb_id=333595
@@ -219,6 +243,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=333595
         # imdb: https://www.imdb.com/title/tt1877514
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218603
 
@@ -226,7 +252,7 @@ metadata:
         year: 2019
         title: "Country Music"
         match:
-          mapping_id: 86558
+          mapping_id: 359180
         url_poster: https://theposterdb.com/api/assets/218634
         # IDs: imdb://tt9708550, tmdb://86558, tvdb://359180
         # tpdb: https://theposterdb.com/search/advanced/results?term=Country%20Music&category=Shows&year_filter=equals&yone=2019&tmdb_id=86558&imdb_id=tt9708550&tvdb_id=359180
@@ -234,6 +260,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=359180
         # imdb: https://www.imdb.com/title/tt9708550
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218636
 
@@ -242,7 +270,7 @@ metadata:
         title: "The Gene: An Intimate History"
         sort_title: "Gene: An Intimate History"
         match:
-          mapping_id: 102960
+          mapping_id: 379797
         url_poster: https://theposterdb.com/api/assets/218652
         # IDs: imdb://tt12104262, tmdb://102960, tvdb://379797
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gene%3A%20An%20Intimate%20History&category=Shows&year_filter=equals&yone=2020&tmdb_id=102960&imdb_id=tt12104262&tvdb_id=379797
@@ -250,6 +278,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=379797
         # imdb: https://www.imdb.com/title/tt12104262
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218653
 
@@ -257,7 +287,7 @@ metadata:
         year: 2021
         title: "Hemingway"
         match:
-          mapping_id: 111592
+          mapping_id: 394111
         url_poster: https://theposterdb.com/api/assets/218664
         # IDs: imdb://tt13129360, tmdb://111592, tvdb://394111
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hemingway&category=Shows&year_filter=equals&yone=2021&tmdb_id=111592&imdb_id=tt13129360&tvdb_id=394111
@@ -265,6 +295,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=394111
         # imdb: https://www.imdb.com/title/tt13129360
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218665
 
@@ -272,7 +304,7 @@ metadata:
         year: 2021
         title: "Muhammad Ali"
         match:
-          mapping_id: 128907
+          mapping_id: 403212
         url_poster: https://theposterdb.com/api/assets/411370
         # IDs: imdb://tt6719950, tmdb://128907, tvdb://403212
         # tpdb: https://theposterdb.com/search/advanced/results?term=Muhammad%20Ali&category=Shows&year_filter=equals&yone=2021&tmdb_id=128907&imdb_id=tt6719950&tvdb_id=403212
@@ -289,7 +321,7 @@ metadata:
         year: 2022
         title: "Benjamin Franklin (2022)"
         match:
-          mapping_id: 156138
+          mapping_id: 415024
         url_poster: https://theposterdb.com/api/assets/218682
         # IDs: imdb://tt16415264, tmdb://156138, tvdb://415024
         # tpdb: https://theposterdb.com/search/advanced/results?term=Benjamin%20Franklin%20%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=156138&imdb_id=tt16415264&tvdb_id=415024
@@ -297,6 +329,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=415024
         # imdb: https://www.imdb.com/title/tt16415264
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/218682
 
@@ -305,7 +339,7 @@ metadata:
         title: "The U.S. and the Holocaust"
         sort_title: "U.S. and the Holocaust"
         match:
-          mapping_id: 204165
+          mapping_id: 421197
         url_poster: https://theposterdb.com/api/assets/268560
         # IDs: imdb://tt20863280, tmdb://204165, tvdb://421197
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20U.S.%20and%20the%20Holocaust&category=Shows&year_filter=equals&yone=2022&tmdb_id=204165&imdb_id=tt20863280&tvdb_id=421197
@@ -313,6 +347,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=421197
         # imdb: https://www.imdb.com/title/tt20863280
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/268562
 
@@ -321,7 +357,7 @@ metadata:
         title: "The American Buffalo"
         sort_title: "American Buffalo"
         match:
-          mapping_id: 219756
+          mapping_id: 430628
         url_poster: https://theposterdb.com/api/assets/412077
         # IDs: imdb://tt27131398, tmdb://219756, tvdb://430628
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20American%20Buffalo&category=Shows&year_filter=equals&yone=2023&tmdb_id=219756&imdb_id=tt27131398&tvdb_id=430628
@@ -329,5 +365,7 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=430628
         # imdb: https://www.imdb.com/title/tt27131398
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/412077

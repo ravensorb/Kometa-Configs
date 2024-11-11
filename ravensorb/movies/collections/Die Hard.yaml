@@ -2,7 +2,7 @@ collections:
   "Die Hard":
     variables: {
       movie: "1571, 1572, 1573, 47964, 562",
-      poster: "https://theposterdb.com/api/assets/164773"
+      poster: https://theposterdb.com/api/assets/164773
     }
     template: [ 
       { name: tplCommonBase }, 

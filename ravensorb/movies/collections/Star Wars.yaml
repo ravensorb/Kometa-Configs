@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "Star Wars",
       movie: "10372, 11, 12180, 140607, 181808, 181812, 1884, 1891, 1892, 1893, 1894, 1895, 330459, 348350, 680382, 70608, 732670, 74849, 76180, 79158, 81233, 848326, 857702, 934632, 980804",
-      poster: "https://theposterdb.com/api/assets/244730"
+      poster: https://theposterdb.com/api/assets/244730
     }
     template: [ 
       { name: tplCommonBase }, 

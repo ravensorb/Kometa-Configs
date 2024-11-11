@@ -2,7 +2,7 @@ collections:
   "The Blacklist":
     variables: {
       show: "266189, 311903",
-      poster: "https://theposterdb.com/api/assets/325811"
+      poster: https://theposterdb.com/api/assets/325811
     }
     template: [ 
       { name: tplCommonBase }, 

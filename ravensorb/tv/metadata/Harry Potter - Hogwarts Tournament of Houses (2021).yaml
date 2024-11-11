@@ -3,7 +3,7 @@ metadata:
         year: 2021
         title: "Harry Potter: Hogwarts Tournament of Houses"
         match:
-          mapping_id: 133723
+          mapping_id: 411461
         url_poster: https://theposterdb.com/api/assets/514097
         # IDs: imdb://tt15431326, tmdb://133723, tvdb://411461
         # tpdb: https://theposterdb.com/search/advanced/results?term=Harry%20Potter%3A%20Hogwarts%20Tournament%20of%20Houses&category=Shows&year_filter=equals&yone=2021&tmdb_id=133723&imdb_id=tt15431326&tvdb_id=411461

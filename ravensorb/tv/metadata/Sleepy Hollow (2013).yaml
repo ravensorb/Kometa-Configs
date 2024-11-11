@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Sleepy Hollow"
         match:
-          mapping_id: 50825
+          mapping_id: 269578
         url_poster: https://theposterdb.com/api/assets/350946
         # IDs: imdb://tt2647544, tmdb://50825, tvdb://269578
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sleepy%20Hollow&category=Shows&year_filter=equals&yone=2013&tmdb_id=50825&imdb_id=tt2647544&tvdb_id=269578

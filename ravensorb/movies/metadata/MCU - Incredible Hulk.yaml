@@ -77,6 +77,18 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=584
         # imdb: https://www.imdb.com/title/tt0800080
 
+    "Hulk Vs. (2009)":
+        year: 2009
+        title: "Hulk Vs."
+        match:
+          mapping_id: 394355
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1325753, tmdb://394355, tvdb://10753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hulk%20Vs.&category=Movies&year_filter=equals&yone=2009&tmdb_id=394355&imdb_id=tt1325753&tvdb_id=10753
+        # tmdb: https://www.themoviedb.org/movie/394355
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=10753
+        # imdb: https://www.imdb.com/title/tt1325753
+
     "Hulk vs. Thor (2009)":
         year: 2009
         title: "Hulk vs. Thor"

@@ -2,7 +2,7 @@ collections:
   "National Treasure":
     variables: {
       movie: "2059, 6637",
-      poster: "https://theposterdb.com/api/assets/163397"
+      poster: https://theposterdb.com/api/assets/163397
     }
     template: [ 
       { name: tplCommonBase }, 

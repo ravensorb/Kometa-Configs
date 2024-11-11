@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "Treason"
         match:
-          mapping_id: 157080
+          mapping_id: 413526
         url_poster: https://theposterdb.com/api/assets/345630
         # IDs: imdb://tt16450274, tmdb://157080, tvdb://413526
         # tpdb: https://theposterdb.com/search/advanced/results?term=Treason&category=Shows&year_filter=equals&yone=2022&tmdb_id=157080&imdb_id=tt16450274&tvdb_id=413526

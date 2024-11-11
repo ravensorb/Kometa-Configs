@@ -4,7 +4,7 @@ metadata:
         title: "The A-Team"
         sort_title: "A-Team"
         match:
-          mapping_id: 1516
+          mapping_id: 77904
         url_poster: https://theposterdb.com/api/assets/466908
         # IDs: imdb://tt0084967, tmdb://1516, tvdb://77904
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20A-Team&category=Shows&year_filter=equals&yone=1983&tmdb_id=1516&imdb_id=tt0084967&tvdb_id=77904

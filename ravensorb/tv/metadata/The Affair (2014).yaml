@@ -4,7 +4,7 @@ metadata:
         title: "The Affair"
         sort_title: "Affair"
         match:
-          mapping_id: 61463
+          mapping_id: 270439
         url_poster: https://theposterdb.com/api/assets/344878
         # IDs: imdb://tt2699110, tmdb://61463, tvdb://270439
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Affair&category=Shows&year_filter=equals&yone=2014&tmdb_id=61463&imdb_id=tt2699110&tvdb_id=270439

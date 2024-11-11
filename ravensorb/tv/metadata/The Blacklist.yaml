@@ -4,7 +4,7 @@ metadata:
         title: "The Blacklist"
         sort_title: "Blacklist"
         match:
-          mapping_id: 46952
+          mapping_id: 266189
         url_poster: https://theposterdb.com/api/assets/325811
         # IDs: imdb://tt2741602, tmdb://46952, tvdb://266189
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist&category=Shows&year_filter=equals&yone=2013&tmdb_id=46952&imdb_id=tt2741602&tvdb_id=266189
@@ -40,7 +40,7 @@ metadata:
         title: "The Blacklist: Redemption"
         sort_title: "Blacklist: Redemption"
         match:
-          mapping_id: 68018
+          mapping_id: 311903
         url_poster: https://theposterdb.com/api/assets/325823
         # IDs: imdb://tt5592230, tmdb://68018, tvdb://311903
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blacklist%3A%20Redemption&category=Shows&year_filter=equals&yone=2017&tmdb_id=68018&imdb_id=tt5592230&tvdb_id=311903

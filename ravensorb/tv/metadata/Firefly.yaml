@@ -3,7 +3,7 @@ metadata:
         year: 2002
         title: "Firefly"
         match:
-          mapping_id: 1437
+          mapping_id: 78874
         url_poster: https://theposterdb.com/api/assets/185523
         # IDs: imdb://tt0303461, tmdb://1437, tvdb://78874
         # tpdb: https://theposterdb.com/search/advanced/results?term=Firefly&category=Shows&year_filter=equals&yone=2002&tmdb_id=1437&imdb_id=tt0303461&tvdb_id=78874

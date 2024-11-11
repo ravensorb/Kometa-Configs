@@ -3,7 +3,7 @@ metadata:
         year: 1968
         title: "Hawaii Five-O"
         match:
-          mapping_id: 2303
+          mapping_id: 71223
         url_poster: https://theposterdb.com/api/assets/365298
         # IDs: imdb://tt0062568, tmdb://2303, tvdb://71223
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii%20Five-O&category=Shows&year_filter=equals&yone=1968&tmdb_id=2303&imdb_id=tt0062568&tvdb_id=71223
@@ -42,7 +42,7 @@ metadata:
         year: 2010
         title: "Hawaii Five-0"
         match:
-          mapping_id: 32798
+          mapping_id: 164541
         url_poster: https://theposterdb.com/api/assets/360785
         # IDs: imdb://tt1600194, tmdb://32798, tvdb://164541
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hawaii%20Five-0&category=Shows&year_filter=equals&yone=2010&tmdb_id=32798&imdb_id=tt1600194&tvdb_id=164541

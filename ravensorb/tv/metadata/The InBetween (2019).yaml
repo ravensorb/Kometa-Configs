@@ -4,7 +4,7 @@ metadata:
         title: "The InBetween"
         sort_title: "InBetween"
         match:
-          mapping_id: 81947
+          mapping_id: 354023
         url_poster: https://theposterdb.com/api/assets/288787
         # IDs: imdb://tt7861612, tmdb://81947, tvdb://354023
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20InBetween&category=Shows&year_filter=equals&yone=2019&tmdb_id=81947&imdb_id=tt7861612&tvdb_id=354023

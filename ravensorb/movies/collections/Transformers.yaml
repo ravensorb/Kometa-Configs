@@ -2,7 +2,7 @@ collections:
   "Transformers":
     variables: {
       movie: "1858, 335988, 91314",
-      poster: "https://theposterdb.com/api/assets/160997"
+      poster: https://theposterdb.com/api/assets/160997
     }
     template: [ 
       { name: tplCommonBase }, 

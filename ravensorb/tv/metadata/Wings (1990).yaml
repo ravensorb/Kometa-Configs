@@ -3,7 +3,7 @@ metadata:
         year: 1990
         title: "Wings"
         match:
-          mapping_id: 2506
+          mapping_id: 71962
         url_poster: https://theposterdb.com/api/assets/401618
         # IDs: imdb://tt0098948, tmdb://2506, tvdb://71962
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wings&category=Shows&year_filter=equals&yone=1990&tmdb_id=2506&imdb_id=tt0098948&tvdb_id=71962

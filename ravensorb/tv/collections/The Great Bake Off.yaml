@@ -2,7 +2,7 @@ collections:
   "The Great Bake Off":
     variables: {
       show: "184871, 266103, 284546, 303773, 343710, 357728",
-      poster: "https://theposterdb.com/api/assets/293221"
+      poster: https://theposterdb.com/api/assets/293221
     }
     template: [ 
       { name: tplCommonBase }, 

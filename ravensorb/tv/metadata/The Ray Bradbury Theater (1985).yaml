@@ -4,7 +4,7 @@ metadata:
         title: "The Ray Bradbury Theater"
         sort_title: "Ray Bradbury Theater"
         match:
-          mapping_id: 5656
+          mapping_id: 76259
         url_poster: https://theposterdb.com/api/assets/454757
         # IDs: imdb://tt0088591, tmdb://5656, tvdb://76259
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Ray%20Bradbury%20Theater&category=Shows&year_filter=equals&yone=1985&tmdb_id=5656&imdb_id=tt0088591&tvdb_id=76259

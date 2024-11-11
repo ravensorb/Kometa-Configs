@@ -4,7 +4,7 @@ metadata:
         title: "Person of Interest"
         sort_title: "Person of Interest (2011)"
         match:
-          mapping_id: 1411
+          mapping_id: 248742
         url_poster: https://theposterdb.com/api/assets/330258
         # IDs: imdb://tt1839578, tmdb://1411, tvdb://248742
         # tpdb: https://theposterdb.com/search/advanced/results?term=Person%20of%20Interest&category=Shows&year_filter=equals&yone=2011&tmdb_id=1411&imdb_id=tt1839578&tvdb_id=248742

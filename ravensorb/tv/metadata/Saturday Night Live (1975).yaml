@@ -3,7 +3,7 @@ metadata:
         year: 1975
         title: "Saturday Night Live"
         match:
-          mapping_id: 1667
+          mapping_id: 76177
         url_poster: https://theposterdb.com/api/assets/365429
         # IDs: imdb://tt0072562, tmdb://1667, tvdb://76177
         # tpdb: https://theposterdb.com/search/advanced/results?term=Saturday%20Night%20Live&category=Shows&year_filter=equals&yone=1975&tmdb_id=1667&imdb_id=tt0072562&tvdb_id=76177

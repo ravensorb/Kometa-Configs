@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Orphan Black"
         match:
-          mapping_id: 56296
+          mapping_id: 260315
         url_poster: https://theposterdb.com/api/assets/238688
         # IDs: imdb://tt2234222, tmdb://56296, tvdb://260315
         # tpdb: https://theposterdb.com/search/advanced/results?term=Orphan%20Black&category=Shows&year_filter=equals&yone=2013&tmdb_id=56296&imdb_id=tt2234222&tvdb_id=260315

@@ -2,7 +2,7 @@ collections:
   "Eddie and the Cruisers":
     variables: {
       movie: "21721, 25005",
-      poster: "https://theposterdb.com/api/assets/166797"
+      poster: https://theposterdb.com/api/assets/166797
     }
     template: [ 
       { name: tplCommonBase }, 

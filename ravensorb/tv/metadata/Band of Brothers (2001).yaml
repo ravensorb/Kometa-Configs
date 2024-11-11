@@ -3,7 +3,7 @@ metadata:
         year: 2001
         title: "Band of Brothers"
         match:
-          mapping_id: 4613
+          mapping_id: 74205
         url_poster: https://theposterdb.com/api/assets/323431
         # IDs: imdb://tt0185906, tmdb://4613, tvdb://74205
         # tpdb: https://theposterdb.com/search/advanced/results?term=Band%20of%20Brothers&category=Shows&year_filter=equals&yone=2001&tmdb_id=4613&imdb_id=tt0185906&tvdb_id=74205

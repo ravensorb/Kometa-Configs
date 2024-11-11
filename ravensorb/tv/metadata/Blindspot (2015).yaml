@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Blindspot"
         match:
-          mapping_id: 62710
+          mapping_id: 295647
         url_poster: https://theposterdb.com/api/assets/359932
         # IDs: imdb://tt4474344, tmdb://62710, tvdb://295647
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blindspot&category=Shows&year_filter=equals&yone=2015&tmdb_id=62710&imdb_id=tt4474344&tvdb_id=295647

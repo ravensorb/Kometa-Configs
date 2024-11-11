@@ -2,7 +2,7 @@ collections:
   "Space Odyssey":
     variables: {
       movie: "4437, 62",
-      poster: "https://theposterdb.com/api/assets/160992"
+      poster: https://theposterdb.com/api/assets/160992
     }
     template: [ 
       { name: tplCommonBase }, 

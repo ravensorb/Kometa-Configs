@@ -1,13 +1,13 @@
 metadata:
-    "Twin Peaks":
+    "Twin Peaks (1989)":
         year: 1989
         title: "Twin Peaks"
         match:
-          mapping_id: tt27449259
+          mapping_id: 452522
         url_poster: https://theposterdb.com/api/assets/475517
-        # IDs: imdb://tt27449259
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Movies&imdb_id=tt27449259
-        # tmdb: 
+        # IDs: imdb://tt27449259, tmdb://452522
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Movies&year_filter=equals&yone=1989&tmdb_id=452522&imdb_id=tt27449259
+        # tmdb: https://www.themoviedb.org/movie/452522
         # tvdb: 
         # imdb: https://www.imdb.com/title/tt27449259
 

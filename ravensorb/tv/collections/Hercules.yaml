@@ -2,7 +2,7 @@ collections:
   "Hercules":
     variables: {
       show: "72497",
-      poster: "https://theposterdb.com/api/assets/162041"
+      poster: https://theposterdb.com/api/assets/162041
     }
     template: [ 
       { name: tplCommonBase }, 

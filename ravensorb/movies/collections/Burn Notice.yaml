@@ -2,7 +2,7 @@ collections:
   "Burn Notice":
     variables: {
       movie: "61537",
-      poster: "https://theposterdb.com/api/assets/362679"
+      poster: https://theposterdb.com/api/assets/362679
     }
     template: [ 
       { name: tplCommonBase }, 

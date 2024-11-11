@@ -4,7 +4,7 @@ metadata:
         title: "Big Sky"
         sort_title: "Big Sky (2020)"
         match:
-          mapping_id: 100010
+          mapping_id: 378023
         url_poster: https://theposterdb.com/api/assets/445961
         # IDs: imdb://tt11794642, tmdb://100010, tvdb://378023
         # tpdb: https://theposterdb.com/search/advanced/results?term=Big%20Sky&category=Shows&year_filter=equals&yone=2020&tmdb_id=100010&imdb_id=tt11794642&tvdb_id=378023

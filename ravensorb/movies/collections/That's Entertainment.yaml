@@ -2,7 +2,7 @@ collections:
   "That's Entertainment":
     variables: {
       movie: "33740, 74719, 77448",
-      poster: "https://theposterdb.com/api/assets/273117"
+      poster: https://theposterdb.com/api/assets/273117
     }
     template: [ 
       { name: tplCommonBase }, 

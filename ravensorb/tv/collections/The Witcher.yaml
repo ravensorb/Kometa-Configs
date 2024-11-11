@@ -2,7 +2,7 @@ collections:
   "The Witcher":
     variables: {
       show: "362696, 399987",
-      poster: "https://theposterdb.com/api/assets/343544"
+      poster: https://theposterdb.com/api/assets/343544
     }
     template: [ 
       { name: tplCommonBase }, 

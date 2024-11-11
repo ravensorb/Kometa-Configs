@@ -2,7 +2,7 @@ collections:
   "Percy Jackson":
     variables: {
       movie: "32657, 76285",
-      poster: "https://theposterdb.com/api/assets/163402"
+      poster: https://theposterdb.com/api/assets/163402
     }
     template: [ 
       { name: tplCommonBase }, 

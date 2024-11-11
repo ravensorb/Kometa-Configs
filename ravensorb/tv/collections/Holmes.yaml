@@ -2,7 +2,7 @@ collections:
   "Holmes":
     variables: {
       show: "117701, 263011, 318842, 319596, 345718, 395065, 412152, 80258",
-      poster: "https://theposterdb.com/api/assets/183489"
+      poster: https://theposterdb.com/api/assets/183489
     }
     template: [ 
       { name: tplCommonBase }, 

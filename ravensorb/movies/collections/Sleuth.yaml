@@ -2,7 +2,7 @@ collections:
   "Sleuth":
     variables: {
       movie: "4520, 993",
-      poster: "https://theposterdb.com/api/assets/266788"
+      poster: https://theposterdb.com/api/assets/266788
     }
     template: [ 
       { name: tplCommonBase }, 

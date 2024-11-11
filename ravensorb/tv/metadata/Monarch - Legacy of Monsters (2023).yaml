@@ -3,7 +3,7 @@ metadata:
         year: 2023
         title: "Monarch: Legacy of Monsters"
         match:
-          mapping_id: 202411
+          mapping_id: 422598
         url_poster: https://theposterdb.com/api/assets/421593
         # IDs: imdb://tt17220216, tmdb://202411, tvdb://422598
         # tpdb: https://theposterdb.com/search/advanced/results?term=Monarch%3A%20Legacy%20of%20Monsters&category=Shows&year_filter=equals&yone=2023&tmdb_id=202411&imdb_id=tt17220216&tvdb_id=422598

@@ -2,7 +2,7 @@ collections:
   "The Mummy":
     variables: {
       movie: "1734, 1735, 282035, 564",
-      poster: "https://theposterdb.com/api/assets/93442"
+      poster: https://theposterdb.com/api/assets/93442
     }
     template: [ 
       { name: tplCommonBase }, 

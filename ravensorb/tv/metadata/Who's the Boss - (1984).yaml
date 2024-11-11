@@ -3,7 +3,7 @@ metadata:
         year: 1984
         title: "Who's the Boss?"
         match:
-          mapping_id: 634
+          mapping_id: 76587
         url_poster: https://theposterdb.com/api/assets/355997
         # IDs: imdb://tt0086827, tmdb://634, tvdb://76587
         # tpdb: https://theposterdb.com/search/advanced/results?term=Who%27s%20the%20Boss%3F&category=Shows&year_filter=equals&yone=1984&tmdb_id=634&imdb_id=tt0086827&tvdb_id=76587

@@ -2,7 +2,7 @@ collections:
   "Hawaii Five-O":
     variables: {
       show: "164541, 71223",
-      poster: "https://theposterdb.com/api/assets/14958"
+      poster: https://theposterdb.com/api/assets/14958
     }
     template: [ 
       { name: tplCommonBase }, 

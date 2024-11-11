@@ -2,7 +2,7 @@ collections:
   "Murder, She Wrote":
     variables: {
       show: "78049",
-      poster: "https://theposterdb.com/api/assets/172446"
+      poster: https://theposterdb.com/api/assets/172446
     }
     template: [ 
       { name: tplCommonBase }, 

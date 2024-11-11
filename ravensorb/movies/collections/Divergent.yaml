@@ -2,7 +2,7 @@ collections:
   "Divergent":
     variables: {
       movie: "157350, 262500, 262504",
-      poster: "https://theposterdb.com/api/assets/163697"
+      poster: https://theposterdb.com/api/assets/163697
     }
     template: [ 
       { name: tplCommonBase }, 

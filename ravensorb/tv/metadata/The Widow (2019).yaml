@@ -4,7 +4,7 @@ metadata:
         title: "The Widow"
         sort_title: "Widow"
         match:
-          mapping_id: 85854
+          mapping_id: 358191
         url_poster: https://theposterdb.com/api/assets/458171
         # IDs: imdb://tt7459986, tmdb://85854, tvdb://358191
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Widow&category=Shows&year_filter=equals&yone=2019&tmdb_id=85854&imdb_id=tt7459986&tvdb_id=358191

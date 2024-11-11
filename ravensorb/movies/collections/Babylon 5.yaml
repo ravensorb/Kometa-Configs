@@ -2,7 +2,7 @@ collections:
   "Babylon 5":
     variables: {
       movie: "10916, 10921, 10940, 10941, 1121575, 15289, 16068",
-      poster: "https://theposterdb.com/api/assets/295296"
+      poster: https://theposterdb.com/api/assets/295296
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "Hustler":
     variables: {
       movie: "11873, 990",
-      poster: "https://theposterdb.com/api/assets/163418"
+      poster: https://theposterdb.com/api/assets/163418
     }
     template: [ 
       { name: tplCommonBase }, 

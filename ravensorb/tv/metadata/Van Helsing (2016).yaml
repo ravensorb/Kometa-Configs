@@ -3,7 +3,7 @@ metadata:
         year: 2016
         title: "Van Helsing"
         match:
-          mapping_id: 65820
+          mapping_id: 308772
         url_poster: https://theposterdb.com/api/assets/348310
         # IDs: imdb://tt5197820, tmdb://65820, tvdb://308772
         # tpdb: https://theposterdb.com/search/advanced/results?term=Van%20Helsing&category=Shows&year_filter=equals&yone=2016&tmdb_id=65820&imdb_id=tt5197820&tvdb_id=308772

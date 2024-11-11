@@ -2,7 +2,7 @@ collections:
   "Gilemore Girls":
     variables: {
       show: "311987, 76568",
-      poster: "https://theposterdb.com/api/assets/107228"
+      poster: https://theposterdb.com/api/assets/107228
     }
     template: [ 
       { name: tplCommonBase }, 

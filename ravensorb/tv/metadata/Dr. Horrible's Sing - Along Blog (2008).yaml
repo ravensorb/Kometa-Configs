@@ -3,7 +3,7 @@ metadata:
         year: 2008
         title: "Dr. Horrible's Sing-Along Blog"
         match:
-          mapping_id: 5739
+          mapping_id: 82507
         url_poster: https://theposterdb.com/api/assets/215276
         # IDs: imdb://tt1227926, tmdb://5739, tvdb://82507
         # tpdb: https://theposterdb.com/search/advanced/results?term=Dr.%20Horrible%27s%20Sing-Along%20Blog&category=Shows&year_filter=equals&yone=2008&tmdb_id=5739&imdb_id=tt1227926&tvdb_id=82507

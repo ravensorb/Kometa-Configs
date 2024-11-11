@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "Willow"
         match:
-          mapping_id: 111837
+          mapping_id: 393192
         url_poster: https://theposterdb.com/api/assets/295196
         # IDs: imdb://tt10278918, tmdb://111837, tvdb://393192
         # tpdb: https://theposterdb.com/search/advanced/results?term=Willow&category=Shows&year_filter=equals&yone=2022&tmdb_id=111837&imdb_id=tt10278918&tvdb_id=393192

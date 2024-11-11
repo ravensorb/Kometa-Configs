@@ -4,7 +4,7 @@ metadata:
         title: "The Vampire Diaries"
         sort_title: "Vampire Diaries"
         match:
-          mapping_id: 18165
+          mapping_id: 95491
         url_poster: https://theposterdb.com/api/assets/325997
         # IDs: imdb://tt1405406, tmdb://18165, tvdb://95491
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Vampire%20Diaries&category=Shows&year_filter=equals&yone=2009&tmdb_id=18165&imdb_id=tt1405406&tvdb_id=95491
@@ -36,7 +36,7 @@ metadata:
         title: "The Originals"
         sort_title: "Originals"
         match:
-          mapping_id: 46896
+          mapping_id: 266883
         url_poster: https://theposterdb.com/api/assets/325982
         # IDs: imdb://tt2632424, tmdb://46896, tvdb://266883
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Originals&category=Shows&year_filter=equals&yone=2013&tmdb_id=46896&imdb_id=tt2632424&tvdb_id=266883
@@ -61,7 +61,7 @@ metadata:
         year: 2018
         title: "Legacies"
         match:
-          mapping_id: 79460
+          mapping_id: 349309
         url_poster: https://theposterdb.com/api/assets/396900
         # IDs: imdb://tt8103070, tmdb://79460, tvdb://349309
         # tpdb: https://theposterdb.com/search/advanced/results?term=Legacies&category=Shows&year_filter=equals&yone=2018&tmdb_id=79460&imdb_id=tt8103070&tvdb_id=349309

@@ -4,7 +4,7 @@ metadata:
         title: "The Magicians"
         sort_title: "Magicians"
         match:
-          mapping_id: 64432
+          mapping_id: 299139
         url_poster: https://theposterdb.com/api/assets/409175
         # IDs: imdb://tt4254242, tmdb://64432, tvdb://299139
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Magicians&category=Shows&year_filter=equals&yone=2015&tmdb_id=64432&imdb_id=tt4254242&tvdb_id=299139

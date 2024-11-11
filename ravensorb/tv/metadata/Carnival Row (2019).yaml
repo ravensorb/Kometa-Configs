@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Carnival Row"
         match:
-          mapping_id: 90027
+          mapping_id: 365026
         url_poster: https://theposterdb.com/api/assets/335446
         # IDs: imdb://tt0489974, tmdb://90027, tvdb://365026
         # tpdb: https://theposterdb.com/search/advanced/results?term=Carnival%20Row&category=Shows&year_filter=equals&yone=2019&tmdb_id=90027&imdb_id=tt0489974&tvdb_id=365026

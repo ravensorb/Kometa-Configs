@@ -2,7 +2,7 @@ collections:
   "Jake Grittes":
     variables: {
       movie: "32669, 829",
-      poster: "https://theposterdb.com/api/assets/164796"
+      poster: https://theposterdb.com/api/assets/164796
     }
     template: [ 
       { name: tplCommonBase }, 

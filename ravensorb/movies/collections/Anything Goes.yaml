@@ -2,7 +2,7 @@ collections:
   "Anything Goes":
     variables: {
       movie: "204948, 46007",
-      poster: "https://theposterdb.com/api/assets/205011"
+      poster: https://theposterdb.com/api/assets/205011
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -3,7 +3,7 @@ metadata:
         year: 1971
         title: "Columbo"
         match:
-          mapping_id: 873
+          mapping_id: 70369
         url_poster: https://theposterdb.com/api/assets/383064
         # IDs: imdb://tt1466074, tmdb://873, tvdb://70369
         # tpdb: https://theposterdb.com/search/advanced/results?term=Columbo&category=Shows&year_filter=equals&yone=1971&tmdb_id=873&imdb_id=tt1466074&tvdb_id=70369

@@ -4,7 +4,7 @@ metadata:
         title: "The Hardy Boys (1956)"
         sort_title: "Hardy Boys (1956)"
         match:
-          mapping_id: 22068
+          mapping_id: 72996
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0202489, tmdb://22068, tvdb://72996
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys%20%281956%29&category=Shows&year_filter=equals&yone=1956&tmdb_id=22068&imdb_id=tt0202489&tvdb_id=72996
@@ -20,7 +20,7 @@ metadata:
         title: "The Hardy Boys / Nancy Drew Mysteries"
         sort_title: "Hardy Boys / Nancy Drew Mysteries"
         match:
-          mapping_id: 2928
+          mapping_id: 71183
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0075513, tmdb://2928, tvdb://71183
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys%20%2F%20Nancy%20Drew%20Mysteries&category=Shows&year_filter=equals&yone=1977&tmdb_id=2928&imdb_id=tt0075513&tvdb_id=71183
@@ -39,7 +39,7 @@ metadata:
         year: 2019
         title: "Nancy Drew (2019)"
         match:
-          mapping_id: 89572
+          mapping_id: 363673
         url_poster: https://theposterdb.com/api/assets/480145
         # IDs: imdb://tt10313176, tmdb://89572, tvdb://363673
         # tpdb: https://theposterdb.com/search/advanced/results?term=Nancy%20Drew%20%282019%29&category=Shows&year_filter=equals&yone=2019&tmdb_id=89572&imdb_id=tt10313176&tvdb_id=363673
@@ -63,7 +63,7 @@ metadata:
         title: "The Hardy Boys (2020)"
         sort_title: "Hardy Boys (2020)"
         match:
-          mapping_id: 112945
+          mapping_id: 391628
         url_poster: https://theposterdb.com/api/assets/479201
         # IDs: imdb://tt11252090, tmdb://112945, tvdb://391628
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys%20%282020%29&category=Shows&year_filter=equals&yone=2020&tmdb_id=112945&imdb_id=tt11252090&tvdb_id=391628

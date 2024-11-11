@@ -4,7 +4,7 @@ metadata:
         title: "A Series of Unfortunate Events"
         sort_title: "Series of Unfortunate Events"
         match:
-          mapping_id: 65294
+          mapping_id: 306304
         url_poster: https://theposterdb.com/api/assets/327884
         # IDs: imdb://tt4834206, tmdb://65294, tvdb://306304
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Series%20of%20Unfortunate%20Events&category=Shows&year_filter=equals&yone=2017&tmdb_id=65294&imdb_id=tt4834206&tvdb_id=306304

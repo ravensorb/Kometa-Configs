@@ -3,7 +3,7 @@ metadata:
         year: 1982
         title: "Family Ties"
         match:
-          mapping_id: 496
+          mapping_id: 74409
         url_poster: https://theposterdb.com/api/assets/426746
         # IDs: imdb://tt0083413, tmdb://496, tvdb://74409
         # tpdb: https://theposterdb.com/search/advanced/results?term=Family%20Ties&category=Shows&year_filter=equals&yone=1982&tmdb_id=496&imdb_id=tt0083413&tvdb_id=74409

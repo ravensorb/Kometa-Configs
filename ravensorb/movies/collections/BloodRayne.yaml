@@ -2,7 +2,7 @@ collections:
   "BloodRayne":
     variables: {
       movie: "12685, 168705, 17456",
-      poster: "https://theposterdb.com/api/assets/160786"
+      poster: https://theposterdb.com/api/assets/160786
     }
     template: [ 
       { name: tplCommonBase }, 

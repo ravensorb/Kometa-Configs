@@ -2,7 +2,7 @@ collections:
   "Bosch":
     variables: {
       show: "277928, 414553",
-      poster: "https://theposterdb.com/api/assets/335424"
+      poster: https://theposterdb.com/api/assets/335424
     }
     template: [ 
       { name: tplCommonBase }, 

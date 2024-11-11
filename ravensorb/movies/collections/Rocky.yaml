@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "Rocky",
       movie: "1246, 1366, 1367, 1371, 1374, 1375",
-      poster: "https://theposterdb.com/api/assets/318796"
+      poster: https://theposterdb.com/api/assets/318796
     }
     template: [ 
       { name: tplCommonBase }, 

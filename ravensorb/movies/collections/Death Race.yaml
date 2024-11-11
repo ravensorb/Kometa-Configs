@@ -2,7 +2,7 @@ collections:
   "Death Race":
     variables: {
       movie: "10483, 156717, 51620",
-      poster: "https://theposterdb.com/api/assets/131496"
+      poster: https://theposterdb.com/api/assets/131496
     }
     template: [ 
       { name: tplCommonBase }, 

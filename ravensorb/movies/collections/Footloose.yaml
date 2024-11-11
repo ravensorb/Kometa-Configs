@@ -2,7 +2,7 @@ collections:
   "Footloose":
     variables: {
       movie: "1788, 68817",
-      poster: "https://theposterdb.com/api/assets/252580"
+      poster: https://theposterdb.com/api/assets/252580
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "The Skulls":
     variables: {
       movie: "10594, 11478, 8460",
-      poster: "https://theposterdb.com/api/assets/217866"
+      poster: https://theposterdb.com/api/assets/217866
     }
     template: [ 
       { name: tplCommonBase }, 

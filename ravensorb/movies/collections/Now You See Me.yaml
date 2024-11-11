@@ -2,7 +2,7 @@ collections:
   "Now You See Me":
     variables: {
       movie: "291805, 75656",
-      poster: "https://theposterdb.com/api/assets/164813"
+      poster: https://theposterdb.com/api/assets/164813
     }
     template: [ 
       { name: tplCommonBase }, 

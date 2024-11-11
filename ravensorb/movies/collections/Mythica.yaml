@@ -2,7 +2,7 @@ collections:
   "Mythica":
     variables: {
       movie: "321068, 347096, 370687, 388191, 401689",
-      poster: "https://theposterdb.com/api/assets/234559"
+      poster: https://theposterdb.com/api/assets/234559
     }
     template: [ 
       { name: tplCommonBase }, 

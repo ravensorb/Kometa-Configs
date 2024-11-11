@@ -4,7 +4,7 @@ metadata:
         title: "The Artful Dodger"
         sort_title: "Artful Dodger"
         match:
-          mapping_id: 202208
+          mapping_id: 429915
         url_poster: https://theposterdb.com/api/assets/437668
         # IDs: imdb://tt20285780, tmdb://202208, tvdb://429915
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Artful%20Dodger&category=Shows&year_filter=equals&yone=2023&tmdb_id=202208&imdb_id=tt20285780&tvdb_id=429915

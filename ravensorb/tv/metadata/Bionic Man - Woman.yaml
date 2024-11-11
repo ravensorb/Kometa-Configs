@@ -4,7 +4,7 @@ metadata:
         title: "The Six Million Dollar Man"
         sort_title: "Bionic: Six Million Dollar Man 1974"
         match:
-          mapping_id: 1663
+          mapping_id: 77294
         url_poster: https://theposterdb.com/api/assets/261151
         # IDs: imdb://tt0071054, tmdb://1663, tvdb://77294
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Six%20Million%20Dollar%20Man&category=Shows&year_filter=equals&yone=1974&tmdb_id=1663&imdb_id=tt0071054&tvdb_id=77294
@@ -30,7 +30,7 @@ metadata:
         title: "The Bionic Woman"
         sort_title: "Bionic: Bionic Woman 1976"
         match:
-          mapping_id: 2275
+          mapping_id: 77259
         url_poster: https://theposterdb.com/api/assets/261356
         # IDs: imdb://tt0073965, tmdb://2275, tvdb://77259
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bionic%20Woman&category=Shows&year_filter=equals&yone=1976&tmdb_id=2275&imdb_id=tt0073965&tvdb_id=77259
@@ -52,7 +52,7 @@ metadata:
         title: "Bionic Woman"
         sort_title: "Bionic: Bionic Woman 2007"
         match:
-          mapping_id: 1246
+          mapping_id: 80370
         url_poster: https://theposterdb.com/api/assets/261637
         # IDs: imdb://tt0880557, tmdb://1246, tvdb://80370
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bionic%20Woman&category=Shows&year_filter=equals&yone=2007&tmdb_id=1246&imdb_id=tt0880557&tvdb_id=80370

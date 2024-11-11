@@ -2,7 +2,7 @@ collections:
   "Robert Langdon":
     variables: {
       movie: "13448, 207932, 591",
-      poster: "https://theposterdb.com/api/assets/164823"
+      poster: https://theposterdb.com/api/assets/164823
     }
     template: [ 
       { name: tplCommonBase }, 

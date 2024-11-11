@@ -4,7 +4,7 @@ metadata:
         title: "The Player"
         sort_title: "Player (2015)"
         match:
-          mapping_id: 63891
+          mapping_id: 295642
         url_poster: https://theposterdb.com/api/assets/380581
         # IDs: imdb://tt4474310, tmdb://63891, tvdb://295642
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Player&category=Shows&year_filter=equals&yone=2015&tmdb_id=63891&imdb_id=tt4474310&tvdb_id=295642

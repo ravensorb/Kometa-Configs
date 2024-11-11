@@ -2,7 +2,7 @@ collections:
   "Mamma Mia":
     variables: {
       movie: "11631, 458423",
-      poster: "https://theposterdb.com/api/assets/160962"
+      poster: https://theposterdb.com/api/assets/160962
     }
     template: [ 
       { name: tplCommonBase }, 

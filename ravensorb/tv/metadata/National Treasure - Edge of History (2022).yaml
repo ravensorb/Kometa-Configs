@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "National Treasure: Edge of History"
         match:
-          mapping_id: 137437
+          mapping_id: 382210
         url_poster: https://theposterdb.com/api/assets/330288
         # IDs: imdb://tt12580982, tmdb://137437, tvdb://382210
         # tpdb: https://theposterdb.com/search/advanced/results?term=National%20Treasure%3A%20Edge%20of%20History&category=Shows&year_filter=equals&yone=2022&tmdb_id=137437&imdb_id=tt12580982&tvdb_id=382210

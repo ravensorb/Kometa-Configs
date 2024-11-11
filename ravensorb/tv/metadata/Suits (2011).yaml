@@ -3,7 +3,7 @@ metadata:
         year: 2011
         title: "Suits"
         match:
-          mapping_id: 37680
+          mapping_id: 247808
         url_poster: https://theposterdb.com/api/assets/330409
         # IDs: imdb://tt1632701, tmdb://37680, tvdb://247808
         # tpdb: https://theposterdb.com/search/advanced/results?term=Suits&category=Shows&year_filter=equals&yone=2011&tmdb_id=37680&imdb_id=tt1632701&tvdb_id=247808

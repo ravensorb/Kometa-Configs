@@ -3,7 +3,7 @@ metadata:
         year: 1995
         title: "Xena: Warrior Princess"
         match:
-          mapping_id: 4616
+          mapping_id: 77799
         url_poster: https://theposterdb.com/api/assets/467144
         # IDs: imdb://tt0112230, tmdb://4616, tvdb://77799
         # tpdb: https://theposterdb.com/search/advanced/results?term=Xena%3A%20Warrior%20Princess&category=Shows&year_filter=equals&yone=1995&tmdb_id=4616&imdb_id=tt0112230&tvdb_id=77799

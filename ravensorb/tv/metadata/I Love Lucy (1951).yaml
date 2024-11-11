@@ -3,7 +3,7 @@ metadata:
         year: 1951
         title: "I Love Lucy"
         match:
-          mapping_id: 2730
+          mapping_id: 70584
         url_poster: https://theposterdb.com/api/assets/408714
         # IDs: imdb://tt0043208, tmdb://2730, tvdb://70584
         # tpdb: https://theposterdb.com/search/advanced/results?term=I%20Love%20Lucy&category=Shows&year_filter=equals&yone=1951&tmdb_id=2730&imdb_id=tt0043208&tvdb_id=70584

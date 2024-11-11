@@ -3,7 +3,7 @@ metadata:
         year: 1980
         title: "Beyond Westworld"
         match:
-          mapping_id: 411
+          mapping_id: 77993
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0080198, tmdb://411, tvdb://77993
         # tpdb: https://theposterdb.com/search/advanced/results?term=Beyond%20Westworld&category=Shows&year_filter=equals&yone=1980&tmdb_id=411&imdb_id=tt0080198&tvdb_id=77993
@@ -18,7 +18,7 @@ metadata:
         year: 2016
         title: "Westworld"
         match:
-          mapping_id: 63247
+          mapping_id: 296762
         url_poster: https://theposterdb.com/api/assets/258847
         # IDs: imdb://tt0475784, tmdb://63247, tvdb://296762
         # tpdb: https://theposterdb.com/search/advanced/results?term=Westworld&category=Shows&year_filter=equals&yone=2016&tmdb_id=63247&imdb_id=tt0475784&tvdb_id=296762

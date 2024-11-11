@@ -4,7 +4,7 @@ metadata:
         title: "The Leftovers"
         sort_title: "Leftovers"
         match:
-          mapping_id: 54344
+          mapping_id: 269689
         url_poster: https://theposterdb.com/api/assets/332919
         # IDs: imdb://tt2699128, tmdb://54344, tvdb://269689
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Leftovers&category=Shows&year_filter=equals&yone=2014&tmdb_id=54344&imdb_id=tt2699128&tvdb_id=269689

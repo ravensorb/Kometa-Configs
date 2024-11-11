@@ -4,7 +4,7 @@ metadata:
         title: "Mars"
         sort_title: "Mars (2016)"
         match:
-          mapping_id: 68427
+          mapping_id: 316345
         url_poster: https://theposterdb.com/api/assets/308287
         # IDs: imdb://tt4939064, tmdb://68427, tvdb://316345
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mars&category=Shows&year_filter=equals&yone=2016&tmdb_id=68427&imdb_id=tt4939064&tvdb_id=316345

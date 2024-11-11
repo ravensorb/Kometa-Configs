@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "Agatha Christie",
       show: "250440, 273461, 299855, 344813, 348026, 373830, 76133, 77818, 78535, 78895",
-      poster: "https://theposterdb.com/api/assets/96380"
+      poster: https://theposterdb.com/api/assets/96380
     }
     template: [ 
       { name: tplCommonBase }, 

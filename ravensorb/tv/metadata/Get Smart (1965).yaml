@@ -3,7 +3,7 @@ metadata:
         year: 1965
         title: "Get Smart"
         match:
-          mapping_id: 4455
+          mapping_id: 70386
         url_poster: https://theposterdb.com/api/assets/325481
         # IDs: imdb://tt0058805, tmdb://4455, tvdb://70386
         # tpdb: https://theposterdb.com/search/advanced/results?term=Get%20Smart&category=Shows&year_filter=equals&yone=1965&tmdb_id=4455&imdb_id=tt0058805&tvdb_id=70386

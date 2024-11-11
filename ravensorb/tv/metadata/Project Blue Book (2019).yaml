@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Project Blue Book"
         match:
-          mapping_id: 79649
+          mapping_id: 350401
         url_poster: https://theposterdb.com/api/assets/472799
         # IDs: imdb://tt6632666, tmdb://79649, tvdb://350401
         # tpdb: https://theposterdb.com/search/advanced/results?term=Project%20Blue%20Book&category=Shows&year_filter=equals&yone=2019&tmdb_id=79649&imdb_id=tt6632666&tvdb_id=350401

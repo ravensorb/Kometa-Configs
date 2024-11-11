@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Roswell, New Mexico"
         match:
-          mapping_id: 82001
+          mapping_id: 351282
         url_poster: https://theposterdb.com/api/assets/426617
         # IDs: imdb://tt7588054, tmdb://82001, tvdb://351282
         # tpdb: https://theposterdb.com/search/advanced/results?term=Roswell%2C%20New%20Mexico&category=Shows&year_filter=equals&yone=2019&tmdb_id=82001&imdb_id=tt7588054&tvdb_id=351282

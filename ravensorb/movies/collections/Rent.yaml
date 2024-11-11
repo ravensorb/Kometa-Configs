@@ -2,7 +2,7 @@ collections:
   "Rent":
     variables: {
       movie: "15199, 1833, 557648",
-      poster: "https://theposterdb.com/api/assets/216881"
+      poster: https://theposterdb.com/api/assets/216881
     }
     template: [ 
       { name: tplCommonBase }, 

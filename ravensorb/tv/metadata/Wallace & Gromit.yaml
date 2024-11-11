@@ -2,6 +2,8 @@ metadata:
     "Wallace & Gromit (1989)":
         year: 1989
         title: "Wallace & Gromit"
+        match:
+          mapping_id: 78996
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tvdb://78996
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit&category=Shows&year_filter=equals&yone=1989&tvdb_id=78996
@@ -16,7 +18,7 @@ metadata:
         year: 2002
         title: "Wallace & Gromit's Cracking Contraptions"
         match:
-          mapping_id: 80616
+          mapping_id: 143821
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0339881, tmdb://80616, tvdb://143821
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit%27s%20Cracking%20Contraptions&category=Shows&year_filter=equals&yone=2002&tmdb_id=80616&imdb_id=tt0339881&tvdb_id=143821
@@ -31,7 +33,7 @@ metadata:
         year: 2010
         title: "Wallace & Gromit's World of Invention"
         match:
-          mapping_id: 30873
+          mapping_id: 203031
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1789621, tmdb://30873, tvdb://203031
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit%27s%20World%20of%20Invention&category=Shows&year_filter=equals&yone=2010&tmdb_id=30873&imdb_id=tt1789621&tvdb_id=203031

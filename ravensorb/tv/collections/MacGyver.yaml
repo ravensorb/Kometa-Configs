@@ -2,7 +2,7 @@ collections:
   "MacGyver":
     variables: {
       show: "311902, 77847",
-      poster: "https://theposterdb.com/api/assets/354190"
+      poster: https://theposterdb.com/api/assets/354190
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -3,7 +3,7 @@ metadata:
         year: 2018
         title: "Yellowstone (2018)"
         match:
-          mapping_id: 73586
+          mapping_id: 341164
         url_poster: https://theposterdb.com/api/assets/295700
         # IDs: imdb://tt4236770, tmdb://73586, tvdb://341164
         # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowstone%20%282018%29&category=Shows&year_filter=equals&yone=2018&tmdb_id=73586&imdb_id=tt4236770&tvdb_id=341164
@@ -28,7 +28,7 @@ metadata:
         year: 2021
         title: "1883"
         match:
-          mapping_id: 118357
+          mapping_id: 396390
         url_poster: https://theposterdb.com/api/assets/327937
         # IDs: imdb://tt13991232, tmdb://118357, tvdb://396390
         # tpdb: https://theposterdb.com/search/advanced/results?term=1883&category=Shows&year_filter=equals&yone=2021&tmdb_id=118357&imdb_id=tt13991232&tvdb_id=396390
@@ -45,7 +45,7 @@ metadata:
         year: 2022
         title: "1923"
         match:
-          mapping_id: 157744
+          mapping_id: 416491
         url_poster: https://theposterdb.com/api/assets/302804
         # IDs: imdb://tt18335752, tmdb://157744, tvdb://416491
         # tpdb: https://theposterdb.com/search/advanced/results?term=1923&category=Shows&year_filter=equals&yone=2022&tmdb_id=157744&imdb_id=tt18335752&tvdb_id=416491

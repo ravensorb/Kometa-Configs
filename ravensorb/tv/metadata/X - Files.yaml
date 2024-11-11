@@ -4,7 +4,7 @@ metadata:
         title: "The X-Files"
         sort_title: "X-Files"
         match:
-          mapping_id: 4087
+          mapping_id: 77398
         url_poster: https://theposterdb.com/api/assets/327076
         # IDs: imdb://tt0106179, tmdb://4087, tvdb://77398
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20X-Files&category=Shows&year_filter=equals&yone=1993&tmdb_id=4087&imdb_id=tt0106179&tvdb_id=77398

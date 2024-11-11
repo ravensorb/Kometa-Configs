@@ -2,7 +2,7 @@ collections:
   "Enola Holmes":
     variables: {
       movie: "497582, 829280",
-      poster: "https://theposterdb.com/api/assets/283512"
+      poster: https://theposterdb.com/api/assets/283512
     }
     template: [ 
       { name: tplCommonBase }, 

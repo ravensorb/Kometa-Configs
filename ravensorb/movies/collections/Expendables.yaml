@@ -2,7 +2,7 @@ collections:
   "Expendables":
     variables: {
       movie: "138103, 27578, 76163",
-      poster: "https://theposterdb.com/api/assets/164780"
+      poster: https://theposterdb.com/api/assets/164780
     }
     template: [ 
       { name: tplCommonBase }, 

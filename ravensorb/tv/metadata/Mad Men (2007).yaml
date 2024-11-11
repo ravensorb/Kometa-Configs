@@ -3,7 +3,7 @@ metadata:
         year: 2007
         title: "Mad Men"
         match:
-          mapping_id: 1104
+          mapping_id: 80337
         url_poster: https://theposterdb.com/api/assets/335702
         # IDs: imdb://tt0804503, tmdb://1104, tvdb://80337
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mad%20Men&category=Shows&year_filter=equals&yone=2007&tmdb_id=1104&imdb_id=tt0804503&tvdb_id=80337

@@ -2,7 +2,7 @@ collections:
   "Star is Born":
     variables: {
       movie: "19610, 3111",
-      poster: "https://theposterdb.com/api/assets/201059"
+      poster: https://theposterdb.com/api/assets/201059
     }
     template: [ 
       { name: tplCommonBase }, 

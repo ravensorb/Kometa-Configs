@@ -3,7 +3,7 @@ metadata:
         year: 2023
         title: "FUBAR"
         match:
-          mapping_id: 221300
+          mapping_id: 427281
         url_poster: https://theposterdb.com/api/assets/367366
         # IDs: imdb://tt13064902, tmdb://221300, tvdb://427281
         # tpdb: https://theposterdb.com/search/advanced/results?term=FUBAR&category=Shows&year_filter=equals&yone=2023&tmdb_id=221300&imdb_id=tt13064902&tvdb_id=427281

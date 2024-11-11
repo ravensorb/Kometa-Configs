@@ -2,7 +2,7 @@ collections:
   "Buck Rogers":
     variables: {
       show: "74523, 95991",
-      poster: "https://theposterdb.com/api/assets/160918"
+      poster: https://theposterdb.com/api/assets/160918
     }
     template: [ 
       { name: tplCommonBase }, 

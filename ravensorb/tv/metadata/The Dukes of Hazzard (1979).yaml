@@ -4,7 +4,7 @@ metadata:
         title: "The Dukes of Hazzard"
         sort_title: "Dukes of Hazzard"
         match:
-          mapping_id: 397
+          mapping_id: 77748
         url_poster: https://theposterdb.com/api/assets/452465
         # IDs: imdb://tt0078607, tmdb://397, tvdb://77748
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dukes%20of%20Hazzard&category=Shows&year_filter=equals&yone=1979&tmdb_id=397&imdb_id=tt0078607&tvdb_id=77748

@@ -2,7 +2,7 @@ collections:
   "Knight Rider":
     variables: {
       movie: "10969, 209379",
-      poster: "https://theposterdb.com/api/assets/322634"
+      poster: https://theposterdb.com/api/assets/322634
     }
     template: [ 
       { name: tplCommonBase }, 

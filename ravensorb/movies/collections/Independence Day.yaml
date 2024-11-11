@@ -2,7 +2,7 @@ collections:
   "Independence Day":
     variables: {
       movie: "47933, 602",
-      poster: "https://theposterdb.com/api/assets/162515"
+      poster: https://theposterdb.com/api/assets/162515
     }
     template: [ 
       { name: tplCommonBase }, 

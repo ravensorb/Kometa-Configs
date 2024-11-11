@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Alone"
         match:
-          mapping_id: 63726
+          mapping_id: 295936
         url_poster: https://theposterdb.com/api/assets/450934
         # IDs: imdb://tt4803766, tmdb://63726, tvdb://295936
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alone&category=Shows&year_filter=equals&yone=2015&tmdb_id=63726&imdb_id=tt4803766&tvdb_id=295936

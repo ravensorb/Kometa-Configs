@@ -2,7 +2,7 @@ collections:
   "CSI":
     variables: {
       movie: "369892",
-      poster: "https://theposterdb.com/api/assets/363153"
+      poster: https://theposterdb.com/api/assets/363153
     }
     template: [ 
       { name: tplCommonBase }, 

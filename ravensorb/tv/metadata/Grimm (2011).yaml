@@ -3,7 +3,7 @@ metadata:
         year: 2011
         title: "Grimm"
         match:
-          mapping_id: 39351
+          mapping_id: 248736
         url_poster: https://theposterdb.com/api/assets/210365
         # IDs: imdb://tt1830617, tmdb://39351, tvdb://248736
         # tpdb: https://theposterdb.com/search/advanced/results?term=Grimm&category=Shows&year_filter=equals&yone=2011&tmdb_id=39351&imdb_id=tt1830617&tvdb_id=248736

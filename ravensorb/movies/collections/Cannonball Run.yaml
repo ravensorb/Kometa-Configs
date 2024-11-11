@@ -2,7 +2,7 @@ collections:
   "Cannonball Run":
     variables: {
       movie: "11286, 11950, 12236",
-      poster: "https://theposterdb.com/api/assets/164766"
+      poster: https://theposterdb.com/api/assets/164766
     }
     template: [ 
       { name: tplCommonBase }, 

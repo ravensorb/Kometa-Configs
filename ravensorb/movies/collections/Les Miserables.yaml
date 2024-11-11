@@ -2,7 +2,7 @@ collections:
   "Les Miserables":
     variables: {
       movie: "158675, 196241, 37445, 43893, 4415, 4479, 82695",
-      poster: "https://theposterdb.com/api/assets/209428"
+      poster: https://theposterdb.com/api/assets/209428
     }
     template: [ 
       { name: tplCommonBase }, 

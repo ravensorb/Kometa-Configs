@@ -2,7 +2,7 @@ collections:
   "Mission Impossible":
     variables: {
       movie: "177677, 353081, 56292, 575264, 954, 955, 956",
-      poster: "https://theposterdb.com/api/assets/164810"
+      poster: https://theposterdb.com/api/assets/164810
     }
     template: [ 
       { name: tplCommonBase }, 

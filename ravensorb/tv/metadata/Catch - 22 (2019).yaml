@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Catch-22"
         match:
-          mapping_id: 82744
+          mapping_id: 357558
         url_poster: https://theposterdb.com/api/assets/344273
         # IDs: imdb://tt5056196, tmdb://82744, tvdb://357558
         # tpdb: https://theposterdb.com/search/advanced/results?term=Catch-22&category=Shows&year_filter=equals&yone=2019&tmdb_id=82744&imdb_id=tt5056196&tvdb_id=357558

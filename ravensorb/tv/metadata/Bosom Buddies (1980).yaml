@@ -3,7 +3,7 @@ metadata:
         year: 1980
         title: "Bosom Buddies"
         match:
-          mapping_id: 2574
+          mapping_id: 77683
         url_poster: https://theposterdb.com/api/assets/378640
         # IDs: imdb://tt0080202, tmdb://2574, tvdb://77683
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bosom%20Buddies&category=Shows&year_filter=equals&yone=1980&tmdb_id=2574&imdb_id=tt0080202&tvdb_id=77683

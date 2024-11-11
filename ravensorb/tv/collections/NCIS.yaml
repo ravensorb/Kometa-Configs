@@ -2,7 +2,7 @@ collections:
   "NCIS":
     variables: {
       show: "278125, 401630, 416493, 444350, 72108, 95441",
-      poster: "https://theposterdb.com/api/assets/360205"
+      poster: https://theposterdb.com/api/assets/360205
     }
     template: [ 
       { name: tplCommonBase }, 

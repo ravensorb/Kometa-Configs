@@ -2,7 +2,7 @@ collections:
   "Ghost Rider":
     variables: {
       movie: "1250, 71676",
-      poster: "https://theposterdb.com/api/assets/171142"
+      poster: https://theposterdb.com/api/assets/171142
     }
     template: [ 
       { name: tplCommonBase }, 

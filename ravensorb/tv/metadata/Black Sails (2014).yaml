@@ -3,7 +3,7 @@ metadata:
         year: 2014
         title: "Black Sails"
         match:
-          mapping_id: 47665
+          mapping_id: 262407
         url_poster: https://theposterdb.com/api/assets/330933
         # IDs: imdb://tt2375692, tmdb://47665, tvdb://262407
         # tpdb: https://theposterdb.com/search/advanced/results?term=Black%20Sails&category=Shows&year_filter=equals&yone=2014&tmdb_id=47665&imdb_id=tt2375692&tvdb_id=262407

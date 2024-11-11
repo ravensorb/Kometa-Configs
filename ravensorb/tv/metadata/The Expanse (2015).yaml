@@ -4,7 +4,7 @@ metadata:
         title: "The Expanse"
         sort_title: "Expanse"
         match:
-          mapping_id: 63639
+          mapping_id: 280619
         url_poster: https://theposterdb.com/api/assets/324378
         # IDs: imdb://tt3230854, tmdb://63639, tvdb://280619
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Expanse&category=Shows&year_filter=equals&yone=2015&tmdb_id=63639&imdb_id=tt3230854&tvdb_id=280619

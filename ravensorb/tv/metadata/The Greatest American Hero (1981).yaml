@@ -4,7 +4,7 @@ metadata:
         title: "The Greatest American Hero"
         sort_title: "Greatest American Hero"
         match:
-          mapping_id: 1909
+          mapping_id: 77267
         url_poster: https://theposterdb.com/api/assets/353878
         # IDs: imdb://tt0081871, tmdb://1909, tvdb://77267
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Greatest%20American%20Hero&category=Shows&year_filter=equals&yone=1981&tmdb_id=1909&imdb_id=tt0081871&tvdb_id=77267

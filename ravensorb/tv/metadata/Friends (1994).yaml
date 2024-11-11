@@ -3,7 +3,7 @@ metadata:
         year: 1994
         title: "Friends"
         match:
-          mapping_id: 1668
+          mapping_id: 79168
         url_poster: https://theposterdb.com/api/assets/360752
         # IDs: imdb://tt0108778, tmdb://1668, tvdb://79168
         # tpdb: https://theposterdb.com/search/advanced/results?term=Friends&category=Shows&year_filter=equals&yone=1994&tmdb_id=1668&imdb_id=tt0108778&tvdb_id=79168

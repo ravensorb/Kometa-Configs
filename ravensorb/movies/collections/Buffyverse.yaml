@@ -2,7 +2,7 @@ collections:
   "Buffyverse":
     variables: {
       movie: "10206",
-      poster: "https://theposterdb.com/api/assets/167010"
+      poster: https://theposterdb.com/api/assets/167010
     }
     template: [ 
       { name: tplCommonBase }, 

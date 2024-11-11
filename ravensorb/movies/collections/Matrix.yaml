@@ -2,7 +2,7 @@ collections:
   "Matrix":
     variables: {
       movie: "603, 604, 605, 624860",
-      poster: "https://theposterdb.com/api/assets/52761"
+      poster: https://theposterdb.com/api/assets/52761
     }
     template: [ 
       { name: tplCommonBase }, 

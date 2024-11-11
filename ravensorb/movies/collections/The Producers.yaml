@@ -2,7 +2,7 @@ collections:
   "The Producers":
     variables: {
       movie: "30197, 9899",
-      poster: "https://theposterdb.com/api/assets/216879"
+      poster: https://theposterdb.com/api/assets/216879
     }
     template: [ 
       { name: tplCommonBase }, 

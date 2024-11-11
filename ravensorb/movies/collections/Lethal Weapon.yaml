@@ -2,7 +2,7 @@ collections:
   "Lethal Weapon":
     variables: {
       movie: "941, 942, 943, 944",
-      poster: "https://theposterdb.com/api/assets/164803"
+      poster: https://theposterdb.com/api/assets/164803
     }
     template: [ 
       { name: tplCommonBase }, 

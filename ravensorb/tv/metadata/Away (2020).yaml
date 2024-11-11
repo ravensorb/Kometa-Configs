@@ -3,7 +3,7 @@ metadata:
         year: 2020
         title: "Away"
         match:
-          mapping_id: 89233
+          mapping_id: 380031
         url_poster: https://theposterdb.com/api/assets/345560
         # IDs: imdb://tt8787802, tmdb://89233, tvdb://380031
         # tpdb: https://theposterdb.com/search/advanced/results?term=Away&category=Shows&year_filter=equals&yone=2020&tmdb_id=89233&imdb_id=tt8787802&tvdb_id=380031

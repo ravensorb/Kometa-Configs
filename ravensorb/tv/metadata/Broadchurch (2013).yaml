@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Broadchurch"
         match:
-          mapping_id: 1427
+          mapping_id: 266398
         url_poster: https://theposterdb.com/api/assets/359584
         # IDs: imdb://tt2249364, tmdb://1427, tvdb://266398
         # tpdb: https://theposterdb.com/search/advanced/results?term=Broadchurch&category=Shows&year_filter=equals&yone=2013&tmdb_id=1427&imdb_id=tt2249364&tvdb_id=266398

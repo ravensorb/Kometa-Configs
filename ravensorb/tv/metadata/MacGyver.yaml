@@ -3,7 +3,7 @@ metadata:
         year: 1985
         title: "MacGyver"
         match:
-          mapping_id: 2875
+          mapping_id: 77847
         url_poster: https://theposterdb.com/api/assets/354156
         # IDs: imdb://tt0088559, tmdb://2875, tvdb://77847
         # tpdb: https://theposterdb.com/search/advanced/results?term=MacGyver&category=Shows&year_filter=equals&yone=1985&tmdb_id=2875&imdb_id=tt0088559&tvdb_id=77847
@@ -32,7 +32,7 @@ metadata:
         year: 2016
         title: "MacGyver (2016)"
         match:
-          mapping_id: 67133
+          mapping_id: 311902
         url_poster: https://theposterdb.com/api/assets/354175
         # IDs: imdb://tt1399045, tmdb://67133, tvdb://311902
         # tpdb: https://theposterdb.com/search/advanced/results?term=MacGyver%20%282016%29&category=Shows&year_filter=equals&yone=2016&tmdb_id=67133&imdb_id=tt1399045&tvdb_id=311902

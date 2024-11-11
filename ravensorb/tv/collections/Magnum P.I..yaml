@@ -2,7 +2,7 @@ collections:
   "Magnum P.I.":
     variables: {
       show: "350068, 74380",
-      poster: "https://theposterdb.com/api/assets/21473"
+      poster: https://theposterdb.com/api/assets/21473
     }
     template: [ 
       { name: tplCommonBase }, 

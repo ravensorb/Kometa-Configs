@@ -2,7 +2,7 @@ collections:
   "Escape From...":
     variables: {
       movie: "10061, 1103",
-      poster: "https://theposterdb.com/api/assets/164118"
+      poster: https://theposterdb.com/api/assets/164118
     }
     template: [ 
       { name: tplCommonBase }, 

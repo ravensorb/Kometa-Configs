@@ -4,7 +4,7 @@ metadata:
         title: "The Last of Us"
         sort_title: "Last of Us"
         match:
-          mapping_id: 100088
+          mapping_id: 392256
         url_poster: https://theposterdb.com/api/assets/323489
         # IDs: imdb://tt3581920, tmdb://100088, tvdb://392256
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Last%20of%20Us&category=Shows&year_filter=equals&yone=2023&tmdb_id=100088&imdb_id=tt3581920&tvdb_id=392256

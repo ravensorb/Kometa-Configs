@@ -3,7 +3,7 @@ metadata:
         year: 1995
         title: "JAG"
         match:
-          mapping_id: 4376
+          mapping_id: 73710
         url_poster: https://theposterdb.com/api/assets/367733
         # IDs: imdb://tt0112022, tmdb://4376, tvdb://73710
         # tpdb: https://theposterdb.com/search/advanced/results?term=JAG&category=Shows&year_filter=equals&yone=1995&tmdb_id=4376&imdb_id=tt0112022&tvdb_id=73710

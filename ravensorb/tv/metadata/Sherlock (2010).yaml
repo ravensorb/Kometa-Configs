@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Sherlock"
         match:
-          mapping_id: 19885
+          mapping_id: 176941
         url_poster: https://theposterdb.com/api/assets/283901
         # IDs: imdb://tt1475582, tmdb://19885, tvdb://176941
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock&category=Shows&year_filter=equals&yone=2010&tmdb_id=19885&imdb_id=tt1475582&tvdb_id=176941

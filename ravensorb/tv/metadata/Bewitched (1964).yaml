@@ -3,7 +3,7 @@ metadata:
         year: 1964
         title: "Bewitched"
         match:
-          mapping_id: 4482
+          mapping_id: 71528
         url_poster: https://theposterdb.com/api/assets/242916
         # IDs: imdb://tt0057733, tmdb://4482, tvdb://71528
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bewitched&category=Shows&year_filter=equals&yone=1964&tmdb_id=4482&imdb_id=tt0057733&tvdb_id=71528

@@ -3,7 +3,7 @@ metadata:
         year: 1965
         title: "Hogan's Heroes"
         match:
-          mapping_id: 4068
+          mapping_id: 71635
         url_poster: https://theposterdb.com/api/assets/253671
         # IDs: imdb://tt0058812, tmdb://4068, tvdb://71635
         # tpdb: https://theposterdb.com/search/advanced/results?term=Hogan%27s%20Heroes&category=Shows&year_filter=equals&yone=1965&tmdb_id=4068&imdb_id=tt0058812&tvdb_id=71635

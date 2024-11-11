@@ -4,7 +4,7 @@ metadata:
         title: "The Pretender"
         sort_title: "Pretender"
         match:
-          mapping_id: 1706
+          mapping_id: 70704
         url_poster: https://theposterdb.com/api/assets/411923
         # IDs: imdb://tt0115320, tmdb://1706, tvdb://70704
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Pretender&category=Shows&year_filter=equals&yone=1996&tmdb_id=1706&imdb_id=tt0115320&tvdb_id=70704

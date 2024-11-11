@@ -3,7 +3,7 @@ metadata:
         year: 2016
         title: "Victoria"
         match:
-          mapping_id: 67419
+          mapping_id: 302205
         url_poster: https://theposterdb.com/api/assets/362886
         # IDs: imdb://tt5137338, tmdb://67419, tvdb://302205
         # tpdb: https://theposterdb.com/search/advanced/results?term=Victoria&category=Shows&year_filter=equals&yone=2016&tmdb_id=67419&imdb_id=tt5137338&tvdb_id=302205

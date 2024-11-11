@@ -3,7 +3,7 @@ metadata:
         year: 1985
         title: "Star Wars: Droids"
         match:
-          mapping_id: 25
+          mapping_id: 70399
         url_poster: https://theposterdb.com/api/assets/328773
         # IDs: imdb://tt0088510, tmdb://25, tvdb://70399
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Droids&category=Shows&year_filter=equals&yone=1985&tmdb_id=25&imdb_id=tt0088510&tvdb_id=70399
@@ -20,7 +20,7 @@ metadata:
         year: 1985
         title: "Star Wars: Ewoks"
         match:
-          mapping_id: 3478
+          mapping_id: 73697
         url_poster: https://theposterdb.com/api/assets/328776
         # IDs: imdb://tt0088515, tmdb://3478, tvdb://73697
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Ewoks&category=Shows&year_filter=equals&yone=1985&tmdb_id=3478&imdb_id=tt0088515&tvdb_id=73697
@@ -39,7 +39,7 @@ metadata:
         year: 2008
         title: "Star Wars: The Clone Wars"
         match:
-          mapping_id: 4194
+          mapping_id: 83268
         url_poster: https://theposterdb.com/api/assets/328779
         # IDs: imdb://tt0458290, tmdb://4194, tvdb://83268
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20The%20Clone%20Wars&category=Shows&year_filter=equals&yone=2008&tmdb_id=4194&imdb_id=tt0458290&tvdb_id=83268
@@ -68,7 +68,7 @@ metadata:
         year: 2014
         title: "Star Wars: Rebels"
         match:
-          mapping_id: 60554
+          mapping_id: 283468
         url_poster: https://theposterdb.com/api/assets/328786
         # IDs: imdb://tt2930604, tmdb://60554, tvdb://283468
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Rebels&category=Shows&year_filter=equals&yone=2014&tmdb_id=60554&imdb_id=tt2930604&tvdb_id=283468
@@ -91,7 +91,7 @@ metadata:
         year: 2016
         title: "LEGO Star Wars"
         match:
-          mapping_id: 66837
+          mapping_id: 250498
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt5459566, tmdb://66837, tvdb://250498
         # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20Star%20Wars&category=Shows&year_filter=equals&yone=2016&tmdb_id=66837&imdb_id=tt5459566&tvdb_id=250498
@@ -118,7 +118,7 @@ metadata:
         year: 2017
         title: "Star Wars: Forces of Destiny"
         match:
-          mapping_id: 71412
+          mapping_id: 330710
         url_poster: https://theposterdb.com/api/assets/328828
         # IDs: imdb://tt6779076, tmdb://71412, tvdb://330710
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Forces%20of%20Destiny&category=Shows&year_filter=equals&yone=2017&tmdb_id=71412&imdb_id=tt6779076&tvdb_id=330710
@@ -137,7 +137,7 @@ metadata:
         year: 2018
         title: "Star Wars: Resistance"
         match:
-          mapping_id: 79093
+          mapping_id: 351575
         url_poster: https://theposterdb.com/api/assets/328792
         # IDs: imdb://tt8336340, tmdb://79093, tvdb://351575
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Resistance&category=Shows&year_filter=equals&yone=2018&tmdb_id=79093&imdb_id=tt8336340&tvdb_id=351575
@@ -157,7 +157,7 @@ metadata:
         title: "The Mandalorian"
         sort_title: "Mandalorian"
         match:
-          mapping_id: 82856
+          mapping_id: 361753
         url_poster: https://theposterdb.com/api/assets/174476
         # IDs: imdb://tt8111088, tmdb://82856, tvdb://361753
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mandalorian&category=Shows&year_filter=equals&yone=2019&tmdb_id=82856&imdb_id=tt8111088&tvdb_id=361753
@@ -178,7 +178,7 @@ metadata:
         year: 2021
         title: "Star Wars: The Bad Batch"
         match:
-          mapping_id: 105971
+          mapping_id: 385376
         url_poster: https://theposterdb.com/api/assets/328805
         # IDs: imdb://tt12708542, tmdb://105971, tvdb://385376
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20The%20Bad%20Batch&category=Shows&year_filter=equals&yone=2021&tmdb_id=105971&imdb_id=tt12708542&tvdb_id=385376
@@ -199,7 +199,7 @@ metadata:
         year: 2021
         title: "Star Wars: Visions"
         match:
-          mapping_id: 114478
+          mapping_id: 393190
         url_poster: https://theposterdb.com/api/assets/328816
         # IDs: imdb://tt13622982, tmdb://114478, tvdb://393190
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Visions&category=Shows&year_filter=equals&yone=2021&tmdb_id=114478&imdb_id=tt13622982&tvdb_id=393190
@@ -219,7 +219,7 @@ metadata:
         title: "The Book of Boba Fett"
         sort_title: "Book of Boba Fett"
         match:
-          mapping_id: 115036
+          mapping_id: 393589
         url_poster: https://theposterdb.com/api/assets/200213
         # IDs: imdb://tt13668894, tmdb://115036, tvdb://393589
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Book%20of%20Boba%20Fett&category=Shows&year_filter=equals&yone=2021&tmdb_id=115036&imdb_id=tt13668894&tvdb_id=393589
@@ -236,7 +236,7 @@ metadata:
         year: 2022
         title: "Andor"
         match:
-          mapping_id: 83867
+          mapping_id: 393189
         url_poster: https://theposterdb.com/api/assets/328800
         # IDs: imdb://tt9253284, tmdb://83867, tvdb://393189
         # tpdb: https://theposterdb.com/search/advanced/results?term=Andor&category=Shows&year_filter=equals&yone=2022&tmdb_id=83867&imdb_id=tt9253284&tvdb_id=393189
@@ -253,7 +253,7 @@ metadata:
         year: 2022
         title: "Obi-Wan Kenobi"
         match:
-          mapping_id: 92830
+          mapping_id: 393199
         url_poster: https://theposterdb.com/api/assets/238547
         # IDs: imdb://tt8466564, tmdb://92830, tvdb://393199
         # tpdb: https://theposterdb.com/search/advanced/results?term=Obi-Wan%20Kenobi&category=Shows&year_filter=equals&yone=2022&tmdb_id=92830&imdb_id=tt8466564&tvdb_id=393199
@@ -270,7 +270,7 @@ metadata:
         year: 2022
         title: "Star Wars: Tales of the Jedi"
         match:
-          mapping_id: 203085
+          mapping_id: 420659
         url_poster: https://theposterdb.com/api/assets/328803
         # IDs: imdb://tt20723374, tmdb://203085, tvdb://420659
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Tales%20of%20the%20Jedi&category=Shows&year_filter=equals&yone=2022&tmdb_id=203085&imdb_id=tt20723374&tvdb_id=420659
@@ -287,7 +287,7 @@ metadata:
         year: 2023
         title: "Ahsoka"
         match:
-          mapping_id: 114461
+          mapping_id: 393187
         url_poster: https://theposterdb.com/api/assets/392135
         # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ahsoka&category=Shows&year_filter=equals&yone=2023&tmdb_id=114461&imdb_id=tt13622776&tvdb_id=393187
@@ -304,7 +304,7 @@ metadata:
         year: 2024
         title: "Star Wars: Tales of the Empire"
         match:
-          mapping_id: 251091
+          mapping_id: 448549
         url_poster: https://theposterdb.com/api/assets/494873
         # IDs: imdb://tt32019314, tmdb://251091, tvdb://448549
         # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars%3A%20Tales%20of%20the%20Empire&category=Shows&year_filter=equals&yone=2024&tmdb_id=251091&imdb_id=tt32019314&tvdb_id=448549
@@ -322,7 +322,7 @@ metadata:
         title: "The Acolyte"
         sort_title: "Acolyte"
         match:
-          mapping_id: 114479
+          mapping_id: 393197
         url_poster: https://theposterdb.com/api/assets/494863
         # IDs: imdb://tt12262202, tmdb://114479, tvdb://393197
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Acolyte&category=Shows&year_filter=equals&yone=2024&tmdb_id=114479&imdb_id=tt12262202&tvdb_id=393197

@@ -1,9 +1,8 @@
 collections:
   "Hanna-Barbera":
     variables: {
-      label: "None",
       show: "347581, 76171, 76204, 76705, 77763",
-      # poster: "https://theposterdb.com/api/assets/"
+      # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "Tomb Raider":
     variables: {
       movie: "1995, 1996, 338970",
-      poster: "https://theposterdb.com/api/assets/164983"
+      poster: https://theposterdb.com/api/assets/164983
     }
     template: [ 
       { name: tplCommonBase }, 

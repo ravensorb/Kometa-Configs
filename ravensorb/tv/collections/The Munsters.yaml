@@ -2,7 +2,7 @@ collections:
   "The Munsters":
     variables: {
       show: "333938, 77280",
-      poster: "https://theposterdb.com/api/assets/160793"
+      poster: https://theposterdb.com/api/assets/160793
     }
     template: [ 
       { name: tplCommonBase }, 

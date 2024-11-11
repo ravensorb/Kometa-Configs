@@ -3,7 +3,7 @@ metadata:
         year: 2017
         title: "Riverdale"
         match:
-          mapping_id: 69050
+          mapping_id: 311954
         url_poster: https://theposterdb.com/api/assets/324978
         # IDs: imdb://tt5420376, tmdb://69050, tvdb://311954
         # tpdb: https://theposterdb.com/search/advanced/results?term=Riverdale&category=Shows&year_filter=equals&yone=2017&tmdb_id=69050&imdb_id=tt5420376&tvdb_id=311954

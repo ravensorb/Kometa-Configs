@@ -4,7 +4,7 @@ metadata:
         title: "The Tomorrow People"
         sort_title: "Tomorrow People"
         match:
-          mapping_id: 1550
+          mapping_id: 72458
         url_poster: https://theposterdb.com/api/assets/402237
         # IDs: imdb://tt0069647, tmdb://1550, tvdb://72458
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Tomorrow%20People&category=Shows&year_filter=equals&yone=1973&tmdb_id=1550&imdb_id=tt0069647&tvdb_id=72458
@@ -36,7 +36,7 @@ metadata:
         title: "The Tomorrow People (US)"
         sort_title: "Tomorrow People (US)"
         match:
-          mapping_id: 48860
+          mapping_id: 268591
         url_poster: https://theposterdb.com/api/assets/402234
         # IDs: imdb://tt2660734, tmdb://48860, tvdb://268591
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Tomorrow%20People%20%28US%29&category=Shows&year_filter=equals&yone=2013&tmdb_id=48860&imdb_id=tt2660734&tvdb_id=268591

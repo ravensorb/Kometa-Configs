@@ -3,7 +3,7 @@ metadata:
         year: 2012
         title: "Alcatraz"
         match:
-          mapping_id: 35339
+          mapping_id: 248646
         url_poster: https://theposterdb.com/api/assets/349124
         # IDs: imdb://tt1728102, tmdb://35339, tvdb://248646
         # tpdb: https://theposterdb.com/search/advanced/results?term=Alcatraz&category=Shows&year_filter=equals&yone=2012&tmdb_id=35339&imdb_id=tt1728102&tvdb_id=248646

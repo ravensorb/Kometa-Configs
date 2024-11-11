@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Nikita"
         match:
-          mapping_id: 32868
+          mapping_id: 164301
         url_poster: https://theposterdb.com/api/assets/359823
         # IDs: imdb://tt1592154, tmdb://32868, tvdb://164301
         # tpdb: https://theposterdb.com/search/advanced/results?term=Nikita&category=Shows&year_filter=equals&yone=2010&tmdb_id=32868&imdb_id=tt1592154&tvdb_id=164301

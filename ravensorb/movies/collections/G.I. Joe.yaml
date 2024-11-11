@@ -2,7 +2,7 @@ collections:
   "G.I. Joe":
     variables: {
       movie: "14869, 568620, 72559",
-      poster: "https://theposterdb.com/api/assets/164787"
+      poster: https://theposterdb.com/api/assets/164787
     }
     template: [ 
       { name: tplCommonBase }, 

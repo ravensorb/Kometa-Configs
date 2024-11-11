@@ -3,7 +3,7 @@ metadata:
         year: 2017
         title: "Counterpart"
         match:
-          mapping_id: 63646
+          mapping_id: 337302
         url_poster: https://theposterdb.com/api/assets/441682
         # IDs: imdb://tt4643084, tmdb://63646, tvdb://337302
         # tpdb: https://theposterdb.com/search/advanced/results?term=Counterpart&category=Shows&year_filter=equals&yone=2017&tmdb_id=63646&imdb_id=tt4643084&tvdb_id=337302

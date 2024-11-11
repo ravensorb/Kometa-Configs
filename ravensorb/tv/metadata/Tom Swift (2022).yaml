@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "Tom Swift"
         match:
-          mapping_id: 132380
+          mapping_id: 409361
         url_poster: https://theposterdb.com/api/assets/367598
         # IDs: imdb://tt13475676, tmdb://132380, tvdb://409361
         # tpdb: https://theposterdb.com/search/advanced/results?term=Tom%20Swift&category=Shows&year_filter=equals&yone=2022&tmdb_id=132380&imdb_id=tt13475676&tvdb_id=409361

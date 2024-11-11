@@ -3,7 +3,7 @@ collections:
     variables: {
       label: "Robin Williams (Stand-Up)",
       movie: "20211, 21585, 21586, 26621, 381276, 493100",
-      poster: "https://theposterdb.com/api/assets/278010"
+      poster: https://theposterdb.com/api/assets/278010
     }
     template: [ 
       { name: tplCommonBase }, 

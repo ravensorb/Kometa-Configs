@@ -4,7 +4,7 @@ metadata:
         title: "The Dead Zone"
         sort_title: "Dead Zone"
         match:
-          mapping_id: 1475
+          mapping_id: 77955
         url_poster: https://theposterdb.com/api/assets/172257
         # IDs: imdb://tt0281432, tmdb://1475, tvdb://77955
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dead%20Zone&category=Shows&year_filter=equals&yone=2002&tmdb_id=1475&imdb_id=tt0281432&tvdb_id=77955

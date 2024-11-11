@@ -2,7 +2,7 @@ collections:
   "Leverage":
     variables: {
       show: "402166, 82339",
-      poster: "https://theposterdb.com/api/assets/367942"
+      poster: https://theposterdb.com/api/assets/367942
     }
     template: [ 
       { name: tplCommonBase }, 

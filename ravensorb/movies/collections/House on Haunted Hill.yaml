@@ -2,7 +2,7 @@ collections:
   "House on Haunted Hill":
     variables: {
       movie: "15856",
-      poster: "https://theposterdb.com/api/assets/177396"
+      poster: https://theposterdb.com/api/assets/177396
     }
     template: [ 
       { name: tplCommonBase }, 

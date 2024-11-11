@@ -2,7 +2,7 @@ collections:
   "Godfather":
     variables: {
       movie: "238, 240, 242",
-      poster: "https://theposterdb.com/api/assets/97959"
+      poster: https://theposterdb.com/api/assets/97959
     }
     template: [ 
       { name: tplCommonBase }, 

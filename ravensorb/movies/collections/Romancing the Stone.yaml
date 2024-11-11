@@ -2,7 +2,7 @@ collections:
   "Romancing the Stone":
     variables: {
       movie: "10303, 9326",
-      poster: "https://theposterdb.com/api/assets/165422"
+      poster: https://theposterdb.com/api/assets/165422
     }
     template: [ 
       { name: tplCommonBase }, 

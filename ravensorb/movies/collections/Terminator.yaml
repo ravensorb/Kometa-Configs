@@ -2,7 +2,7 @@ collections:
   "Terminator":
     variables: {
       movie: "218, 280, 290859, 296, 534, 87101",
-      poster: "https://theposterdb.com/api/assets/164119"
+      poster: https://theposterdb.com/api/assets/164119
     }
     template: [ 
       { name: tplCommonBase }, 

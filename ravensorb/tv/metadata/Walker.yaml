@@ -3,7 +3,7 @@ metadata:
         year: 1993
         title: "Walker, Texas Ranger"
         match:
-          mapping_id: 3772
+          mapping_id: 73756
         url_poster: https://theposterdb.com/api/assets/431231
         # IDs: imdb://tt0106168, tmdb://3772, tvdb://73756
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker%2C%20Texas%20Ranger&category=Shows&year_filter=equals&yone=1993&tmdb_id=3772&imdb_id=tt0106168&tvdb_id=73756
@@ -36,7 +36,7 @@ metadata:
         year: 2021
         title: "Walker"
         match:
-          mapping_id: 99121
+          mapping_id: 371768
         url_poster: https://theposterdb.com/api/assets/367995
         # IDs: imdb://tt11006642, tmdb://99121, tvdb://371768
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker&category=Shows&year_filter=equals&yone=2021&tmdb_id=99121&imdb_id=tt11006642&tvdb_id=371768
@@ -59,7 +59,7 @@ metadata:
         year: 2022
         title: "Walker Independence"
         match:
-          mapping_id: 201877
+          mapping_id: 420060
         url_poster: https://theposterdb.com/api/assets/431139
         # IDs: imdb://tt16373746, tmdb://201877, tvdb://420060
         # tpdb: https://theposterdb.com/search/advanced/results?term=Walker%20Independence&category=Shows&year_filter=equals&yone=2022&tmdb_id=201877&imdb_id=tt16373746&tvdb_id=420060

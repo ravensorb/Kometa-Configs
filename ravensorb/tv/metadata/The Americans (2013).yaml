@@ -4,7 +4,7 @@ metadata:
         title: "The Americans"
         sort_title: "Americans (2013)"
         match:
-          mapping_id: 46533
+          mapping_id: 261690
         url_poster: https://theposterdb.com/api/assets/325787
         # IDs: imdb://tt2149175, tmdb://46533, tvdb://261690
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Americans&category=Shows&year_filter=equals&yone=2013&tmdb_id=46533&imdb_id=tt2149175&tvdb_id=261690

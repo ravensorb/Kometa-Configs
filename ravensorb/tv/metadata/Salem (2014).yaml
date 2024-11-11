@@ -3,7 +3,7 @@ metadata:
         year: 2014
         title: "Salem"
         match:
-          mapping_id: 60905
+          mapping_id: 274897
         url_poster: https://theposterdb.com/api/assets/479912
         # IDs: imdb://tt2963254, tmdb://60905, tvdb://274897
         # tpdb: https://theposterdb.com/search/advanced/results?term=Salem&category=Shows&year_filter=equals&yone=2014&tmdb_id=60905&imdb_id=tt2963254&tvdb_id=274897

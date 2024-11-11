@@ -2,7 +2,7 @@ collections:
   "Ice Age":
     variables: {
       movie: "425, 950",
-      poster: "https://theposterdb.com/api/assets/162988"
+      poster: https://theposterdb.com/api/assets/162988
     }
     template: [ 
       { name: tplCommonBase }, 

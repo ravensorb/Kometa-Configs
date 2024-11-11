@@ -2,7 +2,7 @@ collections:
   "The Scorpion King":
     variables: {
       movie: "13486, 297291, 522417, 78049, 9334",
-      poster: "https://theposterdb.com/api/assets/162199"
+      poster: https://theposterdb.com/api/assets/162199
     }
     template: [ 
       { name: tplCommonBase }, 

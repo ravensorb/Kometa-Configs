@@ -4,7 +4,7 @@ metadata:
         title: "Bull"
         sort_title: "Bull (2016)"
         match:
-          mapping_id: 66840
+          mapping_id: 311945
         url_poster: https://theposterdb.com/api/assets/364802
         # IDs: imdb://tt5827228, tmdb://66840, tvdb://311945
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bull&category=Shows&year_filter=equals&yone=2016&tmdb_id=66840&imdb_id=tt5827228&tvdb_id=311945

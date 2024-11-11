@@ -2,7 +2,7 @@ collections:
   "Underworld":
     variables: {
       movie: "12437, 161337, 277, 346672, 52520, 834",
-      poster: "https://theposterdb.com/api/assets/161852"
+      poster: https://theposterdb.com/api/assets/161852
     }
     template: [ 
       { name: tplCommonBase }, 

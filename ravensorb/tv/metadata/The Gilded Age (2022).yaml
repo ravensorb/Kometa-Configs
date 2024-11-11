@@ -4,7 +4,7 @@ metadata:
         title: "The Gilded Age"
         sort_title: "Gilded Age"
         match:
-          mapping_id: 81723
+          mapping_id: 364412
         url_poster: https://theposterdb.com/api/assets/346112
         # IDs: imdb://tt4406178, tmdb://81723, tvdb://364412
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gilded%20Age&category=Shows&year_filter=equals&yone=2022&tmdb_id=81723&imdb_id=tt4406178&tvdb_id=364412

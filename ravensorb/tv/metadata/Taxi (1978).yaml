@@ -3,7 +3,7 @@ metadata:
         year: 1978
         title: "Taxi"
         match:
-          mapping_id: 2251
+          mapping_id: 71527
         url_poster: https://theposterdb.com/api/assets/355554
         # IDs: imdb://tt0077089, tmdb://2251, tvdb://71527
         # tpdb: https://theposterdb.com/search/advanced/results?term=Taxi&category=Shows&year_filter=equals&yone=1978&tmdb_id=2251&imdb_id=tt0077089&tvdb_id=71527

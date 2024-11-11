@@ -3,7 +3,7 @@ metadata:
         year: 2000
         title: "Andromeda"
         match:
-          mapping_id: 2985
+          mapping_id: 77544
         url_poster: https://theposterdb.com/api/assets/348061
         # IDs: imdb://tt0213327, tmdb://2985, tvdb://77544
         # tpdb: https://theposterdb.com/search/advanced/results?term=Andromeda&category=Shows&year_filter=equals&yone=2000&tmdb_id=2985&imdb_id=tt0213327&tvdb_id=77544

@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Haven"
         match:
-          mapping_id: 33001
+          mapping_id: 158661
         url_poster: https://theposterdb.com/api/assets/324919
         # IDs: imdb://tt1519931, tmdb://33001, tvdb://158661
         # tpdb: https://theposterdb.com/search/advanced/results?term=Haven&category=Shows&year_filter=equals&yone=2010&tmdb_id=33001&imdb_id=tt1519931&tvdb_id=158661

@@ -3,7 +3,7 @@ metadata:
         year: 1988
         title: "War of the Worlds"
         match:
-          mapping_id: 2255
+          mapping_id: 76616
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0094578, tmdb://2255, tvdb://76616
         # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20the%20Worlds&category=Shows&year_filter=equals&yone=1988&tmdb_id=2255&imdb_id=tt0094578&tvdb_id=76616
@@ -19,7 +19,7 @@ metadata:
         title: "War of the Worlds"
         sort_title: "War of the Worlds (2019)"
         match:
-          mapping_id: 86374
+          mapping_id: 370139
         url_poster: https://theposterdb.com/api/assets/276076
         # IDs: imdb://tt9686194, tmdb://86374, tvdb://370139
         # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20the%20Worlds&category=Shows&year_filter=equals&yone=2019&tmdb_id=86374&imdb_id=tt9686194&tvdb_id=370139

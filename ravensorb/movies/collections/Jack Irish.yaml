@@ -2,7 +2,7 @@ collections:
   "Jack Irish":
     variables: {
       movie: "141095, 141099, 264578",
-      poster: "https://theposterdb.com/api/assets/462795"
+      poster: https://theposterdb.com/api/assets/462795
     }
     template: [ 
       { name: tplCommonBase }, 

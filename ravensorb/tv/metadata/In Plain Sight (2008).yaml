@@ -3,7 +3,7 @@ metadata:
         year: 2008
         title: "In Plain Sight"
         match:
-          mapping_id: 7235
+          mapping_id: 82155
         url_poster: https://theposterdb.com/api/assets/364814
         # IDs: imdb://tt0935095, tmdb://7235, tvdb://82155
         # tpdb: https://theposterdb.com/search/advanced/results?term=In%20Plain%20Sight&category=Shows&year_filter=equals&yone=2008&tmdb_id=7235&imdb_id=tt0935095&tvdb_id=82155

@@ -4,7 +4,7 @@ metadata:
         title: "The Agatha Christie Hour"
         sort_title: "Agatha Christie Hour"
         match:
-          mapping_id: 28007
+          mapping_id: 78535
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0343230, tmdb://28007, tvdb://78535
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Agatha%20Christie%20Hour&category=Shows&year_filter=equals&yone=1982&tmdb_id=28007&imdb_id=tt0343230&tvdb_id=78535
@@ -19,7 +19,7 @@ metadata:
         year: 1983
         title: "Agatha Christie's Partners in Crime"
         match:
-          mapping_id: 14777
+          mapping_id: 77818
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0080336, tmdb://14777, tvdb://77818
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Partners%20in%20Crime&category=Shows&year_filter=equals&yone=1983&tmdb_id=14777&imdb_id=tt0080336&tvdb_id=77818
@@ -34,7 +34,7 @@ metadata:
         year: 1984
         title: "Miss Marple"
         match:
-          mapping_id: 239625
+          mapping_id: 250440
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt9907044, tmdb://239625, tvdb://250440
         # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple&category=Shows&year_filter=equals&yone=1984&tmdb_id=239625&imdb_id=tt9907044&tvdb_id=250440
@@ -51,7 +51,7 @@ metadata:
         year: 1989
         title: "Agatha Christie's Poirot"
         match:
-          mapping_id: 790
+          mapping_id: 76133
         url_poster: https://theposterdb.com/api/assets/360925
         # IDs: imdb://tt0094525, tmdb://790, tvdb://76133
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Poirot&category=Shows&year_filter=equals&yone=1989&tmdb_id=790&imdb_id=tt0094525&tvdb_id=76133
@@ -92,7 +92,7 @@ metadata:
         year: 2004
         title: "Agatha Christie's Marple"
         match:
-          mapping_id: 6127
+          mapping_id: 78895
         url_poster: https://theposterdb.com/api/assets/365239
         # IDs: imdb://tt1734537, tmdb://6127, tvdb://78895
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20Christie%27s%20Marple&category=Shows&year_filter=equals&yone=2004&tmdb_id=6127&imdb_id=tt1734537&tvdb_id=78895
@@ -120,7 +120,7 @@ metadata:
         title: "A Very British Murder with Lucy Worsley"
         sort_title: "Very British Murder with Lucy Worsley"
         match:
-          mapping_id: 60157
+          mapping_id: 273461
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt3225924, tmdb://60157, tvdb://273461
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Very%20British%20Murder%20with%20Lucy%20Worsley&category=Shows&year_filter=equals&yone=2013&tmdb_id=60157&imdb_id=tt3225924&tvdb_id=273461
@@ -135,7 +135,7 @@ metadata:
         year: 2015
         title: "And Then There Were None"
         match:
-          mapping_id: 64684
+          mapping_id: 299855
         url_poster: https://theposterdb.com/api/assets/372435
         # IDs: imdb://tt3581932, tmdb://64684, tvdb://299855
         # tpdb: https://theposterdb.com/search/advanced/results?term=And%20Then%20There%20Were%20None&category=Shows&year_filter=equals&yone=2015&tmdb_id=64684&imdb_id=tt3581932&tvdb_id=299855
@@ -152,7 +152,7 @@ metadata:
         year: 2018
         title: "Ordeal by Innocence"
         match:
-          mapping_id: 74430
+          mapping_id: 344813
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt6118426, tmdb://74430, tvdb://344813
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ordeal%20by%20Innocence&category=Shows&year_filter=equals&yone=2018&tmdb_id=74430&imdb_id=tt6118426&tvdb_id=344813
@@ -168,7 +168,7 @@ metadata:
         title: "The ABC Murders"
         sort_title: "ABC Murders"
         match:
-          mapping_id: 81049
+          mapping_id: 348026
         url_poster: https://theposterdb.com/api/assets/452242
         # IDs: imdb://tt8463714, tmdb://81049, tvdb://348026
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20ABC%20Murders&category=Shows&year_filter=equals&yone=2018&tmdb_id=81049&imdb_id=tt8463714&tvdb_id=348026
@@ -186,7 +186,7 @@ metadata:
         title: "The Pale Horse"
         sort_title: "Pale Horse"
         match:
-          mapping_id: 93705
+          mapping_id: 373830
         url_poster: https://theposterdb.com/api/assets/417856
         # IDs: imdb://tt10485750, tmdb://93705, tvdb://373830
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Pale%20Horse&category=Shows&year_filter=equals&yone=2020&tmdb_id=93705&imdb_id=tt10485750&tvdb_id=373830

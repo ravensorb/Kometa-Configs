@@ -3,7 +3,7 @@ metadata:
         year: 1989
         title: "Quantum Leap"
         match:
-          mapping_id: 4018
+          mapping_id: 72248
         url_poster: https://theposterdb.com/api/assets/238439
         # IDs: imdb://tt0096684, tmdb://4018, tvdb://72248
         # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum%20Leap&category=Shows&year_filter=equals&yone=1989&tmdb_id=4018&imdb_id=tt0096684&tvdb_id=72248
@@ -28,7 +28,7 @@ metadata:
         year: 2022
         title: "Quantum Leap (2022)"
         match:
-          mapping_id: 202102
+          mapping_id: 419936
         url_poster: https://theposterdb.com/api/assets/363405
         # IDs: imdb://tt17043230, tmdb://202102, tvdb://419936
         # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum%20Leap%20%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=202102&imdb_id=tt17043230&tvdb_id=419936

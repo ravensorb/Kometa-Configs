@@ -3,7 +3,7 @@ metadata:
         year: 1993
         title: "Frasier"
         match:
-          mapping_id: 3452
+          mapping_id: 77811
         url_poster: https://theposterdb.com/api/assets/363376
         # IDs: imdb://tt0106004, tmdb://3452, tvdb://77811
         # tpdb: https://theposterdb.com/search/advanced/results?term=Frasier&category=Shows&year_filter=equals&yone=1993&tmdb_id=3452&imdb_id=tt0106004&tvdb_id=77811

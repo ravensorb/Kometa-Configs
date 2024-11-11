@@ -4,7 +4,7 @@ metadata:
         title: "The Beverly Hillbillies"
         sort_title: "Beverly Hillbillies"
         match:
-          mapping_id: 1930
+          mapping_id: 71471
         url_poster: https://theposterdb.com/api/assets/372500
         # IDs: imdb://tt0055662, tmdb://1930, tvdb://71471
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Beverly%20Hillbillies&category=Shows&year_filter=equals&yone=1962&tmdb_id=1930&imdb_id=tt0055662&tvdb_id=71471

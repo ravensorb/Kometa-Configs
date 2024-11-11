@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Vikings"
         match:
-          mapping_id: 44217
+          mapping_id: 260449
         url_poster: https://theposterdb.com/api/assets/323898
         # IDs: imdb://tt2306299, tmdb://44217, tvdb://260449
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings&category=Shows&year_filter=equals&yone=2013&tmdb_id=44217&imdb_id=tt2306299&tvdb_id=260449
@@ -30,7 +30,7 @@ metadata:
         year: 2022
         title: "Vikings: Valhalla"
         match:
-          mapping_id: 116135
+          mapping_id: 372700
         url_poster: https://theposterdb.com/api/assets/323906
         # IDs: imdb://tt11311302, tmdb://116135, tvdb://372700
         # tpdb: https://theposterdb.com/search/advanced/results?term=Vikings%3A%20Valhalla&category=Shows&year_filter=equals&yone=2022&tmdb_id=116135&imdb_id=tt11311302&tvdb_id=372700

@@ -2,7 +2,7 @@ collections:
   "Jack Reacher":
     variables: {
       show: "366924",
-      poster: "https://theposterdb.com/api/assets/261711"
+      poster: https://theposterdb.com/api/assets/261711
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -3,7 +3,7 @@ metadata:
         year: 2018
         title: "FBI"
         match:
-          mapping_id: 80748
+          mapping_id: 350071
         url_poster: https://theposterdb.com/api/assets/366301
         # IDs: imdb://tt7491982, tmdb://80748, tvdb://350071
         # tpdb: https://theposterdb.com/search/advanced/results?term=FBI&category=Shows&year_filter=equals&yone=2018&tmdb_id=80748&imdb_id=tt7491982&tvdb_id=350071
@@ -32,7 +32,7 @@ metadata:
         year: 2020
         title: "FBI: Most Wanted"
         match:
-          mapping_id: 94372
+          mapping_id: 364088
         url_poster: https://theposterdb.com/api/assets/366310
         # IDs: imdb://tt9742936, tmdb://94372, tvdb://364088
         # tpdb: https://theposterdb.com/search/advanced/results?term=FBI%3A%20Most%20Wanted&category=Shows&year_filter=equals&yone=2020&tmdb_id=94372&imdb_id=tt9742936&tvdb_id=364088
@@ -59,7 +59,7 @@ metadata:
         year: 2021
         title: "FBI: International"
         match:
-          mapping_id: 121658
+          mapping_id: 399863
         url_poster: https://theposterdb.com/api/assets/366307
         # IDs: imdb://tt14449470, tmdb://121658, tvdb://399863
         # tpdb: https://theposterdb.com/search/advanced/results?term=FBI%3A%20International&category=Shows&year_filter=equals&yone=2021&tmdb_id=121658&imdb_id=tt14449470&tvdb_id=399863

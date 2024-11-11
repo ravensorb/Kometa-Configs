@@ -2,7 +2,7 @@ collections:
   "Dead Zone":
     variables: {
       movie: "11336",
-      poster: "https://theposterdb.com/api/assets/328458"
+      poster: https://theposterdb.com/api/assets/328458
     }
     template: [ 
       { name: tplCommonBase }, 

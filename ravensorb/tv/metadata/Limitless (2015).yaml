@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Limitless"
         match:
-          mapping_id: 62687
+          mapping_id: 295743
         url_poster: https://theposterdb.com/api/assets/359481
         # IDs: imdb://tt4422836, tmdb://62687, tvdb://295743
         # tpdb: https://theposterdb.com/search/advanced/results?term=Limitless&category=Shows&year_filter=equals&yone=2015&tmdb_id=62687&imdb_id=tt4422836&tvdb_id=295743

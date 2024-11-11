@@ -4,7 +4,7 @@ metadata:
         title: "The Addams Family"
         sort_title: "Addams Family (1964)"
         match:
-          mapping_id: 14009
+          mapping_id: 77137
         url_poster: https://theposterdb.com/api/assets/326582
         # IDs: imdb://tt0057729, tmdb://14009, tvdb://77137
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Shows&year_filter=equals&yone=1964&tmdb_id=14009&imdb_id=tt0057729&tvdb_id=77137
@@ -23,7 +23,7 @@ metadata:
         year: 2022
         title: "Wednesday"
         match:
-          mapping_id: 119051
+          mapping_id: 397060
         url_poster: https://theposterdb.com/api/assets/292774
         # IDs: imdb://tt13443470, tmdb://119051, tvdb://397060
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wednesday&category=Shows&year_filter=equals&yone=2022&tmdb_id=119051&imdb_id=tt13443470&tvdb_id=397060

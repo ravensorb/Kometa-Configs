@@ -3,7 +3,7 @@ metadata:
         year: 1969
         title: "Scooby-Doo, Where Are You!"
         match:
-          mapping_id: 926
+          mapping_id: 78260
         url_poster: https://theposterdb.com/api/assets/380694
         # IDs: imdb://tt0063950, tmdb://926, tvdb://78260
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%2C%20Where%20Are%20You%21&category=Shows&year_filter=equals&yone=1969&tmdb_id=926&imdb_id=tt0063950&tvdb_id=78260
@@ -25,7 +25,7 @@ metadata:
         title: "The New Scooby-Doo Movies"
         sort_title: "New Scooby-Doo Movies"
         match:
-          mapping_id: 1068
+          mapping_id: 75661
         url_poster: https://theposterdb.com/api/assets/374585
         # IDs: imdb://tt0068112, tmdb://1068, tvdb://75661
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20New%20Scooby-Doo%20Movies&category=Shows&year_filter=equals&yone=1972&tmdb_id=1068&imdb_id=tt0068112&tvdb_id=75661
@@ -45,7 +45,7 @@ metadata:
         title: "The Scooby-Doo Show"
         sort_title: "Scooby-Doo Show"
         match:
-          mapping_id: 2150
+          mapping_id: 73817
         url_poster: https://theposterdb.com/api/assets/380712
         # IDs: imdb://tt0074053, tmdb://2150, tvdb://73817
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Scooby-Doo%20Show&category=Shows&year_filter=equals&yone=1976&tmdb_id=2150&imdb_id=tt0074053&tvdb_id=73817
@@ -66,7 +66,7 @@ metadata:
         year: 1979
         title: "Scooby-Doo and Scrappy-Doo"
         match:
-          mapping_id: 6005
+          mapping_id: 78740
         url_poster: https://theposterdb.com/api/assets/380682
         # IDs: imdb://tt0083475, tmdb://6005, tvdb://78740
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%20and%20Scrappy-Doo&category=Shows&year_filter=equals&yone=1979&tmdb_id=6005&imdb_id=tt0083475&tvdb_id=78740
@@ -94,7 +94,7 @@ metadata:
         title: "The 13 Ghosts of Scooby-Doo"
         sort_title: "13 Ghosts of Scooby-Doo"
         match:
-          mapping_id: 1069
+          mapping_id: 73543
         url_poster: https://theposterdb.com/api/assets/352896
         # IDs: imdb://tt0088628, tmdb://1069, tvdb://73543
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%2013%20Ghosts%20of%20Scooby-Doo&category=Shows&year_filter=equals&yone=1985&tmdb_id=1069&imdb_id=tt0088628&tvdb_id=73543
@@ -112,7 +112,7 @@ metadata:
         title: "A Pup Named Scooby-Doo"
         sort_title: "Pup Named Scooby-Doo"
         match:
-          mapping_id: 418
+          mapping_id: 73546
         url_poster: https://theposterdb.com/api/assets/380667
         # IDs: imdb://tt0094531, tmdb://418, tvdb://73546
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Pup%20Named%20Scooby-Doo&category=Shows&year_filter=equals&yone=1988&tmdb_id=418&imdb_id=tt0094531&tvdb_id=73546
@@ -133,7 +133,7 @@ metadata:
         year: 2002
         title: "What's New Scooby-Doo?"
         match:
-          mapping_id: 652
+          mapping_id: 80119
         url_poster: https://theposterdb.com/api/assets/380716
         # IDs: imdb://tt0306274, tmdb://652, tvdb://80119
         # tpdb: https://theposterdb.com/search/advanced/results?term=What%27s%20New%20Scooby-Doo%3F&category=Shows&year_filter=equals&yone=2002&tmdb_id=652&imdb_id=tt0306274&tvdb_id=80119
@@ -154,7 +154,7 @@ metadata:
         year: 2006
         title: "Shaggy and Scooby-Doo Get a Clue"
         match:
-          mapping_id: 593
+          mapping_id: 81425
         url_poster: https://theposterdb.com/api/assets/380699
         # IDs: imdb://tt0850642, tmdb://593, tvdb://81425
         # tpdb: https://theposterdb.com/search/advanced/results?term=Shaggy%20and%20Scooby-Doo%20Get%20a%20Clue&category=Shows&year_filter=equals&yone=2006&tmdb_id=593&imdb_id=tt0850642&tvdb_id=81425
@@ -173,7 +173,7 @@ metadata:
         year: 2010
         title: "Scooby-Doo! Mystery Incorporated"
         match:
-          mapping_id: 18123
+          mapping_id: 174681
         url_poster: https://theposterdb.com/api/assets/380690
         # IDs: imdb://tt1660055, tmdb://18123, tvdb://174681
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%21%20Mystery%20Incorporated&category=Shows&year_filter=equals&yone=2010&tmdb_id=18123&imdb_id=tt1660055&tvdb_id=174681
@@ -192,7 +192,7 @@ metadata:
         year: 2015
         title: "Be Cool, Scooby-Doo!"
         match:
-          mapping_id: 64228
+          mapping_id: 301376
         url_poster: https://theposterdb.com/api/assets/380672
         # IDs: imdb://tt4215734, tmdb://64228, tvdb://301376
         # tpdb: https://theposterdb.com/search/advanced/results?term=Be%20Cool%2C%20Scooby-Doo%21&category=Shows&year_filter=equals&yone=2015&tmdb_id=64228&imdb_id=tt4215734&tvdb_id=301376
@@ -211,7 +211,7 @@ metadata:
         year: 2019
         title: "Scooby-Doo and Guess Who?"
         match:
-          mapping_id: 88367
+          mapping_id: 361065
         url_poster: https://theposterdb.com/api/assets/380679
         # IDs: imdb://tt8456094, tmdb://88367, tvdb://361065
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%20and%20Guess%20Who%3F&category=Shows&year_filter=equals&yone=2019&tmdb_id=88367&imdb_id=tt8456094&tvdb_id=361065

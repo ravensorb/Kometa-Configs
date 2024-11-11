@@ -2,7 +2,7 @@ collections:
   "Airport":
     variables: {
       movie: "10671, 27932, 29723, 7227",
-      poster: "https://theposterdb.com/api/assets/163459"
+      poster: https://theposterdb.com/api/assets/163459
     }
     template: [ 
       { name: tplCommonBase }, 

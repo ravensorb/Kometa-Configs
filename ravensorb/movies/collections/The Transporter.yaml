@@ -2,7 +2,7 @@ collections:
   "The Transporter":
     variables: {
       movie: "13387, 287948, 4108, 9335",
-      poster: "https://theposterdb.com/api/assets/93441"
+      poster: https://theposterdb.com/api/assets/93441
     }
     template: [ 
       { name: tplCommonBase }, 

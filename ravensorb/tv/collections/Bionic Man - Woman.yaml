@@ -1,8 +1,8 @@
 collections:
   "Bionic Man/Woman":
     variables: {
-      show: "1246, 1663, 77259, 2275, 77294, 80370", 
-      poster: "https://theposterdb.com/api/assets/261361"
+      show: "77259, 77294, 80370",
+      poster: https://theposterdb.com/api/assets/261361
     }
     template: [ 
       { name: tplCommonBase }, 

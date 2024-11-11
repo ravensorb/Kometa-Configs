@@ -3,7 +3,7 @@ metadata:
         year: 1987
         title: "Friday the 13th: The Series"
         match:
-          mapping_id: 2263
+          mapping_id: 73804
         url_poster: https://theposterdb.com/api/assets/426202
         # IDs: imdb://tt0092357, tmdb://2263, tvdb://73804
         # tpdb: https://theposterdb.com/search/advanced/results?term=Friday%20the%2013th%3A%20The%20Series&category=Shows&year_filter=equals&yone=1987&tmdb_id=2263&imdb_id=tt0092357&tvdb_id=73804

@@ -2,7 +2,7 @@ collections:
   "Eraser":
     variables: {
       movie: "923597, 9268",
-      poster: "https://theposterdb.com/api/assets/313209"
+      poster: https://theposterdb.com/api/assets/313209
     }
     template: [ 
       { name: tplCommonBase }, 

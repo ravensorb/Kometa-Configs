@@ -2,7 +2,7 @@ collections:
   "Mission Impossible":
     variables: {
       show: "77231",
-      poster: "https://theposterdb.com/api/assets/164810"
+      poster: https://theposterdb.com/api/assets/164810
     }
     template: [ 
       { name: tplCommonBase }, 

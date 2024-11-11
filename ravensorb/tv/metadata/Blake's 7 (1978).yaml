@@ -3,7 +3,7 @@ metadata:
         year: 1978
         title: "Blake's 7"
         match:
-          mapping_id: 1731
+          mapping_id: 75565
         url_poster: https://theposterdb.com/api/assets/288250
         # IDs: imdb://tt0076987, tmdb://1731, tvdb://75565
         # tpdb: https://theposterdb.com/search/advanced/results?term=Blake%27s%207&category=Shows&year_filter=equals&yone=1978&tmdb_id=1731&imdb_id=tt0076987&tvdb_id=75565

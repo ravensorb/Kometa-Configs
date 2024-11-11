@@ -4,7 +4,7 @@ metadata:
         title: "The Right Stuff"
         sort_title: "Right Stuff"
         match:
-          mapping_id: 93786
+          mapping_id: 362576
         url_poster: https://theposterdb.com/api/assets/467499
         # IDs: imdb://tt7423322, tmdb://93786, tvdb://362576
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Right%20Stuff&category=Shows&year_filter=equals&yone=2020&tmdb_id=93786&imdb_id=tt7423322&tvdb_id=362576

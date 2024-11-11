@@ -2,7 +2,7 @@ collections:
   "Sherlock Holmes":
     variables: {
       movie: "10528, 58574",
-      poster: "https://theposterdb.com/api/assets/191404"
+      poster: https://theposterdb.com/api/assets/191404
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -4,7 +4,7 @@ metadata:
         title: "Sherlock Holmes"
         sort_title: "Sherlock Holmes (1984)"
         match:
-          mapping_id: 799
+          mapping_id: 77728
         url_poster: https://theposterdb.com/api/assets/364793
         # IDs: imdb://tt0086661, tmdb://799, tvdb://77728
         # tpdb: https://theposterdb.com/search/advanced/results?term=Sherlock%20Holmes&category=Shows&year_filter=equals&yone=1984&tmdb_id=799&imdb_id=tt0086661&tvdb_id=77728

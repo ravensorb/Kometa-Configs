@@ -2,7 +2,7 @@ collections:
   "Jesse Stone":
     variables: {
       movie: "110148, 22555, 26114, 30347, 31046, 31047, 361263, 43263, 59238",
-      poster: "https://theposterdb.com/api/assets/493789"
+      poster: https://theposterdb.com/api/assets/493789
     }
     template: [ 
       { name: tplCommonBase }, 

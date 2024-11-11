@@ -3,7 +3,7 @@ metadata:
         year: 2022
         title: "Billy The Kid"
         match:
-          mapping_id: 138971
+          mapping_id: 402256
         url_poster: https://theposterdb.com/api/assets/362561
         # IDs: imdb://tt14586544, tmdb://138971, tvdb://402256
         # tpdb: https://theposterdb.com/search/advanced/results?term=Billy%20The%20Kid&category=Shows&year_filter=equals&yone=2022&tmdb_id=138971&imdb_id=tt14586544&tvdb_id=402256

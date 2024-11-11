@@ -3,7 +3,7 @@ metadata:
         year: 2021
         title: "Assembly Required"
         match:
-          mapping_id: 118427
+          mapping_id: 387454
         url_poster: https://theposterdb.com/api/assets/367758
         # IDs: imdb://tt13049934, tmdb://118427, tvdb://387454
         # tpdb: https://theposterdb.com/search/advanced/results?term=Assembly%20Required&category=Shows&year_filter=equals&yone=2021&tmdb_id=118427&imdb_id=tt13049934&tvdb_id=387454

@@ -2,7 +2,7 @@ collections:
   "Peanuts":
     variables: {
       show: "367015, 389478, 73669, 81450",
-      poster: "https://theposterdb.com/api/assets/188207"
+      poster: https://theposterdb.com/api/assets/188207
     }
     template: [ 
       { name: tplCommonBase }, 

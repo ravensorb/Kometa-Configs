@@ -3,7 +3,7 @@ metadata:
         year: 2003
         title: "MythBusters"
         match:
-          mapping_id: 1428
+          mapping_id: 73388
         url_poster: https://theposterdb.com/api/assets/411453
         # IDs: imdb://tt0383126, tmdb://1428, tvdb://73388
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters&category=Shows&year_filter=equals&yone=2003&tmdb_id=1428&imdb_id=tt0383126&tvdb_id=73388
@@ -50,7 +50,7 @@ metadata:
         year: 2017
         title: "MythBusters: The Search"
         match:
-          mapping_id: 69144
+          mapping_id: 320910
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt5612722, tmdb://69144, tvdb://320910
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%3A%20The%20Search&category=Shows&year_filter=equals&yone=2017&tmdb_id=69144&imdb_id=tt5612722&tvdb_id=320910
@@ -65,7 +65,7 @@ metadata:
         year: 2019
         title: "MythBusters Jr."
         match:
-          mapping_id: 85200
+          mapping_id: 350679
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt8265286, tmdb://85200, tvdb://350679
         # tpdb: https://theposterdb.com/search/advanced/results?term=MythBusters%20Jr.&category=Shows&year_filter=equals&yone=2019&tmdb_id=85200&imdb_id=tt8265286&tvdb_id=350679

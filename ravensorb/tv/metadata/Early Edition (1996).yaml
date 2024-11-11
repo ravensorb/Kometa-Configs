@@ -3,7 +3,7 @@ metadata:
         year: 1996
         title: "Early Edition"
         match:
-          mapping_id: 1716
+          mapping_id: 74295
         url_poster: https://theposterdb.com/api/assets/399033
         # IDs: imdb://tt0115163, tmdb://1716, tvdb://74295
         # tpdb: https://theposterdb.com/search/advanced/results?term=Early%20Edition&category=Shows&year_filter=equals&yone=1996&tmdb_id=1716&imdb_id=tt0115163&tvdb_id=74295

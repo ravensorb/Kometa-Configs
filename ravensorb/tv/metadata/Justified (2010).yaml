@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Justified"
         match:
-          mapping_id: 1436
+          mapping_id: 134241
         url_poster: https://theposterdb.com/api/assets/342203
         # IDs: imdb://tt1489428, tmdb://1436, tvdb://134241
         # tpdb: https://theposterdb.com/search/advanced/results?term=Justified&category=Shows&year_filter=equals&yone=2010&tmdb_id=1436&imdb_id=tt1489428&tvdb_id=134241

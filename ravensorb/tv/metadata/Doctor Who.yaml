@@ -3,7 +3,7 @@ metadata:
         year: 1963
         title: "Doctor Who"
         match:
-          mapping_id: 121
+          mapping_id: 76107
         url_poster: https://theposterdb.com/api/assets/53252
         # IDs: imdb://tt0056751, tmdb://121, tvdb://76107
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who&category=Shows&year_filter=equals&yone=1963&tmdb_id=121&imdb_id=tt0056751&tvdb_id=76107
@@ -70,7 +70,7 @@ metadata:
         year: 2005
         title: "Doctor Who"
         match:
-          mapping_id: 57243
+          mapping_id: 78804
         url_poster: https://theposterdb.com/api/assets/254616
         # IDs: imdb://tt0436992, tmdb://57243, tvdb://78804
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who&category=Shows&year_filter=equals&yone=2005&tmdb_id=57243&imdb_id=tt0436992&tvdb_id=78804
@@ -113,7 +113,7 @@ metadata:
         year: 2005
         title: "Doctor Who Confidential"
         match:
-          mapping_id: 1056
+          mapping_id: 79298
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0453422, tmdb://1056, tvdb://79298
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20Confidential&category=Shows&year_filter=equals&yone=2005&tmdb_id=1056&imdb_id=tt0453422&tvdb_id=79298
@@ -138,7 +138,7 @@ metadata:
         year: 2006
         title: "Torchwood"
         match:
-          mapping_id: 424
+          mapping_id: 79511
         url_poster: https://theposterdb.com/api/assets/254646
         # IDs: imdb://tt0485301, tmdb://424, tvdb://79511
         # tpdb: https://theposterdb.com/search/advanced/results?term=Torchwood&category=Shows&year_filter=equals&yone=2006&tmdb_id=424&imdb_id=tt0485301&tvdb_id=79511
@@ -161,7 +161,7 @@ metadata:
         year: 2006
         title: "Totally Doctor Who"
         match:
-          mapping_id: 454
+          mapping_id: 80160
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0795296, tmdb://454, tvdb://80160
         # tpdb: https://theposterdb.com/search/advanced/results?term=Totally%20Doctor%20Who&category=Shows&year_filter=equals&yone=2006&tmdb_id=454&imdb_id=tt0795296&tvdb_id=80160
@@ -179,7 +179,7 @@ metadata:
         title: "The Sarah Jane Adventures"
         sort_title: "Sarah Jane Adventures"
         match:
-          mapping_id: 203
+          mapping_id: 79708
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0862620, tmdb://203, tvdb://79708
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Sarah%20Jane%20Adventures&category=Shows&year_filter=equals&yone=2007&tmdb_id=203&imdb_id=tt0862620&tvdb_id=79708
@@ -204,7 +204,7 @@ metadata:
         year: 2009
         title: "Doctor Who: Dreamland"
         match:
-          mapping_id: 129387
+          mapping_id: 4322706
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1494933, tmdb://129387, tvdb://4322706
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Dreamland&category=Shows&year_filter=equals&yone=2009&tmdb_id=129387&imdb_id=tt1494933&tvdb_id=4322706
@@ -219,7 +219,7 @@ metadata:
         year: 2009
         title: "K·9"
         match:
-          mapping_id: 25831
+          mapping_id: 122651
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt1102732, tmdb://25831, tvdb://122651
         # tpdb: https://theposterdb.com/search/advanced/results?term=K%C2%B79&category=Shows&year_filter=equals&yone=2009&tmdb_id=25831&imdb_id=tt1102732&tvdb_id=122651
@@ -234,7 +234,7 @@ metadata:
         year: 2014
         title: "Doctor Who Extra"
         match:
-          mapping_id: 61643
+          mapping_id: 390950
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt4147332, tmdb://61643, tvdb://390950
         # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20Extra&category=Shows&year_filter=equals&yone=2014&tmdb_id=61643&imdb_id=tt4147332&tvdb_id=390950
@@ -249,7 +249,7 @@ metadata:
         year: 2016
         title: "Class"
         match:
-          mapping_id: 64073
+          mapping_id: 309893
         url_poster: https://theposterdb.com/api/assets/292936
         # IDs: imdb://tt5079788, tmdb://64073, tvdb://309893
         # tpdb: https://theposterdb.com/search/advanced/results?term=Class&category=Shows&year_filter=equals&yone=2016&tmdb_id=64073&imdb_id=tt5079788&tvdb_id=309893

@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Ravenswood"
         match:
-          mapping_id: 46958
+          mapping_id: 268126
         url_poster: https://theposterdb.com/api/assets/482987
         # IDs: imdb://tt2799012, tmdb://46958, tvdb://268126
         # tpdb: https://theposterdb.com/search/advanced/results?term=Ravenswood&category=Shows&year_filter=equals&yone=2013&tmdb_id=46958&imdb_id=tt2799012&tvdb_id=268126

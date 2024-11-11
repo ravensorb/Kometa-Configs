@@ -2,7 +2,7 @@ collections:
   "Westworld":
     variables: {
       show: "296762, 77993",
-      poster: "https://theposterdb.com/api/assets/258847"
+      poster: https://theposterdb.com/api/assets/258847
     }
     template: [ 
       { name: tplCommonBase }, 

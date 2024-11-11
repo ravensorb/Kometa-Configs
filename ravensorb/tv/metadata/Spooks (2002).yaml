@@ -3,7 +3,7 @@ metadata:
         year: 2002
         title: "Spooks"
         match:
-          mapping_id: 4046
+          mapping_id: 78890
         url_poster: https://theposterdb.com/api/assets/360422
         # IDs: imdb://tt0160904, tmdb://4046, tvdb://78890
         # tpdb: https://theposterdb.com/search/advanced/results?term=Spooks&category=Shows&year_filter=equals&yone=2002&tmdb_id=4046&imdb_id=tt0160904&tvdb_id=78890

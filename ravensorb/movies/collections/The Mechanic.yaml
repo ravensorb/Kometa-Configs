@@ -2,7 +2,7 @@ collections:
   "The Mechanic":
     variables: {
       movie: "27582, 278924",
-      poster: "https://theposterdb.com/api/assets/91454"
+      poster: https://theposterdb.com/api/assets/91454
     }
     template: [ 
       { name: tplCommonBase }, 

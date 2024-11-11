@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Chernobyl"
         match:
-          mapping_id: 87108
+          mapping_id: 360893
         url_poster: https://theposterdb.com/api/assets/242862
         # IDs: imdb://tt7366338, tmdb://87108, tvdb://360893
         # tpdb: https://theposterdb.com/search/advanced/results?term=Chernobyl&category=Shows&year_filter=equals&yone=2019&tmdb_id=87108&imdb_id=tt7366338&tvdb_id=360893

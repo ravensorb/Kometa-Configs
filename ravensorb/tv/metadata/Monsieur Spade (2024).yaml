@@ -3,7 +3,7 @@ metadata:
         year: 2024
         title: "Monsieur Spade"
         match:
-          mapping_id: 209479
+          mapping_id: 424966
         url_poster: https://theposterdb.com/api/assets/452865
         # IDs: imdb://tt14203572, tmdb://209479, tvdb://424966
         # tpdb: https://theposterdb.com/search/advanced/results?term=Monsieur%20Spade&category=Shows&year_filter=equals&yone=2024&tmdb_id=209479&imdb_id=tt14203572&tvdb_id=424966

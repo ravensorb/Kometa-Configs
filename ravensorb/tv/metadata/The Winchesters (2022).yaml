@@ -4,7 +4,7 @@ metadata:
         title: "The Winchesters"
         sort_title: "Winchesters"
         match:
-          mapping_id: 128113
+          mapping_id: 420059
         url_poster: https://theposterdb.com/api/assets/431494
         # IDs: imdb://tt14923244, tmdb://128113, tvdb://420059
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Winchesters&category=Shows&year_filter=equals&yone=2022&tmdb_id=128113&imdb_id=tt14923244&tvdb_id=420059

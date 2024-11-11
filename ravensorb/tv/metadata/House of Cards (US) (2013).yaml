@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "House of Cards (US)"
         match:
-          mapping_id: 1425
+          mapping_id: 262980
         url_poster: https://theposterdb.com/api/assets/324355
         # IDs: imdb://tt1856010, tmdb://1425, tvdb://262980
         # tpdb: https://theposterdb.com/search/advanced/results?term=House%20of%20Cards%20%28US%29&category=Shows&year_filter=equals&yone=2013&tmdb_id=1425&imdb_id=tt1856010&tvdb_id=262980

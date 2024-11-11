@@ -4,7 +4,7 @@ metadata:
         title: "Scandal"
         sort_title: "Scandal (2012)"
         match:
-          mapping_id: 39269
+          mapping_id: 248841
         url_poster: https://theposterdb.com/api/assets/367628
         # IDs: imdb://tt1837576, tmdb://39269, tvdb://248841
         # tpdb: https://theposterdb.com/search/advanced/results?term=Scandal&category=Shows&year_filter=equals&yone=2012&tmdb_id=39269&imdb_id=tt1837576&tvdb_id=248841

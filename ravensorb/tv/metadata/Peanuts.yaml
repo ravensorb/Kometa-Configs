@@ -3,7 +3,7 @@ metadata:
         year: 1965
         title: "Peanuts"
         match:
-          mapping_id: 203872
+          mapping_id: 81450
         url_poster: https://theposterdb.com/api/assets/392862
         # IDs: imdb://tt13957868, tmdb://203872, tvdb://81450
         # tpdb: https://theposterdb.com/search/advanced/results?term=Peanuts&category=Shows&year_filter=equals&yone=1965&tmdb_id=203872&imdb_id=tt13957868&tvdb_id=81450
@@ -22,7 +22,7 @@ metadata:
         year: 1988
         title: "This is America, Charlie Brown"
         match:
-          mapping_id: 12152
+          mapping_id: 73669
         url_poster: https://theposterdb.com/api/assets/285492
         # IDs: imdb://tt0286397, tmdb://12152, tvdb://73669
         # tpdb: https://theposterdb.com/search/advanced/results?term=This%20is%20America%2C%20Charlie%20Brown&category=Shows&year_filter=equals&yone=1988&tmdb_id=12152&imdb_id=tt0286397&tvdb_id=73669
@@ -39,7 +39,7 @@ metadata:
         year: 2019
         title: "Snoopy in Space"
         match:
-          mapping_id: 91249
+          mapping_id: 367015
         url_poster: https://theposterdb.com/api/assets/285495
         # IDs: imdb://tt10659366, tmdb://91249, tvdb://367015
         # tpdb: https://theposterdb.com/search/advanced/results?term=Snoopy%20in%20Space&category=Shows&year_filter=equals&yone=2019&tmdb_id=91249&imdb_id=tt10659366&tvdb_id=367015
@@ -59,7 +59,7 @@ metadata:
         title: "The Snoopy Show"
         sort_title: "Snoopy Show"
         match:
-          mapping_id: 110948
+          mapping_id: 389478
         url_poster: https://theposterdb.com/api/assets/371671
         # IDs: imdb://tt13206602, tmdb://110948, tvdb://389478
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Snoopy%20Show&category=Shows&year_filter=equals&yone=2021&tmdb_id=110948&imdb_id=tt13206602&tvdb_id=389478

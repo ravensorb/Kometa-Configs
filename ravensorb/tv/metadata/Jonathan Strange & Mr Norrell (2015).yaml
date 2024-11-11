@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Jonathan Strange & Mr Norrell"
         match:
-          mapping_id: 62717
+          mapping_id: 268581
         url_poster: https://theposterdb.com/api/assets/470010
         # IDs: imdb://tt2548418, tmdb://62717, tvdb://268581
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jonathan%20Strange%20%26%20Mr%20Norrell&category=Shows&year_filter=equals&yone=2015&tmdb_id=62717&imdb_id=tt2548418&tvdb_id=268581

@@ -3,7 +3,7 @@ metadata:
         year: 1990
         title: "Twin Peaks"
         match:
-          mapping_id: 1920
+          mapping_id: 70533
         url_poster: https://theposterdb.com/api/assets/355624
         # IDs: imdb://tt0098936, tmdb://1920, tvdb://70533
         # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Shows&year_filter=equals&yone=1990&tmdb_id=1920&imdb_id=tt0098936&tvdb_id=70533

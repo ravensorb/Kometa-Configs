@@ -2,7 +2,7 @@ collections:
   "Marshal Samuel Gerard":
     variables: {
       movie: "11808, 5503",
-      poster: "https://theposterdb.com/api/assets/94573"
+      poster: https://theposterdb.com/api/assets/94573
     }
     template: [ 
       { name: tplCommonBase }, 

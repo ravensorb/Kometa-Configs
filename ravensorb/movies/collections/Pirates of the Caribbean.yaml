@@ -2,7 +2,7 @@ collections:
   "Pirates of the Caribbean":
     variables: {
       movie: "166426, 1865, 22, 285, 58",
-      poster: "https://theposterdb.com/api/assets/163404"
+      poster: https://theposterdb.com/api/assets/163404
     }
     template: [ 
       { name: tplCommonBase }, 

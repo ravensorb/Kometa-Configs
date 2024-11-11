@@ -3,7 +3,7 @@ metadata:
         year: 2014
         title: "Bosch"
         match:
-          mapping_id: 60585
+          mapping_id: 277928
         url_poster: https://theposterdb.com/api/assets/335424
         # IDs: imdb://tt3502248, tmdb://60585, tvdb://277928
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch&category=Shows&year_filter=equals&yone=2014&tmdb_id=60585&imdb_id=tt3502248&tvdb_id=277928
@@ -32,7 +32,7 @@ metadata:
         year: 2022
         title: "Bosch: Legacy"
         match:
-          mapping_id: 153657
+          mapping_id: 414553
         url_poster: https://theposterdb.com/api/assets/335442
         # IDs: imdb://tt14168162, tmdb://153657, tvdb://414553
         # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch%3A%20Legacy&category=Shows&year_filter=equals&yone=2022&tmdb_id=153657&imdb_id=tt14168162&tvdb_id=414553

@@ -1,8 +1,8 @@
 collections:
   "Jack Ryan":
     variables: {
-      movie: "137094, 9331, 9869",
-      poster: "https://theposterdb.com/api/assets/162057"
+      movie: "137094, 4614, 9331, 9869",
+      poster: https://theposterdb.com/api/assets/162057
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -6,7 +6,7 @@ collections:
       sort_order: "01",
       sort_separator: " - ",
       show: "281662",
-      poster: "https://theposterdb.com/api/assets/239468"
+      poster: https://theposterdb.com/api/assets/239468
     }
     template: [ 
       { name: tplCommonBase }, 

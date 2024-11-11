@@ -4,7 +4,7 @@ metadata:
         title: "The Night Manager"
         sort_title: "Night Manager"
         match:
-          mapping_id: 61859
+          mapping_id: 290508
         url_poster: https://theposterdb.com/api/assets/374964
         # IDs: imdb://tt1399664, tmdb://61859, tvdb://290508
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Night%20Manager&category=Shows&year_filter=equals&yone=2016&tmdb_id=61859&imdb_id=tt1399664&tvdb_id=290508

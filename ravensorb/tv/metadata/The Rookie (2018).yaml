@@ -4,7 +4,7 @@ metadata:
         title: "The Rookie"
         sort_title: "Rookie"
         match:
-          mapping_id: 79744
+          mapping_id: 350665
         url_poster: https://theposterdb.com/api/assets/354902
         # IDs: imdb://tt7587890, tmdb://79744, tvdb://350665
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Rookie&category=Shows&year_filter=equals&yone=2018&tmdb_id=79744&imdb_id=tt7587890&tvdb_id=350665

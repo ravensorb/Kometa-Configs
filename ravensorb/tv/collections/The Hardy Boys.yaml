@@ -2,7 +2,7 @@ collections:
   "The Hardy Boys":
     variables: {
       show: "363673, 391628, 71183, 72996",
-      poster: "https://theposterdb.com/api/assets/113941"
+      poster: https://theposterdb.com/api/assets/113941
     }
     template: [ 
       { name: tplCommonBase }, 

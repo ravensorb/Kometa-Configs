@@ -4,7 +4,7 @@ metadata:
         title: "The Muppet Show"
         sort_title: "Muppet Show"
         match:
-          mapping_id: 4459
+          mapping_id: 72476
         url_poster: https://theposterdb.com/api/assets/262572
         # IDs: imdb://tt0074028, tmdb://4459, tvdb://72476
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppet%20Show&category=Shows&year_filter=equals&yone=1976&tmdb_id=4459&imdb_id=tt0074028&tvdb_id=72476
@@ -30,7 +30,7 @@ metadata:
         title: "The Muppets"
         sort_title: "Muppets"
         match:
-          mapping_id: 62815
+          mapping_id: 295721
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt4651824, tmdb://62815, tvdb://295721
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppets&category=Shows&year_filter=equals&yone=2015&tmdb_id=62815&imdb_id=tt4651824&tvdb_id=295721
@@ -45,7 +45,7 @@ metadata:
         year: 2020
         title: "Muppets Now"
         match:
-          mapping_id: 92824
+          mapping_id: 368781
         url_poster: https://theposterdb.com/api/assets/469811
         # IDs: imdb://tt10857210, tmdb://92824, tvdb://368781
         # tpdb: https://theposterdb.com/search/advanced/results?term=Muppets%20Now&category=Shows&year_filter=equals&yone=2020&tmdb_id=92824&imdb_id=tt10857210&tvdb_id=368781
@@ -63,7 +63,7 @@ metadata:
         title: "The Muppets Mayhem"
         sort_title: "Muppets Mayhem"
         match:
-          mapping_id: 194573
+          mapping_id: 417543
         url_poster: https://theposterdb.com/api/assets/360007
         # IDs: imdb://tt18545980, tmdb://194573, tvdb://417543
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Muppets%20Mayhem&category=Shows&year_filter=equals&yone=2023&tmdb_id=194573&imdb_id=tt18545980&tvdb_id=417543

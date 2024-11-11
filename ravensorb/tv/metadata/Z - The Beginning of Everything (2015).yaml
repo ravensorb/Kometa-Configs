@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Z: The Beginning of Everything"
         match:
-          mapping_id: 64506
+          mapping_id: 313880
         url_poster: https://theposterdb.com/api/assets/382348
         # IDs: imdb://tt4878612, tmdb://64506, tvdb://313880
         # tpdb: https://theposterdb.com/search/advanced/results?term=Z%3A%20The%20Beginning%20of%20Everything&category=Shows&year_filter=equals&yone=2015&tmdb_id=64506&imdb_id=tt4878612&tvdb_id=313880

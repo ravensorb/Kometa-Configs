@@ -2,7 +2,7 @@ collections:
   "The Muppets":
     variables: {
       show: "295721, 368781, 417543, 72476",
-      poster: "https://theposterdb.com/api/assets/160974"
+      poster: https://theposterdb.com/api/assets/160974
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "The Addams Family":
     variables: {
       movie: "2758, 2907, 481084, 639721",
-      poster: "https://theposterdb.com/api/assets/173458"
+      poster: https://theposterdb.com/api/assets/173458
     }
     template: [ 
       { name: tplCommonBase }, 

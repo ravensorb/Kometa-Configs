@@ -3,7 +3,7 @@ metadata:
         year: 2012
         title: "Line of Duty"
         match:
-          mapping_id: 43982
+          mapping_id: 260092
         url_poster: https://theposterdb.com/api/assets/363762
         # IDs: imdb://tt2303687, tmdb://43982, tvdb://260092
         # tpdb: https://theposterdb.com/search/advanced/results?term=Line%20of%20Duty&category=Shows&year_filter=equals&yone=2012&tmdb_id=43982&imdb_id=tt2303687&tvdb_id=260092

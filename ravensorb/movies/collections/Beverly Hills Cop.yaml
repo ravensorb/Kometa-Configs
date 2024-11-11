@@ -2,7 +2,7 @@ collections:
   "Beverly Hills Cop":
     variables: {
       movie: "280180, 306, 90, 96",
-      poster: "https://theposterdb.com/api/assets/163980"
+      poster: https://theposterdb.com/api/assets/163980
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "Dirty Dozen":
     variables: {
       movie: "1654",
-      poster: "https://theposterdb.com/api/assets/162099"
+      poster: https://theposterdb.com/api/assets/162099
     }
     template: [ 
       { name: tplCommonBase }, 

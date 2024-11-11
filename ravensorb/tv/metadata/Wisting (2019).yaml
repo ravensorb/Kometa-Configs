@@ -3,7 +3,7 @@ metadata:
         year: 2019
         title: "Wisting"
         match:
-          mapping_id: 88358
+          mapping_id: 356770
         url_poster: https://theposterdb.com/api/assets/469838
         # IDs: imdb://tt7875794, tmdb://88358, tvdb://356770
         # tpdb: https://theposterdb.com/search/advanced/results?term=Wisting&category=Shows&year_filter=equals&yone=2019&tmdb_id=88358&imdb_id=tt7875794&tvdb_id=356770

@@ -3,7 +3,7 @@ metadata:
         year: 2013
         title: "Under the Dome"
         match:
-          mapping_id: 46331
+          mapping_id: 264492
         url_poster: https://theposterdb.com/api/assets/328447
         # IDs: imdb://tt1553656, tmdb://46331, tvdb://264492
         # tpdb: https://theposterdb.com/search/advanced/results?term=Under%20the%20Dome&category=Shows&year_filter=equals&yone=2013&tmdb_id=46331&imdb_id=tt1553656&tvdb_id=264492

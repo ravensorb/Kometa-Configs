@@ -2,7 +2,7 @@ collections:
   "Miami Vice":
     variables: {
       show: "77098",
-      poster: "https://theposterdb.com/api/assets/216493"
+      poster: https://theposterdb.com/api/assets/216493
     }
     template: [ 
       { name: tplCommonBase }, 

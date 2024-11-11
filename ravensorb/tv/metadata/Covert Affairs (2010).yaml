@@ -3,7 +3,7 @@ metadata:
         year: 2010
         title: "Covert Affairs"
         match:
-          mapping_id: 31631
+          mapping_id: 104281
         url_poster: https://theposterdb.com/api/assets/380067
         # IDs: imdb://tt1495708, tmdb://31631, tvdb://104281
         # tpdb: https://theposterdb.com/search/advanced/results?term=Covert%20Affairs&category=Shows&year_filter=equals&yone=2010&tmdb_id=31631&imdb_id=tt1495708&tvdb_id=104281

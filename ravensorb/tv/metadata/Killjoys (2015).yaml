@@ -3,7 +3,7 @@ metadata:
         year: 2015
         title: "Killjoys"
         match:
-          mapping_id: 62413
+          mapping_id: 281534
         url_poster: https://theposterdb.com/api/assets/380555
         # IDs: imdb://tt3952222, tmdb://62413, tvdb://281534
         # tpdb: https://theposterdb.com/search/advanced/results?term=Killjoys&category=Shows&year_filter=equals&yone=2015&tmdb_id=62413&imdb_id=tt3952222&tvdb_id=281534

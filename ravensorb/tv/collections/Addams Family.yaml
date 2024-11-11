@@ -2,7 +2,7 @@ collections:
   "Addams Family":
     variables: {
       show: "397060, 77137",
-      poster: "https://theposterdb.com/api/assets/160785"
+      poster: https://theposterdb.com/api/assets/160785
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -2,7 +2,7 @@ collections:
   "Penny Dreadful":
     variables: {
       show: "265766, 360892",
-      poster: "https://theposterdb.com/api/assets/344978"
+      poster: https://theposterdb.com/api/assets/344978
     }
     template: [ 
       { name: tplCommonBase }, 

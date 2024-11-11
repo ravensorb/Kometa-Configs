@@ -3,7 +3,7 @@ metadata:
         year: 2023
         title: "007: Road to a Million"
         match:
-          mapping_id: 234455
+          mapping_id: 418229
         url_poster: https://theposterdb.com/api/assets/429989
         # IDs: imdb://tt19049680, tmdb://234455, tvdb://418229
         # tpdb: https://theposterdb.com/search/advanced/results?term=007%3A%20Road%20to%20a%20Million&category=Shows&year_filter=equals&yone=2023&tmdb_id=234455&imdb_id=tt19049680&tvdb_id=418229

@@ -3,7 +3,7 @@ metadata:
         year: 1950
         title: "Buck Rogers"
         match:
-          mapping_id: 5907
+          mapping_id: 95991
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt0313041, tmdb://5907, tvdb://95991
         # tpdb: https://theposterdb.com/search/advanced/results?term=Buck%20Rogers&category=Shows&year_filter=equals&yone=1950&tmdb_id=5907&imdb_id=tt0313041&tvdb_id=95991
@@ -18,7 +18,7 @@ metadata:
         year: 1979
         title: "Buck Rogers in the 25th Century"
         match:
-          mapping_id: 2443
+          mapping_id: 74523
         url_poster: https://theposterdb.com/api/assets/278341
         # IDs: imdb://tt0078579, tmdb://2443, tvdb://74523
         # tpdb: https://theposterdb.com/search/advanced/results?term=Buck%20Rogers%20in%20the%2025th%20Century&category=Shows&year_filter=equals&yone=1979&tmdb_id=2443&imdb_id=tt0078579&tvdb_id=74523
