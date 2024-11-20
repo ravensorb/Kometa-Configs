@@ -1,0 +1,15 @@
+metadata:
+    "The Outsiders (1983) [Theatrical Cut]":
+        year: 1983
+        title: "The Outsiders"
+        edition: "Theatrical Cut"
+        sort_title: "Outsiders"
+        match:
+          mapping_id: 227
+          edition: Theatrical Cut
+        url_poster: https://theposterdb.com/api/assets/204191
+        # IDs: imdb://tt0086066, tmdb://227, tvdb://5014
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Outsiders&category=Movies&year_filter=equals&yone=1983&tmdb_id=227&imdb_id=tt0086066&tvdb_id=5014
+        # tmdb: https://www.themoviedb.org/movie/227
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1983&query=5014
+        # imdb: https://www.imdb.com/title/tt0086066

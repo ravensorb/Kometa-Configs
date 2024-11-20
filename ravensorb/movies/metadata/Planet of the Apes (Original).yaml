@@ -1,0 +1,72 @@
+metadata:
+    "Planet of the Apes (1968)":
+        year: 1968
+        title: "Planet of the Apes"
+        match:
+          mapping_id: 871
+        url_poster: https://theposterdb.com/api/assets/187337
+        # IDs: imdb://tt0063442, tmdb://871, tvdb://1440
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1968&tmdb_id=871&imdb_id=tt0063442&tvdb_id=1440
+        # tmdb: https://www.themoviedb.org/movie/871
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1968&query=1440
+        # imdb: https://www.imdb.com/title/tt0063442
+
+    "Beneath the Planet of the Apes (1970)":
+        year: 1970
+        title: "Beneath the Planet of the Apes"
+        match:
+          mapping_id: 1685
+        url_poster: https://theposterdb.com/api/assets/187338
+        # IDs: imdb://tt0065462, tmdb://1685, tvdb://2793
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Beneath%20the%20Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1970&tmdb_id=1685&imdb_id=tt0065462&tvdb_id=2793
+        # tmdb: https://www.themoviedb.org/movie/1685
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1970&query=2793
+        # imdb: https://www.imdb.com/title/tt0065462
+
+    "Escape from the Planet of the Apes (1971)":
+        year: 1971
+        title: "Escape from the Planet of the Apes"
+        match:
+          mapping_id: 1687
+        url_poster: https://theposterdb.com/api/assets/187339
+        # IDs: imdb://tt0067065, tmdb://1687, tvdb://3664
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20from%20the%20Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1971&tmdb_id=1687&imdb_id=tt0067065&tvdb_id=3664
+        # tmdb: https://www.themoviedb.org/movie/1687
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1971&query=3664
+        # imdb: https://www.imdb.com/title/tt0067065
+
+    "Conquest of the Planet of the Apes (1972)":
+        year: 1972
+        title: "Conquest of the Planet of the Apes"
+        match:
+          mapping_id: 1688
+        url_poster: https://theposterdb.com/api/assets/187340
+        # IDs: imdb://tt0068408, tmdb://1688, tvdb://4992
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Conquest%20of%20the%20Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1972&tmdb_id=1688&imdb_id=tt0068408&tvdb_id=4992
+        # tmdb: https://www.themoviedb.org/movie/1688
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=4992
+        # imdb: https://www.imdb.com/title/tt0068408
+
+    "Battle for the Planet of the Apes (1973)":
+        year: 1973
+        title: "Battle for the Planet of the Apes"
+        match:
+          mapping_id: 1705
+        url_poster: https://theposterdb.com/api/assets/187341
+        # IDs: imdb://tt0069768, tmdb://1705, tvdb://5119
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Battle%20for%20the%20Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1973&tmdb_id=1705&imdb_id=tt0069768&tvdb_id=5119
+        # tmdb: https://www.themoviedb.org/movie/1705
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1973&query=5119
+        # imdb: https://www.imdb.com/title/tt0069768
+
+    "Behind the Planet of the Apes (1998)":
+        year: 1998
+        title: "Behind the Planet of the Apes"
+        match:
+          mapping_id: 17244
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0207332, tmdb://17244, tvdb://75096
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Behind%20the%20Planet%20of%20the%20Apes&category=Movies&year_filter=equals&yone=1998&tmdb_id=17244&imdb_id=tt0207332&tvdb_id=75096
+        # tmdb: https://www.themoviedb.org/movie/17244
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=75096
+        # imdb: https://www.imdb.com/title/tt0207332

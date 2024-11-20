@@ -1,7 +1,7 @@
 collections:
   "The Art of War":
     variables: {
-      movie: "11398, 13988",
+      movie: "11398, 13988, 24756",
       poster: https://theposterdb.com/api/assets/163463
     }
     template: [ 

@@ -1,7 +1,7 @@
 collections:
   "Rudolph the Red-Nosed Reindeer":
     variables: {
-      label: "None",
+      label: "Christmas",
       movie: "13382, 30059, 40246, 43575",
       poster: https://theposterdb.com/api/assets/313834
     }

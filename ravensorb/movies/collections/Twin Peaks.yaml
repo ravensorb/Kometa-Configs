@@ -1,7 +1,6 @@
 collections:
   "Twin Peaks":
     variables: {
-      label: "None",
       movie: "1923, 452522",
       poster: https://theposterdb.com/api/assets/355622
     }

@@ -1,7 +1,7 @@
 collections:
   "Star Trek: The Next Generation":
     variables: {
-      label: "None",
+      label: "Star Trek",
       movie: "193, 199, 200, 201",
       poster: https://theposterdb.com/api/assets/308180
     }

@@ -1,7 +1,7 @@
 collections:
   "Doctor Who (Classic)":
     variables: {
-      label: "None",
+      label: "Doctor Who",
       movie: "1193137, 15691, 210024, 382024, 436981, 491940",
       poster: https://theposterdb.com/api/assets/163698
     }

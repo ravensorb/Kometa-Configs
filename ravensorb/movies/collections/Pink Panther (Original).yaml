@@ -1,7 +1,7 @@
 collections:
   "Pink Panther (Original)":
     variables: {
-      label: "None",
+      label: "Pink Panther",
       movie: "11573, 11843, 12268, 1594, 36576, 46828, 6081, 936, 9699",
       poster: https://theposterdb.com/api/assets/164817
     }

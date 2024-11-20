@@ -1,0 +1,12 @@
+metadata:
+    "Driving Miss Daisy (1989)":
+        year: 1989
+        title: "Driving Miss Daisy"
+        match:
+          mapping_id: 403
+        url_poster: https://theposterdb.com/api/assets/184626
+        # IDs: imdb://tt0097239, tmdb://403, tvdb://4565
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Driving%20Miss%20Daisy&category=Movies&year_filter=equals&yone=1989&tmdb_id=403&imdb_id=tt0097239&tvdb_id=4565
+        # tmdb: https://www.themoviedb.org/movie/403
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=4565
+        # imdb: https://www.imdb.com/title/tt0097239

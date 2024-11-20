@@ -1,0 +1,13 @@
+metadata:
+    "Hulk (2003)":
+        year: 2003
+        title: "Hulk"
+        sort_title: "MCU - 01 - Hulk"
+        match:
+          mapping_id: 1927
+        url_poster: https://theposterdb.com/api/assets/171161
+        # IDs: imdb://tt0286716, tmdb://1927, tvdb://1117
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hulk&category=Movies&year_filter=equals&yone=2003&tmdb_id=1927&imdb_id=tt0286716&tvdb_id=1117
+        # tmdb: https://www.themoviedb.org/movie/1927
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=1117
+        # imdb: https://www.imdb.com/title/tt0286716

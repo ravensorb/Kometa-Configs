@@ -1,0 +1,13 @@
+metadata:
+    "The Gunman (2015)":
+        year: 2015
+        title: "The Gunman"
+        sort_title: "Gunman"
+        match:
+          mapping_id: 266396
+        url_poster: https://theposterdb.com/api/assets/204416
+        # IDs: imdb://tt2515034, tmdb://266396, tvdb://3126
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gunman&category=Movies&year_filter=equals&yone=2015&tmdb_id=266396&imdb_id=tt2515034&tvdb_id=3126
+        # tmdb: https://www.themoviedb.org/movie/266396
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=3126
+        # imdb: https://www.imdb.com/title/tt2515034

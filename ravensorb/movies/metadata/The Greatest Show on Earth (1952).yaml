@@ -1,0 +1,13 @@
+metadata:
+    "The Greatest Show on Earth (1952)":
+        year: 1952
+        title: "The Greatest Show on Earth"
+        sort_title: "Greatest Show on Earth"
+        match:
+          mapping_id: 27191
+        url_poster: https://theposterdb.com/api/assets/186625
+        # IDs: imdb://tt0044672, tmdb://27191, tvdb://10258
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Greatest%20Show%20on%20Earth&category=Movies&year_filter=equals&yone=1952&tmdb_id=27191&imdb_id=tt0044672&tvdb_id=10258
+        # tmdb: https://www.themoviedb.org/movie/27191
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1952&query=10258
+        # imdb: https://www.imdb.com/title/tt0044672

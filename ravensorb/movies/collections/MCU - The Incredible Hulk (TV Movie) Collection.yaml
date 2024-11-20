@@ -1,7 +1,7 @@
 collections:
   "The Incredible Hulk (TV Movie) Collection":
     variables: {
-      label: "None",
+      label: "MCU",
       movie: "26881, 26883, 65294",
       poster: https://theposterdb.com/api/assets/235341
     }

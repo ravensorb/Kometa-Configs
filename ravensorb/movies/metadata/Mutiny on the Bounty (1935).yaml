@@ -1,0 +1,12 @@
+metadata:
+    "Mutiny on the Bounty (1935)":
+        year: 1935
+        title: "Mutiny on the Bounty"
+        match:
+          mapping_id: 12311
+        url_poster: https://theposterdb.com/api/assets/186585
+        # IDs: imdb://tt0026752, tmdb://12311, tvdb://11340
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mutiny%20on%20the%20Bounty&category=Movies&year_filter=equals&yone=1935&tmdb_id=12311&imdb_id=tt0026752&tvdb_id=11340
+        # tmdb: https://www.themoviedb.org/movie/12311
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1935&query=11340
+        # imdb: https://www.imdb.com/title/tt0026752

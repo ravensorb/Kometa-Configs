@@ -12,6 +12,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1961&query=71020
         # imdb: https://www.imdb.com/title/tt0054518
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/435539
             2:
@@ -25,4 +27,4 @@ metadata:
             6:
                 url_poster: https://theposterdb.com/api/assets/435544
             # 7:
-            #     url_poster: https://theposterdb.com/api/assets/
+                # url_poster: https://theposterdb.com/api/assets/

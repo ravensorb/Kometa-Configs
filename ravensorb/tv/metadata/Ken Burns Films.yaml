@@ -220,15 +220,15 @@ metadata:
         title: "Jackie Robinson"
         match:
           mapping_id: 310180
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/218602
         # IDs: imdb://tt5618356, tmdb://76519, tvdb://310180
         # tpdb: https://theposterdb.com/search/advanced/results?term=Jackie%20Robinson&category=Shows&year_filter=equals&yone=2016&tmdb_id=76519&imdb_id=tt5618356&tvdb_id=310180
         # tmdb: https://www.themoviedb.org/tv/76519
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=310180
         # imdb: https://www.imdb.com/title/tt5618356
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/218603
 
     "The Vietnam War (2017)":
         year: 2017
@@ -369,3 +369,18 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/412077
+
+    "Leonardo da Vinci (2024)":
+        year: 2024
+        title: "Leonardo da Vinci"
+        match:
+          mapping_id: 452823
+        url_poster: https://theposterdb.com/api/assets/542358
+        # IDs: imdb://tt31259169, tmdb://255451, tvdb://452823
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Leonardo%20da%20Vinci&category=Shows&year_filter=equals&yone=2024&tmdb_id=255451&imdb_id=tt31259169&tvdb_id=452823
+        # tmdb: https://www.themoviedb.org/tv/255451
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=452823
+        # imdb: https://www.imdb.com/title/tt31259169
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
