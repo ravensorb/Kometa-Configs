@@ -1,0 +1,28 @@
+metadata:
+    "The Rockford Files (1974)":
+        year: 1974
+        title: "The Rockford Files"
+        sort_title: "Rockford Files"
+        match:
+          mapping_id: 71219
+        url_poster: https://theposterdb.com/api/assets/526559
+        # IDs: imdb://tt0071042, tmdb://954, tvdb://71219
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Rockford%20Files&category=Shows&year_filter=equals&yone=1974&tmdb_id=954&imdb_id=tt0071042&tvdb_id=71219
+        # tmdb: https://www.themoviedb.org/tv/954
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1974&query=71219
+        # imdb: https://www.imdb.com/title/tt0071042
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/526560
+            1:
+                url_poster: https://theposterdb.com/api/assets/526561
+            2:
+                url_poster: https://theposterdb.com/api/assets/526562
+            3:
+                url_poster: https://theposterdb.com/api/assets/526563
+            4:
+                url_poster: https://theposterdb.com/api/assets/526564
+            5:
+                url_poster: https://theposterdb.com/api/assets/526565
+            6:
+                url_poster: https://theposterdb.com/api/assets/526566

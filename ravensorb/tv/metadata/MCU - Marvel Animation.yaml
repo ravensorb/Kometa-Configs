@@ -1,0 +1,76 @@
+metadata:
+    "Spider-Man (1967)":
+        year: 1967
+        title: "Spider-Man"
+        match:
+          mapping_id: 72739
+        url_poster: https://theposterdb.com/api/assets/357115
+        # IDs: imdb://tt0061301, tmdb://1482, tvdb://72739
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man&category=Shows&year_filter=equals&yone=1967&tmdb_id=1482&imdb_id=tt0061301&tvdb_id=72739
+        # tmdb: https://www.themoviedb.org/tv/1482
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1967&query=72739
+        # imdb: https://www.imdb.com/title/tt0061301
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/357116
+            2:
+                url_poster: https://theposterdb.com/api/assets/357117
+            3:
+                url_poster: https://theposterdb.com/api/assets/357118
+
+    "Spider-Man and His Amazing Friends (1981)":
+        year: 1981
+        title: "Spider-Man and His Amazing Friends"
+        match:
+          mapping_id: 71880
+        url_poster: https://theposterdb.com/api/assets/430648
+        # IDs: imdb://tt0083481, tmdb://1269, tvdb://71880
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%20and%20His%20Amazing%20Friends&category=Shows&year_filter=equals&yone=1981&tmdb_id=1269&imdb_id=tt0083481&tvdb_id=71880
+        # tmdb: https://www.themoviedb.org/tv/1269
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=71880
+        # imdb: https://www.imdb.com/title/tt0083481
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/430649
+            2:
+                url_poster: https://theposterdb.com/api/assets/430650
+            3:
+                url_poster: https://theposterdb.com/api/assets/430651
+
+    "Spider-Man: The Animated Series (1994)":
+        year: 1994
+        title: "Spider-Man: The Animated Series"
+        match:
+          mapping_id: 73750
+        url_poster: https://theposterdb.com/api/assets/357074
+        # IDs: imdb://tt0112175, tmdb://888, tvdb://73750
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%3A%20The%20Animated%20Series&category=Shows&year_filter=equals&yone=1994&tmdb_id=888&imdb_id=tt0112175&tvdb_id=73750
+        # tmdb: https://www.themoviedb.org/tv/888
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1994&query=73750
+        # imdb: https://www.imdb.com/title/tt0112175
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/357075
+            2:
+                url_poster: https://theposterdb.com/api/assets/357076
+            3:
+                url_poster: https://theposterdb.com/api/assets/357077
+            4:
+                url_poster: https://theposterdb.com/api/assets/357078
+            5:
+                url_poster: https://theposterdb.com/api/assets/357079
+
+    "X-Men '97 (2024)":
+        year: 2024
+        title: "X-Men '97"
+        match:
+          mapping_id: 412432
+        url_poster: https://theposterdb.com/api/assets/357079
+        # IDs: imdb://tt16026746, tmdb://138502, tvdb://412432
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%20%2797&category=Shows&year_filter=equals&yone=2024&tmdb_id=138502&imdb_id=tt16026746&tvdb_id=412432
+        # tmdb: https://www.themoviedb.org/tv/138502
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412432
+        # imdb: https://www.imdb.com/title/tt16026746
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/471248

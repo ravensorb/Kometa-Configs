@@ -1,0 +1,15 @@
+metadata:
+    "Curfew (2024)":
+        year: 2024
+        title: "Curfew (2024)"
+        match:
+          mapping_id: 446744
+        url_poster: https://theposterdb.com/api/assets/532654
+        # IDs: imdb://tt30242198, tmdb://247614, tvdb://446744
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Curfew%20%282024%29&category=Shows&year_filter=equals&yone=2024&tmdb_id=247614&imdb_id=tt30242198&tvdb_id=446744
+        # tmdb: https://www.themoviedb.org/tv/247614
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=446744
+        # imdb: https://www.imdb.com/title/tt30242198
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/532656

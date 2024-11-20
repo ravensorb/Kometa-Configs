@@ -1,23 +1,20 @@
 collections:
-  "DC Universe":
+  "Twin Peaks":
     variables: {
-      label: "DCU",
-      sort_prefix: "DCU",
-      sort_order: "00",
-      sort_separator: " - ",
-      movie: "11411, 1155058, 125249, 126712, 13183, 141052, 1452, 155, 17918, 19142, 1924, 20533, 209112, 232842, 2661, 268, 272, 287947, 297761, 297762, 297802, 298618, 314, 364, 414, 4147, 414906, 415, 420622, 436270, 436969, 44912, 464052, 475557, 487670, 487672, 49026, 49521, 495764, 50056, 561, 572802, 594767, 624479, 630656, 736069, 752, 791373, 831405, 8536, 8854, 889737, 9531, 9651",
-      poster: https://theposterdb.com/api/assets/239356
+      label: "None",
+      movie: "1923, 452522",
+      poster: https://theposterdb.com/api/assets/355622
     }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Universe&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22DC%20Universe%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=DC%20Universe
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=DC%20Universe
-    # trakt: https://trakt.tv/search/lists?query=DC%20Universe
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Twin%20Peaks%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Twin%20Peaks
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Twin%20Peaks
+    # trakt: https://trakt.tv/search/lists?query=Twin%20Peaks
     # collection_mode: hide
     # trakt_list:
     #   -

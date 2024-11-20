@@ -1,0 +1,15 @@
+metadata:
+    "Murder in a Small Town (2024)":
+        year: 2024
+        title: "Murder in a Small Town (2024)"
+        match:
+          mapping_id: 443402
+        url_poster: https://theposterdb.com/api/assets/527081
+        # IDs: imdb://tt12408718, tmdb://241549, tvdb://443402
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20in%20a%20Small%20Town%20%282024%29&category=Shows&year_filter=equals&yone=2024&tmdb_id=241549&imdb_id=tt12408718&tvdb_id=443402
+        # tmdb: https://www.themoviedb.org/tv/241549
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=443402
+        # imdb: https://www.imdb.com/title/tt12408718
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/527083

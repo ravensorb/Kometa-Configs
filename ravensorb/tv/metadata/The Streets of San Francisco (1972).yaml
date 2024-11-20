@@ -1,0 +1,24 @@
+metadata:
+    "The Streets of San Francisco (1972)":
+        year: 1972
+        title: "The Streets of San Francisco"
+        sort_title: "Streets of San Francisco"
+        match:
+          mapping_id: 71224
+        url_poster: https://theposterdb.com/api/assets/526567
+        # IDs: imdb://tt0068135, tmdb://2468, tvdb://71224
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Streets%20of%20San%20Francisco&category=Shows&year_filter=equals&yone=1972&tmdb_id=2468&imdb_id=tt0068135&tvdb_id=71224
+        # tmdb: https://www.themoviedb.org/tv/2468
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1972&query=71224
+        # imdb: https://www.imdb.com/title/tt0068135
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/526569
+            2:
+                url_poster: https://theposterdb.com/api/assets/526570
+            3:
+                url_poster: https://theposterdb.com/api/assets/526571
+            4:
+                url_poster: https://theposterdb.com/api/assets/526572
+            5:
+                url_poster: https://theposterdb.com/api/assets/526573
