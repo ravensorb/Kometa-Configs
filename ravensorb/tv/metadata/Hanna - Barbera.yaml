@@ -12,8 +12,6 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1959&query=76705
         # imdb: https://www.imdb.com/title/tt0052507
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/370810
             2:
@@ -31,27 +29,25 @@ metadata:
         sort_title: "Flintstones"
         match:
           mapping_id: 76171
-        url_poster: https://theposterdb.com/api/assets/253209
+        url_poster: https://theposterdb.com/api/assets/326632
         # IDs: imdb://tt0053502, tmdb://1996, tvdb://76171
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Flintstones&category=Shows&year_filter=equals&yone=1960&tmdb_id=1996&imdb_id=tt0053502&tvdb_id=76171
         # tmdb: https://www.themoviedb.org/tv/1996
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1960&query=76171
         # imdb: https://www.imdb.com/title/tt0053502
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
             1:
-                url_poster: https://theposterdb.com/api/assets/253211
+                url_poster: https://theposterdb.com/api/assets/326634
             2:
-                url_poster: https://theposterdb.com/api/assets/253212
+                url_poster: https://theposterdb.com/api/assets/326635
             3:
-                url_poster: https://theposterdb.com/api/assets/253213
+                url_poster: https://theposterdb.com/api/assets/326636
             4:
-                url_poster: https://theposterdb.com/api/assets/253214
+                url_poster: https://theposterdb.com/api/assets/326637
             5:
-                url_poster: https://theposterdb.com/api/assets/253215
+                url_poster: https://theposterdb.com/api/assets/326638
             6:
-                url_poster: https://theposterdb.com/api/assets/253216
+                url_poster: https://theposterdb.com/api/assets/326639
 
     "The Jetsons (1962)":
         year: 1962

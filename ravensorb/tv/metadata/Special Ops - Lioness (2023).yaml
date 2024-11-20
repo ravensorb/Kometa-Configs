@@ -1,0 +1,17 @@
+metadata:
+    "Special Ops: Lioness (2023)":
+        year: 2023
+        title: "Special Ops: Lioness"
+        match:
+          mapping_id: 388589
+        url_poster: https://theposterdb.com/api/assets/387903
+        # IDs: imdb://tt13111078, tmdb://113962, tvdb://388589
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Special%20Ops%3A%20Lioness&category=Shows&year_filter=equals&yone=2023&tmdb_id=113962&imdb_id=tt13111078&tvdb_id=388589
+        # tmdb: https://www.themoviedb.org/tv/113962
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=388589
+        # imdb: https://www.imdb.com/title/tt13111078
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/538081
+            2:
+                url_poster: https://theposterdb.com/api/assets/538082

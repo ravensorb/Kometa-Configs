@@ -1,0 +1,15 @@
+metadata:
+    "Cross (2024)":
+        year: 2024
+        title: "Cross"
+        match:
+          mapping_id: 426501
+        url_poster: https://theposterdb.com/api/assets/543394
+        # IDs: imdb://tt11794812, tmdb://213306, tvdb://426501
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cross&category=Shows&year_filter=equals&yone=2024&tmdb_id=213306&imdb_id=tt11794812&tvdb_id=426501
+        # tmdb: https://www.themoviedb.org/tv/213306
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=426501
+        # imdb: https://www.imdb.com/title/tt11794812
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/543396

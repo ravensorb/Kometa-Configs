@@ -1,0 +1,60 @@
+metadata:
+    "Death on the Nile (1978)":
+        year: 1978
+        title: "Death on the Nile"
+        match:
+          mapping_id: 4192
+        url_poster: https://theposterdb.com/api/assets/311204
+        # IDs: imdb://tt0077413, tmdb://4192, tvdb://7461
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20on%20the%20Nile&category=Movies&year_filter=equals&yone=1978&tmdb_id=4192&imdb_id=tt0077413&tvdb_id=7461
+        # tmdb: https://www.themoviedb.org/movie/4192
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1978&query=7461
+        # imdb: https://www.imdb.com/title/tt0077413
+
+    "Evil Under the Sun (1982)":
+        year: 1982
+        title: "Evil Under the Sun"
+        match:
+          mapping_id: 4193
+        url_poster: https://theposterdb.com/api/assets/311205
+        # IDs: imdb://tt0083908, tmdb://4193, tvdb://8664
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Evil%20Under%20the%20Sun&category=Movies&year_filter=equals&yone=1982&tmdb_id=4193&imdb_id=tt0083908&tvdb_id=8664
+        # tmdb: https://www.themoviedb.org/movie/4193
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1982&query=8664
+        # imdb: https://www.imdb.com/title/tt0083908
+
+    "Thirteen at Dinner (1985)":
+        year: 1985
+        title: "Thirteen at Dinner"
+        match:
+          mapping_id: 6103
+        url_poster: https://theposterdb.com/api/assets/311206
+        # IDs: imdb://tt0090156, tmdb://6103, tvdb://20477
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Thirteen%20at%20Dinner&category=Movies&year_filter=equals&yone=1985&tmdb_id=6103&imdb_id=tt0090156&tvdb_id=20477
+        # tmdb: https://www.themoviedb.org/movie/6103
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1985&query=20477
+        # imdb: https://www.imdb.com/title/tt0090156
+
+    "Dead Man's Folly (1986)":
+        year: 1986
+        title: "Dead Man's Folly"
+        match:
+          mapping_id: 6105
+        url_poster: https://theposterdb.com/api/assets/311207
+        # IDs: imdb://tt0090914, tmdb://6105, tvdb://20389
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dead%20Man%27s%20Folly&category=Movies&year_filter=equals&yone=1986&tmdb_id=6105&imdb_id=tt0090914&tvdb_id=20389
+        # tmdb: https://www.themoviedb.org/movie/6105
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=20389
+        # imdb: https://www.imdb.com/title/tt0090914
+
+    "Murder in Three Acts (1986)":
+        year: 1986
+        title: "Murder in Three Acts"
+        match:
+          mapping_id: 6107
+        url_poster: https://theposterdb.com/api/assets/311208
+        # IDs: imdb://tt0091572, tmdb://6107, tvdb://24908
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20in%20Three%20Acts&category=Movies&year_filter=equals&yone=1986&tmdb_id=6107&imdb_id=tt0091572&tvdb_id=24908
+        # tmdb: https://www.themoviedb.org/movie/6107
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=24908
+        # imdb: https://www.imdb.com/title/tt0091572

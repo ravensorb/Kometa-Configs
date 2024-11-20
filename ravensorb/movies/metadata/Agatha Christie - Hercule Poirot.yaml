@@ -1,0 +1,37 @@
+metadata:
+    "Murder on the Orient Express (2017)":
+        year: 2017
+        title: "Murder on the Orient Express"
+        match:
+          mapping_id: 392044
+        url_poster: https://theposterdb.com/api/assets/201481
+        # IDs: imdb://tt3402236, tmdb://392044, tvdb://490
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%20on%20the%20Orient%20Express&category=Movies&year_filter=equals&yone=2017&tmdb_id=392044&imdb_id=tt3402236&tvdb_id=490
+        # tmdb: https://www.themoviedb.org/movie/392044
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=490
+        # imdb: https://www.imdb.com/title/tt3402236
+
+    "Death on the Nile (2022)":
+        year: 2022
+        title: "Death on the Nile"
+        match:
+          mapping_id: 505026
+        url_poster: https://theposterdb.com/api/assets/226036
+        # IDs: imdb://tt7657566, tmdb://505026, tvdb://46622
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20on%20the%20Nile&category=Movies&year_filter=equals&yone=2022&tmdb_id=505026&imdb_id=tt7657566&tvdb_id=46622
+        # tmdb: https://www.themoviedb.org/movie/505026
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=46622
+        # imdb: https://www.imdb.com/title/tt7657566
+
+    "A Haunting in Venice (2023)":
+        year: 2023
+        title: "A Haunting in Venice"
+        sort_title: "Haunting in Venice"
+        match:
+          mapping_id: 945729
+        url_poster: https://theposterdb.com/api/assets/417881
+        # IDs: imdb://tt22687790, tmdb://945729, tvdb://340798
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Haunting%20in%20Venice&category=Movies&year_filter=equals&yone=2023&tmdb_id=945729&imdb_id=tt22687790&tvdb_id=340798
+        # tmdb: https://www.themoviedb.org/movie/945729
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=340798
+        # imdb: https://www.imdb.com/title/tt22687790

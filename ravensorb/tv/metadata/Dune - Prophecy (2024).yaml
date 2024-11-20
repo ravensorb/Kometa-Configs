@@ -1,0 +1,15 @@
+metadata:
+    "Dune: Prophecy (2024)":
+        year: 2024
+        title: "Dune: Prophecy"
+        match:
+          mapping_id: 367118
+        url_poster: https://theposterdb.com/api/assets/544275
+        # IDs: imdb://tt10466872, tmdb://90228, tvdb://367118
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dune%3A%20Prophecy&category=Shows&year_filter=equals&yone=2024&tmdb_id=90228&imdb_id=tt10466872&tvdb_id=367118
+        # tmdb: https://www.themoviedb.org/tv/90228
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=367118
+        # imdb: https://www.imdb.com/title/tt10466872
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/544277

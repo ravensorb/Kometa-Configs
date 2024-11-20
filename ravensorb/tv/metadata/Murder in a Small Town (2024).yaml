@@ -11,7 +11,5 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=443402
         # imdb: https://www.imdb.com/title/tt12408718
         seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/527083

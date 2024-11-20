@@ -1,0 +1,84 @@
+metadata:
+    "Doctor Who: The Christmas Invasion (2005)":
+        year: 2005
+        title: "Doctor Who: The Christmas Invasion"
+        match:
+          mapping_id: 1247066
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://1247066
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Christmas%20Invasion&category=Movies&year_filter=equals&yone=2005&tmdb_id=1247066
+        # tmdb: https://www.themoviedb.org/movie/1247066
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: Voyage of the Damned (2007)":
+        year: 2007
+        title: "Doctor Who: Voyage of the Damned"
+        match:
+          mapping_id: 335209
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://335209
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Voyage%20of%20the%20Damned&category=Movies&year_filter=equals&yone=2007&tmdb_id=335209
+        # tmdb: https://www.themoviedb.org/movie/335209
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: Dreamland (2009)":
+        year: 2009
+        title: "Doctor Who: Dreamland"
+        match:
+          mapping_id: 1251674
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://1251674
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Dreamland&category=Movies&year_filter=equals&yone=2009&tmdb_id=1251674
+        # tmdb: https://www.themoviedb.org/movie/1251674
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: Planet of the Dead (2009)":
+        year: 2009
+        title: "Doctor Who: Planet of the Dead"
+        match:
+          mapping_id: 282963
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://282963
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20Planet%20of%20the%20Dead&category=Movies&year_filter=equals&yone=2009&tmdb_id=282963
+        # tmdb: https://www.themoviedb.org/movie/282963
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: The Doctor, the Widow and the Wardrobe (2011)":
+        year: 2011
+        title: "Doctor Who: The Doctor, the Widow and the Wardrobe"
+        match:
+          mapping_id: 315623
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://315623
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Doctor%2C%20the%20Widow%20and%20the%20Wardrobe&category=Movies&year_filter=equals&yone=2011&tmdb_id=315623
+        # tmdb: https://www.themoviedb.org/movie/315623
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: The Day of the Doctor (2013)":
+        year: 2013
+        title: "Doctor Who: The Day of the Doctor"
+        match:
+          mapping_id: 313106
+        url_poster: https://theposterdb.com/api/assets/185057
+        # IDs: tmdb://313106
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Day%20of%20the%20Doctor&category=Movies&year_filter=equals&yone=2013&tmdb_id=313106
+        # tmdb: https://www.themoviedb.org/movie/313106
+        # tvdb: 
+        # imdb: 
+
+    "Doctor Who: The Time of the Doctor (2013)":
+        year: 2013
+        title: "Doctor Who: The Time of the Doctor"
+        match:
+          mapping_id: 282848
+        url_poster: https://theposterdb.com/api/assets/463068
+        # IDs: tmdb://282848
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%3A%20The%20Time%20of%20the%20Doctor&category=Movies&year_filter=equals&yone=2013&tmdb_id=282848
+        # tmdb: https://www.themoviedb.org/movie/282848
+        # tvdb: 
+        # imdb: 
