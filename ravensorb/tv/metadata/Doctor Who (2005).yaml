@@ -1,0 +1,100 @@
+metadata:
+    "Doctor Who (2005)":
+        year: 2005
+        title: "Doctor Who"
+        match:
+          mapping_id: 78804
+        url_poster: https://theposterdb.com/api/assets/254616
+        # IDs: imdb://tt0436992, tmdb://57243, tvdb://78804
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who&category=Shows&year_filter=equals&yone=2005&tmdb_id=57243&imdb_id=tt0436992&tvdb_id=78804
+        # tmdb: https://www.themoviedb.org/tv/57243
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=78804
+        # imdb: https://www.imdb.com/title/tt0436992
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/254617
+            1:
+                url_poster: https://theposterdb.com/api/assets/254618
+            2:
+                url_poster: https://theposterdb.com/api/assets/254619
+            3:
+                url_poster: https://theposterdb.com/api/assets/254620
+            4:
+                url_poster: https://theposterdb.com/api/assets/254621
+            5:
+                url_poster: https://theposterdb.com/api/assets/254622
+            6:
+                url_poster: https://theposterdb.com/api/assets/254623
+            7:
+                url_poster: https://theposterdb.com/api/assets/254624
+            8:
+                url_poster: https://theposterdb.com/api/assets/254625
+            9:
+                url_poster: https://theposterdb.com/api/assets/254626
+            10:
+                url_poster: https://theposterdb.com/api/assets/254627
+            11:
+                url_poster: https://theposterdb.com/api/assets/254628
+            12:
+                url_poster: https://theposterdb.com/api/assets/254629
+            13:
+                url_poster: https://theposterdb.com/api/assets/254630
+            14:
+                url_poster: https://theposterdb.com/api/assets/487572
+
+    "Doctor Who Confidential (2005)":
+        year: 2005
+        title: "Doctor Who Confidential"
+        match:
+          mapping_id: 79298
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0453422, tmdb://1056, tvdb://79298
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20Confidential&category=Shows&year_filter=equals&yone=2005&tmdb_id=1056&imdb_id=tt0453422&tvdb_id=79298
+        # tmdb: https://www.themoviedb.org/tv/1056
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=79298
+        # imdb: https://www.imdb.com/title/tt0453422
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Doctor Who Extra (2014)":
+        year: 2014
+        title: "Doctor Who Extra"
+        match:
+          mapping_id: 390950
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4147332, tmdb://61643, tvdb://390950
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20Extra&category=Shows&year_filter=equals&yone=2014&tmdb_id=61643&imdb_id=tt4147332&tvdb_id=390950
+        # tmdb: https://www.themoviedb.org/tv/61643
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=390950
+        # imdb: https://www.imdb.com/title/tt4147332
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Doctor Who (2023)":
+        year: 2023
+        title: "Doctor Who (2023)"
+        match:
+          mapping_id: 449991
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt31433814, tmdb://239770, tvdb://449991
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20%282023%29&category=Shows&year_filter=equals&yone=2023&tmdb_id=239770&imdb_id=tt31433814&tvdb_id=449991
+        # tmdb: https://www.themoviedb.org/tv/239770
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=449991
+        # imdb: https://www.imdb.com/title/tt31433814
+        # seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

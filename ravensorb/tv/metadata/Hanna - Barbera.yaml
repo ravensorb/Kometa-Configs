@@ -1,0 +1,113 @@
+metadata:
+    "The Bullwinkle Show (1959)":
+        year: 1959
+        title: "The Bullwinkle Show"
+        sort_title: "Bullwinkle Show"
+        match:
+          mapping_id: 76705
+        url_poster: https://theposterdb.com/api/assets/370809
+        # IDs: imdb://tt0052507, tmdb://1025, tvdb://76705
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Bullwinkle%20Show&category=Shows&year_filter=equals&yone=1959&tmdb_id=1025&imdb_id=tt0052507&tvdb_id=76705
+        # tmdb: https://www.themoviedb.org/tv/1025
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1959&query=76705
+        # imdb: https://www.imdb.com/title/tt0052507
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/370810
+            2:
+                url_poster: https://theposterdb.com/api/assets/370811
+            3:
+                url_poster: https://theposterdb.com/api/assets/370812
+            4:
+                url_poster: https://theposterdb.com/api/assets/370813
+            5:
+                url_poster: https://theposterdb.com/api/assets/370814
+
+    "The Flintstones (1960)":
+        year: 1960
+        title: "The Flintstones"
+        sort_title: "Flintstones"
+        match:
+          mapping_id: 76171
+        url_poster: https://theposterdb.com/api/assets/253209
+        # IDs: imdb://tt0053502, tmdb://1996, tvdb://76171
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Flintstones&category=Shows&year_filter=equals&yone=1960&tmdb_id=1996&imdb_id=tt0053502&tvdb_id=76171
+        # tmdb: https://www.themoviedb.org/tv/1996
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1960&query=76171
+        # imdb: https://www.imdb.com/title/tt0053502
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/253211
+            2:
+                url_poster: https://theposterdb.com/api/assets/253212
+            3:
+                url_poster: https://theposterdb.com/api/assets/253213
+            4:
+                url_poster: https://theposterdb.com/api/assets/253214
+            5:
+                url_poster: https://theposterdb.com/api/assets/253215
+            6:
+                url_poster: https://theposterdb.com/api/assets/253216
+
+    "The Jetsons (1962)":
+        year: 1962
+        title: "The Jetsons"
+        sort_title: "Jetsons"
+        match:
+          mapping_id: 76204
+        url_poster: https://theposterdb.com/api/assets/354109
+        # IDs: imdb://tt0055683, tmdb://2362, tvdb://76204
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Jetsons&category=Shows&year_filter=equals&yone=1962&tmdb_id=2362&imdb_id=tt0055683&tvdb_id=76204
+        # tmdb: https://www.themoviedb.org/tv/2362
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1962&query=76204
+        # imdb: https://www.imdb.com/title/tt0055683
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/354111
+            2:
+                url_poster: https://theposterdb.com/api/assets/354112
+            3:
+                url_poster: https://theposterdb.com/api/assets/354113
+
+    "Underdog (1964)":
+        year: 1964
+        title: "Underdog"
+        match:
+          mapping_id: 77763
+        url_poster: https://theposterdb.com/api/assets/401924
+        # IDs: imdb://tt0060037, tmdb://4979, tvdb://77763
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Underdog&category=Shows&year_filter=equals&yone=1964&tmdb_id=4979&imdb_id=tt0060037&tvdb_id=77763
+        # tmdb: https://www.themoviedb.org/tv/4979
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1964&query=77763
+        # imdb: https://www.imdb.com/title/tt0060037
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/401926
+            2:
+                url_poster: https://theposterdb.com/api/assets/401927
+            3:
+                url_poster: https://theposterdb.com/api/assets/401928
+
+    "The Adventures of Rocky and Bullwinkle (2018)":
+        year: 2018
+        title: "The Adventures of Rocky and Bullwinkle"
+        sort_title: "Adventures of Rocky and Bullwinkle"
+        match:
+          mapping_id: 347581
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8271124, tmdb://79371, tvdb://347581
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Adventures%20of%20Rocky%20and%20Bullwinkle&category=Shows&year_filter=equals&yone=2018&tmdb_id=79371&imdb_id=tt8271124&tvdb_id=347581
+        # tmdb: https://www.themoviedb.org/tv/79371
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=347581
+        # imdb: https://www.imdb.com/title/tt8271124
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

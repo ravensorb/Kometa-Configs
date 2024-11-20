@@ -1,0 +1,50 @@
+metadata:
+    "Marvel's Agents of S.H.I.E.L.D. (2013)":
+        year: 2013
+        title: "Marvel's Agents of S.H.I.E.L.D."
+        sort_title: "MCU: 03 - Agents of S.H.I.E.L.D"
+        match:
+          mapping_id: 263365
+        url_poster: https://theposterdb.com/api/assets/216597
+        # IDs: imdb://tt2364582, tmdb://1403, tvdb://263365
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Agents%20of%20S.H.I.E.L.D.&category=Shows&year_filter=equals&yone=2013&tmdb_id=1403&imdb_id=tt2364582&tvdb_id=263365
+        # tmdb: https://www.themoviedb.org/tv/1403
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=263365
+        # imdb: https://www.imdb.com/title/tt2364582
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/216599
+            2:
+                url_poster: https://theposterdb.com/api/assets/216600
+            3:
+                url_poster: https://theposterdb.com/api/assets/216601
+            4:
+                url_poster: https://theposterdb.com/api/assets/216602
+            5:
+                url_poster: https://theposterdb.com/api/assets/216603
+            6:
+                url_poster: https://theposterdb.com/api/assets/216604
+            7:
+                url_poster: https://theposterdb.com/api/assets/216605
+
+    "Marvel's Agent Carter (2015)":
+        year: 2015
+        title: "Marvel's Agent Carter"
+        sort_title: "MCU: 03 - Agent Carter"
+        match:
+          mapping_id: 281485
+        url_poster: https://theposterdb.com/api/assets/239460
+        # IDs: imdb://tt3475734, tmdb://61550, tvdb://281485
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Agent%20Carter&category=Shows&year_filter=equals&yone=2015&tmdb_id=61550&imdb_id=tt3475734&tvdb_id=281485
+        # tmdb: https://www.themoviedb.org/tv/61550
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=281485
+        # imdb: https://www.imdb.com/title/tt3475734
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239461
+            2:
+                url_poster: https://theposterdb.com/api/assets/239462

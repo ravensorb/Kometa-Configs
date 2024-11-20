@@ -1,0 +1,23 @@
+metadata:
+    "Succession (2018)":
+        year: 2018
+        title: "Succession"
+        match:
+          mapping_id: 338186
+        url_poster: https://theposterdb.com/api/assets/323518
+        # IDs: imdb://tt7660850, tmdb://76331, tvdb://338186
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Succession&category=Shows&year_filter=equals&yone=2018&tmdb_id=76331&imdb_id=tt7660850&tvdb_id=338186
+        # tmdb: https://www.themoviedb.org/tv/76331
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=338186
+        # imdb: https://www.imdb.com/title/tt7660850
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/323519
+            2:
+                url_poster: https://theposterdb.com/api/assets/323520
+            3:
+                url_poster: https://theposterdb.com/api/assets/323521
+            4:
+                url_poster: https://theposterdb.com/api/assets/323522

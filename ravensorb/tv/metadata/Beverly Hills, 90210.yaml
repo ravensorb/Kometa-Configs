@@ -1,0 +1,52 @@
+metadata:
+    "Beverly Hills, 90210 (1990)":
+        year: 1990
+        title: "Beverly Hills, 90210"
+        match:
+          mapping_id: 74936
+        url_poster: https://theposterdb.com/api/assets/351355
+        # IDs: imdb://tt0098749, tmdb://2025, tvdb://74936
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Beverly%20Hills%2C%2090210&category=Shows&year_filter=equals&yone=1990&tmdb_id=2025&imdb_id=tt0098749&tvdb_id=74936
+        # tmdb: https://www.themoviedb.org/tv/2025
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1990&query=74936
+        # imdb: https://www.imdb.com/title/tt0098749
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/351356
+            2:
+                url_poster: https://theposterdb.com/api/assets/351357
+            3:
+                url_poster: https://theposterdb.com/api/assets/351358
+            4:
+                url_poster: https://theposterdb.com/api/assets/351359
+            5:
+                url_poster: https://theposterdb.com/api/assets/351360
+            6:
+                url_poster: https://theposterdb.com/api/assets/351361
+            7:
+                url_poster: https://theposterdb.com/api/assets/351362
+            8:
+                url_poster: https://theposterdb.com/api/assets/351363
+            9:
+                url_poster: https://theposterdb.com/api/assets/351364
+            10:
+                url_poster: https://theposterdb.com/api/assets/351365
+
+    "BH90210 (2019)":
+        year: 2019
+        title: "BH90210"
+        match:
+          mapping_id: 363714
+        url_poster: https://theposterdb.com/api/assets/477029
+        # IDs: imdb://tt8179162, tmdb://89235, tvdb://363714
+        # tpdb: https://theposterdb.com/search/advanced/results?term=BH90210&category=Shows&year_filter=equals&yone=2019&tmdb_id=89235&imdb_id=tt8179162&tvdb_id=363714
+        # tmdb: https://www.themoviedb.org/tv/89235
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=363714
+        # imdb: https://www.imdb.com/title/tt8179162
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/477030
