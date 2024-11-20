@@ -2,16 +2,17 @@ metadata:
     "Miss Scarlet and the Duke (2020)":
         year: 2020
         title: "Miss Scarlet and the Duke"
-        sort_title: "Miss Scarlet and The Duke"
         match:
           mapping_id: 368638
         url_poster: https://theposterdb.com/api/assets/452857
         # IDs: imdb://tt8270592, tmdb://96450, tvdb://368638
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Scarlet%20and%20the%20Duke&category=Shows&year_filter=equals&yone=2020&tmdb_id=96450&imdb_id=tt8270592&tvdb_id=368638
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Scarlet%20and%20The%20Duke&category=Shows&year_filter=equals&yone=2020&tmdb_id=96450&imdb_id=tt8270592&tvdb_id=368638
         # tmdb: https://www.themoviedb.org/tv/96450
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=368638
         # imdb: https://www.imdb.com/title/tt8270592
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/452859
             2:
