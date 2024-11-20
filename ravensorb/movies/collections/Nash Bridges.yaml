@@ -1,7 +1,6 @@
 collections:
   "Nash Bridges":
     variables: {
-      label: "None",
       movie: "891219",
       poster: https://theposterdb.com/api/assets/522547
     }

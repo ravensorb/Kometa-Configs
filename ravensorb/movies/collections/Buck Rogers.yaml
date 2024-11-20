@@ -1,7 +1,6 @@
 collections:
   "Buck Rogers":
     variables: {
-      label: "None",
       movie: "3786",
       poster: https://theposterdb.com/api/assets/368044
     }

@@ -19,15 +19,15 @@ metadata:
         title: "Aquaman (1967)"
         match:
           mapping_id: 82143
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/422183
         # IDs: imdb://tt0433278, tmdb://10724, tvdb://82143
         # tpdb: https://theposterdb.com/search/advanced/results?term=Aquaman%20%281967%29&category=Shows&year_filter=equals&yone=1967&tmdb_id=10724&imdb_id=tt0433278&tvdb_id=82143
         # tmdb: https://www.themoviedb.org/tv/10724
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1967&query=82143
         # imdb: https://www.imdb.com/title/tt0433278
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/422184
 
     "The Adventures of Batman (1968)":
         year: 1968
@@ -123,6 +123,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1999&query=75417
         # imdb: https://www.imdb.com/title/tt0147746
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/241429
             2:
@@ -249,6 +251,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=192061
         # imdb: https://www.imdb.com/title/tt1641384
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/327493
             2:
@@ -270,6 +274,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=258331
         # imdb: https://www.imdb.com/title/tt2329077
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/413651
 
@@ -302,6 +308,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=298305
         # imdb: https://www.imdb.com/title/tt4406248
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/325746
             2:
@@ -319,6 +327,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=328982
         # imdb: https://www.imdb.com/title/tt5957358
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/325706
             2:
@@ -351,6 +361,8 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=359619
         # imdb: https://www.imdb.com/title/tt9628244
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/469285
             2:
@@ -368,5 +380,7 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=403170
         # imdb: https://www.imdb.com/title/tt14681596
         seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/512098

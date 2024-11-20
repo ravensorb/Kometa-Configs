@@ -1,0 +1,130 @@
+metadata:
+    "X-Men (2000)":
+        year: 2000
+        title: "X-Men"
+        sort_title: "MCU - 01 - X-Men"
+        match:
+          mapping_id: 36657
+        url_poster: https://theposterdb.com/api/assets/171113
+        # IDs: imdb://tt0120903, tmdb://36657, tvdb://60871
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men&category=Movies&year_filter=equals&yone=2000&tmdb_id=36657&imdb_id=tt0120903&tvdb_id=60871
+        # tmdb: https://www.themoviedb.org/movie/36657
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2000&query=60871
+        # imdb: https://www.imdb.com/title/tt0120903
+
+    "X2: X-Men United (2003)":
+        year: 2003
+        title: "X2: X-Men United"
+        sort_title: "MCU - 01 - X2: X-Men United"
+        match:
+          mapping_id: 36658
+        url_poster: https://theposterdb.com/api/assets/171114
+        # IDs: imdb://tt0290334, tmdb://36658, tvdb://72106
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X2%3A%20X-Men%20United&category=Movies&year_filter=equals&yone=2003&tmdb_id=36658&imdb_id=tt0290334&tvdb_id=72106
+        # tmdb: https://www.themoviedb.org/movie/36658
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=72106
+        # imdb: https://www.imdb.com/title/tt0290334
+
+    "X-Men: The Last Stand (2006)":
+        year: 2006
+        title: "X-Men: The Last Stand"
+        sort_title: "MCU - 01 - X-Men: The Last Stand"
+        match:
+          mapping_id: 36668
+        url_poster: https://theposterdb.com/api/assets/171115
+        # IDs: imdb://tt0376994, tmdb://36668, tvdb://75608
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20The%20Last%20Stand&category=Movies&year_filter=equals&yone=2006&tmdb_id=36668&imdb_id=tt0376994&tvdb_id=75608
+        # tmdb: https://www.themoviedb.org/movie/36668
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=75608
+        # imdb: https://www.imdb.com/title/tt0376994
+
+    "X-Men Origins: Wolverine (2009)":
+        year: 2009
+        title: "X-Men Origins: Wolverine"
+        sort_title: "MCU - 01 - X-Men Origins: Wolverine"
+        match:
+          mapping_id: 2080
+        url_poster: https://theposterdb.com/api/assets/171122
+        # IDs: imdb://tt0458525, tmdb://2080, tvdb://42403
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%20Origins%3A%20Wolverine&category=Movies&year_filter=equals&yone=2009&tmdb_id=2080&imdb_id=tt0458525&tvdb_id=42403
+        # tmdb: https://www.themoviedb.org/movie/2080
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=42403
+        # imdb: https://www.imdb.com/title/tt0458525
+
+    "X-Men: First Class (2011)":
+        year: 2011
+        title: "X-Men: First Class"
+        sort_title: "MCU - 01 - X-Men: First Class"
+        match:
+          mapping_id: 49538
+        url_poster: https://theposterdb.com/api/assets/171116
+        # IDs: imdb://tt1270798, tmdb://49538, tvdb://69081
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20First%20Class&category=Movies&year_filter=equals&yone=2011&tmdb_id=49538&imdb_id=tt1270798&tvdb_id=69081
+        # tmdb: https://www.themoviedb.org/movie/49538
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=69081
+        # imdb: https://www.imdb.com/title/tt1270798
+
+    "The Wolverine (2013)":
+        year: 2013
+        title: "The Wolverine"
+        sort_title: "MCU - 01 - Wolverine"
+        match:
+          mapping_id: 76170
+        url_poster: https://theposterdb.com/api/assets/171123
+        # IDs: imdb://tt1430132, tmdb://76170, tvdb://20145
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Wolverine&category=Movies&year_filter=equals&yone=2013&tmdb_id=76170&imdb_id=tt1430132&tvdb_id=20145
+        # tmdb: https://www.themoviedb.org/movie/76170
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=20145
+        # imdb: https://www.imdb.com/title/tt1430132
+
+    "X-Men: Days of Future Past (2014)":
+        year: 2014
+        title: "X-Men: Days of Future Past"
+        sort_title: "MCU - 01 - X-Men: Days of Future Past"
+        match:
+          mapping_id: 127585
+        url_poster: https://theposterdb.com/api/assets/171117
+        # IDs: imdb://tt1877832, tmdb://127585, tvdb://79
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20Days%20of%20Future%20Past&category=Movies&year_filter=equals&yone=2014&tmdb_id=127585&imdb_id=tt1877832&tvdb_id=79
+        # tmdb: https://www.themoviedb.org/movie/127585
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=79
+        # imdb: https://www.imdb.com/title/tt1877832
+
+    "X-Men: Apocalypse (2016)":
+        year: 2016
+        title: "X-Men: Apocalypse"
+        sort_title: "MCU - 01 - X-Men: Apocalypse"
+        match:
+          mapping_id: 246655
+        url_poster: https://theposterdb.com/api/assets/171118
+        # IDs: imdb://tt3385516, tmdb://246655, tvdb://112
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20Apocalypse&category=Movies&year_filter=equals&yone=2016&tmdb_id=246655&imdb_id=tt3385516&tvdb_id=112
+        # tmdb: https://www.themoviedb.org/movie/246655
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=112
+        # imdb: https://www.imdb.com/title/tt3385516
+
+    "Logan (2017)":
+        year: 2017
+        title: "Logan"
+        sort_title: "MCU - 01 - Logan"
+        match:
+          mapping_id: 263115
+        url_poster: https://theposterdb.com/api/assets/171124
+        # IDs: imdb://tt3315342, tmdb://263115, tvdb://143
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Logan&category=Movies&year_filter=equals&yone=2017&tmdb_id=263115&imdb_id=tt3315342&tvdb_id=143
+        # tmdb: https://www.themoviedb.org/movie/263115
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=143
+        # imdb: https://www.imdb.com/title/tt3315342
+
+    "X-Men: Dark Phoenix (2019)":
+        year: 2019
+        title: "X-Men: Dark Phoenix"
+        sort_title: "MCU - 01 - X-Men: Dark Phoenix"
+        match:
+          mapping_id: 320288
+        url_poster: https://theposterdb.com/api/assets/383452
+        # IDs: imdb://tt6565702, tmdb://320288, tvdb://185
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%3A%20Dark%20Phoenix&category=Movies&year_filter=equals&yone=2019&tmdb_id=320288&imdb_id=tt6565702&tvdb_id=185
+        # tmdb: https://www.themoviedb.org/movie/320288
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=185
+        # imdb: https://www.imdb.com/title/tt6565702

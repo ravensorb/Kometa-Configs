@@ -1,0 +1,136 @@
+metadata:
+    "Brooklyn Bridge (1981)":
+        year: 1981
+        title: "Brooklyn Bridge"
+        match:
+          mapping_id: 67079
+        url_poster: https://theposterdb.com/api/assets/216676
+        # IDs: imdb://tt0082106, tmdb://67079, tvdb://100272
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Brooklyn%20Bridge&category=Movies&year_filter=equals&yone=1981&tmdb_id=67079&imdb_id=tt0082106&tvdb_id=100272
+        # tmdb: https://www.themoviedb.org/movie/67079
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1981&query=100272
+        # imdb: https://www.imdb.com/title/tt0082106
+
+    "The Shakers: Hands to Work, Hearts to God (1984)":
+        year: 1984
+        title: "The Shakers: Hands to Work, Hearts to God"
+        sort_title: "Shakers: Hands to Work, Hearts to God"
+        match:
+          mapping_id: 67700
+        url_poster: https://theposterdb.com/api/assets/216720
+        # IDs: imdb://tt0243548, tmdb://67700
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Shakers%3A%20Hands%20to%20Work%2C%20Hearts%20to%20God&category=Movies&year_filter=equals&yone=1984&tmdb_id=67700&imdb_id=tt0243548
+        # tmdb: https://www.themoviedb.org/movie/67700
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0243548
+
+    "Huey Long (1985)":
+        year: 1985
+        title: "Huey Long"
+        match:
+          mapping_id: 132792
+        url_poster: https://theposterdb.com/api/assets/216687
+        # IDs: imdb://tt0089310, tmdb://132792
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Huey%20Long&category=Movies&year_filter=equals&yone=1985&tmdb_id=132792&imdb_id=tt0089310
+        # tmdb: https://www.themoviedb.org/movie/132792
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0089310
+
+    "The Statue of Liberty (1985)":
+        year: 1985
+        title: "The Statue of Liberty"
+        sort_title: "Statue of Liberty"
+        match:
+          mapping_id: 51594
+        url_poster: https://theposterdb.com/api/assets/216724
+        # IDs: imdb://tt0092011, tmdb://51594
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Statue%20of%20Liberty&category=Movies&year_filter=equals&yone=1985&tmdb_id=51594&imdb_id=tt0092011
+        # tmdb: https://www.themoviedb.org/movie/51594
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0092011
+
+    "The Congress (1989)":
+        year: 1989
+        title: "The Congress"
+        sort_title: "Congress"
+        match:
+          mapping_id: 67707
+        url_poster: https://theposterdb.com/api/assets/216716
+        # IDs: imdb://tt0272052, tmdb://67707
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Congress&category=Movies&year_filter=equals&yone=1989&tmdb_id=67707&imdb_id=tt0272052
+        # tmdb: https://www.themoviedb.org/movie/67707
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0272052
+
+    "Thomas Hart Benton (1989)":
+        year: 1989
+        title: "Thomas Hart Benton"
+        match:
+          mapping_id: 259410
+        url_poster: https://theposterdb.com/api/assets/216736
+        # IDs: imdb://tt0272887, tmdb://259410, tvdb://106381
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Thomas%20Hart%20Benton&category=Movies&year_filter=equals&yone=1989&tmdb_id=259410&imdb_id=tt0272887&tvdb_id=106381
+        # tmdb: https://www.themoviedb.org/movie/259410
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=106381
+        # imdb: https://www.imdb.com/title/tt0272887
+
+    "Empire of the Air: The Men Who Made Radio (1991)":
+        year: 1991
+        title: "Empire of the Air: The Men Who Made Radio"
+        match:
+          mapping_id: 119120
+        url_poster: https://theposterdb.com/api/assets/216681
+        # IDs: imdb://tt0238199, tmdb://119120
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Empire%20of%20the%20Air%3A%20The%20Men%20Who%20Made%20Radio&category=Movies&year_filter=equals&yone=1991&tmdb_id=119120&imdb_id=tt0238199
+        # tmdb: https://www.themoviedb.org/movie/119120
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0238199
+
+    "Mark Twain (2002)":
+        year: 2002
+        title: "Mark Twain"
+        match:
+          mapping_id: 130002
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0306355, tmdb://130002, tvdb://31874
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mark%20Twain&category=Movies&year_filter=equals&yone=2002&tmdb_id=130002&imdb_id=tt0306355&tvdb_id=31874
+        # tmdb: https://www.themoviedb.org/movie/130002
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=31874
+        # imdb: https://www.imdb.com/title/tt0306355
+
+    "The Central Park Five (2014)":
+        year: 2014
+        title: "The Central Park Five"
+        sort_title: "Central Park Five"
+        match:
+          mapping_id: 124067
+        url_poster: https://theposterdb.com/api/assets/218572
+        # IDs: imdb://tt2380247, tmdb://124067, tvdb://24797
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Central%20Park%20Five&category=Movies&year_filter=equals&yone=2014&tmdb_id=124067&imdb_id=tt2380247&tvdb_id=24797
+        # tmdb: https://www.themoviedb.org/movie/124067
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=24797
+        # imdb: https://www.imdb.com/title/tt2380247
+
+    "Defying the Nazis: The Sharps' War (2016)":
+        year: 2016
+        title: "Defying the Nazis: The Sharps' War"
+        match:
+          mapping_id: 252451
+        url_poster: https://theposterdb.com/api/assets/218587
+        # IDs: imdb://tt1339660, tmdb://252451, tvdb://58473
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Defying%20the%20Nazis%3A%20The%20Sharps%27%20War&category=Movies&year_filter=equals&yone=2016&tmdb_id=252451&imdb_id=tt1339660&tvdb_id=58473
+        # tmdb: https://www.themoviedb.org/movie/252451
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=58473
+        # imdb: https://www.imdb.com/title/tt1339660
+
+    "East Lake Meadows: A Public Housing Story (2020)":
+        year: 2020
+        title: "East Lake Meadows: A Public Housing Story"
+        match:
+          mapping_id: 685495
+        url_poster: https://theposterdb.com/api/assets/218658
+        # IDs: imdb://tt11609344, tmdb://685495
+        # tpdb: https://theposterdb.com/search/advanced/results?term=East%20Lake%20Meadows%3A%20A%20Public%20Housing%20Story&category=Movies&year_filter=equals&yone=2020&tmdb_id=685495&imdb_id=tt11609344
+        # tmdb: https://www.themoviedb.org/movie/685495
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt11609344

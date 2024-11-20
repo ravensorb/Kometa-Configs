@@ -1,7 +1,7 @@
 collections:
   "Battlestar Galactica (Original)":
     variables: {
-      label: "None",
+      label: "Battlestar Galactica",
       movie: "148980, 65288, 9640",
       poster: https://theposterdb.com/api/assets/160915
     }

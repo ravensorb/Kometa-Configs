@@ -1,0 +1,1194 @@
+metadata:
+    "Superman: The Mad Scientist (1941)":
+        year: 1941
+        title: "Superman: The Mad Scientist"
+        match:
+          mapping_id: 95414
+        url_poster: https://theposterdb.com/api/assets/450655
+        # IDs: imdb://tt0034247, tmdb://95414, tvdb://359467
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Mad%20Scientist&category=Movies&year_filter=equals&yone=1941&tmdb_id=95414&imdb_id=tt0034247&tvdb_id=359467
+        # tmdb: https://www.themoviedb.org/movie/95414
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1941&query=359467
+        # imdb: https://www.imdb.com/title/tt0034247
+
+    "Superman: The Mechanical Monsters (1941)":
+        year: 1941
+        title: "Superman: The Mechanical Monsters"
+        match:
+          mapping_id: 71129
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0033888, tmdb://71129, tvdb://60489
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Mechanical%20Monsters&category=Movies&year_filter=equals&yone=1941&tmdb_id=71129&imdb_id=tt0033888&tvdb_id=60489
+        # tmdb: https://www.themoviedb.org/movie/71129
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1941&query=60489
+        # imdb: https://www.imdb.com/title/tt0033888
+
+    "Superman: Billion Dollar Limited (1942)":
+        year: 1942
+        title: "Superman: Billion Dollar Limited"
+        match:
+          mapping_id: 145931
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034515, tmdb://145931, tvdb://359466
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Billion%20Dollar%20Limited&category=Movies&year_filter=equals&yone=1942&tmdb_id=145931&imdb_id=tt0034515&tvdb_id=359466
+        # tmdb: https://www.themoviedb.org/movie/145931
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=359466
+        # imdb: https://www.imdb.com/title/tt0034515
+
+    "Superman: Destruction Inc. (1942)":
+        year: 1942
+        title: "Superman: Destruction Inc."
+        match:
+          mapping_id: 146059
+        url_poster: https://theposterdb.com/api/assets/466151
+        # IDs: imdb://tt0034648, tmdb://146059, tvdb://74807
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Destruction%20Inc.&category=Movies&year_filter=equals&yone=1942&tmdb_id=146059&imdb_id=tt0034648&tvdb_id=74807
+        # tmdb: https://www.themoviedb.org/movie/146059
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=74807
+        # imdb: https://www.imdb.com/title/tt0034648
+
+    "Superman: Electric Earthquake (1942)":
+        year: 1942
+        title: "Superman: Electric Earthquake"
+        match:
+          mapping_id: 145967
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034699, tmdb://145967, tvdb://75994
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Electric%20Earthquake&category=Movies&year_filter=equals&yone=1942&tmdb_id=145967&imdb_id=tt0034699&tvdb_id=75994
+        # tmdb: https://www.themoviedb.org/movie/145967
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=75994
+        # imdb: https://www.imdb.com/title/tt0034699
+
+    "Superman: Eleventh Hour (1942)":
+        year: 1942
+        title: "Superman: Eleventh Hour"
+        match:
+          mapping_id: 146058
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034700, tmdb://146058, tvdb://101028
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Eleventh%20Hour&category=Movies&year_filter=equals&yone=1942&tmdb_id=146058&imdb_id=tt0034700&tvdb_id=101028
+        # tmdb: https://www.themoviedb.org/movie/146058
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=101028
+        # imdb: https://www.imdb.com/title/tt0034700
+
+    "Superman: Japoteurs (1942)":
+        year: 1942
+        title: "Superman: Japoteurs"
+        match:
+          mapping_id: 71128
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034913, tmdb://71128, tvdb://71203
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Japoteurs&category=Movies&year_filter=equals&yone=1942&tmdb_id=71128&imdb_id=tt0034913&tvdb_id=71203
+        # tmdb: https://www.themoviedb.org/movie/71128
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=71203
+        # imdb: https://www.imdb.com/title/tt0034913
+
+    "Superman: Showdown (1942)":
+        year: 1942
+        title: "Superman: Showdown"
+        match:
+          mapping_id: 146053
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0035323, tmdb://146053, tvdb://68542
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Showdown&category=Movies&year_filter=equals&yone=1942&tmdb_id=146053&imdb_id=tt0035323&tvdb_id=68542
+        # tmdb: https://www.themoviedb.org/movie/146053
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=68542
+        # imdb: https://www.imdb.com/title/tt0035323
+
+    "Superman: Terror on the Midway (1942)":
+        year: 1942
+        title: "Superman: Terror on the Midway"
+        match:
+          mapping_id: 145977
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0035422, tmdb://145977, tvdb://107921
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Terror%20on%20the%20Midway&category=Movies&year_filter=equals&yone=1942&tmdb_id=145977&imdb_id=tt0035422&tvdb_id=107921
+        # tmdb: https://www.themoviedb.org/movie/145977
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=107921
+        # imdb: https://www.imdb.com/title/tt0035422
+
+    "Superman: The Arctic Giant (1942)":
+        year: 1942
+        title: "Superman: The Arctic Giant"
+        match:
+          mapping_id: 145961
+        url_poster: https://theposterdb.com/api/assets/428869
+        # IDs: imdb://tt0034466, tmdb://145961, tvdb://75391
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Arctic%20Giant&category=Movies&year_filter=equals&yone=1942&tmdb_id=145961&imdb_id=tt0034466&tvdb_id=75391
+        # tmdb: https://www.themoviedb.org/movie/145961
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=75391
+        # imdb: https://www.imdb.com/title/tt0034466
+
+    "Superman: The Bulleteers (1942)":
+        year: 1942
+        title: "Superman: The Bulleteers"
+        match:
+          mapping_id: 145963
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0034556, tmdb://145963, tvdb://76018
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Bulleteers&category=Movies&year_filter=equals&yone=1942&tmdb_id=145963&imdb_id=tt0034556&tvdb_id=76018
+        # tmdb: https://www.themoviedb.org/movie/145963
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=76018
+        # imdb: https://www.imdb.com/title/tt0034556
+
+    "Superman: The Magnetic Telescope (1942)":
+        year: 1942
+        title: "Superman: The Magnetic Telescope"
+        match:
+          mapping_id: 99678
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0035014, tmdb://99678, tvdb://110862
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20The%20Magnetic%20Telescope&category=Movies&year_filter=equals&yone=1942&tmdb_id=99678&imdb_id=tt0035014&tvdb_id=110862
+        # tmdb: https://www.themoviedb.org/movie/99678
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=110862
+        # imdb: https://www.imdb.com/title/tt0035014
+
+    "Superman: Volcano (1942)":
+        year: 1942
+        title: "Superman: Volcano"
+        match:
+          mapping_id: 145969
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0035524, tmdb://145969, tvdb://74353
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Volcano&category=Movies&year_filter=equals&yone=1942&tmdb_id=145969&imdb_id=tt0035524&tvdb_id=74353
+        # tmdb: https://www.themoviedb.org/movie/145969
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1942&query=74353
+        # imdb: https://www.imdb.com/title/tt0035524
+
+    "Jungle Drums (1943)":
+        year: 1943
+        title: "Jungle Drums"
+        match:
+          mapping_id: 146062
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0036060, tmdb://146062, tvdb://61557
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jungle%20Drums&category=Movies&year_filter=equals&yone=1943&tmdb_id=146062&imdb_id=tt0036060&tvdb_id=61557
+        # tmdb: https://www.themoviedb.org/movie/146062
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1943&query=61557
+        # imdb: https://www.imdb.com/title/tt0036060
+
+    "Superman: Secret Agent (1943)":
+        year: 1943
+        title: "Superman: Secret Agent"
+        match:
+          mapping_id: 146074
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0036336, tmdb://146074, tvdb://38073
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Secret%20Agent&category=Movies&year_filter=equals&yone=1943&tmdb_id=146074&imdb_id=tt0036336&tvdb_id=38073
+        # tmdb: https://www.themoviedb.org/movie/146074
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1943&query=38073
+        # imdb: https://www.imdb.com/title/tt0036336
+
+    "The Mummy Strikes (1943)":
+        year: 1943
+        title: "The Mummy Strikes"
+        sort_title: "Mummy Strikes"
+        match:
+          mapping_id: 146061
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0036179, tmdb://146061, tvdb://55753
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Mummy%20Strikes&category=Movies&year_filter=equals&yone=1943&tmdb_id=146061&imdb_id=tt0036179&tvdb_id=55753
+        # tmdb: https://www.themoviedb.org/movie/146061
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1943&query=55753
+        # imdb: https://www.imdb.com/title/tt0036179
+
+    "The Underground World (1943)":
+        year: 1943
+        title: "The Underground World"
+        sort_title: "Underground World"
+        match:
+          mapping_id: 146072
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0036475, tmdb://146072, tvdb://55754
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Underground%20World&category=Movies&year_filter=equals&yone=1943&tmdb_id=146072&imdb_id=tt0036475&tvdb_id=55754
+        # tmdb: https://www.themoviedb.org/movie/146072
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1943&query=55754
+        # imdb: https://www.imdb.com/title/tt0036475
+
+    "Batman & Mr. Freeze: SubZero (1998)":
+        year: 1998
+        title: "Batman & Mr. Freeze: SubZero"
+        match:
+          mapping_id: 15805
+        url_poster: https://theposterdb.com/api/assets/193389
+        # IDs: imdb://tt0143127, tmdb://15805, tvdb://8876
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20%26%20Mr.%20Freeze%3A%20SubZero&category=Movies&year_filter=equals&yone=1998&tmdb_id=15805&imdb_id=tt0143127&tvdb_id=8876
+        # tmdb: https://www.themoviedb.org/movie/15805
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1998&query=8876
+        # imdb: https://www.imdb.com/title/tt0143127
+
+    "Batman Beyond: Return of the Joker (2000)":
+        year: 2000
+        title: "Batman Beyond: Return of the Joker"
+        match:
+          mapping_id: 16234
+        url_poster: https://theposterdb.com/api/assets/239610
+        # IDs: imdb://tt0233298, tmdb://16234, tvdb://5402
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Beyond%3A%20Return%20of%20the%20Joker&category=Movies&year_filter=equals&yone=2000&tmdb_id=16234&imdb_id=tt0233298&tvdb_id=5402
+        # tmdb: https://www.themoviedb.org/movie/16234
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2000&query=5402
+        # imdb: https://www.imdb.com/title/tt0233298
+
+    "Batman: Mystery of the Batwoman (2003)":
+        year: 2003
+        title: "Batman: Mystery of the Batwoman"
+        match:
+          mapping_id: 21683
+        url_poster: https://theposterdb.com/api/assets/193390
+        # IDs: imdb://tt0346578, tmdb://21683, tvdb://5322
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Mystery%20of%20the%20Batwoman&category=Movies&year_filter=equals&yone=2003&tmdb_id=21683&imdb_id=tt0346578&tvdb_id=5322
+        # tmdb: https://www.themoviedb.org/movie/21683
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=5322
+        # imdb: https://www.imdb.com/title/tt0346578
+
+    "The Batman vs. Dracula (2005)":
+        year: 2005
+        title: "The Batman vs. Dracula"
+        sort_title: "Batman vs. Dracula"
+        match:
+          mapping_id: 20077
+        url_poster: https://theposterdb.com/api/assets/193391
+        # IDs: imdb://tt0472219, tmdb://20077, tvdb://7272
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Batman%20vs.%20Dracula&category=Movies&year_filter=equals&yone=2005&tmdb_id=20077&imdb_id=tt0472219&tvdb_id=7272
+        # tmdb: https://www.themoviedb.org/movie/20077
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=7272
+        # imdb: https://www.imdb.com/title/tt0472219
+
+    "Superman: Brainiac Attacks (2006)":
+        year: 2006
+        title: "Superman: Brainiac Attacks"
+        match:
+          mapping_id: 19323
+        url_poster: https://theposterdb.com/api/assets/310690
+        # IDs: imdb://tt0800226, tmdb://19323, tvdb://10929
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Brainiac%20Attacks&category=Movies&year_filter=equals&yone=2006&tmdb_id=19323&imdb_id=tt0800226&tvdb_id=10929
+        # tmdb: https://www.themoviedb.org/movie/19323
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=10929
+        # imdb: https://www.imdb.com/title/tt0800226
+
+    "Superman/Doomsday (2007)":
+        year: 2007
+        title: "Superman/Doomsday"
+        match:
+          mapping_id: 13640
+        url_poster: https://theposterdb.com/api/assets/193337
+        # IDs: imdb://tt0934706, tmdb://13640, tvdb://4080
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%2FDoomsday&category=Movies&year_filter=equals&yone=2007&tmdb_id=13640&imdb_id=tt0934706&tvdb_id=4080
+        # tmdb: https://www.themoviedb.org/movie/13640
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=4080
+        # imdb: https://www.imdb.com/title/tt0934706
+
+    "Batman: Gotham Knight (2008)":
+        year: 2008
+        title: "Batman: Gotham Knight"
+        match:
+          mapping_id: 13851
+        url_poster: https://theposterdb.com/api/assets/193339
+        # IDs: imdb://tt1117563, tmdb://13851, tvdb://4605
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Gotham%20Knight&category=Movies&year_filter=equals&yone=2008&tmdb_id=13851&imdb_id=tt1117563&tvdb_id=4605
+        # tmdb: https://www.themoviedb.org/movie/13851
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=4605
+        # imdb: https://www.imdb.com/title/tt1117563
+
+    "Justice League: The New Frontier (2008)":
+        year: 2008
+        title: "Justice League: The New Frontier"
+        match:
+          mapping_id: 14011
+        url_poster: https://theposterdb.com/api/assets/193338
+        # IDs: imdb://tt0902272, tmdb://14011, tvdb://2384
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20The%20New%20Frontier&category=Movies&year_filter=equals&yone=2008&tmdb_id=14011&imdb_id=tt0902272&tvdb_id=2384
+        # tmdb: https://www.themoviedb.org/movie/14011
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=2384
+        # imdb: https://www.imdb.com/title/tt0902272
+
+    "Green Lantern: First Flight (2009)":
+        year: 2009
+        title: "Green Lantern: First Flight"
+        match:
+          mapping_id: 17445
+        url_poster: https://theposterdb.com/api/assets/193341
+        # IDs: imdb://tt1384590, tmdb://17445, tvdb://7430
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Green%20Lantern%3A%20First%20Flight&category=Movies&year_filter=equals&yone=2009&tmdb_id=17445&imdb_id=tt1384590&tvdb_id=7430
+        # tmdb: https://www.themoviedb.org/movie/17445
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=7430
+        # imdb: https://www.imdb.com/title/tt1384590
+
+    "Superman/Batman: Public Enemies (2009)":
+        year: 2009
+        title: "Superman/Batman: Public Enemies"
+        match:
+          mapping_id: 22855
+        url_poster: https://theposterdb.com/api/assets/193342
+        # IDs: imdb://tt1398941, tmdb://22855, tvdb://3238
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%2FBatman%3A%20Public%20Enemies&category=Movies&year_filter=equals&yone=2009&tmdb_id=22855&imdb_id=tt1398941&tvdb_id=3238
+        # tmdb: https://www.themoviedb.org/movie/22855
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=3238
+        # imdb: https://www.imdb.com/title/tt1398941
+
+    "Tales of the Black Freighter (2009)":
+        year: 2009
+        title: "Tales of the Black Freighter"
+        match:
+          mapping_id: 16440
+        url_poster: https://theposterdb.com/api/assets/171565
+        # IDs: imdb://tt1295071, tmdb://16440, tvdb://11833
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Tales%20of%20the%20Black%20Freighter&category=Movies&year_filter=equals&yone=2009&tmdb_id=16440&imdb_id=tt1295071&tvdb_id=11833
+        # tmdb: https://www.themoviedb.org/movie/16440
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=11833
+        # imdb: https://www.imdb.com/title/tt1295071
+
+    "Wonder Woman (2009)":
+        year: 2009
+        title: "Wonder Woman"
+        match:
+          mapping_id: 15359
+        url_poster: https://theposterdb.com/api/assets/193340
+        # IDs: imdb://tt1186373, tmdb://15359, tvdb://3808
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wonder%20Woman&category=Movies&year_filter=equals&yone=2009&tmdb_id=15359&imdb_id=tt1186373&tvdb_id=3808
+        # tmdb: https://www.themoviedb.org/movie/15359
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=3808
+        # imdb: https://www.imdb.com/title/tt1186373
+
+    "Batman: Under the Red Hood (2010)":
+        year: 2010
+        title: "Batman: Under the Red Hood"
+        match:
+          mapping_id: 40662
+        url_poster: https://theposterdb.com/api/assets/193344
+        # IDs: imdb://tt1569923, tmdb://40662, tvdb://2506
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Under%20the%20Red%20Hood&category=Movies&year_filter=equals&yone=2010&tmdb_id=40662&imdb_id=tt1569923&tvdb_id=2506
+        # tmdb: https://www.themoviedb.org/movie/40662
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=2506
+        # imdb: https://www.imdb.com/title/tt1569923
+
+    "DC Showcase: Jonah Hex (2010)":
+        year: 2010
+        title: "DC Showcase: Jonah Hex"
+        match:
+          mapping_id: 41988
+        url_poster: https://theposterdb.com/api/assets/292454
+        # IDs: imdb://tt1606600, tmdb://41988, tvdb://23182
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20Jonah%20Hex&category=Movies&year_filter=equals&yone=2010&tmdb_id=41988&imdb_id=tt1606600&tvdb_id=23182
+        # tmdb: https://www.themoviedb.org/movie/41988
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=23182
+        # imdb: https://www.imdb.com/title/tt1606600
+
+    "DC Showcase: The Spectre (2010)":
+        year: 2010
+        title: "DC Showcase: The Spectre"
+        match:
+          mapping_id: 38180
+        url_poster: https://theposterdb.com/api/assets/291159
+        # IDs: imdb://tt1601188, tmdb://38180, tvdb://28976
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20The%20Spectre&category=Movies&year_filter=equals&yone=2010&tmdb_id=38180&imdb_id=tt1601188&tvdb_id=28976
+        # tmdb: https://www.themoviedb.org/movie/38180
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=28976
+        # imdb: https://www.imdb.com/title/tt1601188
+
+    "Green Arrow (2010)":
+        year: 2010
+        title: "Green Arrow"
+        match:
+          mapping_id: 46718
+        url_poster: https://theposterdb.com/api/assets/292452
+        # IDs: imdb://tt1663633, tmdb://46718, tvdb://17283
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Green%20Arrow&category=Movies&year_filter=equals&yone=2010&tmdb_id=46718&imdb_id=tt1663633&tvdb_id=17283
+        # tmdb: https://www.themoviedb.org/movie/46718
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=17283
+        # imdb: https://www.imdb.com/title/tt1663633
+
+    "Justice League: Crisis on Two Earths (2010)":
+        year: 2010
+        title: "Justice League: Crisis on Two Earths"
+        match:
+          mapping_id: 30061
+        url_poster: https://theposterdb.com/api/assets/193343
+        # IDs: imdb://tt1494772, tmdb://30061, tvdb://3261
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Crisis%20on%20Two%20Earths&category=Movies&year_filter=equals&yone=2010&tmdb_id=30061&imdb_id=tt1494772&tvdb_id=3261
+        # tmdb: https://www.themoviedb.org/movie/30061
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=3261
+        # imdb: https://www.imdb.com/title/tt1494772
+
+    "Superman/Batman: Apocalypse (2010)":
+        year: 2010
+        title: "Superman/Batman: Apocalypse"
+        match:
+          mapping_id: 45162
+        url_poster: https://theposterdb.com/api/assets/193345
+        # IDs: imdb://tt1673430, tmdb://45162, tvdb://4195
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%2FBatman%3A%20Apocalypse&category=Movies&year_filter=equals&yone=2010&tmdb_id=45162&imdb_id=tt1673430&tvdb_id=4195
+        # tmdb: https://www.themoviedb.org/movie/45162
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=4195
+        # imdb: https://www.imdb.com/title/tt1673430
+
+    "Superman/Shazam!: The Return of Black Adam (2010)":
+        year: 2010
+        title: "Superman/Shazam!: The Return of Black Adam"
+        match:
+          mapping_id: 43641
+        url_poster: https://theposterdb.com/api/assets/193392
+        # IDs: imdb://tt1701223, tmdb://43641, tvdb://4590
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%2FShazam%21%3A%20The%20Return%20of%20Black%20Adam&category=Movies&year_filter=equals&yone=2010&tmdb_id=43641&imdb_id=tt1701223&tvdb_id=4590
+        # tmdb: https://www.themoviedb.org/movie/43641
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2010&query=4590
+        # imdb: https://www.imdb.com/title/tt1701223
+
+    "All-Star Superman (2011)":
+        year: 2011
+        title: "All-Star Superman"
+        match:
+          mapping_id: 56590
+        url_poster: https://theposterdb.com/api/assets/193346
+        # IDs: imdb://tt1699114, tmdb://56590, tvdb://6568
+        # tpdb: https://theposterdb.com/search/advanced/results?term=All-Star%20Superman&category=Movies&year_filter=equals&yone=2011&tmdb_id=56590&imdb_id=tt1699114&tvdb_id=6568
+        # tmdb: https://www.themoviedb.org/movie/56590
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=6568
+        # imdb: https://www.imdb.com/title/tt1699114
+
+    "Batman: Year One (2011)":
+        year: 2011
+        title: "Batman: Year One"
+        match:
+          mapping_id: 69735
+        url_poster: https://theposterdb.com/api/assets/193348
+        # IDs: imdb://tt1672723, tmdb://69735, tvdb://5742
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Year%20One&category=Movies&year_filter=equals&yone=2011&tmdb_id=69735&imdb_id=tt1672723&tvdb_id=5742
+        # tmdb: https://www.themoviedb.org/movie/69735
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=5742
+        # imdb: https://www.imdb.com/title/tt1672723
+
+    "Catwoman (2011)":
+        year: 2011
+        title: "Catwoman"
+        match:
+          mapping_id: 76420
+        url_poster: https://theposterdb.com/api/assets/292453
+        # IDs: imdb://tt1986806, tmdb://76420, tvdb://12826
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Catwoman&category=Movies&year_filter=equals&yone=2011&tmdb_id=76420&imdb_id=tt1986806&tvdb_id=12826
+        # tmdb: https://www.themoviedb.org/movie/76420
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=12826
+        # imdb: https://www.imdb.com/title/tt1986806
+
+    "Green Lantern: Emerald Knights (2011)":
+        year: 2011
+        title: "Green Lantern: Emerald Knights"
+        match:
+          mapping_id: 65291
+        url_poster: https://theposterdb.com/api/assets/193347
+        # IDs: imdb://tt1683043, tmdb://65291, tvdb://6918
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Green%20Lantern%3A%20Emerald%20Knights&category=Movies&year_filter=equals&yone=2011&tmdb_id=65291&imdb_id=tt1683043&tvdb_id=6918
+        # tmdb: https://www.themoviedb.org/movie/65291
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=6918
+        # imdb: https://www.imdb.com/title/tt1683043
+
+    "Justice League: Doom (2012)":
+        year: 2012
+        title: "Justice League: Doom"
+        match:
+          mapping_id: 76589
+        url_poster: https://theposterdb.com/api/assets/193349
+        # IDs: imdb://tt2027128, tmdb://76589, tvdb://4674
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Doom&category=Movies&year_filter=equals&yone=2012&tmdb_id=76589&imdb_id=tt2027128&tvdb_id=4674
+        # tmdb: https://www.themoviedb.org/movie/76589
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=4674
+        # imdb: https://www.imdb.com/title/tt2027128
+
+    "Superman vs. The Elite (2012)":
+        year: 2012
+        title: "Superman vs. The Elite"
+        match:
+          mapping_id: 103269
+        url_poster: https://theposterdb.com/api/assets/193350
+        # IDs: imdb://tt2224455, tmdb://103269, tvdb://3900
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%20vs.%20The%20Elite&category=Movies&year_filter=equals&yone=2012&tmdb_id=103269&imdb_id=tt2224455&tvdb_id=3900
+        # tmdb: https://www.themoviedb.org/movie/103269
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=3900
+        # imdb: https://www.imdb.com/title/tt2224455
+
+    "Batman: The Dark Knight Returns, Part 2 (2013)":
+        year: 2013
+        title: "Batman: The Dark Knight Returns, Part 2"
+        match:
+          mapping_id: 472027
+        url_poster: https://theposterdb.com/api/assets/193352
+        # IDs: imdb://tt2166834, tmdb://472027, tvdb://292129
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20The%20Dark%20Knight%20Returns%2C%20Part%202&category=Movies&year_filter=equals&yone=2013&tmdb_id=472027&imdb_id=tt2166834&tvdb_id=292129
+        # tmdb: https://www.themoviedb.org/movie/472027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=292129
+        # imdb: https://www.imdb.com/title/tt2166834
+
+    "Justice League: The Flashpoint Paradox (2013)":
+        year: 2013
+        title: "Justice League: The Flashpoint Paradox"
+        match:
+          mapping_id: 183011
+        url_poster: https://theposterdb.com/api/assets/193354
+        # IDs: imdb://tt2820466, tmdb://183011, tvdb://3789
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20The%20Flashpoint%20Paradox&category=Movies&year_filter=equals&yone=2013&tmdb_id=183011&imdb_id=tt2820466&tvdb_id=3789
+        # tmdb: https://www.themoviedb.org/movie/183011
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=3789
+        # imdb: https://www.imdb.com/title/tt2820466
+
+    "Lego Batman: The Movie - DC Super Heroes Unite (2013)":
+        year: 2013
+        title: "Lego Batman: The Movie - DC Super Heroes Unite"
+        match:
+          mapping_id: 177271
+        url_poster: https://theposterdb.com/api/assets/294326
+        # IDs: imdb://tt2465238, tmdb://177271, tvdb://64053
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20Batman%3A%20The%20Movie%20-%20DC%20Super%20Heroes%20Unite&category=Movies&year_filter=equals&yone=2013&tmdb_id=177271&imdb_id=tt2465238&tvdb_id=64053
+        # tmdb: https://www.themoviedb.org/movie/177271
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=64053
+        # imdb: https://www.imdb.com/title/tt2465238
+
+    "Superman: Unbound (2013)":
+        year: 2013
+        title: "Superman: Unbound"
+        match:
+          mapping_id: 166076
+        url_poster: https://theposterdb.com/api/assets/193353
+        # IDs: imdb://tt2617456, tmdb://166076, tvdb://6093
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Unbound&category=Movies&year_filter=equals&yone=2013&tmdb_id=166076&imdb_id=tt2617456&tvdb_id=6093
+        # tmdb: https://www.themoviedb.org/movie/166076
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=6093
+        # imdb: https://www.imdb.com/title/tt2617456
+
+    "Batman: Assault on Arkham (2014)":
+        year: 2014
+        title: "Batman: Assault on Arkham"
+        match:
+          mapping_id: 242643
+        url_poster: https://theposterdb.com/api/assets/193358
+        # IDs: imdb://tt3139086, tmdb://242643, tvdb://4116
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Assault%20on%20Arkham&category=Movies&year_filter=equals&yone=2014&tmdb_id=242643&imdb_id=tt3139086&tvdb_id=4116
+        # tmdb: https://www.themoviedb.org/movie/242643
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=4116
+        # imdb: https://www.imdb.com/title/tt3139086
+
+    "JLA Adventures: Trapped in Time (2014)":
+        year: 2014
+        title: "JLA Adventures: Trapped in Time"
+        match:
+          mapping_id: 251768
+        url_poster: https://theposterdb.com/api/assets/193393
+        # IDs: imdb://tt3468260, tmdb://251768, tvdb://5620
+        # tpdb: https://theposterdb.com/search/advanced/results?term=JLA%20Adventures%3A%20Trapped%20in%20Time&category=Movies&year_filter=equals&yone=2014&tmdb_id=251768&imdb_id=tt3468260&tvdb_id=5620
+        # tmdb: https://www.themoviedb.org/movie/251768
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=5620
+        # imdb: https://www.imdb.com/title/tt3468260
+
+    "Justice League: War (2014)":
+        year: 2014
+        title: "Justice League: War"
+        match:
+          mapping_id: 217993
+        url_poster: https://theposterdb.com/api/assets/193356
+        # IDs: imdb://tt3060952, tmdb://217993, tvdb://3662
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20War&category=Movies&year_filter=equals&yone=2014&tmdb_id=217993&imdb_id=tt3060952&tvdb_id=3662
+        # tmdb: https://www.themoviedb.org/movie/217993
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=3662
+        # imdb: https://www.imdb.com/title/tt3060952
+
+    "Lego DC Comics: Batman Be-Leaguered (2014)":
+        year: 2014
+        title: "Lego DC Comics: Batman Be-Leaguered"
+        match:
+          mapping_id: 300424
+        url_poster: https://theposterdb.com/api/assets/294327
+        # IDs: imdb://tt4189294, tmdb://300424, tvdb://10463
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%3A%20Batman%20Be-Leaguered&category=Movies&year_filter=equals&yone=2014&tmdb_id=300424&imdb_id=tt4189294&tvdb_id=10463
+        # tmdb: https://www.themoviedb.org/movie/300424
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=10463
+        # imdb: https://www.imdb.com/title/tt4189294
+
+    "Son of Batman (2014)":
+        year: 2014
+        title: "Son of Batman"
+        match:
+          mapping_id: 251519
+        url_poster: https://theposterdb.com/api/assets/193357
+        # IDs: imdb://tt3139072, tmdb://251519, tvdb://5355
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Son%20of%20Batman&category=Movies&year_filter=equals&yone=2014&tmdb_id=251519&imdb_id=tt3139072&tvdb_id=5355
+        # tmdb: https://www.themoviedb.org/movie/251519
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=5355
+        # imdb: https://www.imdb.com/title/tt3139072
+
+    "Batman Unlimited: Animal Instincts (2015)":
+        year: 2015
+        title: "Batman Unlimited: Animal Instincts"
+        match:
+          mapping_id: 327418
+        url_poster: https://theposterdb.com/api/assets/383222
+        # IDs: imdb://tt4437640, tmdb://327418, tvdb://9625
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Unlimited%3A%20Animal%20Instincts&category=Movies&year_filter=equals&yone=2015&tmdb_id=327418&imdb_id=tt4437640&tvdb_id=9625
+        # tmdb: https://www.themoviedb.org/movie/327418
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=9625
+        # imdb: https://www.imdb.com/title/tt4437640
+
+    "Batman Unlimited: Monster Mayhem (2015)":
+        year: 2015
+        title: "Batman Unlimited: Monster Mayhem"
+        match:
+          mapping_id: 342917
+        url_poster: https://theposterdb.com/api/assets/383224
+        # IDs: imdb://tt4729754, tmdb://342917, tvdb://7838
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Unlimited%3A%20Monster%20Mayhem&category=Movies&year_filter=equals&yone=2015&tmdb_id=342917&imdb_id=tt4729754&tvdb_id=7838
+        # tmdb: https://www.themoviedb.org/movie/342917
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=7838
+        # imdb: https://www.imdb.com/title/tt4729754
+
+    "Batman vs. Robin (2015)":
+        year: 2015
+        title: "Batman vs. Robin"
+        match:
+          mapping_id: 321528
+        url_poster: https://theposterdb.com/api/assets/193360
+        # IDs: imdb://tt4324274, tmdb://321528, tvdb://6949
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20vs.%20Robin&category=Movies&year_filter=equals&yone=2015&tmdb_id=321528&imdb_id=tt4324274&tvdb_id=6949
+        # tmdb: https://www.themoviedb.org/movie/321528
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=6949
+        # imdb: https://www.imdb.com/title/tt4324274
+
+    "Justice League: Gods and Monsters (2015)":
+        year: 2015
+        title: "Justice League: Gods and Monsters"
+        match:
+          mapping_id: 323027
+        url_poster: https://theposterdb.com/api/assets/193361
+        # IDs: imdb://tt4324302, tmdb://323027, tvdb://6175
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Gods%20and%20Monsters&category=Movies&year_filter=equals&yone=2015&tmdb_id=323027&imdb_id=tt4324302&tvdb_id=6175
+        # tmdb: https://www.themoviedb.org/movie/323027
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=6175
+        # imdb: https://www.imdb.com/title/tt4324302
+
+    "Justice League: Throne of Atlantis (2015)":
+        year: 2015
+        title: "Justice League: Throne of Atlantis"
+        match:
+          mapping_id: 297556
+        url_poster: https://theposterdb.com/api/assets/193359
+        # IDs: imdb://tt3878542, tmdb://297556, tvdb://3738
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Throne%20of%20Atlantis&category=Movies&year_filter=equals&yone=2015&tmdb_id=297556&imdb_id=tt3878542&tvdb_id=3738
+        # tmdb: https://www.themoviedb.org/movie/297556
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=3738
+        # imdb: https://www.imdb.com/title/tt3878542
+
+    "Lego DC Comics Super Heroes: Justice League vs. Bizarro League (2015)":
+        year: 2015
+        title: "Lego DC Comics Super Heroes: Justice League vs. Bizarro League"
+        match:
+          mapping_id: 322456
+        url_poster: https://theposterdb.com/api/assets/294328
+        # IDs: imdb://tt4189260, tmdb://322456, tvdb://8165
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20Justice%20League%20vs.%20Bizarro%20League&category=Movies&year_filter=equals&yone=2015&tmdb_id=322456&imdb_id=tt4189260&tvdb_id=8165
+        # tmdb: https://www.themoviedb.org/movie/322456
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=8165
+        # imdb: https://www.imdb.com/title/tt4189260
+
+    "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom! (2015)":
+        year: 2015
+        title: "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom!"
+        match:
+          mapping_id: 353595
+        url_poster: https://theposterdb.com/api/assets/294329
+        # IDs: imdb://tt4938416, tmdb://353595, tvdb://12365
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Super%20Heroes%3A%20Justice%20League%20-%20Attack%20of%20the%20Legion%20of%20Doom%21&category=Movies&year_filter=equals&yone=2015&tmdb_id=353595&imdb_id=tt4938416&tvdb_id=12365
+        # tmdb: https://www.themoviedb.org/movie/353595
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=12365
+        # imdb: https://www.imdb.com/title/tt4938416
+
+    "Justice League vs. Teen Titans (2016)":
+        year: 2016
+        title: "Justice League vs. Teen Titans"
+        match:
+          mapping_id: 379291
+        url_poster: https://theposterdb.com/api/assets/193363
+        # IDs: imdb://tt5091548, tmdb://379291, tvdb://6898
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%20vs.%20Teen%20Titans&category=Movies&year_filter=equals&yone=2016&tmdb_id=379291&imdb_id=tt5091548&tvdb_id=6898
+        # tmdb: https://www.themoviedb.org/movie/379291
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=6898
+        # imdb: https://www.imdb.com/title/tt5091548
+
+    "Lego DC Comics Super Heroes: Justice League - Cosmic Clash (2016)":
+        year: 2016
+        title: "Lego DC Comics Super Heroes: Justice League - Cosmic Clash"
+        match:
+          mapping_id: 382512
+        url_poster: https://theposterdb.com/api/assets/294330
+        # IDs: imdb://tt5251438, tmdb://382512, tvdb://8272
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20Justice%20League%20-%20Cosmic%20Clash&category=Movies&year_filter=equals&yone=2016&tmdb_id=382512&imdb_id=tt5251438&tvdb_id=8272
+        # tmdb: https://www.themoviedb.org/movie/382512
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=8272
+        # imdb: https://www.imdb.com/title/tt5251438
+
+    "Lego DC Comics Superheroes: Justice League - Gotham City Breakout (2016)":
+        year: 2016
+        title: "Lego DC Comics Superheroes: Justice League - Gotham City Breakout"
+        match:
+          mapping_id: 396330
+        url_poster: https://theposterdb.com/api/assets/294331
+        # IDs: imdb://tt5612702, tmdb://396330, tvdb://8483
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Superheroes%3A%20Justice%20League%20-%20Gotham%20City%20Breakout&category=Movies&year_filter=equals&yone=2016&tmdb_id=396330&imdb_id=tt5612702&tvdb_id=8483
+        # tmdb: https://www.themoviedb.org/movie/396330
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=8483
+        # imdb: https://www.imdb.com/title/tt5612702
+
+    "Batman & Bill (2017)":
+        year: 2017
+        title: "Batman & Bill"
+        match:
+          mapping_id: 456348
+        url_poster: https://theposterdb.com/api/assets/371406
+        # IDs: imdb://tt6067832, tmdb://456348, tvdb://35361
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20%26%20Bill&category=Movies&year_filter=equals&yone=2017&tmdb_id=456348&imdb_id=tt6067832&tvdb_id=35361
+        # tmdb: https://www.themoviedb.org/movie/456348
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=35361
+        # imdb: https://www.imdb.com/title/tt6067832
+
+    "Batman and Harley Quinn (2017)":
+        year: 2017
+        title: "Batman and Harley Quinn"
+        match:
+          mapping_id: 408648
+        url_poster: https://theposterdb.com/api/assets/193367
+        # IDs: imdb://tt6556890, tmdb://408648, tvdb://4883
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20and%20Harley%20Quinn&category=Movies&year_filter=equals&yone=2017&tmdb_id=408648&imdb_id=tt6556890&tvdb_id=4883
+        # tmdb: https://www.themoviedb.org/movie/408648
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=4883
+        # imdb: https://www.imdb.com/title/tt6556890
+
+    "Batman vs. Two-Face (2017)":
+        year: 2017
+        title: "Batman vs. Two-Face"
+        match:
+          mapping_id: 464882
+        url_poster: https://theposterdb.com/api/assets/307763
+        # IDs: imdb://tt6142314, tmdb://464882, tvdb://9261
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20vs.%20Two-Face&category=Movies&year_filter=equals&yone=2017&tmdb_id=464882&imdb_id=tt6142314&tvdb_id=9261
+        # tmdb: https://www.themoviedb.org/movie/464882
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=9261
+        # imdb: https://www.imdb.com/title/tt6142314
+
+    "Justice League Dark (2017)":
+        year: 2017
+        title: "Justice League Dark"
+        match:
+          mapping_id: 408220
+        url_poster: https://theposterdb.com/api/assets/193365
+        # IDs: imdb://tt2494376, tmdb://408220, tvdb://4964
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%20Dark&category=Movies&year_filter=equals&yone=2017&tmdb_id=408220&imdb_id=tt2494376&tvdb_id=4964
+        # tmdb: https://www.themoviedb.org/movie/408220
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=4964
+        # imdb: https://www.imdb.com/title/tt2494376
+
+    "Lego DC Super Hero Girls: Brain Drain (2017)":
+        year: 2017
+        title: "Lego DC Super Hero Girls: Brain Drain"
+        match:
+          mapping_id: 460135
+        url_poster: https://theposterdb.com/api/assets/308682
+        # IDs: imdb://tt7158814, tmdb://460135, tvdb://34057
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Super%20Hero%20Girls%3A%20Brain%20Drain&category=Movies&year_filter=equals&yone=2017&tmdb_id=460135&imdb_id=tt7158814&tvdb_id=34057
+        # tmdb: https://www.themoviedb.org/movie/460135
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=34057
+        # imdb: https://www.imdb.com/title/tt7158814
+
+    "The Lego Batman Movie (2017)":
+        year: 2017
+        title: "The Lego Batman Movie"
+        sort_title: "Lego Batman Movie"
+        match:
+          mapping_id: 324849
+        url_poster: https://theposterdb.com/api/assets/193024
+        # IDs: imdb://tt4116284, tmdb://324849, tvdb://1017
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Lego%20Batman%20Movie&category=Movies&year_filter=equals&yone=2017&tmdb_id=324849&imdb_id=tt4116284&tvdb_id=1017
+        # tmdb: https://www.themoviedb.org/movie/324849
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=1017
+        # imdb: https://www.imdb.com/title/tt4116284
+
+    "Batman Ninja (2018)":
+        year: 2018
+        title: "Batman Ninja"
+        match:
+          mapping_id: 485942
+        url_poster: https://theposterdb.com/api/assets/235821
+        # IDs: imdb://tt7451284, tmdb://485942, tvdb://2013
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Ninja&category=Movies&year_filter=equals&yone=2018&tmdb_id=485942&imdb_id=tt7451284&tvdb_id=2013
+        # tmdb: https://www.themoviedb.org/movie/485942
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=2013
+        # imdb: https://www.imdb.com/title/tt7451284
+
+    "Batman: Gotham by Gaslight (2018)":
+        year: 2018
+        title: "Batman: Gotham by Gaslight"
+        match:
+          mapping_id: 471474
+        url_poster: https://theposterdb.com/api/assets/193368
+        # IDs: imdb://tt7167630, tmdb://471474, tvdb://2100
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Gotham%20by%20Gaslight&category=Movies&year_filter=equals&yone=2018&tmdb_id=471474&imdb_id=tt7167630&tvdb_id=2100
+        # tmdb: https://www.themoviedb.org/movie/471474
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=2100
+        # imdb: https://www.imdb.com/title/tt7167630
+
+    "Constantine: City of Demons - The Movie (2018)":
+        year: 2018
+        title: "Constantine: City of Demons - The Movie"
+        match:
+          mapping_id: 539517
+        url_poster: https://theposterdb.com/api/assets/193371
+        # IDs: imdb://tt9177882, tmdb://539517, tvdb://6594
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Constantine%3A%20City%20of%20Demons%20-%20The%20Movie&category=Movies&year_filter=equals&yone=2018&tmdb_id=539517&imdb_id=tt9177882&tvdb_id=6594
+        # tmdb: https://www.themoviedb.org/movie/539517
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=6594
+        # imdb: https://www.imdb.com/title/tt9177882
+
+    "DC Super Hero Girls: Legends of Atlantis (2018)":
+        year: 2018
+        title: "DC Super Hero Girls: Legends of Atlantis"
+        match:
+          mapping_id: 513730
+        url_poster: https://theposterdb.com/api/assets/419407
+        # IDs: imdb://tt8634256, tmdb://513730, tvdb://18035
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Super%20Hero%20Girls%3A%20Legends%20of%20Atlantis&category=Movies&year_filter=equals&yone=2018&tmdb_id=513730&imdb_id=tt8634256&tvdb_id=18035
+        # tmdb: https://www.themoviedb.org/movie/513730
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=18035
+        # imdb: https://www.imdb.com/title/tt8634256
+
+    "Freedom Fighters: The Ray (2018)":
+        year: 2018
+        title: "Freedom Fighters: The Ray"
+        match:
+          mapping_id: 539626
+        url_poster: https://theposterdb.com/api/assets/262359
+        # IDs: imdb://tt9293522, tmdb://539626, tvdb://102652
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Freedom%20Fighters%3A%20The%20Ray&category=Movies&year_filter=equals&yone=2018&tmdb_id=539626&imdb_id=tt9293522&tvdb_id=102652
+        # tmdb: https://www.themoviedb.org/movie/539626
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=102652
+        # imdb: https://www.imdb.com/title/tt9293522
+
+    "Heart of Batman (2018)":
+        year: 2018
+        title: "Heart of Batman"
+        match:
+          mapping_id: 622408
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9555800, tmdb://622408, tvdb://147475
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Heart%20of%20Batman&category=Movies&year_filter=equals&yone=2018&tmdb_id=622408&imdb_id=tt9555800&tvdb_id=147475
+        # tmdb: https://www.themoviedb.org/movie/622408
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=147475
+        # imdb: https://www.imdb.com/title/tt9555800
+
+    "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis (2018)":
+        year: 2018
+        title: "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis"
+        match:
+          mapping_id: 513736
+        url_poster: https://theposterdb.com/api/assets/294333
+        # IDs: imdb://tt8457394, tmdb://513736, tvdb://8922
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%20Comics%20Super%20Heroes%3A%20Aquaman%20-%20Rage%20of%20Atlantis&category=Movies&year_filter=equals&yone=2018&tmdb_id=513736&imdb_id=tt8457394&tvdb_id=8922
+        # tmdb: https://www.themoviedb.org/movie/513736
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=8922
+        # imdb: https://www.imdb.com/title/tt8457394
+
+    "LEGO DC Super Hero Girls: Super-villain High (2018)":
+        year: 2018
+        title: "LEGO DC Super Hero Girls: Super-villain High"
+        match:
+          mapping_id: 506734
+        url_poster: https://theposterdb.com/api/assets/308683
+        # IDs: imdb://tt8050266, tmdb://506734, tvdb://11975
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%20Super%20Hero%20Girls%3A%20Super-villain%20High&category=Movies&year_filter=equals&yone=2018&tmdb_id=506734&imdb_id=tt8050266&tvdb_id=11975
+        # tmdb: https://www.themoviedb.org/movie/506734
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=11975
+        # imdb: https://www.imdb.com/title/tt8050266
+
+    "Lego DC Comics Super Heroes: The Flash (2018)":
+        year: 2018
+        title: "Lego DC Comics Super Heroes: The Flash"
+        match:
+          mapping_id: 504997
+        url_poster: https://theposterdb.com/api/assets/294332
+        # IDs: imdb://tt7877382, tmdb://504997, tvdb://6661
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Comics%20Super%20Heroes%3A%20The%20Flash&category=Movies&year_filter=equals&yone=2018&tmdb_id=504997&imdb_id=tt7877382&tvdb_id=6661
+        # tmdb: https://www.themoviedb.org/movie/504997
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=6661
+        # imdb: https://www.imdb.com/title/tt7877382
+
+    "Scooby-Doo & Batman: The Brave and the Bold (2018)":
+        year: 2018
+        title: "Scooby-Doo & Batman: The Brave and the Bold"
+        original_title: "Scooby-Doo! & Batman: The Brave and the Bold"
+        match:
+          mapping_id: 484862
+        url_poster: https://theposterdb.com/api/assets/241219
+        # IDs: imdb://tt7578566, tmdb://484862, tvdb://7531
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo%20%26%20Batman%3A%20The%20Brave%20and%20the%20Bold&category=Movies&year_filter=equals&yone=2018&tmdb_id=484862&imdb_id=tt7578566&tvdb_id=7531
+        # tmdb: https://www.themoviedb.org/movie/484862
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=7531
+        # imdb: https://www.imdb.com/title/tt7578566
+
+    "Suicide Squad: Hell to Pay (2018)":
+        year: 2018
+        title: "Suicide Squad: Hell to Pay"
+        match:
+          mapping_id: 487242
+        url_poster: https://theposterdb.com/api/assets/241219
+        # IDs: imdb://tt7167602, tmdb://487242, tvdb://1623
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Suicide%20Squad%3A%20Hell%20to%20Pay&category=Movies&year_filter=equals&yone=2018&tmdb_id=487242&imdb_id=tt7167602&tvdb_id=1623
+        # tmdb: https://www.themoviedb.org/movie/487242
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=1623
+        # imdb: https://www.imdb.com/title/tt7167602
+
+    "The Death of Superman (2018)":
+        year: 2018
+        title: "The Death of Superman"
+        sort_title: "Death of Superman"
+        match:
+          mapping_id: 487670
+        url_poster: https://theposterdb.com/api/assets/193370
+        # IDs: imdb://tt7167658, tmdb://487670, tvdb://870
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Death%20of%20Superman&category=Movies&year_filter=equals&yone=2018&tmdb_id=487670&imdb_id=tt7167658&tvdb_id=870
+        # tmdb: https://www.themoviedb.org/movie/487670
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=870
+        # imdb: https://www.imdb.com/title/tt7167658
+
+    "Batman vs Teenage Mutant Ninja Turtles (2019)":
+        year: 2019
+        title: "Batman vs Teenage Mutant Ninja Turtles"
+        match:
+          mapping_id: 581997
+        url_poster: https://theposterdb.com/api/assets/193370
+        # IDs: imdb://tt9775360, tmdb://581997, tvdb://59371
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20vs%20Teenage%20Mutant%20Ninja%20Turtles&category=Movies&year_filter=equals&yone=2019&tmdb_id=581997&imdb_id=tt9775360&tvdb_id=59371
+        # tmdb: https://www.themoviedb.org/movie/581997
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=59371
+        # imdb: https://www.imdb.com/title/tt9775360
+
+    "Batman: Hush (2019)":
+        year: 2019
+        title: "Batman: Hush"
+        match:
+          mapping_id: 537056
+        url_poster: https://theposterdb.com/api/assets/193375
+        # IDs: imdb://tt8752440, tmdb://537056, tvdb://18090
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Hush&category=Movies&year_filter=equals&yone=2019&tmdb_id=537056&imdb_id=tt8752440&tvdb_id=18090
+        # tmdb: https://www.themoviedb.org/movie/537056
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=18090
+        # imdb: https://www.imdb.com/title/tt8752440
+
+    "DC Showcase: Death (2019)":
+        year: 2019
+        title: "DC Showcase: Death"
+        match:
+          mapping_id: 637663
+        url_poster: https://theposterdb.com/api/assets/193408
+        # IDs: imdb://tt11229556, tmdb://637663, tvdb://132359
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20Death&category=Movies&year_filter=equals&yone=2019&tmdb_id=637663&imdb_id=tt11229556&tvdb_id=132359
+        # tmdb: https://www.themoviedb.org/movie/637663
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=132359
+        # imdb: https://www.imdb.com/title/tt11229556
+
+    "Justice League vs the Fatal Five (2019)":
+        year: 2019
+        title: "Justice League vs the Fatal Five"
+        match:
+          mapping_id: 537059
+        url_poster: https://theposterdb.com/api/assets/193373
+        # IDs: imdb://tt8752474, tmdb://537059, tvdb://17339
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%20vs%20the%20Fatal%20Five&category=Movies&year_filter=equals&yone=2019&tmdb_id=537059&imdb_id=tt8752474&tvdb_id=17339
+        # tmdb: https://www.themoviedb.org/movie/537059
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=17339
+        # imdb: https://www.imdb.com/title/tt8752474
+
+    "Lego DC Batman: Family Matters (2019)":
+        year: 2019
+        title: "Lego DC Batman: Family Matters"
+        match:
+          mapping_id: 602307
+        url_poster: https://theposterdb.com/api/assets/294334
+        # IDs: imdb://tt10327712, tmdb://602307, tvdb://135180
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Lego%20DC%20Batman%3A%20Family%20Matters&category=Movies&year_filter=equals&yone=2019&tmdb_id=602307&imdb_id=tt10327712&tvdb_id=135180
+        # tmdb: https://www.themoviedb.org/movie/602307
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=135180
+        # imdb: https://www.imdb.com/title/tt10327712
+
+    "Reign of the Supermen (2019)":
+        year: 2019
+        title: "Reign of the Supermen"
+        match:
+          mapping_id: 487672
+        url_poster: https://theposterdb.com/api/assets/193372
+        # IDs: imdb://tt7167686, tmdb://487672, tvdb://591
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Reign%20of%20the%20Supermen&category=Movies&year_filter=equals&yone=2019&tmdb_id=487672&imdb_id=tt7167686&tvdb_id=591
+        # tmdb: https://www.themoviedb.org/movie/487672
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=591
+        # imdb: https://www.imdb.com/title/tt7167686
+
+    "Wonder Woman: Bloodlines (2019)":
+        year: 2019
+        title: "Wonder Woman: Bloodlines"
+        match:
+          mapping_id: 537055
+        url_poster: https://theposterdb.com/api/assets/193377
+        # IDs: imdb://tt8752498, tmdb://537055, tvdb://21239
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wonder%20Woman%3A%20Bloodlines&category=Movies&year_filter=equals&yone=2019&tmdb_id=537055&imdb_id=tt8752498&tvdb_id=21239
+        # tmdb: https://www.themoviedb.org/movie/537055
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=21239
+        # imdb: https://www.imdb.com/title/tt8752498
+
+    "DC Showcase: The Phantom Stranger (2020)":
+        year: 2020
+        title: "DC Showcase: The Phantom Stranger"
+        match:
+          mapping_id: 618352
+        url_poster: https://theposterdb.com/api/assets/292457
+        # IDs: imdb://tt11802028, tmdb://618352, tvdb://135704
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20The%20Phantom%20Stranger&category=Movies&year_filter=equals&yone=2020&tmdb_id=618352&imdb_id=tt11802028&tvdb_id=135704
+        # tmdb: https://www.themoviedb.org/movie/618352
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=135704
+        # imdb: https://www.imdb.com/title/tt11802028
+
+    "LEGO DC: Shazam! Magic and Monsters (2020)":
+        year: 2020
+        title: "LEGO DC: Shazam! Magic and Monsters"
+        match:
+          mapping_id: 690369
+        url_poster: https://theposterdb.com/api/assets/294335
+        # IDs: imdb://tt12093878, tmdb://690369, tvdb://135040
+        # tpdb: https://theposterdb.com/search/advanced/results?term=LEGO%20DC%3A%20Shazam%21%20Magic%20and%20Monsters&category=Movies&year_filter=equals&yone=2020&tmdb_id=690369&imdb_id=tt12093878&tvdb_id=135040
+        # tmdb: https://www.themoviedb.org/movie/690369
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=135040
+        # imdb: https://www.imdb.com/title/tt12093878
+
+    "Superman: Man of Tomorrow (2020)":
+        year: 2020
+        title: "Superman: Man of Tomorrow"
+        match:
+          mapping_id: 618354
+        url_poster: https://theposterdb.com/api/assets/193380
+        # IDs: imdb://tt11079116, tmdb://618354, tvdb://134126
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Man%20of%20Tomorrow&category=Movies&year_filter=equals&yone=2020&tmdb_id=618354&imdb_id=tt11079116&tvdb_id=134126
+        # tmdb: https://www.themoviedb.org/movie/618354
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=134126
+        # imdb: https://www.imdb.com/title/tt11079116
+
+    "Superman: Red Son (2020)":
+        year: 2020
+        title: "Superman: Red Son"
+        match:
+          mapping_id: 618355
+        url_poster: https://theposterdb.com/api/assets/193378
+        # IDs: imdb://tt10985510, tmdb://618355, tvdb://132018
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Superman%3A%20Red%20Son&category=Movies&year_filter=equals&yone=2020&tmdb_id=618355&imdb_id=tt10985510&tvdb_id=132018
+        # tmdb: https://www.themoviedb.org/movie/618355
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=132018
+        # imdb: https://www.imdb.com/title/tt10985510
+
+    "Batman: Soul of the Dragon (2021)":
+        year: 2021
+        title: "Batman: Soul of the Dragon"
+        match:
+          mapping_id: 732450
+        url_poster: https://theposterdb.com/api/assets/193381
+        # IDs: imdb://tt12885852, tmdb://732450, tvdb://146510
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Soul%20of%20the%20Dragon&category=Movies&year_filter=equals&yone=2021&tmdb_id=732450&imdb_id=tt12885852&tvdb_id=146510
+        # tmdb: https://www.themoviedb.org/movie/732450
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=146510
+        # imdb: https://www.imdb.com/title/tt12885852
+
+    "Batman: The Long Halloween, Part One (2021)":
+        year: 2021
+        title: "Batman: The Long Halloween, Part One"
+        match:
+          mapping_id: 736073
+        url_poster: https://theposterdb.com/api/assets/193383
+        # IDs: imdb://tt14324650, tmdb://736073, tvdb://158333
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20The%20Long%20Halloween%2C%20Part%20One&category=Movies&year_filter=equals&yone=2021&tmdb_id=736073&imdb_id=tt14324650&tvdb_id=158333
+        # tmdb: https://www.themoviedb.org/movie/736073
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=158333
+        # imdb: https://www.imdb.com/title/tt14324650
+
+    "DC Showcase: Blue Beetle (2021)":
+        year: 2021
+        title: "DC Showcase: Blue Beetle"
+        match:
+          mapping_id: 791346
+        url_poster: https://theposterdb.com/api/assets/292459
+        # IDs: imdb://tt15129756, tmdb://791346, tvdb://332417
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20Blue%20Beetle&category=Movies&year_filter=equals&yone=2021&tmdb_id=791346&imdb_id=tt15129756&tvdb_id=332417
+        # tmdb: https://www.themoviedb.org/movie/791346
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=332417
+        # imdb: https://www.imdb.com/title/tt15129756
+
+    "DC Showcase: The Losers (2021)":
+        year: 2021
+        title: "DC Showcase: The Losers"
+        match:
+          mapping_id: 791344
+        url_poster: https://theposterdb.com/api/assets/292458
+        # IDs: imdb://tt14948338, tmdb://791344, tvdb://199509
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20The%20Losers&category=Movies&year_filter=equals&yone=2021&tmdb_id=791344&imdb_id=tt14948338&tvdb_id=199509
+        # tmdb: https://www.themoviedb.org/movie/791344
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=199509
+        # imdb: https://www.imdb.com/title/tt14948338
+
+    "Justice Society: World War II (2021)":
+        year: 2021
+        title: "Justice Society: World War II"
+        match:
+          mapping_id: 736069
+        url_poster: https://theposterdb.com/api/assets/193382
+        # IDs: imdb://tt13804084, tmdb://736069, tvdb://151174
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20Society%3A%20World%20War%20II&category=Movies&year_filter=equals&yone=2021&tmdb_id=736069&imdb_id=tt13804084&tvdb_id=151174
+        # tmdb: https://www.themoviedb.org/movie/736069
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=151174
+        # imdb: https://www.imdb.com/title/tt13804084
+
+    "Catwoman: Hunted (2022)":
+        year: 2022
+        title: "Catwoman: Hunted"
+        match:
+          mapping_id: 862491
+        url_poster: https://theposterdb.com/api/assets/210481
+        # IDs: imdb://tt15248702, tmdb://862491, tvdb://287662
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Catwoman%3A%20Hunted&category=Movies&year_filter=equals&yone=2022&tmdb_id=862491&imdb_id=tt15248702&tvdb_id=287662
+        # tmdb: https://www.themoviedb.org/movie/862491
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=287662
+        # imdb: https://www.imdb.com/title/tt15248702
+
+    "DC League of Super-Pets (2022)":
+        year: 2022
+        title: "DC League of Super-Pets"
+        match:
+          mapping_id: 539681
+        url_poster: https://theposterdb.com/api/assets/260357
+        # IDs: imdb://tt8912936, tmdb://539681, tvdb://181783
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20League%20of%20Super-Pets&category=Movies&year_filter=equals&yone=2022&tmdb_id=539681&imdb_id=tt8912936&tvdb_id=181783
+        # tmdb: https://www.themoviedb.org/movie/539681
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=181783
+        # imdb: https://www.imdb.com/title/tt8912936
+
+    "DC Showcase: Constantine - The House of Mystery (2022)":
+        year: 2022
+        title: "DC Showcase: Constantine - The House of Mystery"
+        match:
+          mapping_id: 791348
+        url_poster: https://theposterdb.com/api/assets/233233
+        # IDs: imdb://tt18305072, tmdb://791348, tvdb://332892
+        # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase%3A%20Constantine%20-%20The%20House%20of%20Mystery&category=Movies&year_filter=equals&yone=2022&tmdb_id=791348&imdb_id=tt18305072&tvdb_id=332892
+        # tmdb: https://www.themoviedb.org/movie/791348
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=332892
+        # imdb: https://www.imdb.com/title/tt18305072
+
+    "Justice League: Warworld (2023)":
+        year: 2023
+        title: "Justice League: Warworld"
+        match:
+          mapping_id: 1003581
+        url_poster: https://theposterdb.com/api/assets/390726
+        # IDs: imdb://tt27687527, tmdb://1003581, tvdb://346226
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Justice%20League%3A%20Warworld&category=Movies&year_filter=equals&yone=2023&tmdb_id=1003581&imdb_id=tt27687527&tvdb_id=346226
+        # tmdb: https://www.themoviedb.org/movie/1003581
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=346226
+        # imdb: https://www.imdb.com/title/tt27687527

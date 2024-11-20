@@ -1,7 +1,7 @@
 collections:
   "Matt Helm":
     variables: {
-      movie: "21779, 3054, 36642",
+      movie: "21779, 3054, 36642, 36775",
       poster: https://theposterdb.com/api/assets/164806
     }
     template: [ 

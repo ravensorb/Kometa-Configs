@@ -1,0 +1,15 @@
+metadata:
+    "The Wild Bunch (1969) [Director's Cut]":
+        year: 1969
+        title: "The Wild Bunch"
+        edition: "Director's Cut"
+        sort_title: "Wild Bunch"
+        match:
+          mapping_id: 576
+          edition: Director's Cut
+        url_poster: https://theposterdb.com/api/assets/212368
+        # IDs: imdb://tt0065214, tmdb://576, tvdb://3564
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Wild%20Bunch&category=Movies&year_filter=equals&yone=1969&tmdb_id=576&imdb_id=tt0065214&tvdb_id=3564
+        # tmdb: https://www.themoviedb.org/movie/576
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1969&query=3564
+        # imdb: https://www.imdb.com/title/tt0065214

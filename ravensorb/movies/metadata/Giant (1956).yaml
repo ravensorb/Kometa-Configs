@@ -1,0 +1,12 @@
+metadata:
+    "Giant (1956)":
+        year: 1956
+        title: "Giant"
+        match:
+          mapping_id: 1712
+        url_poster: https://theposterdb.com/api/assets/186625
+        # IDs: imdb://tt0049261, tmdb://1712, tvdb://6576
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Giant&category=Movies&year_filter=equals&yone=1956&tmdb_id=1712&imdb_id=tt0049261&tvdb_id=6576
+        # tmdb: https://www.themoviedb.org/movie/1712
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1956&query=6576
+        # imdb: https://www.imdb.com/title/tt0049261

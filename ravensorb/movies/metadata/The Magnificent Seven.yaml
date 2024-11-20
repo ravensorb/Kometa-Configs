@@ -1,0 +1,51 @@
+metadata:
+    "The Magnificent Seven (1960)":
+        year: 1960
+        title: "The Magnificent Seven"
+        sort_title: "Magnificent Seven"
+        match:
+          mapping_id: 966
+        url_poster: https://theposterdb.com/api/assets/202336
+        # IDs: imdb://tt0054047, tmdb://966, tvdb://1957
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Magnificent%20Seven&category=Movies&year_filter=equals&yone=1960&tmdb_id=966&imdb_id=tt0054047&tvdb_id=1957
+        # tmdb: https://www.themoviedb.org/movie/966
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1960&query=1957
+        # imdb: https://www.imdb.com/title/tt0054047
+
+    "Return of the Seven (1966)":
+        year: 1966
+        title: "Return of the Seven"
+        match:
+          mapping_id: 12639
+        url_poster: https://theposterdb.com/api/assets/202337
+        # IDs: imdb://tt0060897, tmdb://12639, tvdb://10560
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Return%20of%20the%20Seven&category=Movies&year_filter=equals&yone=1966&tmdb_id=12639&imdb_id=tt0060897&tvdb_id=10560
+        # tmdb: https://www.themoviedb.org/movie/12639
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1966&query=10560
+        # imdb: https://www.imdb.com/title/tt0060897
+
+    "The Magnificent Seven Ride! (1972)":
+        year: 1972
+        title: "The Magnificent Seven Ride!"
+        sort_title: "Magnificent Seven Ride!"
+        match:
+          mapping_id: 43417
+        url_poster: https://theposterdb.com/api/assets/202339
+        # IDs: imdb://tt0068897, tmdb://43417, tvdb://16875
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Magnificent%20Seven%20Ride%21&category=Movies&year_filter=equals&yone=1972&tmdb_id=43417&imdb_id=tt0068897&tvdb_id=16875
+        # tmdb: https://www.themoviedb.org/movie/43417
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1972&query=16875
+        # imdb: https://www.imdb.com/title/tt0068897
+
+    "The Magnificent Seven (2016)":
+        year: 2016
+        title: "The Magnificent Seven"
+        sort_title: "Magnificent Seven"
+        match:
+          mapping_id: 333484
+        url_poster: https://theposterdb.com/api/assets/202334
+        # IDs: imdb://tt2404435, tmdb://333484, tvdb://580
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Magnificent%20Seven&category=Movies&year_filter=equals&yone=2016&tmdb_id=333484&imdb_id=tt2404435&tvdb_id=580
+        # tmdb: https://www.themoviedb.org/movie/333484
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=580
+        # imdb: https://www.imdb.com/title/tt2404435

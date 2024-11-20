@@ -1,7 +1,7 @@
 collections:
   "Star Trek: Alternate Universe":
     variables: {
-      label: "None",
+      label: "Star Trek",
       movie: "13475, 188927, 54138",
       poster: https://theposterdb.com/api/assets/308179
     }

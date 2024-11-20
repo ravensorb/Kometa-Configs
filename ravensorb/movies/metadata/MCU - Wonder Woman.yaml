@@ -1,0 +1,24 @@
+metadata:
+    "Wonder Woman (2017)":
+        year: 2017
+        title: "Wonder Woman"
+        match:
+          mapping_id: 297762
+        url_poster: https://theposterdb.com/api/assets/171546
+        # IDs: imdb://tt0451279, tmdb://297762, tvdb://109
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wonder%20Woman&category=Movies&year_filter=equals&yone=2017&tmdb_id=297762&imdb_id=tt0451279&tvdb_id=109
+        # tmdb: https://www.themoviedb.org/movie/297762
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=109
+        # imdb: https://www.imdb.com/title/tt0451279
+
+    "Wonder Woman 1984 (2020)":
+        year: 2020
+        title: "Wonder Woman 1984"
+        match:
+          mapping_id: 464052
+        url_poster: https://theposterdb.com/api/assets/171551
+        # IDs: imdb://tt7126948, tmdb://464052, tvdb://18763
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wonder%20Woman%201984&category=Movies&year_filter=equals&yone=2020&tmdb_id=464052&imdb_id=tt7126948&tvdb_id=18763
+        # tmdb: https://www.themoviedb.org/movie/464052
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=18763
+        # imdb: https://www.imdb.com/title/tt7126948

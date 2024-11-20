@@ -1,0 +1,12 @@
+metadata:
+    "Bringing Up Baby (1938)":
+        year: 1938
+        title: "Bringing Up Baby"
+        match:
+          mapping_id: 900
+        url_poster: https://theposterdb.com/api/assets/235252
+        # IDs: imdb://tt0029947, tmdb://900, tvdb://6423
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Bringing%20Up%20Baby&category=Movies&year_filter=equals&yone=1938&tmdb_id=900&imdb_id=tt0029947&tvdb_id=6423
+        # tmdb: https://www.themoviedb.org/movie/900
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1938&query=6423
+        # imdb: https://www.imdb.com/title/tt0029947

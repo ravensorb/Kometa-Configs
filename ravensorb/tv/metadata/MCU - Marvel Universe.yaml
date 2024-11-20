@@ -230,11 +230,29 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/118924
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=396948
         # imdb: https://www.imdb.com/title/tt14094206
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/329488
+            2:
+                url_poster: https://theposterdb.com/api/assets/329489
+            3:
+                url_poster: https://theposterdb.com/api/assets/329490
+            4:
+                url_poster: https://theposterdb.com/api/assets/329491
+            5:
+                url_poster: https://theposterdb.com/api/assets/329492
+            6:
+                url_poster: https://theposterdb.com/api/assets/329493
+            7:
+                url_poster: https://theposterdb.com/api/assets/329494
+            8:
+                url_poster: https://theposterdb.com/api/assets/329495
+            9:
+                url_poster: https://theposterdb.com/api/assets/329496
+            10:
+                url_poster: https://theposterdb.com/api/assets/329497
+            11:
+                url_poster: https://theposterdb.com/api/assets/329498
 
     "Marvel's Hawkeye (2021)":
         year: 2021
@@ -291,8 +309,8 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/192800
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/392111
 
     "Marvel's The Falcon and the Winter Soldier (2021)":
         year: 2021
@@ -347,8 +365,8 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/192803
-            # 2:
-                # url_poster: https://theposterdb.com/api/assets/
+            2:
+                url_poster: https://theposterdb.com/api/assets/447369
 
     "Marvel's Ms. Marvel (2022)":
         year: 2022
@@ -425,15 +443,15 @@ metadata:
         title: "Agatha All Along"
         match:
           mapping_id: 412429
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/522016
         # IDs: imdb://tt15571732, tmdb://138501, tvdb://412429
         # tpdb: https://theposterdb.com/search/advanced/results?term=Agatha%20All%20Along&category=Shows&year_filter=equals&yone=2024&tmdb_id=138501&imdb_id=tt15571732&tvdb_id=412429
         # tmdb: https://www.themoviedb.org/tv/138501
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412429
         # imdb: https://www.imdb.com/title/tt15571732
-        # seasons:
-            # 1:
-                # url_poster: https://theposterdb.com/api/assets/
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/522018
 
     "Echo (2024)":
         year: 2024

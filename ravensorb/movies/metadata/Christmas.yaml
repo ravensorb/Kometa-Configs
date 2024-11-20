@@ -6,7 +6,7 @@ metadata:
         match:
           mapping_id: 13485
           edition: BW
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190425
         # IDs: imdb://tt0034862, tmdb://13485, tvdb://10752
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holiday%20Inn&category=Movies&year_filter=equals&yone=1942&tmdb_id=13485&imdb_id=tt0034862&tvdb_id=10752
         # tmdb: https://www.themoviedb.org/movie/13485
@@ -20,7 +20,7 @@ metadata:
         match:
           mapping_id: 13485
           edition: Color
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190425
         # IDs: imdb://tt0034862, tmdb://13485, tvdb://10752
         # tpdb: https://theposterdb.com/search/advanced/results?term=Holiday%20Inn&category=Movies&year_filter=equals&yone=1942&tmdb_id=13485&imdb_id=tt0034862&tvdb_id=10752
         # tmdb: https://www.themoviedb.org/movie/13485
@@ -32,7 +32,7 @@ metadata:
         title: "White Christmas"
         match:
           mapping_id: 13368
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190466
         # IDs: imdb://tt0047673, tmdb://13368, tvdb://3778
         # tpdb: https://theposterdb.com/search/advanced/results?term=White%20Christmas&category=Movies&year_filter=equals&yone=1954&tmdb_id=13368&imdb_id=tt0047673&tvdb_id=3778
         # tmdb: https://www.themoviedb.org/movie/13368
@@ -230,7 +230,7 @@ metadata:
         title: "Mickey's Christmas Carol"
         match:
           mapping_id: 14813
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190409
         # IDs: imdb://tt0085936, tmdb://14813, tvdb://5190
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mickey%27s%20Christmas%20Carol&category=Movies&year_filter=equals&yone=1983&tmdb_id=14813&imdb_id=tt0085936&tvdb_id=5190
         # tmdb: https://www.themoviedb.org/movie/14813
@@ -243,7 +243,7 @@ metadata:
         sort_title: "Christmas Carol"
         match:
           mapping_id: 13189
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/190406
         # IDs: imdb://tt0087056, tmdb://13189, tvdb://10084
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Christmas%20Carol&category=Movies&year_filter=equals&yone=1984&tmdb_id=13189&imdb_id=tt0087056&tvdb_id=10084
         # tmdb: https://www.themoviedb.org/movie/13189
@@ -307,7 +307,7 @@ metadata:
         sort_title: "Christmas Carol"
         match:
           mapping_id: 16716
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/301086
         # IDs: imdb://tt0216621, tmdb://16716, tvdb://7222
         # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Christmas%20Carol&category=Movies&year_filter=equals&yone=1999&tmdb_id=16716&imdb_id=tt0216621&tvdb_id=7222
         # tmdb: https://www.themoviedb.org/movie/16716
@@ -368,7 +368,7 @@ metadata:
         title: "Irving Berlin's Holiday Inn The Broadway Musical"
         match:
           mapping_id: 475319
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/201340
         # IDs: imdb://tt6411322, tmdb://475319, tvdb://51850
         # tpdb: https://theposterdb.com/search/advanced/results?term=Irving%20Berlin%27s%20Holiday%20Inn%20The%20Broadway%20Musical&category=Movies&year_filter=equals&yone=2017&tmdb_id=475319&imdb_id=tt6411322&tvdb_id=51850
         # tmdb: https://www.themoviedb.org/movie/475319
