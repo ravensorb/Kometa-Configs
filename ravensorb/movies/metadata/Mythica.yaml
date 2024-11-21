@@ -16,7 +16,7 @@ metadata:
         title: "Mythica: The Darkspore"
         match:
           mapping_id: 347096
-        url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/501921
         # IDs: imdb://tt3478232, tmdb://347096, tvdb://8427
         # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica%3A%20The%20Darkspore&category=Movies&year_filter=equals&yone=2015&tmdb_id=347096&imdb_id=tt3478232&tvdb_id=8427
         # tmdb: https://www.themoviedb.org/movie/347096
