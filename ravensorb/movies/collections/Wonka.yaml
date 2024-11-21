@@ -1,7 +1,7 @@
 collections:
   "Wonka":
     variables: {
-      movie: "118, 252",
+      movie: "118, 252, 787699",
       poster: https://theposterdb.com/api/assets/164135
     }
     template: [ 

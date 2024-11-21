@@ -1,8 +1,7 @@
 collections:
   "The Magnificent Seven":
     variables: {
-      label: "None",
-      movie: "12639, 333484, 43417, 966",
+      movie: "12625, 12639, 333484, 43417, 966",
       poster: https://theposterdb.com/api/assets/165785
     }
     template: [ 

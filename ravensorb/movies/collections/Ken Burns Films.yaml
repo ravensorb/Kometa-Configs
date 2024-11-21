@@ -1,8 +1,7 @@
 collections:
   "Ken Burns Films":
     variables: {
-      label: "None",
-      movie: "119120, 124067, 130002, 259410, 51594, 67079, 67700, 67707, 685495",
+      movie: "119120, 124067, 130002, 132792, 252451, 259410, 51594, 67079, 67700, 67707, 685495",
       poster: https://theposterdb.com/api/assets/316992
     }
     template: [ 
