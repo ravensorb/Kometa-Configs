@@ -12,17 +12,17 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1988&query=1638
         # imdb: https://www.imdb.com/title/tt0095705
 
-    "The Naked Gun 2½: The Smell of Fear (1990)":
-        year: 1990
+    "The Naked Gun 2½: The Smell of Fear (1991)":
+        year: 1991
         title: "The Naked Gun 2½: The Smell of Fear"
         sort_title: "Naked Gun 2½: The Smell of Fear"
         match:
           mapping_id: 37137
         url_poster: https://theposterdb.com/api/assets/219606
         # IDs: imdb://tt0102510, tmdb://37137, tvdb://4681
-        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Naked%20Gun%202%C2%BD%3A%20The%20Smell%20of%20Fear&category=Movies&year_filter=equals&yone=1990&tmdb_id=37137&imdb_id=tt0102510&tvdb_id=4681
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Naked%20Gun%202%C2%BD%3A%20The%20Smell%20of%20Fear&category=Movies&year_filter=equals&yone=1991&tmdb_id=37137&imdb_id=tt0102510&tvdb_id=4681
         # tmdb: https://www.themoviedb.org/movie/37137
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1990&query=4681
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=4681
         # imdb: https://www.imdb.com/title/tt0102510
 
     "Naked Gun 33 1/3: The Final Insult (1994)":

@@ -294,6 +294,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=4624
         # imdb: https://www.imdb.com/title/tt2011109
 
+    "Marvel One-Shot: The Consultant (2011)":
+        year: 2011
+        title: "Marvel One-Shot: The Consultant"
+        sort_title: "MCU - 02 - Marvel One-Shot: The Consultant"
+        match:
+          mapping_id: 76122
+        url_poster: https://theposterdb.com/api/assets/171199
+        # IDs: imdb://tt2011118, tmdb://76122, tvdb://2580
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%20One-Shot%3A%20The%20Consultant&category=Movies&year_filter=equals&yone=2011&tmdb_id=76122&imdb_id=tt2011118&tvdb_id=2580
+        # tmdb: https://www.themoviedb.org/movie/76122
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2011&query=2580
+        # imdb: https://www.imdb.com/title/tt2011118
+
     "X-Men: First Class (2011)":
         year: 2011
         title: "X-Men: First Class"
@@ -467,7 +480,7 @@ metadata:
         sort_title: "MCU - 01 - Making 'Logan'"
         match:
           mapping_id: tt7178282
-        url_poster: https://theposterdb.com/api/assets/171119
+        # url_poster: https://theposterdb.com/api/assets/
         # IDs: imdb://tt7178282, tvdb://321029
         # tpdb: https://theposterdb.com/search/advanced/results?term=Making%20%27Logan%27&category=Movies&year_filter=equals&yone=2017&imdb_id=tt7178282&tvdb_id=321029
         # tmdb: 
