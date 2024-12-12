@@ -1,0 +1,59 @@
+metadata:
+    "Midsomer Murders (1997)":
+        year: 1997
+        title: "Midsomer Murders"
+        match:
+          mapping_id: 76846
+        url_poster: https://theposterdb.com/api/assets/421515
+        # IDs: imdb://tt0118401, tmdb://764, tvdb://76846
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Midsomer%20Murders&category=Shows&year_filter=equals&yone=1997&tmdb_id=764&imdb_id=tt0118401&tvdb_id=76846
+        # tmdb: https://www.themoviedb.org/tv/764
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1997&query=76846
+        # imdb: https://www.imdb.com/title/tt0118401
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/421517
+            2:
+                url_poster: https://theposterdb.com/api/assets/421518
+            3:
+                url_poster: https://theposterdb.com/api/assets/421519
+            4:
+                url_poster: https://theposterdb.com/api/assets/421520
+            5:
+                url_poster: https://theposterdb.com/api/assets/421521
+            6:
+                url_poster: https://theposterdb.com/api/assets/421522
+            7:
+                url_poster: https://theposterdb.com/api/assets/421523
+            8:
+                url_poster: https://theposterdb.com/api/assets/421524
+            9:
+                url_poster: https://theposterdb.com/api/assets/421525
+            10:
+                url_poster: https://theposterdb.com/api/assets/421526
+            11:
+                url_poster: https://theposterdb.com/api/assets/421527
+            12:
+                url_poster: https://theposterdb.com/api/assets/421528
+            13:
+                url_poster: https://theposterdb.com/api/assets/421529
+            14:
+                url_poster: https://theposterdb.com/api/assets/421530
+            15:
+                url_poster: https://theposterdb.com/api/assets/421531
+            16:
+                url_poster: https://theposterdb.com/api/assets/421532
+            17:
+                url_poster: https://theposterdb.com/api/assets/421533
+            18:
+                url_poster: https://theposterdb.com/api/assets/421534
+            19:
+                url_poster: https://theposterdb.com/api/assets/421535
+            20:
+                url_poster: https://theposterdb.com/api/assets/421536
+            21:
+                url_poster: https://theposterdb.com/api/assets/421537
+            22:
+                url_poster: https://theposterdb.com/api/assets/421538
+            23:
+                url_poster: https://theposterdb.com/api/assets/421539

@@ -1,0 +1,20 @@
+metadata:
+    "V (2009)":
+        year: 2009
+        title: "V"
+        sort_title: "V (2009)"
+        match:
+          mapping_id: 94971
+        url_poster: https://theposterdb.com/api/assets/459136
+        # IDs: imdb://tt1307824, tmdb://21494, tvdb://94971
+        # tpdb: https://theposterdb.com/search/advanced/results?term=V&category=Shows&year_filter=equals&yone=2009&tmdb_id=21494&imdb_id=tt1307824&tvdb_id=94971
+        # tmdb: https://www.themoviedb.org/tv/21494
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=94971
+        # imdb: https://www.imdb.com/title/tt1307824
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/459138
+            2:
+                url_poster: https://theposterdb.com/api/assets/459139

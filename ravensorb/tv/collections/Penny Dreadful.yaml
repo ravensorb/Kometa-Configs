@@ -1,7 +1,7 @@
 collections:
   "Penny Dreadful":
     variables: {
-      show: "265766, 360892",
+      show: "54671, 83685",
       poster: https://theposterdb.com/api/assets/344978
     }
     template: [ 

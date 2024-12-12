@@ -2,7 +2,7 @@ collections:
   "Incredible Hulk":
     variables: {
       label: "MCU",
-      show: "267543, 71746, 72215, 77155",
+      show: "267543, 71746",
       poster: https://theposterdb.com/api/assets/329539
     }
     template: [ 

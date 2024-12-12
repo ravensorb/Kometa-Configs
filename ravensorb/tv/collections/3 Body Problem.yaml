@@ -2,7 +2,7 @@ collections:
   "3 Body Problem":
     variables: {
       show: "411959, 421555",
-      # poster: https://theposterdb.com/api/assets/
+      poster: https://theposterdb.com/api/assets/471681
     }
     template: [ 
       { name: tplCommonBase }, 

@@ -1,0 +1,25 @@
+metadata:
+    "Schitt's Creek (2015)":
+        year: 2015
+        title: "Schitt's Creek"
+        match:
+          mapping_id: 287247
+        url_poster: https://theposterdb.com/api/assets/367333
+        # IDs: imdb://tt3526078, tmdb://61662, tvdb://287247
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Schitt%27s%20Creek&category=Shows&year_filter=equals&yone=2015&tmdb_id=61662&imdb_id=tt3526078&tvdb_id=287247
+        # tmdb: https://www.themoviedb.org/tv/61662
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=287247
+        # imdb: https://www.imdb.com/title/tt3526078
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/367335
+            2:
+                url_poster: https://theposterdb.com/api/assets/367336
+            3:
+                url_poster: https://theposterdb.com/api/assets/367337
+            4:
+                url_poster: https://theposterdb.com/api/assets/367338
+            5:
+                url_poster: https://theposterdb.com/api/assets/367339
+            6:
+                url_poster: https://theposterdb.com/api/assets/367340

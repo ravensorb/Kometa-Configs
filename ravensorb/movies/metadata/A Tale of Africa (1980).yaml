@@ -1,0 +1,13 @@
+metadata:
+    "A Tale of Africa (1980)":
+        year: 1980
+        title: "A Tale of Africa"
+        sort_title: "Tale of Africa"
+        match:
+          mapping_id: 312917
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0081987, tmdb://312917
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Tale%20of%20Africa&category=Movies&year_filter=equals&yone=1980&tmdb_id=312917&imdb_id=tt0081987
+        # tmdb: https://www.themoviedb.org/movie/312917
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0081987

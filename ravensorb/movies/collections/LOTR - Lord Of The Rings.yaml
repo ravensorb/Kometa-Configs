@@ -5,7 +5,7 @@ collections:
       sort_prefix: "LOTR",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "120, 121, 122, 123, 1361, 1362",
+      movie: "120, 121, 122, 123, 1361, 1362, 453779",
       poster: https://theposterdb.com/api/assets/52722
     }
     template: [ 

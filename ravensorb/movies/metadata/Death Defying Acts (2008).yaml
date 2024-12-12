@@ -1,0 +1,12 @@
+metadata:
+    "Death Defying Acts (2008)":
+        year: 2008
+        title: "Death Defying Acts"
+        match:
+          mapping_id: 13910
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0472071, tmdb://13910, tvdb://4807
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20Defying%20Acts&category=Movies&year_filter=equals&yone=2008&tmdb_id=13910&imdb_id=tt0472071&tvdb_id=4807
+        # tmdb: https://www.themoviedb.org/movie/13910
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2008&query=4807
+        # imdb: https://www.imdb.com/title/tt0472071

@@ -1,0 +1,21 @@
+metadata:
+    "Wallander (UK) (2008)":
+        year: 2008
+        title: "Wallander (UK)"
+        match:
+          mapping_id: 83925
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1178618, tmdb://7263, tvdb://83925
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wallander%20%28UK%29&category=Shows&year_filter=equals&yone=2008&tmdb_id=7263&imdb_id=tt1178618&tvdb_id=83925
+        # tmdb: https://www.themoviedb.org/tv/7263
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=83925
+        # imdb: https://www.imdb.com/title/tt1178618
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

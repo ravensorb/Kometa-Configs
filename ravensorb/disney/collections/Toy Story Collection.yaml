@@ -1,13 +1,14 @@
 collections:
   "Toy Story Collection":
-    variables: { movie: "862, 301528, 863, 10193", poster: https://theposterdb.com/api/assets/162955 }
+    variables: {
+      movie: "10193, 301528, 862, 863",
+      poster: https://theposterdb.com/api/assets/162955
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Toy Story is a CGI animated media franchise created by Pixar and distributed by Walt Disney Pictures. The franchise is based on the anthropomorphic concept that all toys, unknown to humans, are secretly alive, and the films focus on a diverse group of toys that feature a classic cowboy named Sheriff Woody and a modern spaceman named Buzz Lightyear. The group unexpectedly embark on adventures that challenge and change them.  The collection currently includes Toy Story 1-4.
     # tpdb: https://theposterdb.com/search/advanced/results?term=Toy%20Story%20Collection&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Toy%20Story%20Collection%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Toy%20Story%20Collection
@@ -36,11 +37,10 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    radarr_folder: /mnt/disney
 
   tplTVDBCollection:
     optional:

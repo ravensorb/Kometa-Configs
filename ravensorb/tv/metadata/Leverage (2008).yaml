@@ -1,0 +1,25 @@
+metadata:
+    "Leverage (2008)":
+        year: 2008
+        title: "Leverage"
+        match:
+          mapping_id: 82339
+        url_poster: https://theposterdb.com/api/assets/348841
+        # IDs: imdb://tt1103987, tmdb://7482, tvdb://82339
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Leverage&category=Shows&year_filter=equals&yone=2008&tmdb_id=7482&imdb_id=tt1103987&tvdb_id=82339
+        # tmdb: https://www.themoviedb.org/tv/7482
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=82339
+        # imdb: https://www.imdb.com/title/tt1103987
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/348843
+            2:
+                url_poster: https://theposterdb.com/api/assets/348844
+            3:
+                url_poster: https://theposterdb.com/api/assets/348845
+            4:
+                url_poster: https://theposterdb.com/api/assets/348846
+            5:
+                url_poster: https://theposterdb.com/api/assets/348847

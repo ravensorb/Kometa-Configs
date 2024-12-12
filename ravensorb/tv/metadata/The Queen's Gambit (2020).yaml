@@ -1,0 +1,16 @@
+metadata:
+    "The Queen's Gambit (2020)":
+        year: 2020
+        title: "The Queen's Gambit"
+        sort_title: "Queen's Gambit"
+        match:
+          mapping_id: 387115
+        url_poster: https://theposterdb.com/api/assets/322062
+        # IDs: imdb://tt10048342, tmdb://87739, tvdb://387115
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Queen%27s%20Gambit&category=Shows&year_filter=equals&yone=2020&tmdb_id=87739&imdb_id=tt10048342&tvdb_id=387115
+        # tmdb: https://www.themoviedb.org/tv/87739
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=387115
+        # imdb: https://www.imdb.com/title/tt10048342
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/322064

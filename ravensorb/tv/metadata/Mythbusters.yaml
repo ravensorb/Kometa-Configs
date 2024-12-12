@@ -46,6 +46,21 @@ metadata:
             2018:
                 url_poster: https://theposterdb.com/api/assets/411470
 
+    "Wild West - America's Great Frontier (2016)":
+        year: 2016
+        title: "Wild West - America's Great Frontier"
+        match:
+          mapping_id: 317987
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6154956, tmdb://73388, tvdb://317987
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wild%20West%20-%20America%27s%20Great%20Frontier&category=Shows&year_filter=equals&yone=2016&tmdb_id=73388&imdb_id=tt6154956&tvdb_id=317987
+        # tmdb: https://www.themoviedb.org/tv/73388
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=317987
+        # imdb: https://www.imdb.com/title/tt6154956
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
     "MythBusters: The Search (2017)":
         year: 2017
         title: "MythBusters: The Search"
@@ -72,6 +87,21 @@ metadata:
         # tmdb: https://www.themoviedb.org/tv/85200
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=350679
         # imdb: https://www.imdb.com/title/tt8265286
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Savage Builds (2019)":
+        year: 2019
+        title: "Savage Builds"
+        match:
+          mapping_id: 363058
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10233836, tmdb://88765, tvdb://363058
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Savage%20Builds&category=Shows&year_filter=equals&yone=2019&tmdb_id=88765&imdb_id=tt10233836&tvdb_id=363058
+        # tmdb: https://www.themoviedb.org/tv/88765
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2019&query=363058
+        # imdb: https://www.imdb.com/title/tt10233836
         # seasons:
             # 1:
                 # url_poster: https://theposterdb.com/api/assets/

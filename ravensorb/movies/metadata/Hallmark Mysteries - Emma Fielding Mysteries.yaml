@@ -1,0 +1,24 @@
+metadata:
+    "Site Unseen: An Emma Fielding Mystery (2017)":
+        year: 2017
+        title: "Site Unseen: An Emma Fielding Mystery"
+        match:
+          mapping_id: 457470
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6973942, tmdb://457470
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Site%20Unseen%3A%20An%20Emma%20Fielding%20Mystery&category=Movies&year_filter=equals&yone=2017&tmdb_id=457470&imdb_id=tt6973942
+        # tmdb: https://www.themoviedb.org/movie/457470
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt6973942
+
+    "Emma Fielding Mysteries: More Bitter Than Death (2019)":
+        year: 2019
+        title: "Emma Fielding Mysteries: More Bitter Than Death"
+        match:
+          mapping_id: 581474
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9794314, tmdb://581474
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Emma%20Fielding%20Mysteries%3A%20More%20Bitter%20Than%20Death&category=Movies&year_filter=equals&yone=2019&tmdb_id=581474&imdb_id=tt9794314
+        # tmdb: https://www.themoviedb.org/movie/581474
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt9794314

@@ -1,0 +1,15 @@
+metadata:
+    "Black Doves (2024)":
+        year: 2024
+        title: "Black Doves"
+        match:
+          mapping_id: 441315
+        url_poster: https://theposterdb.com/api/assets/549689
+        # IDs: imdb://tt27995113, tmdb://225385, tvdb://441315
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Black%20Doves&category=Shows&year_filter=equals&yone=2024&tmdb_id=225385&imdb_id=tt27995113&tvdb_id=441315
+        # tmdb: https://www.themoviedb.org/tv/225385
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=441315
+        # imdb: https://www.imdb.com/title/tt27995113
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/549691

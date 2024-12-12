@@ -1,0 +1,135 @@
+metadata:
+    "Looney Tunes (1929)":
+        year: 1929
+        title: "Looney Tunes"
+        match:
+          mapping_id: tt21241746
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt21241746
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Looney%20Tunes&category=Shows&year_filter=equals&yone=1929&imdb_id=tt21241746
+        # tmdb: 
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt21241746
+        # seasons:
+            # 1930:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1931:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1932:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1933:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1934:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1935:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1936:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1937:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1938:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1939:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1940:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1941:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1942:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1943:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1944:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1945:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1946:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1947:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1948:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1949:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1950:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1951:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1952:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1953:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1954:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1955:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1956:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1957:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1958:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1959:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1960:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1961:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1962:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1963:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1964:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1965:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1966:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1967:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1968:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1969:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1972:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1975:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1976:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1977:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1978:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1979:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1980:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1983:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1986:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1987:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1988:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1992:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1994:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1995:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1996:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 1997:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2000:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2003:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2005:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2006:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2010:
+                # url_poster: https://theposterdb.com/api/assets/

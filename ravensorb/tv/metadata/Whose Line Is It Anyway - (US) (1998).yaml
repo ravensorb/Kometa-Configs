@@ -1,0 +1,53 @@
+metadata:
+    "Whose Line Is It Anyway? (US) (1998)":
+        year: 1998
+        title: "Whose Line Is It Anyway? (US)"
+        match:
+          mapping_id: 76808
+        url_poster: https://theposterdb.com/api/assets/522985
+        # IDs: imdb://tt0163507, tmdb://61018, tvdb://76808
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Whose%20Line%20Is%20It%20Anyway%3F%20%28US%29&category=Shows&year_filter=equals&yone=1998&tmdb_id=61018&imdb_id=tt0163507&tvdb_id=76808
+        # tmdb: https://www.themoviedb.org/tv/61018
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1998&query=76808
+        # imdb: https://www.imdb.com/title/tt0163507
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/522987
+            2:
+                url_poster: https://theposterdb.com/api/assets/522988
+            3:
+                url_poster: https://theposterdb.com/api/assets/522989
+            4:
+                url_poster: https://theposterdb.com/api/assets/522990
+            5:
+                url_poster: https://theposterdb.com/api/assets/522991
+            6:
+                url_poster: https://theposterdb.com/api/assets/522992
+            7:
+                url_poster: https://theposterdb.com/api/assets/522993
+            8:
+                url_poster: https://theposterdb.com/api/assets/522994
+            9:
+                url_poster: https://theposterdb.com/api/assets/522995
+            10:
+                url_poster: https://theposterdb.com/api/assets/522996
+            11:
+                url_poster: https://theposterdb.com/api/assets/522997
+            12:
+                url_poster: https://theposterdb.com/api/assets/522998
+            13:
+                url_poster: https://theposterdb.com/api/assets/522999
+            14:
+                url_poster: https://theposterdb.com/api/assets/523000
+            15:
+                url_poster: https://theposterdb.com/api/assets/523001
+            16:
+                url_poster: https://theposterdb.com/api/assets/523002
+            17:
+                url_poster: https://theposterdb.com/api/assets/523003
+            18:
+                url_poster: https://theposterdb.com/api/assets/523004
+            19:
+                url_poster: https://theposterdb.com/api/assets/523005
+            20:
+                url_poster: https://theposterdb.com/api/assets/523006

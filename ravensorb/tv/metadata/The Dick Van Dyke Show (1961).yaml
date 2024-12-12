@@ -1,0 +1,24 @@
+metadata:
+    "The Dick Van Dyke Show (1961)":
+        year: 1961
+        title: "The Dick Van Dyke Show"
+        sort_title: "Dick Van Dyke Show"
+        match:
+          mapping_id: 77041
+        url_poster: https://theposterdb.com/api/assets/451370
+        # IDs: imdb://tt0054533, tmdb://2132, tvdb://77041
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Dick%20Van%20Dyke%20Show&category=Shows&year_filter=equals&yone=1961&tmdb_id=2132&imdb_id=tt0054533&tvdb_id=77041
+        # tmdb: https://www.themoviedb.org/tv/2132
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1961&query=77041
+        # imdb: https://www.imdb.com/title/tt0054533
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/451372
+            2:
+                url_poster: https://theposterdb.com/api/assets/451373
+            3:
+                url_poster: https://theposterdb.com/api/assets/451374
+            4:
+                url_poster: https://theposterdb.com/api/assets/451375
+            5:
+                url_poster: https://theposterdb.com/api/assets/451376

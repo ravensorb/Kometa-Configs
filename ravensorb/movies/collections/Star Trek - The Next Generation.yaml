@@ -2,7 +2,7 @@ collections:
   "Star Trek: The Next Generation":
     variables: {
       label: "Star Trek",
-      movie: "193, 199, 200, 201",
+      movie: "193, 199, 200, 201, 282759, 662148, 522055, 828023, 933474",
       poster: https://theposterdb.com/api/assets/308180
     }
     template: [ 

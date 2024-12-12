@@ -1,7 +1,7 @@
 collections:
   "Westworld":
     variables: {
-      show: "296762, 77993",
+      show: "296762",
       poster: https://theposterdb.com/api/assets/258847
     }
     template: [ 
@@ -9,12 +9,12 @@ collections:
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    # tpdb: https://theposterdb.com/search/advanced/results?term=Westworld&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=Westworld
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Westworld
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=Westworld
-    # trakt: https://trakt.tv/search/lists?query=Westworld
-    # collection_mode: hide
+    # tpdb: https://theposterdb.com/search/advanced/results?term=West%20World&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22West%20World%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=West%20World
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=West%20World
+    # trakt: https://trakt.tv/search/lists?query=West%20World
+    collection_mode: hide
     # trakt_list:
     #   -
 

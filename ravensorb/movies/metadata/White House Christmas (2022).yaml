@@ -1,0 +1,12 @@
+metadata:
+    "White House Christmas (2022)":
+        year: 2022
+        title: "White House Christmas"
+        match:
+          mapping_id: 1060633
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://1060633
+        # tpdb: https://theposterdb.com/search/advanced/results?term=White%20House%20Christmas&category=Movies&year_filter=equals&yone=2022&tmdb_id=1060633
+        # tmdb: https://www.themoviedb.org/movie/1060633
+        # tvdb: 
+        # imdb: 

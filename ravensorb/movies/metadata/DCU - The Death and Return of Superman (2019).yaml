@@ -1,0 +1,13 @@
+metadata:
+    "The Death and Return of Superman (2019)":
+        year: 2019
+        title: "The Death and Return of Superman"
+        sort_title: "Death and Return of Superman"
+        match:
+          mapping_id: 630656
+        url_poster: https://theposterdb.com/api/assets/193376
+        # IDs: imdb://tt30842832, tmdb://630656
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Death%20and%20Return%20of%20Superman&category=Movies&year_filter=equals&yone=2019&tmdb_id=630656&imdb_id=tt30842832
+        # tmdb: https://www.themoviedb.org/movie/630656
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt30842832

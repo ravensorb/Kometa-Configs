@@ -1,0 +1,12 @@
+metadata:
+    "Thick as Thieves (2009)":
+        year: 2009
+        title: "Thick as Thieves"
+        match:
+          mapping_id: 14979
+        url_poster: https://theposterdb.com/api/assets/341127
+        # IDs: imdb://tt1112782, tmdb://14979
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Thick%20as%20Thieves&category=Movies&year_filter=equals&yone=2009&tmdb_id=14979
+        # tmdb: https://www.themoviedb.org/movie/14979
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt1112782

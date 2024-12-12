@@ -1,0 +1,24 @@
+metadata:
+    "McBride: Tune in for Murder (2005)":
+        year: 2005
+        title: "McBride: Tune in for Murder"
+        match:
+          mapping_id: 256275
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0457410, tmdb://256275, tvdb://53801
+        # tpdb: https://theposterdb.com/search/advanced/results?term=McBride%3A%20Tune%20in%20for%20Murder&category=Movies&year_filter=equals&yone=2005&tmdb_id=256275&imdb_id=tt0457410&tvdb_id=53801
+        # tmdb: https://www.themoviedb.org/movie/256275
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=53801
+        # imdb: https://www.imdb.com/title/tt0457410
+
+    "McBride: Fallen Idol (2006)":
+        year: 2006
+        title: "McBride: Fallen Idol"
+        match:
+          mapping_id: 133353
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0492894, tmdb://133353, tvdb://124203
+        # tpdb: https://theposterdb.com/search/advanced/results?term=McBride%3A%20Fallen%20Idol&category=Movies&year_filter=equals&yone=2006&tmdb_id=133353&imdb_id=tt0492894&tvdb_id=124203
+        # tmdb: https://www.themoviedb.org/movie/133353
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2006&query=124203
+        # imdb: https://www.imdb.com/title/tt0492894

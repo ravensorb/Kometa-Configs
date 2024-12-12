@@ -1,0 +1,17 @@
+metadata:
+    "Yellowjackets (2021)":
+        year: 2021
+        title: "Yellowjackets"
+        match:
+          mapping_id: 399731
+        url_poster: https://theposterdb.com/api/assets/323149
+        # IDs: imdb://tt11041332, tmdb://117488, tvdb://399731
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowjackets&category=Shows&year_filter=equals&yone=2021&tmdb_id=117488&imdb_id=tt11041332&tvdb_id=399731
+        # tmdb: https://www.themoviedb.org/tv/117488
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2021&query=399731
+        # imdb: https://www.imdb.com/title/tt11041332
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323150
+            2:
+                url_poster: https://theposterdb.com/api/assets/344815

@@ -1,0 +1,15 @@
+metadata:
+    "Utopia Falls (2020)":
+        year: 2020
+        title: "Utopia Falls"
+        match:
+          mapping_id: 365294
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10193046, tmdb://97559, tvdb://365294
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Utopia%20Falls&category=Shows&year_filter=equals&yone=2020&tmdb_id=97559&imdb_id=tt10193046&tvdb_id=365294
+        # tmdb: https://www.themoviedb.org/tv/97559
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=365294
+        # imdb: https://www.imdb.com/title/tt10193046
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,0 +1,21 @@
+metadata:
+    "McHale's Navy (1962)":
+        year: 1962
+        title: "McHale's Navy"
+        match:
+          mapping_id: 77664
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0055689, tmdb://11258, tvdb://77664
+        # tpdb: https://theposterdb.com/search/advanced/results?term=McHale%27s%20Navy&category=Shows&year_filter=equals&yone=1962&tmdb_id=11258&imdb_id=tt0055689&tvdb_id=77664
+        # tmdb: https://www.themoviedb.org/tv/11258
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1962&query=77664
+        # imdb: https://www.imdb.com/title/tt0055689
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

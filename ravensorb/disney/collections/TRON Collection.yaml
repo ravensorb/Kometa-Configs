@@ -1,13 +1,14 @@
 collections:
   "TRON Collection":
-    variables: { movie: "97, 20526", poster: https://theposterdb.com/api/assets/160998 }
+    variables: {
+      movie: "20526, 97",
+      poster: https://theposterdb.com/api/assets/160998
+    }
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection }, 
       { name: tplTMDBCollection },
     ]
-    summary: |
-      Tron is an American science fiction media franchise. It began in 1982 with the Walt Disney Pictures film Tron. It was followed by various film tie-ins, a comic book miniseries and the 2010 sequel film Tron: Legacy
     # tpdb: https://theposterdb.com/search/advanced/results?term=TRON%20Collection&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22TRON%20Collection%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=TRON%20Collection
@@ -36,11 +37,10 @@ templates:
       sort_separator: ""
     optional:
       - label
-    label: "PMM-U-<<label>>"
-    item_label: "PMM-U-<<label>>"
+    label: "KOMETA-U-<<label>>"
+    item_label: "KOMETA-U-<<label>>"
     collection_order: release
     sort_title: <<sort_prefix>><<sort_separator>><<sort_order>><<sort_separator>><<collection_name>>
-    radarr_folder: /mnt/disney
 
   tplTVDBCollection:
     optional:

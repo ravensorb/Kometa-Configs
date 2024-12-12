@@ -1,7 +1,7 @@
 collections:
   "Mythbusters":
     variables: {
-      show: "320910, 350679, 73388",
+      show: "317987, 320910, 350679, 363058, 73388",
       poster: https://theposterdb.com/api/assets/95723
     }
     template: [ 

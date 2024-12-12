@@ -5,7 +5,7 @@ collections:
       sort_prefix: "Doctor Who",
       sort_order: "01",
       sort_separator: " - ",
-      show: "122651, 309893, 4322706, 440213, 79298, 79511, 79708, 80160, 84831",
+      show: "122651, 309893, 4322706, 440213, 79298, 79511, 79708, 80160",
       poster: https://theposterdb.com/api/assets/163698
     }
     template: [ 

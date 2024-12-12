@@ -1,0 +1,26 @@
+metadata:
+    "The Sopranos (1999)":
+        year: 1999
+        title: "The Sopranos"
+        sort_title: "Sopranos"
+        match:
+          mapping_id: 75299
+        url_poster: https://theposterdb.com/api/assets/323504
+        # IDs: imdb://tt0141842, tmdb://1398, tvdb://75299
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Sopranos&category=Shows&year_filter=equals&yone=1999&tmdb_id=1398&imdb_id=tt0141842&tvdb_id=75299
+        # tmdb: https://www.themoviedb.org/tv/1398
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1999&query=75299
+        # imdb: https://www.imdb.com/title/tt0141842
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/323506
+            2:
+                url_poster: https://theposterdb.com/api/assets/323507
+            3:
+                url_poster: https://theposterdb.com/api/assets/323508
+            4:
+                url_poster: https://theposterdb.com/api/assets/323509
+            5:
+                url_poster: https://theposterdb.com/api/assets/323510
+            6:
+                url_poster: https://theposterdb.com/api/assets/323511

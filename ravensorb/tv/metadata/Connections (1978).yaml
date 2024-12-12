@@ -1,0 +1,21 @@
+metadata:
+    "Connections (1978)":
+        year: 1978
+        title: "Connections"
+        match:
+          mapping_id: 78875
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0078588, tmdb://882, tvdb://78875
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Connections&category=Shows&year_filter=equals&yone=1978&tmdb_id=882&imdb_id=tt0078588&tvdb_id=78875
+        # tmdb: https://www.themoviedb.org/tv/882
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1978&query=78875
+        # imdb: https://www.imdb.com/title/tt0078588
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/

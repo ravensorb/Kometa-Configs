@@ -1,0 +1,12 @@
+metadata:
+    "Front Page Woman (1935)":
+        year: 1935
+        title: "Front Page Woman"
+        match:
+          mapping_id: 162059
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0026388, tmdb://162059, tvdb://60548
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Front%20Page%20Woman&category=Movies&year_filter=equals&yone=1935&tmdb_id=162059&imdb_id=tt0026388&tvdb_id=60548
+        # tmdb: https://www.themoviedb.org/movie/162059
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1935&query=60548
+        # imdb: https://www.imdb.com/title/tt0026388

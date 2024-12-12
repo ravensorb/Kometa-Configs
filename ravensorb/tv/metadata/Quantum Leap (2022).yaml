@@ -1,0 +1,19 @@
+metadata:
+    "Quantum Leap (2022)":
+        year: 2022
+        title: "Quantum Leap (2022)"
+        match:
+          mapping_id: 419936
+        url_poster: https://theposterdb.com/api/assets/363405
+        # IDs: imdb://tt17043230, tmdb://202102, tvdb://419936
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Quantum%20Leap%20%282022%29&category=Shows&year_filter=equals&yone=2022&tmdb_id=202102&imdb_id=tt17043230&tvdb_id=419936
+        # tmdb: https://www.themoviedb.org/tv/202102
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2022&query=419936
+        # imdb: https://www.imdb.com/title/tt17043230
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/363406
+            2:
+                url_poster: https://theposterdb.com/api/assets/417660

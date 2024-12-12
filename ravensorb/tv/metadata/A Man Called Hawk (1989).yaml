@@ -1,0 +1,16 @@
+metadata:
+    "A Man Called Hawk (1989)":
+        year: 1989
+        title: "A Man Called Hawk"
+        sort_title: "Man Called Hawk"
+        match:
+          mapping_id: 73280
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0096646, tmdb://1137, tvdb://73280
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Man%20Called%20Hawk&category=Shows&year_filter=equals&yone=1989&tmdb_id=1137&imdb_id=tt0096646&tvdb_id=73280
+        # tmdb: https://www.themoviedb.org/tv/1137
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1989&query=73280
+        # imdb: https://www.imdb.com/title/tt0096646
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

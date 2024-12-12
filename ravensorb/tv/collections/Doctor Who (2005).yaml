@@ -5,7 +5,7 @@ collections:
       sort_prefix: "Doctor Who",
       sort_order: "01",
       sort_separator: " - ",
-      show: "390950, 449991, 78804, 79298",
+      show: "390950, 449991, 79298",
       poster: https://theposterdb.com/api/assets/163698
     }
     template: [ 

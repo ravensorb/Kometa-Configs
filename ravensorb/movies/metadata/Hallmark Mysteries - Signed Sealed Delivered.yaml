@@ -1,0 +1,168 @@
+metadata:
+    "Signed, Sealed, Delivered (2013)":
+        year: 2013
+        title: "Signed, Sealed, Delivered"
+        match:
+          mapping_id: 231617
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3000844, tmdb://231617
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered&category=Movies&year_filter=equals&yone=2013&tmdb_id=231617&imdb_id=tt3000844
+        # tmdb: https://www.themoviedb.org/movie/231617
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt3000844
+
+    "Signed, Sealed, Delivered for Christmas (2014)":
+        year: 2014
+        title: "Signed, Sealed, Delivered for Christmas"
+        match:
+          mapping_id: 308686
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4065336, tmdb://308686, tvdb://137983
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%20for%20Christmas&category=Movies&year_filter=equals&yone=2014&tmdb_id=308686&imdb_id=tt4065336&tvdb_id=137983
+        # tmdb: https://www.themoviedb.org/movie/308686
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=137983
+        # imdb: https://www.imdb.com/title/tt4065336
+
+    "Signed, Sealed, Delivered: From Paris with Love (2015)":
+        year: 2015
+        title: "Signed, Sealed, Delivered: From Paris with Love"
+        match:
+          mapping_id: 338485
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4662412, tmdb://338485, tvdb://101843
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20From%20Paris%20with%20Love&category=Movies&year_filter=equals&yone=2015&tmdb_id=338485&imdb_id=tt4662412&tvdb_id=101843
+        # tmdb: https://www.themoviedb.org/movie/338485
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=101843
+        # imdb: https://www.imdb.com/title/tt4662412
+
+    "Signed, Sealed, Delivered: The Impossible Dream (2015)":
+        year: 2015
+        title: "Signed, Sealed, Delivered: The Impossible Dream"
+        match:
+          mapping_id: 361261
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5084214, tmdb://361261, tvdb://58786
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20The%20Impossible%20Dream&category=Movies&year_filter=equals&yone=2015&tmdb_id=361261&imdb_id=tt5084214&tvdb_id=58786
+        # tmdb: https://www.themoviedb.org/movie/361261
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=58786
+        # imdb: https://www.imdb.com/title/tt5084214
+
+    "Signed, Sealed, Delivered: Truth Be Told (2015)":
+        year: 2015
+        title: "Signed, Sealed, Delivered: Truth Be Told"
+        match:
+          mapping_id: 355730
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5026308, tmdb://355730, tvdb://93182
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20Truth%20Be%20Told&category=Movies&year_filter=equals&yone=2015&tmdb_id=355730&imdb_id=tt5026308&tvdb_id=93182
+        # tmdb: https://www.themoviedb.org/movie/355730
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=93182
+        # imdb: https://www.imdb.com/title/tt5026308
+
+    "Signed, Sealed, Delivered: From the Heart (2016)":
+        year: 2016
+        title: "Signed, Sealed, Delivered: From the Heart"
+        match:
+          mapping_id: 379992
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5496244, tmdb://379992, tvdb://27969
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20From%20the%20Heart&category=Movies&year_filter=equals&yone=2016&tmdb_id=379992&imdb_id=tt5496244&tvdb_id=27969
+        # tmdb: https://www.themoviedb.org/movie/379992
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=27969
+        # imdb: https://www.imdb.com/title/tt5496244
+
+    "Signed, Sealed, Delivered: Lost Without You (2016)":
+        year: 2016
+        title: "Signed, Sealed, Delivered: Lost Without You"
+        match:
+          mapping_id: 414762
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6047684, tmdb://414762, tvdb://34114
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20Lost%20Without%20You&category=Movies&year_filter=equals&yone=2016&tmdb_id=414762&imdb_id=tt6047684&tvdb_id=34114
+        # tmdb: https://www.themoviedb.org/movie/414762
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=34114
+        # imdb: https://www.imdb.com/title/tt6047684
+
+    "Signed, Sealed, Delivered: One in a Million (2016)":
+        year: 2016
+        title: "Signed, Sealed, Delivered: One in a Million"
+        match:
+          mapping_id: 407171
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5917230, tmdb://407171, tvdb://81927
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20One%20in%20a%20Million&category=Movies&year_filter=equals&yone=2016&tmdb_id=407171&imdb_id=tt5917230&tvdb_id=81927
+        # tmdb: https://www.themoviedb.org/movie/407171
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=81927
+        # imdb: https://www.imdb.com/title/tt5917230
+
+    "Signed, Sealed, Delivered: Higher Ground (2017)":
+        year: 2017
+        title: "Signed, Sealed, Delivered: Higher Ground"
+        match:
+          mapping_id: 438573
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6568874, tmdb://438573, tvdb://84043
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20Higher%20Ground&category=Movies&year_filter=equals&yone=2017&tmdb_id=438573&imdb_id=tt6568874&tvdb_id=84043
+        # tmdb: https://www.themoviedb.org/movie/438573
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=84043
+        # imdb: https://www.imdb.com/title/tt6568874
+
+    "Signed, Sealed, Delivered: Home Again (2017)":
+        year: 2017
+        title: "Signed, Sealed, Delivered: Home Again"
+        match:
+          mapping_id: 473896
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7373264, tmdb://473896, tvdb://40644
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20Home%20Again&category=Movies&year_filter=equals&yone=2017&tmdb_id=473896&imdb_id=tt7373264&tvdb_id=40644
+        # tmdb: https://www.themoviedb.org/movie/473896
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=40644
+        # imdb: https://www.imdb.com/title/tt7373264
+
+    "Signed, Sealed, Delivered: The Road Less Traveled (2018)":
+        year: 2018
+        title: "Signed, Sealed, Delivered: The Road Less Traveled"
+        match:
+          mapping_id: 483180
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7942116, tmdb://483180, tvdb://19169
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20The%20Road%20Less%20Traveled&category=Movies&year_filter=equals&yone=2018&tmdb_id=483180&imdb_id=tt7942116&tvdb_id=19169
+        # tmdb: https://www.themoviedb.org/movie/483180
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=19169
+        # imdb: https://www.imdb.com/title/tt7942116
+
+    "Signed, Sealed, Delivered: To the Altar (2018)":
+        year: 2018
+        title: "Signed, Sealed, Delivered: To the Altar"
+        match:
+          mapping_id: 526089
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8497680, tmdb://526089, tvdb://13185
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20To%20the%20Altar&category=Movies&year_filter=equals&yone=2018&tmdb_id=526089&imdb_id=tt8497680&tvdb_id=13185
+        # tmdb: https://www.themoviedb.org/movie/526089
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=13185
+        # imdb: https://www.imdb.com/title/tt8497680
+
+    "Signed, Sealed, Delivered: The Vows We Have Made (2021)":
+        year: 2021
+        title: "Signed, Sealed, Delivered: The Vows We Have Made"
+        match:
+          mapping_id: 860271
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt15214870, tmdb://860271, tvdb://287671
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20The%20Vows%20We%20Have%20Made&category=Movies&year_filter=equals&yone=2021&tmdb_id=860271&imdb_id=tt15214870&tvdb_id=287671
+        # tmdb: https://www.themoviedb.org/movie/860271
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=287671
+        # imdb: https://www.imdb.com/title/tt15214870
+
+    "Signed, Sealed, Delivered: A Tale of Three Letters (2024)":
+        year: 2024
+        title: "Signed, Sealed, Delivered: A Tale of Three Letters"
+        match:
+          mapping_id: 1302757
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt32737939, tmdb://1302757, tvdb://357420
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%2C%20Sealed%2C%20Delivered%3A%20A%20Tale%20of%20Three%20Letters&category=Movies&year_filter=equals&yone=2024&tmdb_id=1302757&imdb_id=tt32737939&tvdb_id=357420
+        # tmdb: https://www.themoviedb.org/movie/1302757
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2024&query=357420
+        # imdb: https://www.imdb.com/title/tt32737939

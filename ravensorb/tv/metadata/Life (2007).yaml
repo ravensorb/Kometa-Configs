@@ -1,0 +1,17 @@
+metadata:
+    "Life (2007)":
+        year: 2007
+        title: "Life (2007)"
+        match:
+          mapping_id: 80352
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0874936, tmdb://3797, tvdb://80352
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Life%20%282007%29&category=Shows&year_filter=equals&yone=2007&tmdb_id=3797&imdb_id=tt0874936&tvdb_id=80352
+        # tmdb: https://www.themoviedb.org/tv/3797
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2007&query=80352
+        # imdb: https://www.imdb.com/title/tt0874936
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

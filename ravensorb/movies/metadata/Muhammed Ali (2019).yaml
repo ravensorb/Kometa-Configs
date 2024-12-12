@@ -1,0 +1,12 @@
+metadata:
+    "Muhammed Ali (2019)":
+        year: 2019
+        title: "Muhammed Ali"
+        match:
+          mapping_id: 751563
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt11596916, tmdb://751563
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Muhammed%20Ali&category=Movies&year_filter=equals&yone=2019&tmdb_id=751563&imdb_id=tt11596916
+        # tmdb: https://www.themoviedb.org/movie/751563
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt11596916

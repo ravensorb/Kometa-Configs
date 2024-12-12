@@ -4,7 +4,7 @@ collections:
       sort_prefix: "Battlestar Galactica",
       sort_order: "00",
       sort_separator: " - ",
-      show: "204781, 85040",
+      show: "204781, 73545, 85040",
       poster: https://theposterdb.com/api/assets/186153
     }
     template: [ 

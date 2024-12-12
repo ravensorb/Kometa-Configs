@@ -2,7 +2,7 @@ collections:
   "Murdoch Mysteries":
     variables: {
       movie: "555303",
-      poster: https://theposterdb.com/api/assets/200267
+      poster: https://theposterdb.com/api/assets/531811
     }
     template: [ 
       { name: tplCommonBase }, 

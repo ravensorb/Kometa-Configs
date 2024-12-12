@@ -1,0 +1,192 @@
+metadata:
+    "Garage Sale Mystery (2013)":
+        year: 2013
+        title: "Garage Sale Mystery"
+        match:
+          mapping_id: 221791
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3106464, tmdb://221791
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery&category=Movies&year_filter=equals&yone=2013&tmdb_id=221791&imdb_id=tt3106464
+        # tmdb: https://www.themoviedb.org/movie/221791
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt3106464
+
+    "Garage Sale Mystery: All That Glitters (2014)":
+        year: 2014
+        title: "Garage Sale Mystery: All That Glitters"
+        match:
+          mapping_id: 300778
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3918546, tmdb://300778
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20All%20That%20Glitters&category=Movies&year_filter=equals&yone=2014&tmdb_id=300778&imdb_id=tt3918546
+        # tmdb: https://www.themoviedb.org/movie/300778
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt3918546
+
+    "Garage Sale Mystery: The Deadly Room (2015)":
+        year: 2015
+        title: "Garage Sale Mystery: The Deadly Room"
+        match:
+          mapping_id: 325071
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4460190, tmdb://325071
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Deadly%20Room&category=Movies&year_filter=equals&yone=2015&tmdb_id=325071&imdb_id=tt4460190
+        # tmdb: https://www.themoviedb.org/movie/325071
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt4460190
+
+    "Garage Sale Mystery: The Wedding Dress (2015)":
+        year: 2015
+        title: "Garage Sale Mystery: The Wedding Dress"
+        match:
+          mapping_id: 348630
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4658324, tmdb://348630
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Wedding%20Dress&category=Movies&year_filter=equals&yone=2015&tmdb_id=348630&imdb_id=tt4658324
+        # tmdb: https://www.themoviedb.org/movie/348630
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt4658324
+
+    "Garage Sale Mystery: Guilty Until Proven Innocent (2016)":
+        year: 2016
+        title: "Garage Sale Mystery: Guilty Until Proven Innocent"
+        match:
+          mapping_id: 371182
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5135532, tmdb://371182
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Guilty%20Until%20Proven%20Innocent&category=Movies&year_filter=equals&yone=2016&tmdb_id=371182&imdb_id=tt5135532
+        # tmdb: https://www.themoviedb.org/movie/371182
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt5135532
+
+    "Garage Sale Mystery: The Novel Murders (2016)":
+        year: 2016
+        title: "Garage Sale Mystery: The Novel Murders"
+        match:
+          mapping_id: 396390
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5672502, tmdb://396390
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Novel%20Murders&category=Movies&year_filter=equals&yone=2016&tmdb_id=396390&imdb_id=tt5672502
+        # tmdb: https://www.themoviedb.org/movie/396390
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt5672502
+
+    "Garage Sale Mystery: A Case of Murder (2017)":
+        year: 2017
+        title: "Garage Sale Mystery: A Case of Murder"
+        match:
+          mapping_id: 465294
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7235496, tmdb://465294
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20A%20Case%20of%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=465294&imdb_id=tt7235496
+        # tmdb: https://www.themoviedb.org/movie/465294
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7235496
+
+    "Garage Sale Mystery: Murder Most Medieval (2017)":
+        year: 2017
+        title: "Garage Sale Mystery: Murder Most Medieval"
+        match:
+          mapping_id: 465291
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7197596, tmdb://465291
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Murder%20Most%20Medieval&category=Movies&year_filter=equals&yone=2017&tmdb_id=465291&imdb_id=tt7197596
+        # tmdb: https://www.themoviedb.org/movie/465291
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7197596
+
+    "Garage Sale Mystery: Murder by Text (2017)":
+        year: 2017
+        title: "Garage Sale Mystery: Murder by Text"
+        match:
+          mapping_id: 465290
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7235014, tmdb://465290
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Murder%20by%20Text&category=Movies&year_filter=equals&yone=2017&tmdb_id=465290&imdb_id=tt7235014
+        # tmdb: https://www.themoviedb.org/movie/465290
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7235014
+
+    "Garage Sale Mystery: The Art of Murder (2017)":
+        year: 2017
+        title: "Garage Sale Mystery: The Art of Murder"
+        match:
+          mapping_id: 423671
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5916786, tmdb://423671
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Art%20of%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=423671&imdb_id=tt5916786
+        # tmdb: https://www.themoviedb.org/movie/423671
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt5916786
+
+    "Garage Sale Mystery: The Beach Murder (2017)":
+        year: 2017
+        title: "Garage Sale Mystery: The Beach Murder"
+        match:
+          mapping_id: 465286
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7235362, tmdb://465286
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Beach%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=465286&imdb_id=tt7235362
+        # tmdb: https://www.themoviedb.org/movie/465286
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7235362
+
+    "Garage Sale Mysteries: Murder In D Minor (2018)":
+        year: 2018
+        title: "Garage Sale Mysteries: Murder In D Minor"
+        match:
+          mapping_id: 540489
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8750664, tmdb://540489, tvdb://16950
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Murder%20In%20D%20Minor&category=Movies&year_filter=equals&yone=2018&tmdb_id=540489&imdb_id=tt8750664&tvdb_id=16950
+        # tmdb: https://www.themoviedb.org/movie/540489
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=16950
+        # imdb: https://www.imdb.com/title/tt8750664
+
+    "Garage Sale Mysteries: Picture a Murder (2018)":
+        year: 2018
+        title: "Garage Sale Mysteries: Picture a Murder"
+        match:
+          mapping_id: 540573
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8594624, tmdb://540573, tvdb://11758
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Picture%20a%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=540573&imdb_id=tt8594624&tvdb_id=11758
+        # tmdb: https://www.themoviedb.org/movie/540573
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=11758
+        # imdb: https://www.imdb.com/title/tt8594624
+
+    "Garage Sale Mystery: Pandora's Box (2018)":
+        year: 2018
+        title: "Garage Sale Mystery: Pandora's Box"
+        match:
+          mapping_id: 539960
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8045978, tmdb://539960, tvdb://15674
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Pandora%27s%20Box&category=Movies&year_filter=equals&yone=2018&tmdb_id=539960&imdb_id=tt8045978&tvdb_id=15674
+        # tmdb: https://www.themoviedb.org/movie/539960
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=15674
+        # imdb: https://www.imdb.com/title/tt8045978
+
+    "Garage Sale Mystery: The Mask Murder (2018)":
+        year: 2018
+        title: "Garage Sale Mystery: The Mask Murder"
+        match:
+          mapping_id: 540486
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8080578, tmdb://540486, tvdb://15473
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Mask%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=540486&imdb_id=tt8080578&tvdb_id=15473
+        # tmdb: https://www.themoviedb.org/movie/540486
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=15473
+        # imdb: https://www.imdb.com/title/tt8080578
+
+    "Garage Sale Mysteries: Searched & Seized (2020)":
+        year: 2020
+        title: "Garage Sale Mysteries: Searched & Seized"
+        match:
+          mapping_id: 658780
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt9760202, tmdb://658780
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Searched%20%26%20Seized&category=Movies&year_filter=equals&yone=2020&tmdb_id=658780&imdb_id=tt9760202
+        # tmdb: https://www.themoviedb.org/movie/658780
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt9760202

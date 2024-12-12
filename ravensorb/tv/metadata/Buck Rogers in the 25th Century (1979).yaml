@@ -1,0 +1,19 @@
+metadata:
+    "Buck Rogers in the 25th Century (1979)":
+        year: 1979
+        title: "Buck Rogers in the 25th Century"
+        match:
+          mapping_id: 74523
+        url_poster: https://theposterdb.com/api/assets/278341
+        # IDs: imdb://tt0078579, tmdb://2443, tvdb://74523
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Buck%20Rogers%20in%20the%2025th%20Century&category=Shows&year_filter=equals&yone=1979&tmdb_id=2443&imdb_id=tt0078579&tvdb_id=74523
+        # tmdb: https://www.themoviedb.org/tv/2443
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1979&query=74523
+        # imdb: https://www.imdb.com/title/tt0078579
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/278343
+            2:
+                url_poster: https://theposterdb.com/api/assets/278344

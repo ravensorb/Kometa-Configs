@@ -2,7 +2,7 @@ collections:
   "Star Trek: The Original Series":
     variables: {
       label: "Star Trek",
-      movie: "152, 154, 157, 168, 172, 174",
+      movie: "152, 154, 157, 168, 172, 174, 338544, 414260, 633560, 70703, 411500",
       poster: https://theposterdb.com/api/assets/308181
     }
     template: [ 

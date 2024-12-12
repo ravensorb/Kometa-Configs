@@ -1,0 +1,31 @@
+metadata:
+    "The Blue Planet (2001)":
+        year: 2001
+        title: "The Blue Planet"
+        sort_title: "Blue Planet"
+        match:
+          mapping_id: 74372
+        url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0296310, tmdb://13579, tvdb://74372
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Blue%20Planet&category=Shows&year_filter=equals&yone=2001&tmdb_id=13579&imdb_id=tt0296310&tvdb_id=74372
+        # tmdb: https://www.themoviedb.org/tv/13579
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2001&query=74372
+        # imdb: https://www.imdb.com/title/tt0296310
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/366205
+
+    "Blue Planet II (2017)":
+        year: 2017
+        title: "Blue Planet II"
+        match:
+          mapping_id: 330942
+        url_poster: https://theposterdb.com/api/assets/324157
+        # IDs: imdb://tt6769208, tmdb://74313, tvdb://330942
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Blue%20Planet%20II&category=Shows&year_filter=equals&yone=2017&tmdb_id=74313&imdb_id=tt6769208&tvdb_id=330942
+        # tmdb: https://www.themoviedb.org/tv/74313
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=330942
+        # imdb: https://www.imdb.com/title/tt6769208
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

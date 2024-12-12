@@ -2,7 +2,7 @@ collections:
   "DC Animation":
     variables: {
       label: "DCU",
-      show: "102621, 192061, 248509, 258331, 298305, 304839, 328982, 336139, 359619, 403170, 71788, 74603, 75417, 76168, 76320, 77084, 79067, 79394, 82143, 82824",
+      show: "192061, 365700, 76168, 76320",
       poster: https://theposterdb.com/api/assets/248713
     }
     template: [ 

@@ -1,0 +1,19 @@
+metadata:
+    "Harrow (2018)":
+        year: 2018
+        title: "Harrow"
+        match:
+          mapping_id: 342568
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7242816, tmdb://77947, tvdb://342568
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Harrow&category=Shows&year_filter=equals&yone=2018&tmdb_id=77947&imdb_id=tt7242816&tvdb_id=342568
+        # tmdb: https://www.themoviedb.org/tv/77947
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=342568
+        # imdb: https://www.imdb.com/title/tt7242816
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
