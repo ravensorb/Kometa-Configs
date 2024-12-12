@@ -1,13 +1,12 @@
 collections:
   "NCIS":
     variables: {
-      show: "278125, 401630, 416493, 444350, 72108, 95441",
       poster: https://theposterdb.com/api/assets/360205
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "278125, 401630, 416493, 444350, 72108, 73710, 95441" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=NCIS&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=NCIS

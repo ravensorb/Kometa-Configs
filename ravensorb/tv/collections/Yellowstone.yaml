@@ -1,13 +1,12 @@
 collections:
   "Yellowstone":
     variables: {
-      show: "341164, 396390, 416491",
       poster: https://theposterdb.com/api/assets/302800
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "341164, 396390, 416491" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Yellowstone&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Yellowstone

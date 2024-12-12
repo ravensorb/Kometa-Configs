@@ -1,13 +1,12 @@
 collections:
   "Breaking Bad":
     variables: {
-      show: "273181, 81189",
       poster: https://theposterdb.com/api/assets/242828
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "273181, 81189" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Breaking%20Bad&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Breaking%20Bad%22

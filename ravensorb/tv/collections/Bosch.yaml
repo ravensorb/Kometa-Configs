@@ -1,13 +1,12 @@
 collections:
   "Bosch":
     variables: {
-      show: "277928, 414553",
       poster: https://theposterdb.com/api/assets/335424
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "277928, 414553" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Bosch&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Bosch

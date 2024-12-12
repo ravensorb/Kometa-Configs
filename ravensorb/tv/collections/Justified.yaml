@@ -1,13 +1,12 @@
 collections:
   "Justified":
     variables: {
-      show: "134241, 414677",
       poster: https://theposterdb.com/api/assets/342203
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "134241, 414677" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Justified&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Justified

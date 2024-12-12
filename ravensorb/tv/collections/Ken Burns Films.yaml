@@ -1,13 +1,12 @@
 collections:
   "Ken Burns Films":
     variables: {
-      show: "116171, 251965, 264098, 277594, 282249, 293822, 310180, 333595, 359180, 379797, 394111, 403212, 415024, 421197, 430628, 452823, 78973, 80105, 80620, 80679, 81381, 84784",
       poster: https://theposterdb.com/api/assets/57727
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "116171, 251965, 264098, 277594, 282249, 293822, 310180, 333595, 359180, 379797, 394111, 403212, 415024, 421197, 430628, 452823, 78973, 80105, 80620, 80679, 81381, 84784" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ken%20Burns%20Films&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Ken%20Burns%20Films%22

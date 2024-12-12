@@ -1,13 +1,12 @@
 collections:
   "Planet Earth":
     variables: {
-      show: "318408, 79257",
       poster: https://theposterdb.com/api/assets/366197
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "318408, 79257" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20Earth&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Planet%20Earth%22

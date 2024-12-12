@@ -1,13 +1,12 @@
 collections:
   "Bionic Man/Woman":
     variables: {
-      show: "77259, 77294, 80370",
       poster: https://theposterdb.com/api/assets/261361
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "349729, 77259, 77294, 80370" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Bionic%20Man%2FWoman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Bionic%20Man/Woman%22

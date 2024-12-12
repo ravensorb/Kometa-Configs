@@ -5,13 +5,12 @@ collections:
       sort_prefix: "Star Trek",
       sort_order: "01",
       sort_separator: " - ",
-      show: "328711, 364093, 398399, 71470, 72073, 73893, 74550",
       poster: https://theposterdb.com/api/assets/308180
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "328711, 364093, 398399, 71470, 72073, 73893, 74550" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Next%20Generation&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20The%20Next%20Generation%22

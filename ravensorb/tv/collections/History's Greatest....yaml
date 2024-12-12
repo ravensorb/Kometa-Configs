@@ -1,13 +1,12 @@
 collections:
   "History's Greatest...":
     variables: {
-      show: "390039, 391706, 429287",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "390039, 391706, 429287" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=History%27s%20Greatest...&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22History%27s%20Greatest...%22

@@ -1,13 +1,12 @@
 collections:
   "Gilmore Girls":
     variables: {
-      show: "311987, 76568",
       poster: https://theposterdb.com/api/assets/453037
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "311987, 76568" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Gilmore%20Girls&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Gilmore%20Girls%22

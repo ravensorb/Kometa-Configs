@@ -1,13 +1,12 @@
 collections:
   "The Hardy Boys":
     variables: {
-      show: "363673, 391628, 71183, 72996",
       poster: https://theposterdb.com/api/assets/113941
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "363673, 391628, 71183, 72996, 74475" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Hardy%20Boys%22

@@ -1,13 +1,12 @@
 collections:
   "Penny Dreadful":
     variables: {
-      show: "54671, 83685",
       poster: https://theposterdb.com/api/assets/344978
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "265766, 360892" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Penny%20Dreadful&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Penny%20Dreadful%22

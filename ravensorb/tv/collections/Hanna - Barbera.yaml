@@ -1,13 +1,12 @@
 collections:
   "Hanna-Barbera":
     variables: {
-      show: "347581, 76171, 76204, 76705, 77763",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "347581, 76171, 76204, 76705" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Hanna-Barbera&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Hanna-Barbera
