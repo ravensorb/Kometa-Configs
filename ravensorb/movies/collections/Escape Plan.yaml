@@ -1,13 +1,12 @@
 collections:
   "Escape Plan":
     variables: {
-      movie: "107846, 440471, 480042",
       poster: https://theposterdb.com/api/assets/164779
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "107846, 440471, 480042" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20Plan&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Escape%20Plan%22

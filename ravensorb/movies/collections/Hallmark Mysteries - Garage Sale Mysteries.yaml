@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "221791, 300778, 325071, 348630, 371182, 396390, 423671, 465286, 465290, 465291, 465294, 539960, 540486, 540489, 540573, 658780",
       poster: https://theposterdb.com/api/assets/220013
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "221791, 300778, 325071, 348630, 371182, 396390, 423671, 465286, 465290, 465291, 465294, 539960, 540486, 540489, 540573, 658780" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Garage%20Sale%20Mysteries%22

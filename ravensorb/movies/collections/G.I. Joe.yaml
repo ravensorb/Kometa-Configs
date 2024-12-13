@@ -1,13 +1,12 @@
 collections:
   "G.I. Joe":
     variables: {
-      movie: "14869, 568620, 72559",
       poster: https://theposterdb.com/api/assets/164787
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "14869, 568620, 72559" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=G.I.%20Joe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22G.I.%20Joe%22

@@ -5,13 +5,12 @@ collections:
       sort_prefix: "MCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "36586, 36647, 36648",
       poster: https://theposterdb.com/api/assets/171125
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "36586, 36647, 36648" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Blade&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Blade

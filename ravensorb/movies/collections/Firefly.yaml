@@ -1,20 +1,19 @@
 collections:
   "Firefly":
     variables: {
-      movie: "16320",
       poster: https://theposterdb.com/api/assets/185523
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "16320" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Firefly&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Firefly
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Firefly
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Firefly
     # trakt: https://trakt.tv/search/lists?query=Firefly
-    collection_mode: hide
+    # collection_mode: hide
     # trakt_list:
     #   -
 

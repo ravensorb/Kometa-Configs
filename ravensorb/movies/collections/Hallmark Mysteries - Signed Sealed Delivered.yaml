@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "1302757, 231617, 308686, 338485, 355730, 361261, 379992, 407171, 414762, 438573, 473896, 483180, 526089, 860271",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1302757, 231617, 308686, 338485, 355730, 361261, 379992, 407171, 414762, 438573, 473896, 483180, 526089, 860271" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Signed%20Sealed%20Delivered&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Signed%20Sealed%20Delivered%22

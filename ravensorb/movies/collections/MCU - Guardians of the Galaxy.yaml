@@ -5,13 +5,12 @@ collections:
       sort_prefix: "MCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "118340, 283995, 447365",
       poster: https://theposterdb.com/api/assets/162393
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "118340, 283995, 447365" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Guardians%20of%20the%20Galaxy&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Guardians%20of%20the%20Galaxy%22

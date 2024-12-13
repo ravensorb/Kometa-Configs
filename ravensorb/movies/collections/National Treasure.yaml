@@ -1,13 +1,12 @@
 collections:
   "National Treasure":
     variables: {
-      movie: "2059, 6637",
       poster: https://theposterdb.com/api/assets/163397
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "2059, 6637" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=National%20Treasure&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22National%20Treasure%22

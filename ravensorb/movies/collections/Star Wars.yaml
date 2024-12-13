@@ -2,13 +2,12 @@ collections:
   "Star Wars":
     variables: {
       label: "Star Wars",
-      movie: "10372, 11, 12180, 140607, 181808, 181812, 1884, 1891, 1892, 1893, 1894, 1895, 330459, 348350, 680382, 70608, 732670, 74849, 76180, 79158, 81233, 848326, 857702, 934632, 980804",
       poster: https://theposterdb.com/api/assets/244730
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10372, 11, 12180, 140607, 181808, 181812, 1884, 1891, 1892, 1893, 1894, 1895, 330459, 348350, 680382, 70608, 732670, 74849, 76180, 79158, 81233, 848326, 857702, 934632, 980804" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Wars&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Wars%22

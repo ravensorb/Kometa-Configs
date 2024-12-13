@@ -1,13 +1,12 @@
 collections:
   "My Favorite...":
     variables: {
-      movie: "103165, 18649",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "103165, 18649" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=My%20Favorite...&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22My%20Favorite...%22

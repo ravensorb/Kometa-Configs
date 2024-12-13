@@ -1,13 +1,12 @@
 collections:
   "Riddick":
     variables: {
-      movie: "244839, 2787, 2789, 87421",
       poster: https://theposterdb.com/api/assets/163647
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "244839, 2787, 2789, 87421" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Riddick&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Riddick

@@ -5,13 +5,12 @@ collections:
       sort_prefix: "Agatha Christie",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "4192, 4193, 6103, 6105, 6107",
       poster: https://theposterdb.com/api/assets/311203
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "4192, 4193, 6103, 6105, 6107" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Hercule%20Poirot%20%28Peter%20Ustinov%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Hercule%20Poirot%20%28Peter%20Ustinov%29%22

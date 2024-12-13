@@ -2,13 +2,12 @@ collections:
   "Battlestar Galactica (Original)":
     variables: {
       label: "Battlestar Galactica",
-      movie: "148980, 65288, 9640",
       poster: https://theposterdb.com/api/assets/160915
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "148980, 65288, 9640" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Original%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Battlestar%20Galactica%20%28Original%29%22

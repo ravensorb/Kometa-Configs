@@ -5,20 +5,19 @@ collections:
       sort_prefix: "MCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "101907, 1724, 1927, 19593, 26881, 26883, 30675, 394355, 65294",
       poster: https://theposterdb.com/api/assets/329539
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "101907, 1724, 1927, 19593, 26881, 26883, 30675, 394355, 65294" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Incredible%20Hulk&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Incredible%20Hulk%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Incredible%20Hulk
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Incredible%20Hulk
     # trakt: https://trakt.tv/search/lists?query=Incredible%20Hulk
-    # collection_mode: hide
+    collection_mode: hide
     trakt_list:
        - https://trakt.tv/users/ravensorb/lists/hulk-collection?sort=released,desc 
 

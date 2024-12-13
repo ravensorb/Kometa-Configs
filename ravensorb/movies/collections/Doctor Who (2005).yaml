@@ -2,13 +2,12 @@ collections:
   "Doctor Who (2005)":
     variables: {
       label: "Doctor Who",
-      movie: "1247066, 1251674, 282848, 282963, 313106, 315623, 335209",
       poster: https://theposterdb.com/api/assets/487584
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1247066, 1251674, 282848, 282963, 313106, 315623, 335209" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20%282005%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%20%282005%29%22

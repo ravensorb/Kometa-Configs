@@ -1,13 +1,12 @@
 collections:
   "Ocean's":
     variables: {
-      movie: "161, 163, 298, 299",
       poster: https://theposterdb.com/api/assets/95346
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "161, 163, 298, 299" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ocean%27s&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Ocean%27s

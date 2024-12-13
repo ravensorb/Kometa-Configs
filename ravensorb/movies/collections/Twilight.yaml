@@ -1,13 +1,12 @@
 collections:
   "Twilight":
     variables: {
-      movie: "18239, 24021, 50619, 50620, 8966",
       poster: https://theposterdb.com/api/assets/161853
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "18239, 24021, 50619, 50620, 8966" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Twilight&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Twilight

@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "374739, 392625, 398356",
       poster: https://theposterdb.com/api/assets/373144
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "374739, 392625, 398356" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Flower%20Shop%20Mystery%22

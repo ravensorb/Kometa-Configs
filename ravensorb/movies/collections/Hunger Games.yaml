@@ -1,13 +1,12 @@
 collections:
   "Hunger Games":
     variables: {
-      movie: "101299, 131631, 131634, 695721, 70160",
       poster: https://theposterdb.com/api/assets/163851
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "101299, 131631, 131634, 695721, 70160" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Hunger%20Games&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Hunger%20Games%22

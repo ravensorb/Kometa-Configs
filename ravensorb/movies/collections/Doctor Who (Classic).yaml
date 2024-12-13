@@ -2,13 +2,12 @@ collections:
   "Doctor Who (Classic)":
     variables: {
       label: "Doctor Who",
-      movie: "1193137, 15691, 16387, 210024, 26581, 382024, 436981, 491940",
       poster: https://theposterdb.com/api/assets/163698
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1193137, 15691, 16387, 210024, 26581, 382024, 436981, 491940" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20%28Classic%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%20%28Classic%29%22

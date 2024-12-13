@@ -1,13 +1,12 @@
 collections:
   "BloodRayne":
     variables: {
-      movie: "12685, 168705, 17456",
       poster: https://theposterdb.com/api/assets/160786
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "12685, 168705, 17456" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=BloodRayne&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=BloodRayne

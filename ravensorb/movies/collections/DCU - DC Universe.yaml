@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "00",
       sort_separator: " - ",
-      movie: "125249, 126712, 287947, 594767, 791373, 9651",
       poster: https://theposterdb.com/api/assets/239356
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "125249, 126712, 141052, 17918, 19142, 20533, 232842, 287947, 298618, 314, 3604, 475557, 594767, 630656, 791373, 889737, 9651" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Universe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22DC%20Universe%22

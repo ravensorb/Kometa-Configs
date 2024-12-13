@@ -2,20 +2,19 @@ collections:
   "Star Trek: The Next Generation":
     variables: {
       label: "Star Trek",
-      movie: "193, 199, 200, 201, 282759, 662148, 522055, 828023, 933474",
       poster: https://theposterdb.com/api/assets/308180
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "193, 199, 200, 201, 282759, 522055, 662148, 828023, 933474" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Next%20Generation&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20The%20Next%20Generation%22
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Star%20Trek%3A%20The%20Next%20Generation
     # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Star%20Trek%3A%20The%20Next%20Generation
     # trakt: https://trakt.tv/search/lists?query=Star%20Trek%3A%20The%20Next%20Generation
-    # collection_mode: hide
+    collection_mode: hide
     # trakt_list:
     #   -
 

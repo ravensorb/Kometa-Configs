@@ -2,13 +2,12 @@ collections:
   "Rudolph the Red-Nosed Reindeer":
     variables: {
       label: "Christmas",
-      movie: "13382, 30059, 40246, 43575",
       poster: https://theposterdb.com/api/assets/313834
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "13382, 30059, 40246, 43575" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Rudolph%20the%20Red-Nosed%20Reindeer&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Rudolph%20the%20Red-Nosed%20Reindeer%22

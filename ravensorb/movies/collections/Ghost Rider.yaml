@@ -1,13 +1,12 @@
 collections:
   "Ghost Rider":
     variables: {
-      movie: "1250, 71676",
       poster: https://theposterdb.com/api/assets/171142
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1250, 71676" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ghost%20Rider&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Ghost%20Rider%22

@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "603085, 661328, 733278",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "603085, 661328, 733278" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Picture%20Perfect%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Picture%20Perfect%20Mysteries%22

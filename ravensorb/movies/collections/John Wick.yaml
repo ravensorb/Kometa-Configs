@@ -1,13 +1,12 @@
 collections:
   "John Wick":
     variables: {
-      movie: "245891, 324552, 458156, 603692",
       poster: https://theposterdb.com/api/assets/164798
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "245891, 324552, 458156, 603692" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=John%20Wick&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22John%20Wick%22

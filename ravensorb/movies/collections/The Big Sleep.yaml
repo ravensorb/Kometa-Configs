@@ -1,13 +1,12 @@
 collections:
   "The Big Sleep":
     variables: {
-      movie: "1815, 910",
       poster: https://theposterdb.com/api/assets/235240
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1815, 910" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Big%20Sleep&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Big%20Sleep%22

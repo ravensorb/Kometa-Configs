@@ -1,13 +1,12 @@
 collections:
   "Back To The Future":
     variables: {
-      movie: "105, 165, 196, 330127",
       poster: https://theposterdb.com/api/assets/163128
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "105, 165, 196, 330127" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Back%20To%20The%20Future&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Back%20To%20The%20Future%22

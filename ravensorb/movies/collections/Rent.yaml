@@ -1,13 +1,12 @@
 collections:
   "Rent":
     variables: {
-      movie: "15199, 1833, 557648",
       poster: https://theposterdb.com/api/assets/216881
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "15199, 1833, 557648" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Rent&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Rent

@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "1101840, 325078, 339580, 393737, 414768, 436398, 455034, 494466, 531158, 590118, 590121, 590123, 681638, 741755, 793425, 793465, 845929, 910765",
       poster: https://theposterdb.com/api/assets/440870
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1101840, 325078, 339580, 393737, 414768, 436398, 455034, 494466, 531158, 590118, 590121, 590123, 681638, 741755, 793425, 793465, 845929, 910765" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Aurora%20Teagarden%20Mysteries%22

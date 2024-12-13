@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "1068830, 1132282, 1255418, 936897",
       poster: https://theposterdb.com/api/assets/486325
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1068830, 1132282, 1255418, 936897" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Curious%20Caterer&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Curious%20Caterer%22

@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "38180, 41988, 43641, 46718, 618350, 618352, 637663, 76420, 791344, 791346, 791348",
       poster: https://theposterdb.com/api/assets/361144
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "38180, 41988, 43641, 46718, 618350, 618352, 637663, 76420, 791344, 791346, 791348" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Showcase&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22DC%20Showcase%22

@@ -1,13 +1,12 @@
 collections:
   "42nd Street":
     variables: {
-      movie: "3062, 594345",
       poster: https://theposterdb.com/api/assets/200267
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "3062, 594345" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=42nd%20Street&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%2242nd%20Street%22

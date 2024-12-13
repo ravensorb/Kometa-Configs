@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "193146, 89258, 90867",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "193146, 89258, 90867" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Mystery%20Woman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Mystery%20Woman%22

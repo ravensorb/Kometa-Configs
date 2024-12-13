@@ -1,13 +1,12 @@
 collections:
   "X-Files":
     variables: {
-      movie: "846, 8836",
       poster: https://theposterdb.com/api/assets/162229
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "846, 8836" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=X-Files&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=X-Files

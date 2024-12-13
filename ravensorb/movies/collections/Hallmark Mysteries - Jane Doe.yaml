@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "105443, 105460, 68676, 68678, 68688",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "105443, 105460, 68676, 68678, 68688" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Jane%20Doe%22

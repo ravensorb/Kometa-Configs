@@ -1,13 +1,12 @@
 collections:
   "Ice Age":
     variables: {
-      movie: "425, 950",
       poster: https://theposterdb.com/api/assets/162988
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "425, 950" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ice%20Age&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Ice%20Age%22

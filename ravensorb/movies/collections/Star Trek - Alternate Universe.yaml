@@ -2,13 +2,12 @@ collections:
   "Star Trek: Alternate Universe":
     variables: {
       label: "Star Trek",
-      movie: "13475, 188927, 54138",
       poster: https://theposterdb.com/api/assets/308179
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "13475, 188927, 54138" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Alternate%20Universe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Star%20Trek%3A%20Alternate%20Universe%22

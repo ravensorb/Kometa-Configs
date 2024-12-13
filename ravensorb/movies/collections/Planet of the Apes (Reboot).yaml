@@ -2,13 +2,12 @@ collections:
   "Planet of the Apes (Reboot)":
     variables: {
       label: "Planet of the Apes",
-      movie: "119450, 281338, 61791, 653346, 869",
       poster: https://theposterdb.com/api/assets/184312
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "119450, 281338, 61791, 653346, 869" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20of%20the%20Apes%20%28Reboot%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Planet%20of%20the%20Apes%20%28Reboot%29%22

@@ -1,13 +1,12 @@
 collections:
   "Pure Country":
     variables: {
-      movie: "22627, 468201, 58936",
       poster: https://theposterdb.com/api/assets/469595
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "22627, 468201, 58936" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Pure%20Country&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Pure%20Country%22

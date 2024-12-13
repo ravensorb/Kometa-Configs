@@ -1,13 +1,12 @@
 collections:
   "Fanny Brice":
     variables: {
-      movie: "16085, 39282",
       poster: https://theposterdb.com/api/assets/166798
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "16085, 39282" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fanny%20Brice&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Fanny%20Brice%22

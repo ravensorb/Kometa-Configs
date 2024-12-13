@@ -1,7 +1,6 @@
 collections:
   "James Bond":
     variables: {
-      movie: "1028506, 10764, 12208, 141859, 206647, 253, 34079, 36557, 36643, 36669, 36670, 370172, 37724, 438493, 646, 657, 658, 660, 667, 668, 681, 682, 691, 698, 699, 700, 707, 708, 709, 710, 714, 869250",
       radarr_add_missing: true,
       radarr_search: true,
       radarr_tag: "jamesbond",
@@ -9,8 +8,8 @@ collections:
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1028506, 10764, 12208, 141859, 206647, 253, 34079, 36557, 36643, 36669, 36670, 370172, 37724, 438493, 646, 657, 658, 660, 667, 668, 681, 682, 691, 698, 699, 700, 707, 708, 709, 710, 714, 869250" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=James%20Bond&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22James%20Bond%22

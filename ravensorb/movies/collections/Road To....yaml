@@ -1,13 +1,12 @@
 collections:
   "Road To...":
     variables: {
-      movie: "13861, 29021, 31804, 31805, 31812, 31980, 34082",
       poster: https://theposterdb.com/api/assets/168374
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "13861, 29021, 31804, 31805, 31812, 31980, 34082" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Road%20To...&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Road%20To...%22

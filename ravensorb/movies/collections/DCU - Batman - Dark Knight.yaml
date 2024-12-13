@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "155, 272, 49026",
       poster: https://theposterdb.com/api/assets/263847
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "155, 272, 49026" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%3A%20Dark%20Knight&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Batman%3A%20Dark%20Knight%22

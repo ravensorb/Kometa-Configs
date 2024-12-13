@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "2661, 268, 364, 414, 414906, 415",
       poster: https://theposterdb.com/api/assets/162377
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "2661, 268, 364, 414, 414906, 415" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Batman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Batman

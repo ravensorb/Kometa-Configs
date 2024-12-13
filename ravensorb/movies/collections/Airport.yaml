@@ -1,13 +1,12 @@
 collections:
   "Airport":
     variables: {
-      movie: "10671, 27932, 29723, 7227",
       poster: https://theposterdb.com/api/assets/163459
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10671, 27932, 29723, 7227" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Airport&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Airport

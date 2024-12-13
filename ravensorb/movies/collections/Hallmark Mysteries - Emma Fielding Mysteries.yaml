@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "457470, 581474",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "457470, 581474" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Emma%20Fielding%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Emma%20Fielding%20Mysteries%22

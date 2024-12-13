@@ -2,13 +2,12 @@ collections:
   "Frosty":
     variables: {
       label: "Christmas",
-      movie: "13675, 26539, 27933, 28042",
       poster: https://theposterdb.com/api/assets/313235
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "13675, 26539, 27933, 28042" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Frosty&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Frosty

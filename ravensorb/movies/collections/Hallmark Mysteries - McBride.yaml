@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "133353, 256275",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "133353, 256275" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=McBride&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=McBride

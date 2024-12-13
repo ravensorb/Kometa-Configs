@@ -1,13 +1,12 @@
 collections:
   "Blade Runner":
     variables: {
-      movie: "335984, 57656, 78",
       poster: https://theposterdb.com/api/assets/163611
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "335984, 57656, 78" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Blade%20Runner&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Blade%20Runner%22

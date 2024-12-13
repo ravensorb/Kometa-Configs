@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "148656, 32790, 60821, 61005, 638186, 638187, 81033",
       poster: https://theposterdb.com/api/assets/445967
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "148656, 32790, 60821, 61005, 638186, 638187, 81033" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Good%20Witch&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Good%20Witch%22

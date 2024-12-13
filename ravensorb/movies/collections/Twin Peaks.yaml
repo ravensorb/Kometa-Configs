@@ -1,13 +1,12 @@
 collections:
   "Twin Peaks":
     variables: {
-      movie: "1923, 452522",
       poster: https://theposterdb.com/api/assets/355622
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1923, 452522" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Twin%20Peaks&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Twin%20Peaks%22

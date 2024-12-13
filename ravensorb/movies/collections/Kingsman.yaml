@@ -1,13 +1,12 @@
 collections:
   "Kingsman":
     variables: {
-      movie: "207703, 343668, 476669",
       poster: https://theposterdb.com/api/assets/164805
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "207703, 343668, 476669" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Kingsman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Kingsman

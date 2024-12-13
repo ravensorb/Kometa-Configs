@@ -5,13 +5,12 @@ collections:
       sort_prefix: "Agatha Christie",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "238098, 238292, 238293, 238294",
       poster: https://theposterdb.com/api/assets/172446
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "238098, 238292, 238293, 238294" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Murder%2C%20She%20Wrote&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Murder%2C%20She%20Wrote%22

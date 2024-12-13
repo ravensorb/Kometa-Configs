@@ -1,13 +1,12 @@
 collections:
   "Matt Helm":
     variables: {
-      movie: "21779, 3054, 36642, 36775",
       poster: https://theposterdb.com/api/assets/164806
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "21779, 3054, 36642, 36775" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Matt%20Helm&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Matt%20Helm%22

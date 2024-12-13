@@ -1,13 +1,12 @@
 collections:
   "Alien Nation":
     variables: {
-      movie: "10128, 77348",
       poster: https://theposterdb.com/api/assets/234611
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10128, 77348" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Alien%20Nation&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Alien%20Nation%22

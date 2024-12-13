@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "582623, 582624, 583372, 623922, 783305",
       poster: https://theposterdb.com/api/assets/419219
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "582623, 582624, 583372, 623922, 783305" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Chronicle%20Mysteries&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Chronicle%20Mysteries%22

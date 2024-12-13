@@ -1,13 +1,12 @@
 collections:
   "The Art of War":
     variables: {
-      movie: "11398, 13988, 24756",
       poster: https://theposterdb.com/api/assets/163463
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "11398, 13988, 24756" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Art%20of%20War&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Art%20of%20War%22

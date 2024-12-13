@@ -2,13 +2,12 @@ collections:
   "Fantastic Beasts":
     variables: {
       label: "Wizarding World",
-      movie: "259316, 338952, 338953",
       poster: https://theposterdb.com/api/assets/173773
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "259316, 338952, 338953" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Fantastic%20Beasts&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Fantastic%20Beasts%22

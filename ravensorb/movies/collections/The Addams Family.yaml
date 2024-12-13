@@ -1,13 +1,12 @@
 collections:
   "The Addams Family":
     variables: {
-      movie: "2758, 2907, 481084, 639721",
       poster: https://theposterdb.com/api/assets/173458
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "2758, 2907, 481084, 639721" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Addams%20Family&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Addams%20Family%22

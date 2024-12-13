@@ -4,13 +4,12 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_separator: " ",
-      movie: "446864, 435720, 506460",
       poster: https://theposterdb.com/api/assets/516891
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "435720, 446864, 506460" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Fixer%20Upper%20Mystery&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22A%20Fixer%20Upper%20Mystery%22

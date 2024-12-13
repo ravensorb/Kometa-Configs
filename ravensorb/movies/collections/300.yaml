@@ -1,13 +1,12 @@
 collections:
   "300":
     variables: {
-      movie: "1271, 53182",
       poster: https://theposterdb.com/api/assets/162103
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1271, 53182" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=300&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=300

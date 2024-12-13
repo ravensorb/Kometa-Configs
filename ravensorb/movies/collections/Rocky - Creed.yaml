@@ -2,13 +2,12 @@ collections:
   "Rocky/Creed":
     variables: {
       label: "Rocky",
-      movie: "312221, 480530, 677179",
       poster: https://theposterdb.com/api/assets/163422
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "312221, 480530, 677179" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Rocky%2FCreed&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Rocky/Creed

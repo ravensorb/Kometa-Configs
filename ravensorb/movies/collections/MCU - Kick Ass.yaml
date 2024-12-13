@@ -5,13 +5,12 @@ collections:
       sort_prefix: "MCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "23483, 59859",
       poster: https://theposterdb.com/api/assets/171684
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "23483, 59859" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Kick%20Ass&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Kick%20Ass%22

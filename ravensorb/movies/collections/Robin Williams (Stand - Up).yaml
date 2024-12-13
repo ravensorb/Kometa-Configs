@@ -2,13 +2,12 @@ collections:
   "Robin Williams (Stand-Up)":
     variables: {
       label: "Robin Williams (Stand-Up)",
-      movie: "20211, 21585, 21586, 26621, 381276, 493100",
       poster: https://theposterdb.com/api/assets/278010
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "20211, 21585, 21586, 26621, 381276, 493100" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Robin%20Williams%20%28Stand-Up%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Robin%20Williams%20%28Stand-Up%29%22
