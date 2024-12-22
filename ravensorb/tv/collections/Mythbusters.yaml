@@ -6,7 +6,7 @@ collections:
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection },
-      { name: tplTVDBCollection, show: "317987, 320910, 350679, 363058, 73388" }, 
+      { name: tplTVDBCollection, show: "320910, 350679, 363058, 73388" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Mythbusters&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Mythbusters

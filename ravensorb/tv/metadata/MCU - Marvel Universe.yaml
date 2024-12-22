@@ -558,6 +558,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/192803
             2:
                 url_poster: https://theposterdb.com/api/assets/447369
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
 
     "Marvel's Ms. Marvel (2022)":
         year: 2022
