@@ -6,7 +6,7 @@ collections:
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection },
-      { name: tplTVDBCollection, show: "71183, 363673, 391628, 72996" }, 
+      { name: tplTVDBCollection, show: "363673, 391628, 71183, 72996" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Hardy%20Boys&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Hardy%20Boys%22
