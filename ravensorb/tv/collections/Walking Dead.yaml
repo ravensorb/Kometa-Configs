@@ -1,7 +1,7 @@
 collections:
   "Walking Dead":
     variables: {
-      # poster: https://theposterdb.com/api/assets/
+      poster: https://theposterdb.com/api/assets/276060
     }
     template: [ 
       { name: tplCommonBase }, 

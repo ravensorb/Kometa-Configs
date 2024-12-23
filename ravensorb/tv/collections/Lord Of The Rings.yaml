@@ -1,7 +1,7 @@
 collections:
   "Lord Of The Rings":
     variables: {
-      # poster: https://theposterdb.com/api/assets/
+      poster: https://theposterdb.com/api/assets/270263
     }
     template: [ 
       { name: tplCommonBase }, 

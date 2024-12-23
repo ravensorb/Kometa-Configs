@@ -23,10 +23,10 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366305
             5:
                 url_poster: https://theposterdb.com/api/assets/354206
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 7:
-                # url_poster: https://theposterdb.com/api/assets/
+            6:
+                url_poster: https://theposterdb.com/api/assets/451047
+            7:
+                url_poster: https://theposterdb.com/api/assets/540145
 
     "FBI: Most Wanted (2020)":
         year: 2020
@@ -50,10 +50,10 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366313
             4:
                 url_poster: https://theposterdb.com/api/assets/366314
-            # 5:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 6:
-                # url_poster: https://theposterdb.com/api/assets/
+            5:
+                url_poster: https://theposterdb.com/api/assets/451046
+            6:
+                url_poster: https://theposterdb.com/api/assets/540141
 
     "FBI: International (2021)":
         year: 2021
@@ -73,7 +73,7 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/366308
             2:
                 url_poster: https://theposterdb.com/api/assets/366309
-            # 3:
-                # url_poster: https://theposterdb.com/api/assets/
-            # 4:
-                # url_poster: https://theposterdb.com/api/assets/
+            3:
+                url_poster: https://theposterdb.com/api/assets/451045
+            4:
+                url_poster: https://theposterdb.com/api/assets/540142
