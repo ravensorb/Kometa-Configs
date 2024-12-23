@@ -5,7 +5,7 @@ metadata:
         sort_title: "Walking Dead"
         match:
           mapping_id: 153021
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/323998
         # IDs: imdb://tt1520211, tmdb://1402, tvdb://153021
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Walking%20Dead&category=Shows&year_filter=equals&yone=2010&tmdb_id=1402&imdb_id=tt1520211&tvdb_id=153021
         # tmdb: https://www.themoviedb.org/tv/1402
