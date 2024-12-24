@@ -1,13 +1,12 @@
 collections:
   "Wonka":
     variables: {
-      movie: "118, 252, 787699",
       poster: https://theposterdb.com/api/assets/164135
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "118, 252, 787699" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Wonka&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Wonka

@@ -1,20 +1,19 @@
 collections:
   "X-Files":
     variables: {
-      show: "77398",
       poster: https://theposterdb.com/api/assets/162229
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "77398" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=X-Files&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=X-Files
     # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=X-Files
     # imdb: https://www.imdb.com/find/?s=tt&ttype=tv&q=X-Files
     # trakt: https://trakt.tv/search/lists?query=X-Files
-    collection_mode: hide
+    # collection_mode: hide
     trakt_list:
        - https://trakt.tv/users/coldkeys/lists/x-files?sort=released,desc 
 

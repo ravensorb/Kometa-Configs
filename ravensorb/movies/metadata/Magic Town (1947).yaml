@@ -1,0 +1,12 @@
+metadata:
+    "Magic Town (1947)":
+        year: 1947
+        title: "Magic Town"
+        match:
+          mapping_id: 90966
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0039595, tmdb://90966, tvdb://44350
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Magic%20Town&category=Movies&year_filter=equals&yone=1947&tmdb_id=90966&imdb_id=tt0039595&tvdb_id=44350
+        # tmdb: https://www.themoviedb.org/movie/90966
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1947&query=44350
+        # imdb: https://www.imdb.com/title/tt0039595

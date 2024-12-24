@@ -1,13 +1,12 @@
 collections:
   "R.I.P.D":
     variables: {
-      movie: "1013860, 49524",
       poster: https://theposterdb.com/api/assets/284778
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1013860, 49524" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=R.I.P.D&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=R.I.P.D

@@ -1,0 +1,13 @@
+metadata:
+    "The Shadow Returns (1946)":
+        year: 1946
+        title: "The Shadow Returns"
+        sort_title: "Shadow Returns"
+        match:
+          mapping_id: 162015
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0038926, tmdb://162015, tvdb://55848
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Shadow%20Returns&category=Movies&year_filter=equals&yone=1946&tmdb_id=162015&imdb_id=tt0038926&tvdb_id=55848
+        # tmdb: https://www.themoviedb.org/movie/162015
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1946&query=55848
+        # imdb: https://www.imdb.com/title/tt0038926

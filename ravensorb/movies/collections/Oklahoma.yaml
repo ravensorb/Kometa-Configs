@@ -1,13 +1,12 @@
 collections:
   "Oklahoma":
     variables: {
-      movie: "13936, 27074",
       poster: https://theposterdb.com/api/assets/227680
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "13936, 27074" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Oklahoma&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Oklahoma

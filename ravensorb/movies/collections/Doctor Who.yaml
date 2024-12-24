@@ -5,13 +5,12 @@ collections:
       sort_prefix: "Doctor Who",
       sort_order: "00",
       sort_separator: " - ",
-      movie: "1008773, 1193137, 15691, 16387, 210024, 26581, 282848, 293209, 313106, 382024, 436981, 445374, 491940",
       poster: https://theposterdb.com/api/assets/163698
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1008773, 1193137, 15691, 16387, 210024, 26581, 282848, 293209, 313106, 382024, 436981, 445374, 491940" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%22

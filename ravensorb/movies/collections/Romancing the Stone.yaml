@@ -1,13 +1,12 @@
 collections:
   "Romancing the Stone":
     variables: {
-      movie: "10303, 9326",
       poster: https://theposterdb.com/api/assets/165422
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10303, 9326" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Romancing%20the%20Stone&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Romancing%20the%20Stone%22

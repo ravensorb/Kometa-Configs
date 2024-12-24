@@ -1,13 +1,12 @@
 collections:
   "The Saint (RKO Radio Pictures)":
     variables: {
-      movie: "45571, 47743, 47744, 54756, 74545, 74547, 83659, 88955",
       # poster: https://theposterdb.com/api/assets/
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "45571, 47743, 47744, 54756, 74545, 74547, 83659, 88955" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Saint%20%28RKO%20Radio%20Pictures%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Saint%20%28RKO%20Radio%20Pictures%29%22

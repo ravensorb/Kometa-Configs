@@ -1,0 +1,36 @@
+metadata:
+    "Mystery Woman: Game Time (2005)":
+        year: 2005
+        title: "Mystery Woman: Game Time"
+        match:
+          mapping_id: 90867
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0466388, tmdb://90867
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mystery%20Woman%3A%20Game%20Time&category=Movies&year_filter=equals&yone=2005&tmdb_id=90867&imdb_id=tt0466388
+        # tmdb: https://www.themoviedb.org/movie/90867
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0466388
+
+    "Mystery Woman: Mystery Weekend (2005)":
+        year: 2005
+        title: "Mystery Woman: Mystery Weekend"
+        match:
+          mapping_id: 193146
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0427576, tmdb://193146
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mystery%20Woman%3A%20Mystery%20Weekend&category=Movies&year_filter=equals&yone=2005&tmdb_id=193146&imdb_id=tt0427576
+        # tmdb: https://www.themoviedb.org/movie/193146
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0427576
+
+    "Mystery Woman: Redemption (2006)":
+        year: 2006
+        title: "Mystery Woman: Redemption"
+        match:
+          mapping_id: 89258
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0453382, tmdb://89258
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mystery%20Woman%3A%20Redemption&category=Movies&year_filter=equals&yone=2006&tmdb_id=89258&imdb_id=tt0453382
+        # tmdb: https://www.themoviedb.org/movie/89258
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt0453382

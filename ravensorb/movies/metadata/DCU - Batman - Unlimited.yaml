@@ -1,0 +1,24 @@
+metadata:
+    "Batman Unlimited: Animal Instincts (2015)":
+        year: 2015
+        title: "Batman Unlimited: Animal Instincts"
+        match:
+          mapping_id: 327418
+        url_poster: https://theposterdb.com/api/assets/383222
+        # IDs: imdb://tt4437640, tmdb://327418, tvdb://9625
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Unlimited%3A%20Animal%20Instincts&category=Movies&year_filter=equals&yone=2015&tmdb_id=327418&imdb_id=tt4437640&tvdb_id=9625
+        # tmdb: https://www.themoviedb.org/movie/327418
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=9625
+        # imdb: https://www.imdb.com/title/tt4437640
+
+    "Batman Unlimited: Monster Mayhem (2015)":
+        year: 2015
+        title: "Batman Unlimited: Monster Mayhem"
+        match:
+          mapping_id: 342917
+        url_poster: https://theposterdb.com/api/assets/383224
+        # IDs: imdb://tt4729754, tmdb://342917, tvdb://7838
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Batman%20Unlimited%3A%20Monster%20Mayhem&category=Movies&year_filter=equals&yone=2015&tmdb_id=342917&imdb_id=tt4729754&tvdb_id=7838
+        # tmdb: https://www.themoviedb.org/movie/342917
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=7838
+        # imdb: https://www.imdb.com/title/tt4729754

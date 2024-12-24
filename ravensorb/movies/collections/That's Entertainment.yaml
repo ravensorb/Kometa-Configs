@@ -1,13 +1,12 @@
 collections:
   "That's Entertainment":
     variables: {
-      movie: "33740, 74719, 77448",
       poster: https://theposterdb.com/api/assets/273117
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "33740, 74719, 77448" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=That%27s%20Entertainment&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22That%27s%20Entertainment%22

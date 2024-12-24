@@ -1,13 +1,12 @@
 collections:
   "Lethal Weapon":
     variables: {
-      movie: "941, 942, 943, 944",
       poster: https://theposterdb.com/api/assets/164803
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "941, 942, 943, 944" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Lethal%20Weapon&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Lethal%20Weapon%22

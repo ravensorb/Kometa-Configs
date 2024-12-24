@@ -1,0 +1,36 @@
+metadata:
+    "Cosmos (1980)":
+        year: 1980
+        title: "Cosmos"
+        match:
+          mapping_id: 74995
+        url_poster: https://theposterdb.com/api/assets/451242
+        # IDs: imdb://tt0081846, tmdb://1430, tvdb://74995
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cosmos&category=Shows&year_filter=equals&yone=1980&tmdb_id=1430&imdb_id=tt0081846&tvdb_id=74995
+        # tmdb: https://www.themoviedb.org/tv/1430
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1980&query=74995
+        # imdb: https://www.imdb.com/title/tt0081846
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/451244
+
+    "Cosmos (2014)":
+        year: 2014
+        title: "Cosmos (2014)"
+        match:
+          mapping_id: 260586
+        url_poster: https://theposterdb.com/api/assets/451251
+        # IDs: imdb://tt2395695, tmdb://58474, tvdb://260586
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cosmos%20%282014%29&category=Shows&year_filter=equals&yone=2014&tmdb_id=58474&imdb_id=tt2395695&tvdb_id=260586
+        # tmdb: https://www.themoviedb.org/tv/58474
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=260586
+        # imdb: https://www.imdb.com/title/tt2395695
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/451253
+            2:
+                url_poster: https://theposterdb.com/api/assets/451254

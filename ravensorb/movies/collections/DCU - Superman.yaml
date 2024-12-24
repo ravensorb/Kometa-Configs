@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "11411, 1452, 1924, 624479, 8536, 9531",
       poster: https://theposterdb.com/api/assets/162402
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "11411, 1452, 1924, 624479, 8536, 9531" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Superman&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Superman

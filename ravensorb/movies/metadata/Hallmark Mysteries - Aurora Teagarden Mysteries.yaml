@@ -1,0 +1,218 @@
+metadata:
+    "Aurora Teagarden Mystery: A Bone to Pick (2015)":
+        year: 2015
+        title: "Aurora Teagarden Mystery: A Bone to Pick"
+        match:
+          mapping_id: 325078
+        url_poster: https://theposterdb.com/api/assets/440871
+        # IDs: imdb://tt4200442, tmdb://325078, tvdb://39877
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mystery%3A%20A%20Bone%20to%20Pick&category=Movies&year_filter=equals&yone=2015&tmdb_id=325078&imdb_id=tt4200442&tvdb_id=39877
+        # tmdb: https://www.themoviedb.org/movie/325078
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=39877
+        # imdb: https://www.imdb.com/title/tt4200442
+
+    "Real Murders: An Aurora Teagarden Mystery (2015)":
+        year: 2015
+        title: "Real Murders: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 339580
+        url_poster: https://theposterdb.com/api/assets/440872
+        # IDs: imdb://tt4618800, tmdb://339580, tvdb://27697
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Real%20Murders%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2015&tmdb_id=339580&imdb_id=tt4618800&tvdb_id=27697
+        # tmdb: https://www.themoviedb.org/movie/339580
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2015&query=27697
+        # imdb: https://www.imdb.com/title/tt4618800
+
+    "The Julius House: An Aurora Teagarden Mystery (2016)":
+        year: 2016
+        title: "The Julius House: An Aurora Teagarden Mystery"
+        sort_title: "Julius House: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 414768
+        url_poster: https://theposterdb.com/api/assets/440874
+        # IDs: imdb://tt5931726, tmdb://414768, tvdb://16130
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Julius%20House%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2016&tmdb_id=414768&imdb_id=tt5931726&tvdb_id=16130
+        # tmdb: https://www.themoviedb.org/movie/414768
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=16130
+        # imdb: https://www.imdb.com/title/tt5931726
+
+    "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery (2016)":
+        year: 2016
+        title: "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 393737
+        url_poster: https://theposterdb.com/api/assets/440873
+        # IDs: imdb://tt5790274, tmdb://393737, tvdb://18213
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Three%20Bedrooms%2C%20One%20Corpse%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2016&tmdb_id=393737&imdb_id=tt5790274&tvdb_id=18213
+        # tmdb: https://www.themoviedb.org/movie/393737
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=18213
+        # imdb: https://www.imdb.com/title/tt5790274
+
+    "A Bundle of Trouble: An Aurora Teagarden Mystery (2017)":
+        year: 2017
+        title: "A Bundle of Trouble: An Aurora Teagarden Mystery"
+        sort_title: "Bundle of Trouble: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 455034
+        url_poster: https://theposterdb.com/api/assets/440876
+        # IDs: imdb://tt6760562, tmdb://455034, tvdb://31399
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Bundle%20of%20Trouble%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2017&tmdb_id=455034&imdb_id=tt6760562&tvdb_id=31399
+        # tmdb: https://www.themoviedb.org/movie/455034
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=31399
+        # imdb: https://www.imdb.com/title/tt6760562
+
+    "Dead Over Heels: An Aurora Teagarden Mystery (2017)":
+        year: 2017
+        title: "Dead Over Heels: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 436398
+        url_poster: https://theposterdb.com/api/assets/440875
+        # IDs: imdb://tt6543048, tmdb://436398, tvdb://12124
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Dead%20Over%20Heels%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2017&tmdb_id=436398&imdb_id=tt6543048&tvdb_id=12124
+        # tmdb: https://www.themoviedb.org/movie/436398
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=12124
+        # imdb: https://www.imdb.com/title/tt6543048
+
+    "Aurora Teagarden Mysteries: The Disappearing Game (2018)":
+        year: 2018
+        title: "Aurora Teagarden Mysteries: The Disappearing Game"
+        match:
+          mapping_id: 531158
+        url_poster: https://theposterdb.com/api/assets/440879
+        # IDs: imdb://tt8490686, tmdb://531158, tvdb://6857
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20The%20Disappearing%20Game&category=Movies&year_filter=equals&yone=2018&tmdb_id=531158&imdb_id=tt8490686&tvdb_id=6857
+        # tmdb: https://www.themoviedb.org/movie/531158
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=6857
+        # imdb: https://www.imdb.com/title/tt8490686
+
+    "Last Scene Alive: An Aurora Teagarden Mystery (2018)":
+        year: 2018
+        title: "Last Scene Alive: An Aurora Teagarden Mystery"
+        match:
+          mapping_id: 494466
+        url_poster: https://theposterdb.com/api/assets/440877
+        # IDs: imdb://tt7768286, tmdb://494466, tvdb://5174
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Last%20Scene%20Alive%3A%20An%20Aurora%20Teagarden%20Mystery&category=Movies&year_filter=equals&yone=2018&tmdb_id=494466&imdb_id=tt7768286&tvdb_id=5174
+        # tmdb: https://www.themoviedb.org/movie/494466
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=5174
+        # imdb: https://www.imdb.com/title/tt7768286
+
+    "Aurora Teagarden Mysteries: A Game of Cat and Mouse (2019)":
+        year: 2019
+        title: "Aurora Teagarden Mysteries: A Game of Cat and Mouse"
+        match:
+          mapping_id: 590118
+        url_poster: https://theposterdb.com/api/assets/440880
+        # IDs: imdb://tt9759864, tmdb://590118, tvdb://131421
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20A%20Game%20of%20Cat%20and%20Mouse&category=Movies&year_filter=equals&yone=2019&tmdb_id=590118&imdb_id=tt9759864&tvdb_id=131421
+        # tmdb: https://www.themoviedb.org/movie/590118
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=131421
+        # imdb: https://www.imdb.com/title/tt9759864
+
+    "Aurora Teagarden Mysteries: A Very Foul Play (2019)":
+        year: 2019
+        title: "Aurora Teagarden Mysteries: A Very Foul Play"
+        match:
+          mapping_id: 590123
+        url_poster: https://theposterdb.com/api/assets/440882
+        # IDs: imdb://tt9759872, tmdb://590123, tvdb://131423
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20A%20Very%20Foul%20Play&category=Movies&year_filter=equals&yone=2019&tmdb_id=590123&imdb_id=tt9759872&tvdb_id=131423
+        # tmdb: https://www.themoviedb.org/movie/590123
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=131423
+        # imdb: https://www.imdb.com/title/tt9759872
+
+    "Aurora Teagarden Mysteries: An Inheritance to Die For (2019)":
+        year: 2019
+        title: "Aurora Teagarden Mysteries: An Inheritance to Die For"
+        match:
+          mapping_id: 590121
+        url_poster: https://theposterdb.com/api/assets/440881
+        # IDs: imdb://tt9703326, tmdb://590121, tvdb://131422
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20An%20Inheritance%20to%20Die%20For&category=Movies&year_filter=equals&yone=2019&tmdb_id=590121&imdb_id=tt9703326&tvdb_id=131422
+        # tmdb: https://www.themoviedb.org/movie/590121
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=131422
+        # imdb: https://www.imdb.com/title/tt9703326
+
+    "Aurora Teagarden Mysteries: Heist and Seek (2020)":
+        year: 2020
+        title: "Aurora Teagarden Mysteries: Heist and Seek"
+        match:
+          mapping_id: 681638
+        url_poster: https://theposterdb.com/api/assets/440883
+        # IDs: imdb://tt11686326, tmdb://681638, tvdb://133279
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20Heist%20and%20Seek&category=Movies&year_filter=equals&yone=2020&tmdb_id=681638&imdb_id=tt11686326&tvdb_id=133279
+        # tmdb: https://www.themoviedb.org/movie/681638
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=133279
+        # imdb: https://www.imdb.com/title/tt11686326
+
+    "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly (2020)":
+        year: 2020
+        title: "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly"
+        match:
+          mapping_id: 741755
+        url_poster: https://theposterdb.com/api/assets/440884
+        # IDs: imdb://tt11859634, tmdb://741755, tvdb://138896
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20Reunited%20and%20It%20Feels%20So%20Deadly&category=Movies&year_filter=equals&yone=2020&tmdb_id=741755&imdb_id=tt11859634&tvdb_id=138896
+        # tmdb: https://www.themoviedb.org/movie/741755
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=138896
+        # imdb: https://www.imdb.com/title/tt11859634
+
+    "Aurora Teagarden Mysteries: Honeymoon, Honeymurder (2021)":
+        year: 2021
+        title: "Aurora Teagarden Mysteries: Honeymoon, Honeymurder"
+        match:
+          mapping_id: 845929
+        url_poster: https://theposterdb.com/api/assets/440887
+        # IDs: imdb://tt14147550, tmdb://845929, tvdb://209393
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20Honeymoon%2C%20Honeymurder&category=Movies&year_filter=equals&yone=2021&tmdb_id=845929&imdb_id=tt14147550&tvdb_id=209393
+        # tmdb: https://www.themoviedb.org/movie/845929
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=209393
+        # imdb: https://www.imdb.com/title/tt14147550
+
+    "Aurora Teagarden Mysteries: How to Con a Con (2021)":
+        year: 2021
+        title: "Aurora Teagarden Mysteries: How to Con a Con"
+        match:
+          mapping_id: 793425
+        url_poster: https://theposterdb.com/api/assets/440885
+        # IDs: imdb://tt13732354, tmdb://793425, tvdb://151734
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20How%20to%20Con%20a%20Con&category=Movies&year_filter=equals&yone=2021&tmdb_id=793425&imdb_id=tt13732354&tvdb_id=151734
+        # tmdb: https://www.themoviedb.org/movie/793425
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=151734
+        # imdb: https://www.imdb.com/title/tt13732354
+
+    "Aurora Teagarden Mysteries: Til Death Do Us Part (2021)":
+        year: 2021
+        title: "Aurora Teagarden Mysteries: Til Death Do Us Part"
+        match:
+          mapping_id: 793465
+        url_poster: https://theposterdb.com/api/assets/440886
+        # IDs: imdb://tt13870774, tmdb://793465, tvdb://157674
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20Til%20Death%20Do%20Us%20Part&category=Movies&year_filter=equals&yone=2021&tmdb_id=793465&imdb_id=tt13870774&tvdb_id=157674
+        # tmdb: https://www.themoviedb.org/movie/793465
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=157674
+        # imdb: https://www.imdb.com/title/tt13870774
+
+    "Haunted by Murder (2022)":
+        year: 2022
+        title: "Haunted by Murder"
+        match:
+          mapping_id: 910765
+        url_poster: https://theposterdb.com/api/assets/440888
+        # IDs: imdb://tt15829754, tmdb://910765, tvdb://332652
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Haunted%20by%20Murder&category=Movies&year_filter=equals&yone=2022&tmdb_id=910765&imdb_id=tt15829754&tvdb_id=332652
+        # tmdb: https://www.themoviedb.org/movie/910765
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=332652
+        # imdb: https://www.imdb.com/title/tt15829754
+
+    "Aurora Teagarden Mysteries: Something New (2023)":
+        year: 2023
+        title: "Aurora Teagarden Mysteries: Something New"
+        match:
+          mapping_id: 1101840
+        url_poster: https://theposterdb.com/api/assets/418936
+        # IDs: imdb://tt27075102, tmdb://1101840, tvdb://346250
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Aurora%20Teagarden%20Mysteries%3A%20Something%20New&category=Movies&year_filter=equals&yone=2023&tmdb_id=1101840&imdb_id=tt27075102&tvdb_id=346250
+        # tmdb: https://www.themoviedb.org/movie/1101840
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=346250
+        # imdb: https://www.imdb.com/title/tt27075102

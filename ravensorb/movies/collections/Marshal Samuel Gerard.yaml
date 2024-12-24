@@ -1,13 +1,12 @@
 collections:
   "Marshal Samuel Gerard":
     variables: {
-      movie: "11808, 5503",
       poster: https://theposterdb.com/api/assets/94573
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "11808, 5503" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Marshal%20Samuel%20Gerard&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Marshal%20Samuel%20Gerard%22

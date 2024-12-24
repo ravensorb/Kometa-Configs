@@ -1,0 +1,27 @@
+metadata:
+    "Wentworth (2013)":
+        year: 2013
+        title: "Wentworth"
+        match:
+          mapping_id: 264234
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2433738, tmdb://44856, tvdb://264234
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Wentworth&category=Shows&year_filter=equals&yone=2013&tmdb_id=44856&imdb_id=tt2433738&tvdb_id=264234
+        # tmdb: https://www.themoviedb.org/tv/44856
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264234
+        # imdb: https://www.imdb.com/title/tt2433738
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 6:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 8:
+                # url_poster: https://theposterdb.com/api/assets/

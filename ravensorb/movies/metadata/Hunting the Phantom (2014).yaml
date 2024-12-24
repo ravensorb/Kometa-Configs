@@ -1,0 +1,12 @@
+metadata:
+    "Hunting the Phantom (2014)":
+        year: 2014
+        title: "Hunting the Phantom"
+        match:
+          mapping_id: 252728
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1880313, tmdb://252728, tvdb://70478
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hunting%20the%20Phantom&category=Movies&year_filter=equals&yone=2014&tmdb_id=252728&imdb_id=tt1880313&tvdb_id=70478
+        # tmdb: https://www.themoviedb.org/movie/252728
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2014&query=70478
+        # imdb: https://www.imdb.com/title/tt1880313

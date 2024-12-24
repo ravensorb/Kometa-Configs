@@ -1,0 +1,17 @@
+metadata:
+    "Con Man (2015)":
+        year: 2015
+        title: "Con Man"
+        match:
+          mapping_id: 298156
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4642170, tmdb://63196, tvdb://298156
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Con%20Man&category=Shows&year_filter=equals&yone=2015&tmdb_id=63196&imdb_id=tt4642170&tvdb_id=298156
+        # tmdb: https://www.themoviedb.org/tv/63196
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=298156
+        # imdb: https://www.imdb.com/title/tt4642170
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

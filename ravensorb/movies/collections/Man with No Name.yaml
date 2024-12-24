@@ -1,13 +1,12 @@
 collections:
   "Man with No Name":
     variables: {
-      movie: "391, 429, 938",
       poster: https://theposterdb.com/api/assets/211754
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "391, 429, 938" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Man%20with%20No%20Name&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Man%20with%20No%20Name%22

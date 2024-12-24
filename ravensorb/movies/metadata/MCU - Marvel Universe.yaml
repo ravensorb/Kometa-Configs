@@ -1,16 +1,4 @@
 metadata:
-    "Howard the Duck (1986)":
-        year: 1986
-        title: "Howard the Duck"
-        match:
-          mapping_id: 10658
-        url_poster: https://theposterdb.com/api/assets/171160
-        # IDs: imdb://tt0091225, tmdb://10658, tvdb://4593
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Howard%20the%20Duck&category=Movies&year_filter=equals&yone=1986&tmdb_id=10658&imdb_id=tt0091225&tvdb_id=4593
-        # tmdb: https://www.themoviedb.org/movie/10658
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=4593
-        # imdb: https://www.imdb.com/title/tt0091225
-
     "Men in Black (1997)":
         year: 1997
         title: "Men in Black"
@@ -332,6 +320,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=1708
         # imdb: https://www.imdb.com/title/tt1071875
 
+    "Marvel One-Shot: Item 47 (2012)":
+        year: 2012
+        title: "Marvel One-Shot: Item 47"
+        sort_title: "MCU - 02 - Marvel One-Shot: Item 47"
+        match:
+          mapping_id: 119569
+        url_poster: https://theposterdb.com/api/assets/171201
+        # IDs: imdb://tt2247732, tmdb://119569, tvdb://4835
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%20One-Shot%3A%20Item%2047&category=Movies&year_filter=equals&yone=2012&tmdb_id=119569&imdb_id=tt2247732&tvdb_id=4835
+        # tmdb: https://www.themoviedb.org/movie/119569
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=4835
+        # imdb: https://www.imdb.com/title/tt2247732
+
     "Men in Black³ (2012)":
         year: 2012
         title: "Men in Black³"
@@ -357,6 +358,18 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/1930
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2012&query=473
         # imdb: https://www.imdb.com/title/tt0948470
+
+    "Iron Man 3 Unmasked (2013)":
+        year: 2013
+        title: "Iron Man 3 Unmasked"
+        match:
+          mapping_id: tt3212636
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3212636, tvdb://77470
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Iron%20Man%203%20Unmasked&category=Movies&year_filter=equals&yone=2013&imdb_id=tt3212636&tvdb_id=77470
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2013&query=77470
+        # imdb: https://www.imdb.com/title/tt3212636
 
     "Kick-Ass 2 (2013)":
         year: 2013
@@ -487,6 +500,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2017&query=321029
         # imdb: https://www.imdb.com/title/tt7178282
 
+    "Avengers: Infinity War (2018)":
+        year: 2018
+        title: "Avengers: Infinity War"
+        sort_title: "MCU - 01 - Avengers: Infinity War"
+        match:
+          mapping_id: 299536
+        url_poster: https://theposterdb.com/api/assets/170963
+        # IDs: imdb://tt4154756, tmdb://299536, tvdb://8
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Avengers%3A%20Infinity%20War&category=Movies&year_filter=equals&yone=2018&tmdb_id=299536&imdb_id=tt4154756&tvdb_id=8
+        # tmdb: https://www.themoviedb.org/movie/299536
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=8
+        # imdb: https://www.imdb.com/title/tt4154756
+
     "Spider-Man: Into the Spider-Verse (2018)":
         year: 2018
         title: "Spider-Man: Into the Spider-Verse"
@@ -500,6 +526,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=33
         # imdb: https://www.imdb.com/title/tt4633694
 
+    "Avengers: Endgame (2019)":
+        year: 2019
+        title: "Avengers: Endgame"
+        sort_title: "MCU - 01 - Avengers: Endgame"
+        match:
+          mapping_id: 299534
+        url_poster: https://theposterdb.com/api/assets/170966
+        # IDs: imdb://tt4154796, tmdb://299534, tvdb://148
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Avengers%3A%20Endgame&category=Movies&year_filter=equals&yone=2019&tmdb_id=299534&imdb_id=tt4154796&tvdb_id=148
+        # tmdb: https://www.themoviedb.org/movie/299534
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=148
+        # imdb: https://www.imdb.com/title/tt4154796
+
     "Captain Marvel (2019)":
         year: 2019
         title: "Captain Marvel"
@@ -512,6 +551,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/299537
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=10
         # imdb: https://www.imdb.com/title/tt4154664
+
+    "Marvel Studios: Expanding the Universe (2019)":
+        year: 2019
+        title: "Marvel Studios: Expanding the Universe"
+        sort_title: "MCU - Marvel Studios: Expanding the Universe"
+        match:
+          mapping_id: 647375
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt11295300, tmdb://647375, tvdb://132111
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%20Studios%3A%20Expanding%20the%20Universe&category=Movies&year_filter=equals&yone=2019&tmdb_id=647375&imdb_id=tt11295300&tvdb_id=132111
+        # tmdb: https://www.themoviedb.org/movie/647375
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=132111
+        # imdb: https://www.imdb.com/title/tt11295300
 
     "Black Widow (2021)":
         year: 2021
@@ -538,6 +590,19 @@ metadata:
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=131146
         # imdb: https://www.imdb.com/title/tt9376612
 
+    "Spider-Man: No Way Home (2021)":
+        year: 2021
+        title: "Spider-Man: No Way Home"
+        sort_title: "MCU - 01 - Spider-Man: No Way Home"
+        match:
+          mapping_id: 634649
+        url_poster: https://theposterdb.com/api/assets/383326
+        # IDs: imdb://tt10872600, tmdb://634649, tvdb://132448
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%3A%20No%20Way%20Home&category=Movies&year_filter=equals&yone=2021&tmdb_id=634649&imdb_id=tt10872600&tvdb_id=132448
+        # tmdb: https://www.themoviedb.org/movie/634649
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2021&query=132448
+        # imdb: https://www.imdb.com/title/tt10872600
+
     "Thor: Love and Thunder (2022)":
         year: 2022
         title: "Thor: Love and Thunder"
@@ -549,6 +614,19 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/616037
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2022&query=131141
         # imdb: https://www.imdb.com/title/tt10648342
+
+    "Spider-Man: Across the Spider-Verse (2023)":
+        year: 2023
+        title: "Spider-Man: Across the Spider-Verse"
+        sort_title: "MCU - 02 - Spider-Man: Across the Spider-Verse"
+        match:
+          mapping_id: 569094
+        url_poster: https://theposterdb.com/api/assets/369894
+        # IDs: imdb://tt9362722, tmdb://569094, tvdb://132814
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%3A%20Across%20the%20Spider-Verse&category=Movies&year_filter=equals&yone=2023&tmdb_id=569094&imdb_id=tt9362722&tvdb_id=132814
+        # tmdb: https://www.themoviedb.org/movie/569094
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2023&query=132814
+        # imdb: https://www.imdb.com/title/tt9362722
 
     "The Marvels (2023)":
         year: 2023

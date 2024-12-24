@@ -5,13 +5,12 @@ collections:
       sort_prefix: "Doctor Who",
       sort_order: "01",
       sort_separator: " - ",
-      show: "122651, 309893, 4322706, 440213, 79298, 79511, 79708, 80160, 84831",
       poster: https://theposterdb.com/api/assets/163698
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "122651, 309893, 4322706, 440213, 79298, 79511, 79708, 80160" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Doctor%20Who%20%28Spin-Offs%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Doctor%20Who%20%28Spin-Offs%29%22

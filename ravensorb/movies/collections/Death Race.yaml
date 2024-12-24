@@ -1,13 +1,12 @@
 collections:
   "Death Race":
     variables: {
-      movie: "10483, 156717, 51620",
       poster: https://theposterdb.com/api/assets/131496
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10483, 156717, 51620" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Death%20Race&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Death%20Race%22

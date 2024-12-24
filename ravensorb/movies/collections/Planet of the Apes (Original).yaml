@@ -2,13 +2,12 @@ collections:
   "Planet of the Apes (Original)":
     variables: {
       label: "Planet of the Apes",
-      movie: "1685, 1687, 1688, 1705, 17244, 871",
       poster: https://theposterdb.com/api/assets/163979
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1685, 1687, 1688, 1705, 17244, 871" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20of%20the%20Apes%20%28Original%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Planet%20of%20the%20Apes%20%28Original%29%22

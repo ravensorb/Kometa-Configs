@@ -1,0 +1,48 @@
+metadata:
+    "Miss Marple: The Murder at the Vicarage (1986)":
+        year: 1986
+        title: "Miss Marple: The Murder at the Vicarage"
+        match:
+          mapping_id: 293879
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0170266, tmdb://293879, tvdb://31095
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple%3A%20The%20Murder%20at%20the%20Vicarage&category=Movies&year_filter=equals&yone=1986&tmdb_id=293879&imdb_id=tt0170266&tvdb_id=31095
+        # tmdb: https://www.themoviedb.org/movie/293879
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1986&query=31095
+        # imdb: https://www.imdb.com/title/tt0170266
+
+    "Miss Marple: A Caribbean Mystery (1989)":
+        year: 1989
+        title: "Miss Marple: A Caribbean Mystery"
+        match:
+          mapping_id: 578561
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0097015, tmdb://578561, tvdb://97060
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple%3A%20A%20Caribbean%20Mystery&category=Movies&year_filter=equals&yone=1989&tmdb_id=578561&imdb_id=tt0097015&tvdb_id=97060
+        # tmdb: https://www.themoviedb.org/movie/578561
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1989&query=97060
+        # imdb: https://www.imdb.com/title/tt0097015
+
+    "Miss Marple: They Do It with Mirrors (1991)":
+        year: 1991
+        title: "Miss Marple: They Do It with Mirrors"
+        match:
+          mapping_id: 416417
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0103078, tmdb://416417, tvdb://102910
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple%3A%20They%20Do%20It%20with%20Mirrors&category=Movies&year_filter=equals&yone=1991&tmdb_id=416417&imdb_id=tt0103078&tvdb_id=102910
+        # tmdb: https://www.themoviedb.org/movie/416417
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1991&query=102910
+        # imdb: https://www.imdb.com/title/tt0103078
+
+    "Miss Marple: The Mirror Crack'd from Side to Side (1992)":
+        year: 1992
+        title: "Miss Marple: The Mirror Crack'd from Side to Side"
+        match:
+          mapping_id: 417161
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0104882, tmdb://417161, tvdb://25974
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Miss%20Marple%3A%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side&category=Movies&year_filter=equals&yone=1992&tmdb_id=417161&imdb_id=tt0104882&tvdb_id=25974
+        # tmdb: https://www.themoviedb.org/movie/417161
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1992&query=25974
+        # imdb: https://www.imdb.com/title/tt0104882

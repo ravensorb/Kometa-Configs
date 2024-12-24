@@ -1,13 +1,12 @@
 collections:
   "Babylon 5":
     variables: {
-      movie: "10916, 10921, 10940, 10941, 1121575, 15289, 16068",
       poster: https://theposterdb.com/api/assets/295296
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10916, 10921, 10940, 10941, 1121575, 15289, 16068" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Babylon%205&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Babylon%205%22

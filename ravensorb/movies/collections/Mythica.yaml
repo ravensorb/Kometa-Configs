@@ -1,13 +1,12 @@
 collections:
   "Mythica":
     variables: {
-      movie: "321068, 347096, 370687, 388191, 401689",
       poster: https://theposterdb.com/api/assets/234559
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "321068, 347096, 370687, 388191, 401689" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Mythica&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Mythica

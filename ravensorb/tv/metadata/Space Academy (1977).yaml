@@ -1,0 +1,15 @@
+metadata:
+    "Space Academy (1977)":
+        year: 1977
+        title: "Space Academy"
+        match:
+          mapping_id: 83490
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0075585, tmdb://12141, tvdb://83490
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Space%20Academy&category=Shows&year_filter=equals&yone=1977&tmdb_id=12141&imdb_id=tt0075585&tvdb_id=83490
+        # tmdb: https://www.themoviedb.org/tv/12141
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1977&query=83490
+        # imdb: https://www.imdb.com/title/tt0075585
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

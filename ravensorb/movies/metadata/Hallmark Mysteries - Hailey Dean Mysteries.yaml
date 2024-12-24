@@ -1,0 +1,108 @@
+metadata:
+    "Hailey Dean Mystery: Murder, with Love (2016)":
+        year: 2016
+        title: "Hailey Dean Mystery: Murder, with Love"
+        match:
+          mapping_id: 422842
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6203026, tmdb://422842
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%20Murder%2C%20with%20Love&category=Movies&year_filter=equals&yone=2016&tmdb_id=422842&imdb_id=tt6203026
+        # tmdb: https://www.themoviedb.org/movie/422842
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt6203026
+
+    "Hailey Dean Mystery: Dating Is Murder (2017)":
+        year: 2017
+        title: "Hailey Dean Mystery: Dating Is Murder"
+        match:
+          mapping_id: 479630
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7584908, tmdb://479630
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%20Dating%20Is%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=479630&imdb_id=tt7584908
+        # tmdb: https://www.themoviedb.org/movie/479630
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7584908
+
+    "Hailey Dean Mystery: Deadly Estate (2017)":
+        year: 2017
+        title: "Hailey Dean Mystery: Deadly Estate"
+        match:
+          mapping_id: 446865
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6697760, tmdb://446865
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%20Deadly%20Estate&category=Movies&year_filter=equals&yone=2017&tmdb_id=446865&imdb_id=tt6697760
+        # tmdb: https://www.themoviedb.org/movie/446865
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt6697760
+
+    "Hailey Dean Mystery: 2 + 2 = Murder (2018)":
+        year: 2018
+        title: "Hailey Dean Mystery: 2 + 2 = Murder"
+        match:
+          mapping_id: 528094
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt7946586, tmdb://528094
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%202%20%2B%202%20%3D%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=528094&imdb_id=tt7946586
+        # tmdb: https://www.themoviedb.org/movie/528094
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt7946586
+
+    "Hailey Dean Mystery: A Marriage Made for Murder (2018)":
+        year: 2018
+        title: "Hailey Dean Mystery: A Marriage Made for Murder"
+        match:
+          mapping_id: 529369
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8497714, tmdb://529369, tvdb://82177
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%20A%20Marriage%20Made%20for%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=529369&imdb_id=tt8497714&tvdb_id=82177
+        # tmdb: https://www.themoviedb.org/movie/529369
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2018&query=82177
+        # imdb: https://www.imdb.com/title/tt8497714
+
+    "Hailey Dean Mysteries: A Prescription for Murder (2019)":
+        year: 2019
+        title: "Hailey Dean Mysteries: A Prescription for Murder"
+        match:
+          mapping_id: 594633
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10244898, tmdb://594633
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mysteries%3A%20A%20Prescription%20for%20Murder&category=Movies&year_filter=equals&yone=2019&tmdb_id=594633&imdb_id=tt10244898
+        # tmdb: https://www.themoviedb.org/movie/594633
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt10244898
+
+    "Hailey Dean Mysteries: Death on Duty (2019)":
+        year: 2019
+        title: "Hailey Dean Mysteries: Death on Duty"
+        match:
+          mapping_id: 594631
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10244894, tmdb://594631
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mysteries%3A%20Death%20on%20Duty&category=Movies&year_filter=equals&yone=2019&tmdb_id=594631&imdb_id=tt10244894
+        # tmdb: https://www.themoviedb.org/movie/594631
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt10244894
+
+    "Hailey Dean Mysteries: Killer Sentence (2019)":
+        year: 2019
+        title: "Hailey Dean Mysteries: Killer Sentence"
+        match:
+          mapping_id: 603475
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt10244900, tmdb://603475
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mysteries%3A%20Killer%20Sentence&category=Movies&year_filter=equals&yone=2019&tmdb_id=603475&imdb_id=tt10244900
+        # tmdb: https://www.themoviedb.org/movie/603475
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt10244900
+
+    "Hailey Dean Mystery: A Will to Kill (2020)":
+        year: 2020
+        title: "Hailey Dean Mystery: A Will to Kill"
+        match:
+          mapping_id: 529371
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8522168, tmdb://529371, tvdb://17679
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Hailey%20Dean%20Mystery%3A%20A%20Will%20to%20Kill&category=Movies&year_filter=equals&yone=2020&tmdb_id=529371&imdb_id=tt8522168&tvdb_id=17679
+        # tmdb: https://www.themoviedb.org/movie/529371
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2020&query=17679
+        # imdb: https://www.imdb.com/title/tt8522168

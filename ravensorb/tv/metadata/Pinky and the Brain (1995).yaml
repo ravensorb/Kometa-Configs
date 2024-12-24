@@ -1,0 +1,23 @@
+metadata:
+    "Pinky and the Brain (1995)":
+        year: 1995
+        title: "Pinky and the Brain"
+        match:
+          mapping_id: 72880
+        url_poster: https://theposterdb.com/api/assets/412150
+        # IDs: imdb://tt0112123, tmdb://2228, tvdb://72880
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pinky%20and%20the%20Brain&category=Shows&year_filter=equals&yone=1995&tmdb_id=2228&imdb_id=tt0112123&tvdb_id=72880
+        # tmdb: https://www.themoviedb.org/tv/2228
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1995&query=72880
+        # imdb: https://www.imdb.com/title/tt0112123
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/412146
+            2:
+                url_poster: https://theposterdb.com/api/assets/412147
+            3:
+                url_poster: https://theposterdb.com/api/assets/412148
+            4:
+                url_poster: https://theposterdb.com/api/assets/412149

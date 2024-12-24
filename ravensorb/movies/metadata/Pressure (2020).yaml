@@ -1,0 +1,12 @@
+metadata:
+    "Pressure (2020)":
+        year: 2020
+        title: "Pressure"
+        match:
+          mapping_id: 724919
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://724919
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pressure&category=Movies&year_filter=equals&yone=2020&tmdb_id=724919
+        # tmdb: https://www.themoviedb.org/movie/724919
+        # tvdb: 
+        # imdb: 

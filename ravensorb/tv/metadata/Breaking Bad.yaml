@@ -1,0 +1,54 @@
+metadata:
+    "Breaking Bad (2008)":
+        year: 2008
+        title: "Breaking Bad"
+        sort_title: "Breaking Bad 01"
+        match:
+          mapping_id: 81189
+        url_poster: https://theposterdb.com/api/assets/324099
+        # IDs: imdb://tt0903747, tmdb://1396, tvdb://81189
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Breaking%20Bad&category=Shows&year_filter=equals&yone=2008&tmdb_id=1396&imdb_id=tt0903747&tvdb_id=81189
+        # tmdb: https://www.themoviedb.org/tv/1396
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2008&query=81189
+        # imdb: https://www.imdb.com/title/tt0903747
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/324101
+            2:
+                url_poster: https://theposterdb.com/api/assets/324102
+            3:
+                url_poster: https://theposterdb.com/api/assets/324103
+            4:
+                url_poster: https://theposterdb.com/api/assets/324104
+            5:
+                url_poster: https://theposterdb.com/api/assets/324105
+
+    "Better Call Saul (2015)":
+        year: 2015
+        title: "Better Call Saul"
+        sort_title: "Breaking Bad 02: Better Call Saul"
+        match:
+          mapping_id: 273181
+        url_poster: https://theposterdb.com/api/assets/324091
+        # IDs: imdb://tt3032476, tmdb://60059, tvdb://273181
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Better%20Call%20Saul&category=Shows&year_filter=equals&yone=2015&tmdb_id=60059&imdb_id=tt3032476&tvdb_id=273181
+        # tmdb: https://www.themoviedb.org/tv/60059
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=273181
+        # imdb: https://www.imdb.com/title/tt3032476
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/324092
+            2:
+                url_poster: https://theposterdb.com/api/assets/324093
+            3:
+                url_poster: https://theposterdb.com/api/assets/324094
+            4:
+                url_poster: https://theposterdb.com/api/assets/324095
+            5:
+                url_poster: https://theposterdb.com/api/assets/324096
+            6:
+                url_poster: https://theposterdb.com/api/assets/324097

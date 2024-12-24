@@ -1,0 +1,60 @@
+metadata:
+    "Jane Doe: Now You See It, Now You Don't (2005)":
+        year: 2005
+        title: "Jane Doe: Now You See It, Now You Don't"
+        match:
+          mapping_id: 68676
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0435708, tmdb://68676, tvdb://144656
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe%3A%20Now%20You%20See%20It%2C%20Now%20You%20Don%27t&category=Movies&year_filter=equals&yone=2005&tmdb_id=68676&imdb_id=tt0435708&tvdb_id=144656
+        # tmdb: https://www.themoviedb.org/movie/68676
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=144656
+        # imdb: https://www.imdb.com/title/tt0435708
+
+    "Jane Doe: The Wrong Face (2005)":
+        year: 2005
+        title: "Jane Doe: The Wrong Face"
+        match:
+          mapping_id: 68678
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0440512, tmdb://68678, tvdb://80695
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe%3A%20The%20Wrong%20Face&category=Movies&year_filter=equals&yone=2005&tmdb_id=68678&imdb_id=tt0440512&tvdb_id=80695
+        # tmdb: https://www.themoviedb.org/movie/68678
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=80695
+        # imdb: https://www.imdb.com/title/tt0440512
+
+    "Jane Doe: Til Death Do Us Part (2005)":
+        year: 2005
+        title: "Jane Doe: Til Death Do Us Part"
+        match:
+          mapping_id: 105443
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0438502, tmdb://105443, tvdb://144657
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe%3A%20Til%20Death%20Do%20Us%20Part&category=Movies&year_filter=equals&yone=2005&tmdb_id=105443&imdb_id=tt0438502&tvdb_id=144657
+        # tmdb: https://www.themoviedb.org/movie/105443
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=144657
+        # imdb: https://www.imdb.com/title/tt0438502
+
+    "Jane Doe: Vanishing Act (2005)":
+        year: 2005
+        title: "Jane Doe: Vanishing Act"
+        match:
+          mapping_id: 68688
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0440513, tmdb://68688, tvdb://144655
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe%3A%20Vanishing%20Act&category=Movies&year_filter=equals&yone=2005&tmdb_id=68688&imdb_id=tt0440513&tvdb_id=144655
+        # tmdb: https://www.themoviedb.org/movie/68688
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2005&query=144655
+        # imdb: https://www.imdb.com/title/tt0440513
+
+    "Jane Doe: How to Fire Your Boss (2007)":
+        year: 2007
+        title: "Jane Doe: How to Fire Your Boss"
+        match:
+          mapping_id: 105460
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0811777, tmdb://105460, tvdb://47430
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Jane%20Doe%3A%20How%20to%20Fire%20Your%20Boss&category=Movies&year_filter=equals&yone=2007&tmdb_id=105460&imdb_id=tt0811777&tvdb_id=47430
+        # tmdb: https://www.themoviedb.org/movie/105460
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2007&query=47430
+        # imdb: https://www.imdb.com/title/tt0811777

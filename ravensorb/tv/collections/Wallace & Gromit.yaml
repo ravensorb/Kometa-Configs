@@ -1,13 +1,12 @@
 collections:
   "Wallace & Gromit":
     variables: {
-      show: "143821, 203031, 78996",
       poster: https://theposterdb.com/api/assets/162952
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "143821, 203031, 78996" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Wallace%20%26%20Gromit&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Wallace%20%26%20Gromit%22

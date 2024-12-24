@@ -1,13 +1,12 @@
 collections:
   "The Chronicles of Narnia":
     variables: {
-      movie: "10140, 2454, 411",
       poster: https://theposterdb.com/api/assets/162017
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10140, 2454, 411" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Chronicles%20of%20Narnia&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22The%20Chronicles%20of%20Narnia%22

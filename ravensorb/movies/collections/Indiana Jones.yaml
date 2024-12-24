@@ -1,13 +1,12 @@
 collections:
   "Indiana Jones":
     variables: {
-      movie: "217, 335977, 85, 87, 89",
       poster: https://theposterdb.com/api/assets/163391
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "217, 335977, 85, 87, 89" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Indiana%20Jones&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Indiana%20Jones%22

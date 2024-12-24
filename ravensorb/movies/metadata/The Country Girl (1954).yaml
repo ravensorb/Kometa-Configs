@@ -1,0 +1,13 @@
+metadata:
+    "The Country Girl (1954)":
+        year: 1954
+        title: "The Country Girl"
+        sort_title: "Country Girl"
+        match:
+          mapping_id: 1120262
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tmdb://1120262
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Country%20Girl&category=Movies&year_filter=equals&yone=1954&tmdb_id=1120262
+        # tmdb: https://www.themoviedb.org/movie/1120262
+        # tvdb: 
+        # imdb: 

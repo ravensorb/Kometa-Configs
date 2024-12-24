@@ -1,0 +1,18 @@
+metadata:
+    "The Abbott and Costello Show (1952)":
+        year: 1952
+        title: "The Abbott and Costello Show"
+        sort_title: "Abbott and Costello Show"
+        match:
+          mapping_id: 77677
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0044229, tmdb://11821, tvdb://77677
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Abbott%20and%20Costello%20Show&category=Shows&year_filter=equals&yone=1952&tmdb_id=11821&imdb_id=tt0044229&tvdb_id=77677
+        # tmdb: https://www.themoviedb.org/tv/11821
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1952&query=77677
+        # imdb: https://www.imdb.com/title/tt0044229
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/

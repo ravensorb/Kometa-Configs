@@ -1,13 +1,12 @@
 collections:
   "Eddie and the Cruisers":
     variables: {
-      movie: "21721, 25005",
       poster: https://theposterdb.com/api/assets/166797
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "21721, 25005" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Eddie%20and%20the%20Cruisers&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Eddie%20and%20the%20Cruisers%22

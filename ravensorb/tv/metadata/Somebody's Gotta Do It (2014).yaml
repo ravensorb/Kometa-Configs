@@ -1,0 +1,19 @@
+metadata:
+    "Somebody's Gotta Do It (2014)":
+        year: 2014
+        title: "Somebody's Gotta Do It"
+        match:
+          mapping_id: 284791
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt4036176, tmdb://61610, tvdb://284791
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Somebody%27s%20Gotta%20Do%20It&category=Shows&year_filter=equals&yone=2014&tmdb_id=61610&imdb_id=tt4036176&tvdb_id=284791
+        # tmdb: https://www.themoviedb.org/tv/61610
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2014&query=284791
+        # imdb: https://www.imdb.com/title/tt4036176
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/

@@ -1,0 +1,18 @@
+metadata:
+    "The Gentlemen (2024)":
+        year: 2024
+        title: "The Gentlemen"
+        sort_title: "Gentlemen"
+        match:
+          mapping_id: 426845
+        url_poster: https://theposterdb.com/api/assets/469512
+        # IDs: imdb://tt13210838, tmdb://236235, tvdb://426845
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Gentlemen&category=Shows&year_filter=equals&yone=2024&tmdb_id=236235&imdb_id=tt13210838&tvdb_id=426845
+        # tmdb: https://www.themoviedb.org/tv/236235
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=426845
+        # imdb: https://www.imdb.com/title/tt13210838
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/469514

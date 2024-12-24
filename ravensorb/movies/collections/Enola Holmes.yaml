@@ -1,13 +1,12 @@
 collections:
   "Enola Holmes":
     variables: {
-      movie: "497582, 829280",
       poster: https://theposterdb.com/api/assets/283512
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "497582, 829280" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Enola%20Holmes&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Enola%20Holmes%22

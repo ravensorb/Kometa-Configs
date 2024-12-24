@@ -1,0 +1,41 @@
+metadata:
+    "Mystery Science Theater 3000 (1988)":
+        year: 1988
+        title: "Mystery Science Theater 3000"
+        match:
+          mapping_id: 74806
+        url_poster: https://theposterdb.com/api/assets/480741
+        # IDs: imdb://tt0094517, tmdb://1952, tvdb://74806
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Mystery%20Science%20Theater%203000&category=Shows&year_filter=equals&yone=1988&tmdb_id=1952&imdb_id=tt0094517&tvdb_id=74806
+        # tmdb: https://www.themoviedb.org/tv/1952
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=74806
+        # imdb: https://www.imdb.com/title/tt0094517
+        seasons:
+            0:
+                url_poster: https://theposterdb.com/api/assets/480742
+            1:
+                url_poster: https://theposterdb.com/api/assets/480743
+            2:
+                url_poster: https://theposterdb.com/api/assets/480744
+            3:
+                url_poster: https://theposterdb.com/api/assets/480745
+            4:
+                url_poster: https://theposterdb.com/api/assets/480746
+            5:
+                url_poster: https://theposterdb.com/api/assets/480747
+            6:
+                url_poster: https://theposterdb.com/api/assets/480748
+            7:
+                url_poster: https://theposterdb.com/api/assets/480749
+            8:
+                url_poster: https://theposterdb.com/api/assets/480750
+            9:
+                url_poster: https://theposterdb.com/api/assets/480751
+            10:
+                url_poster: https://theposterdb.com/api/assets/480752
+            11:
+                url_poster: https://theposterdb.com/api/assets/480753
+            12:
+                url_poster: https://theposterdb.com/api/assets/480754
+            13:
+                url_poster: https://theposterdb.com/api/assets/480755

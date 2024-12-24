@@ -1,13 +1,12 @@
 collections:
   "Naked Gun":
     variables: {
-      movie: "36593, 37136, 37137",
       poster: https://theposterdb.com/api/assets/164812
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "36593, 37136, 37137" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Naked%20Gun&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Naked%20Gun%22

@@ -1,0 +1,15 @@
+metadata:
+    "Into the Universe with Stephen Hawking (2010)":
+        year: 2010
+        title: "Into the Universe with Stephen Hawking"
+        match:
+          mapping_id: 159461
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt1655078, tmdb://32609, tvdb://159461
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Into%20the%20Universe%20with%20Stephen%20Hawking&category=Shows&year_filter=equals&yone=2010&tmdb_id=32609&imdb_id=tt1655078&tvdb_id=159461
+        # tmdb: https://www.themoviedb.org/tv/32609
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=159461
+        # imdb: https://www.imdb.com/title/tt1655078
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

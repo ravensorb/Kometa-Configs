@@ -1,13 +1,12 @@
 collections:
   "Percy Jackson":
     variables: {
-      movie: "32657, 76285",
       poster: https://theposterdb.com/api/assets/163402
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "32657, 76285" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Percy%20Jackson&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Percy%20Jackson%22

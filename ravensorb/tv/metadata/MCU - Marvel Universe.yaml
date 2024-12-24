@@ -1,4 +1,71 @@
 metadata:
+    "Spider-Man (1967)":
+        year: 1967
+        title: "Spider-Man"
+        match:
+          mapping_id: 72739
+        url_poster: https://theposterdb.com/api/assets/357115
+        # IDs: imdb://tt0061301, tmdb://1482, tvdb://72739
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man&category=Shows&year_filter=equals&yone=1967&tmdb_id=1482&imdb_id=tt0061301&tvdb_id=72739
+        # tmdb: https://www.themoviedb.org/tv/1482
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1967&query=72739
+        # imdb: https://www.imdb.com/title/tt0061301
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/357116
+            2:
+                url_poster: https://theposterdb.com/api/assets/357117
+            3:
+                url_poster: https://theposterdb.com/api/assets/357118
+
+    "Spider-Man and His Amazing Friends (1981)":
+        year: 1981
+        title: "Spider-Man and His Amazing Friends"
+        match:
+          mapping_id: 71880
+        url_poster: https://theposterdb.com/api/assets/430648
+        # IDs: imdb://tt0083481, tmdb://1269, tvdb://71880
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%20and%20His%20Amazing%20Friends&category=Shows&year_filter=equals&yone=1981&tmdb_id=1269&imdb_id=tt0083481&tvdb_id=71880
+        # tmdb: https://www.themoviedb.org/tv/1269
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1981&query=71880
+        # imdb: https://www.imdb.com/title/tt0083481
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/430649
+            2:
+                url_poster: https://theposterdb.com/api/assets/430650
+            3:
+                url_poster: https://theposterdb.com/api/assets/430651
+
+    "Spider-Man: The Animated Series (1994)":
+        year: 1994
+        title: "Spider-Man: The Animated Series"
+        match:
+          mapping_id: 73750
+        url_poster: https://theposterdb.com/api/assets/357074
+        # IDs: imdb://tt0112175, tmdb://888, tvdb://73750
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Spider-Man%3A%20The%20Animated%20Series&category=Shows&year_filter=equals&yone=1994&tmdb_id=888&imdb_id=tt0112175&tvdb_id=73750
+        # tmdb: https://www.themoviedb.org/tv/888
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1994&query=73750
+        # imdb: https://www.imdb.com/title/tt0112175
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/357075
+            2:
+                url_poster: https://theposterdb.com/api/assets/357076
+            3:
+                url_poster: https://theposterdb.com/api/assets/357077
+            4:
+                url_poster: https://theposterdb.com/api/assets/357078
+            5:
+                url_poster: https://theposterdb.com/api/assets/357079
+
     "Marvel's Avengers Assemble (2012)":
         year: 2012
         title: "Marvel's Avengers Assemble"
@@ -97,6 +164,70 @@ metadata:
             2:
                 url_poster: https://theposterdb.com/api/assets/239462
 
+    "Marvel's Daredevil (2015)":
+        year: 2015
+        title: "Marvel's Daredevil"
+        sort_title: "MCU: 03 - Daredevil"
+        match:
+          mapping_id: 281662
+        url_poster: https://theposterdb.com/api/assets/239468
+        # IDs: imdb://tt3322312, tmdb://61889, tvdb://281662
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Daredevil&category=Shows&year_filter=equals&yone=2015&tmdb_id=61889&imdb_id=tt3322312&tvdb_id=281662
+        # tmdb: https://www.themoviedb.org/tv/61889
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=281662
+        # imdb: https://www.imdb.com/title/tt3322312
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239469
+            2:
+                url_poster: https://theposterdb.com/api/assets/239470
+            3:
+                url_poster: https://theposterdb.com/api/assets/239471
+
+    "Marvel's Jessica Jones (2015)":
+        year: 2015
+        title: "Marvel's Jessica Jones"
+        sort_title: "MCU: 03 - Jessica Jones"
+        match:
+          mapping_id: 284190
+        url_poster: https://theposterdb.com/api/assets/239477
+        # IDs: imdb://tt2357547, tmdb://38472, tvdb://284190
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Jessica%20Jones&category=Shows&year_filter=equals&yone=2015&tmdb_id=38472&imdb_id=tt2357547&tvdb_id=284190
+        # tmdb: https://www.themoviedb.org/tv/38472
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=284190
+        # imdb: https://www.imdb.com/title/tt2357547
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239478
+            2:
+                url_poster: https://theposterdb.com/api/assets/239479
+            3:
+                url_poster: https://theposterdb.com/api/assets/239480
+
+    "Marvel's Luke Cage (2016)":
+        year: 2016
+        title: "Marvel's Luke Cage"
+        sort_title: "MCU: 03 - Luke Cage"
+        match:
+          mapping_id: 304219
+        url_poster: https://theposterdb.com/api/assets/239481
+        # IDs: imdb://tt3322314, tmdb://62126, tvdb://304219
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Luke%20Cage&category=Shows&year_filter=equals&yone=2016&tmdb_id=62126&imdb_id=tt3322314&tvdb_id=304219
+        # tmdb: https://www.themoviedb.org/tv/62126
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=304219
+        # imdb: https://www.imdb.com/title/tt3322314
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239482
+            2:
+                url_poster: https://theposterdb.com/api/assets/239483
+
     "Marvel's Inhumans (2017)":
         year: 2017
         title: "Marvel's Inhumans"
@@ -114,6 +245,26 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/239473
+
+    "Marvel's Iron Fist (2017)":
+        year: 2017
+        title: "Marvel's Iron Fist"
+        sort_title: "MCU: 03 - Iron Fist"
+        match:
+          mapping_id: 317953
+        url_poster: https://theposterdb.com/api/assets/239474
+        # IDs: imdb://tt3322310, tmdb://62127, tvdb://317953
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Iron%20Fist&category=Shows&year_filter=equals&yone=2017&tmdb_id=62127&imdb_id=tt3322310&tvdb_id=317953
+        # tmdb: https://www.themoviedb.org/tv/62127
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=317953
+        # imdb: https://www.imdb.com/title/tt3322310
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239475
+            2:
+                url_poster: https://theposterdb.com/api/assets/239476
 
     "Marvel's Legion (2017)":
         year: 2017
@@ -179,6 +330,44 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/430549
             3:
                 url_poster: https://theposterdb.com/api/assets/430550
+
+    "Marvel's The Defenders (2017)":
+        year: 2017
+        title: "Marvel's The Defenders"
+        sort_title: "MCU: 03 - Defenders"
+        match:
+          mapping_id: 326490
+        url_poster: https://theposterdb.com/api/assets/239488
+        # IDs: imdb://tt4230076, tmdb://62285, tvdb://326490
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20The%20Defenders&category=Shows&year_filter=equals&yone=2017&tmdb_id=62285&imdb_id=tt4230076&tvdb_id=326490
+        # tmdb: https://www.themoviedb.org/tv/62285
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=326490
+        # imdb: https://www.imdb.com/title/tt4230076
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239489
+
+    "Marvel's The Punisher (2017)":
+        year: 2017
+        title: "Marvel's The Punisher"
+        sort_title: "MCU: 03 - The Punisher"
+        match:
+          mapping_id: 331980
+        url_poster: https://theposterdb.com/api/assets/239490
+        # IDs: imdb://tt5675620, tmdb://67178, tvdb://331980
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20The%20Punisher&category=Shows&year_filter=equals&yone=2017&tmdb_id=67178&imdb_id=tt5675620&tvdb_id=331980
+        # tmdb: https://www.themoviedb.org/tv/67178
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2017&query=331980
+        # imdb: https://www.imdb.com/title/tt5675620
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/239491
+            2:
+                url_poster: https://theposterdb.com/api/assets/239492
 
     "Marvel's Cloak & Dagger (2018)":
         year: 2018
@@ -369,6 +558,8 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/192803
             2:
                 url_poster: https://theposterdb.com/api/assets/447369
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
 
     "Marvel's Ms. Marvel (2022)":
         year: 2022
@@ -473,3 +664,20 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/452497
+
+    "X-Men '97 (2024)":
+        year: 2024
+        title: "X-Men '97"
+        match:
+          mapping_id: 412432
+        url_poster: https://theposterdb.com/api/assets/357079
+        # IDs: imdb://tt16026746, tmdb://138502, tvdb://412432
+        # tpdb: https://theposterdb.com/search/advanced/results?term=X-Men%20%2797&category=Shows&year_filter=equals&yone=2024&tmdb_id=138502&imdb_id=tt16026746&tvdb_id=412432
+        # tmdb: https://www.themoviedb.org/tv/138502
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412432
+        # imdb: https://www.imdb.com/title/tt16026746
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/471248

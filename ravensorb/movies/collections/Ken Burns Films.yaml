@@ -1,13 +1,12 @@
 collections:
   "Ken Burns Films":
     variables: {
-      movie: "119120, 124067, 130002, 132792, 252451, 259410, 51594, 67079, 67700, 67707, 685495",
       poster: https://theposterdb.com/api/assets/316992
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "119120, 124067, 130002, 132792, 252451, 259410, 51594, 67079, 67700, 67707, 685495" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Ken%20Burns%20Films&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Ken%20Burns%20Films%22

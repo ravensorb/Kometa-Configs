@@ -1,13 +1,12 @@
 collections:
   "Walker":
     variables: {
-      show: "371768, 420060, 73756",
-      poster: https://theposterdb.com/api/assets/124954
+      poster: https://theposterdb.com/api/assets/367995
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "371768, 420060, 73756" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Walker&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Walker

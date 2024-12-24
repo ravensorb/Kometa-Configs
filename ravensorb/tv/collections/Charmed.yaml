@@ -1,13 +1,12 @@
 collections:
   "Charmed":
     variables: {
-      show: "349317, 70626",
       poster: https://theposterdb.com/api/assets/163157
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "349317, 70626" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Charmed&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Charmed

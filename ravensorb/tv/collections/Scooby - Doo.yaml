@@ -1,13 +1,12 @@
 collections:
   "Scooby-Doo":
     variables: {
-      show: "174681, 301376, 361065, 73543, 73546, 73817, 75661, 78260, 78740, 80119, 81425",
       poster: https://theposterdb.com/api/assets/161874
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "174681, 301376, 361065, 73543, 73546, 73817, 75661, 78260, 78740, 78901, 80119, 81425" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Scooby-Doo&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Scooby-Doo

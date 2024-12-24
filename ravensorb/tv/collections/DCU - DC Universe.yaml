@@ -5,13 +5,12 @@ collections:
       sort_prefix: "DCU",
       sort_order: "00",
       sort_separator: " - ",
-      show: "102621, 251807, 257655, 273690, 274431, 279121, 281470, 295685, 295759, 295760, 300472, 311786, 328599, 332525, 341663, 355622, 360733, 361315, 361735, 361868, 363008, 365677, 366211, 375655, 391153, 403412, 436630, 71228, 71788, 72218, 72468, 76168, 76215, 76320, 76837, 76857, 76871, 77084, 77403, 77746, 77871, 78650, 94801",
       poster: https://theposterdb.com/api/assets/239356
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "102621, 192061, 248509, 251807, 257655, 273690, 274431, 279121, 281470, 295685, 295759, 295760, 298305, 300472, 304839, 311786, 312690, 328599, 332525, 336139, 341663, 355622, 359619, 360733, 361315, 361735, 361868, 363008, 365700, 366211, 375655, 391153, 403412, 414938, 417648, 71228, 71788, 72218, 72468, 74603, 76168, 76215, 76320, 76837, 76857, 76871, 77403, 77746, 77871, 78650, 79067, 82143, 82824, 94801" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=DC%20Universe&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22DC%20Universe%22

@@ -1,15 +1,15 @@
 metadata:
-    "Battlestar Galactica (2003)":
-        year: 2003
+    "Battlestar Galactica (2003) (2004)":
+        year: 2004
         title: "Battlestar Galactica (2003)"
         original_title: "Battlestar Galactica"
         match:
-          mapping_id: tt0407362
+          mapping_id: 73545
         url_poster: https://theposterdb.com/api/assets/186159
         # IDs: imdb://tt0407362, tmdb://1972, tvdb://73545
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%28Reboot%29&category=Shows&year_filter=equals&yone=2003&tmdb_id=71365&imdb_id=tt0314979
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Battlestar%20Galactica%20%282003%29&category=Shows&year_filter=equals&yone=2004&tmdb_id=1972&imdb_id=tt0407362&tvdb_id=73545
         # tmdb: https://www.themoviedb.org/tv/1972
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2005&query=73545
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2004&query=73545
         # imdb: https://www.imdb.com/title/tt0407362
         seasons:
             0:
@@ -23,16 +23,16 @@ metadata:
             4:
                 url_poster: https://theposterdb.com/api/assets/253252
 
-    "Caprica (2010)":
-        year: 2010
+    "Caprica (2009)":
+        year: 2009
         title: "Caprica"
         match:
           mapping_id: 85040
         url_poster: https://theposterdb.com/api/assets/327343
         # IDs: imdb://tt0799862, tmdb://877, tvdb://85040
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Caprica&category=Shows&year_filter=equals&yone=2010&tmdb_id=877&imdb_id=tt0799862&tvdb_id=85040
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Caprica&category=Shows&year_filter=equals&yone=2009&tmdb_id=877&imdb_id=tt0799862&tvdb_id=85040
         # tmdb: https://www.themoviedb.org/tv/877
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2010&query=85040
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=85040
         # imdb: https://www.imdb.com/title/tt0799862
         seasons:
             # 0:

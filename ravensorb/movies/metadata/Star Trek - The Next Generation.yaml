@@ -1,4 +1,16 @@
 metadata:
+    "Journey's End: The Saga of Star Trek - The Next Generation (1994)":
+        year: 1994
+        title: "Journey's End: The Saga of Star Trek - The Next Generation"
+        match:
+          mapping_id: 933474
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0292568, tmdb://933474, tvdb://98046
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Journey%27s%20End%3A%20The%20Saga%20of%20Star%20Trek%20-%20The%20Next%20Generation&category=Movies&year_filter=equals&yone=1994&tmdb_id=933474&imdb_id=tt0292568&tvdb_id=98046
+        # tmdb: https://www.themoviedb.org/movie/933474
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1994&query=98046
+        # imdb: https://www.imdb.com/title/tt0292568
+
     "Star Trek: Generations (1994)":
         year: 1994
         title: "Star Trek: Generations"
@@ -46,3 +58,51 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/201
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2002&query=2486
         # imdb: https://www.imdb.com/title/tt0253754
+
+    "Star Trek Evolutions (2009)":
+        year: 2009
+        title: "Star Trek Evolutions"
+        match:
+          mapping_id: 282759
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3255584, tmdb://282759, tvdb://112877
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20Evolutions&category=Movies&year_filter=equals&yone=2009&tmdb_id=282759&imdb_id=tt3255584&tvdb_id=112877
+        # tmdb: https://www.themoviedb.org/movie/282759
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2009&query=112877
+        # imdb: https://www.imdb.com/title/tt3255584
+
+    "Star Trek: Horizon (2016)":
+        year: 2016
+        title: "Star Trek: Horizon"
+        match:
+          mapping_id: 828023
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt3854562, tmdb://828023, tvdb://114263
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Horizon&category=Movies&year_filter=equals&yone=2016&tmdb_id=828023&imdb_id=tt3854562&tvdb_id=114263
+        # tmdb: https://www.themoviedb.org/movie/828023
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=114263
+        # imdb: https://www.imdb.com/title/tt3854562
+
+    "Star Trek: The Journey to the Silver Screen (2016)":
+        year: 2016
+        title: "Star Trek: The Journey to the Silver Screen"
+        match:
+          mapping_id: 662148
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt6051204, tmdb://662148, tvdb://198065
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20The%20Journey%20to%20the%20Silver%20Screen&category=Movies&year_filter=equals&yone=2016&tmdb_id=662148&imdb_id=tt6051204&tvdb_id=198065
+        # tmdb: https://www.themoviedb.org/movie/662148
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=198065
+        # imdb: https://www.imdb.com/title/tt6051204
+
+    "What We Left Behind: Looking Back at Star Trek: Deep Space Nine (2019)":
+        year: 2019
+        title: "What We Left Behind: Looking Back at Star Trek: Deep Space Nine"
+        match:
+          mapping_id: 522055
+        url_poster: https://theposterdb.com/api/assets/250510
+        # IDs: imdb://tt6332276, tmdb://522055, tvdb://106410
+        # tpdb: https://theposterdb.com/search/advanced/results?term=What%20We%20Left%20Behind%3A%20Looking%20Back%20at%20Star%20Trek%3A%20Deep%20Space%20Nine&category=Movies&year_filter=equals&yone=2019&tmdb_id=522055&imdb_id=tt6332276&tvdb_id=106410
+        # tmdb: https://www.themoviedb.org/movie/522055
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=106410
+        # imdb: https://www.imdb.com/title/tt6332276

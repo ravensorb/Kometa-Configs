@@ -1,13 +1,12 @@
 collections:
   "Escape From...":
     variables: {
-      movie: "10061, 1103",
       poster: https://theposterdb.com/api/assets/164118
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10061, 1103" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20From...&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Escape%20From...%22

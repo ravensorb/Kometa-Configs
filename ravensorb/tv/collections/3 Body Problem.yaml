@@ -1,13 +1,12 @@
 collections:
   "3 Body Problem":
     variables: {
-      show: "411959, 421555",
-      # poster: https://theposterdb.com/api/assets/
+      poster: https://theposterdb.com/api/assets/471681
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "411959, 421555" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=3%20Body%20Problem&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%223%20Body%20Problem%22

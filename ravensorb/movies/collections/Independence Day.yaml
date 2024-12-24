@@ -1,13 +1,12 @@
 collections:
   "Independence Day":
     variables: {
-      movie: "47933, 602",
       poster: https://theposterdb.com/api/assets/162515
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "47933, 602" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Independence%20Day&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Independence%20Day%22

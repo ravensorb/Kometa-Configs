@@ -1,13 +1,12 @@
 collections:
   "Expendables":
     variables: {
-      movie: "138103, 27578, 76163",
       poster: https://theposterdb.com/api/assets/164780
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "138103, 27578, 76163" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Expendables&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Expendables

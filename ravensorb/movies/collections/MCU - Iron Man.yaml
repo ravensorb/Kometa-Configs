@@ -5,13 +5,12 @@ collections:
       sort_prefix: "MCU",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "10138, 1726, 68721",
       poster: https://theposterdb.com/api/assets/162395
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "10138, 1726, 68721" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Iron%20Man&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Iron%20Man%22

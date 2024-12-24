@@ -1,0 +1,32 @@
+metadata:
+    "Planet Earth (2006)":
+        year: 2006
+        title: "Planet Earth"
+        match:
+          mapping_id: 79257
+        url_poster: https://theposterdb.com/api/assets/324161
+        # IDs: imdb://tt0795176, tmdb://1044, tvdb://79257
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20Earth&category=Shows&year_filter=equals&yone=2006&tmdb_id=1044&imdb_id=tt0795176&tvdb_id=79257
+        # tmdb: https://www.themoviedb.org/tv/1044
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2006&query=79257
+        # imdb: https://www.imdb.com/title/tt0795176
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/424518
+
+    "Planet Earth II (2016)":
+        year: 2016
+        title: "Planet Earth II"
+        match:
+          mapping_id: 318408
+        url_poster: https://theposterdb.com/api/assets/324162
+        # IDs: imdb://tt5491994, tmdb://68595, tvdb://318408
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Planet%20Earth%20II&category=Shows&year_filter=equals&yone=2016&tmdb_id=68595&imdb_id=tt5491994&tvdb_id=318408
+        # tmdb: https://www.themoviedb.org/tv/68595
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=318408
+        # imdb: https://www.imdb.com/title/tt5491994
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/

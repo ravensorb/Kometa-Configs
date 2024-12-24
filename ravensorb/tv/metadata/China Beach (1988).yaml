@@ -1,0 +1,23 @@
+metadata:
+    "China Beach (1988)":
+        year: 1988
+        title: "China Beach"
+        match:
+          mapping_id: 72954
+        url_poster: https://theposterdb.com/api/assets/547873
+        # IDs: imdb://tt0094433, tmdb://2294, tvdb://72954
+        # tpdb: https://theposterdb.com/search/advanced/results?term=China%20Beach&category=Shows&year_filter=equals&yone=1988&tmdb_id=2294&imdb_id=tt0094433&tvdb_id=72954
+        # tmdb: https://www.themoviedb.org/tv/2294
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1988&query=72954
+        # imdb: https://www.imdb.com/title/tt0094433
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/547874
+            2:
+                url_poster: https://theposterdb.com/api/assets/547875
+            3:
+                url_poster: https://theposterdb.com/api/assets/547876
+            4:
+                url_poster: https://theposterdb.com/api/assets/547877

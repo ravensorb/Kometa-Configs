@@ -1,0 +1,31 @@
+metadata:
+    "Magnum, P.I. (1980)":
+        year: 1980
+        title: "Magnum, P.I."
+        match:
+          mapping_id: 74380
+        url_poster: https://theposterdb.com/api/assets/369730
+        # IDs: imdb://tt0080240, tmdb://734, tvdb://74380
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Magnum%2C%20P.I.&category=Shows&year_filter=equals&yone=1980&tmdb_id=734&imdb_id=tt0080240&tvdb_id=74380
+        # tmdb: https://www.themoviedb.org/tv/734
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1980&query=74380
+        # imdb: https://www.imdb.com/title/tt0080240
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/369732
+            2:
+                url_poster: https://theposterdb.com/api/assets/369733
+            3:
+                url_poster: https://theposterdb.com/api/assets/369734
+            4:
+                url_poster: https://theposterdb.com/api/assets/369735
+            5:
+                url_poster: https://theposterdb.com/api/assets/369736
+            6:
+                url_poster: https://theposterdb.com/api/assets/369737
+            7:
+                url_poster: https://theposterdb.com/api/assets/369738
+            8:
+                url_poster: https://theposterdb.com/api/assets/369739

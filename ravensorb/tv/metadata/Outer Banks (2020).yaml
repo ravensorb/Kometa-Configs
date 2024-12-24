@@ -1,0 +1,23 @@
+metadata:
+    "Outer Banks (2020)":
+        year: 2020
+        title: "Outer Banks"
+        match:
+          mapping_id: 379169
+        url_poster: https://theposterdb.com/api/assets/327582
+        # IDs: imdb://tt10293938, tmdb://100757, tvdb://379169
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Outer%20Banks&category=Shows&year_filter=equals&yone=2020&tmdb_id=100757&imdb_id=tt10293938&tvdb_id=379169
+        # tmdb: https://www.themoviedb.org/tv/100757
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=379169
+        # imdb: https://www.imdb.com/title/tt10293938
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/327583
+            2:
+                url_poster: https://theposterdb.com/api/assets/327584
+            3:
+                url_poster: https://theposterdb.com/api/assets/327585
+            4:
+                url_poster: https://theposterdb.com/api/assets/536180

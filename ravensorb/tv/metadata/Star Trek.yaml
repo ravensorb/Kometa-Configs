@@ -149,6 +149,36 @@ metadata:
             4:
                 url_poster: https://theposterdb.com/api/assets/222278
 
+    "Star Trek Continues (2013)":
+        year: 2013
+        title: "Star Trek Continues"
+        match:
+          mapping_id: 264220
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2732442, tvdb://264220
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%20Continues&category=Shows&year_filter=equals&yone=2013&imdb_id=tt2732442&tvdb_id=264220
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264220
+        # imdb: https://www.imdb.com/title/tt2732442
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Star Trek: Renegades (2015)":
+        year: 2015
+        title: "Star Trek: Renegades"
+        match:
+          mapping_id: 338671
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt2621446, tvdb://338671
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Renegades&category=Shows&year_filter=equals&yone=2015&imdb_id=tt2621446&tvdb_id=338671
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2015&query=338671
+        # imdb: https://www.imdb.com/title/tt2621446
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+
     "Star Trek: The Original Series - The Roddenberry Vault (2016)":
         year: 2016
         title: "Star Trek: The Original Series - The Roddenberry Vault"
@@ -231,31 +261,6 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             # 5:
                 # url_poster: https://theposterdb.com/api/assets/
-
-    "Star Trek: Lower Decks (2020)":
-        year: 2020
-        title: "Star Trek: Lower Decks"
-        match:
-          mapping_id: 367138
-        url_poster: https://theposterdb.com/api/assets/327950
-        # IDs: imdb://tt9184820, tmdb://85948, tvdb://367138
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Star%20Trek%3A%20Lower%20Decks&category=Shows&year_filter=equals&yone=2020&tmdb_id=85948&imdb_id=tt9184820&tvdb_id=367138
-        # tmdb: https://www.themoviedb.org/tv/85948
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=367138
-        # imdb: https://www.imdb.com/title/tt9184820
-        seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            1:
-                url_poster: https://theposterdb.com/api/assets/327952
-            2:
-                url_poster: https://theposterdb.com/api/assets/327953
-            3:
-                url_poster: https://theposterdb.com/api/assets/327954
-            4:
-                url_poster: https://theposterdb.com/api/assets/407430
-            5:
-                url_poster: https://theposterdb.com/api/assets/536943
 
     "Star Trek: Picard (2020)":
         year: 2020

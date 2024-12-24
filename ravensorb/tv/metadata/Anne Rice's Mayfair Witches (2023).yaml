@@ -1,0 +1,17 @@
+metadata:
+    "Anne Rice's Mayfair Witches (2023)":
+        year: 2023
+        title: "Anne Rice's Mayfair Witches"
+        match:
+          mapping_id: 413074
+        url_poster: https://theposterdb.com/api/assets/329860
+        # IDs: imdb://tt15428778, tmdb://207863, tvdb://413074
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Anne%20Rice%27s%20Mayfair%20Witches&category=Shows&year_filter=equals&yone=2023&tmdb_id=207863&imdb_id=tt15428778&tvdb_id=413074
+        # tmdb: https://www.themoviedb.org/tv/207863
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=413074
+        # imdb: https://www.imdb.com/title/tt15428778
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/329861

@@ -1,13 +1,12 @@
 collections:
   "Father O'Malley":
     variables: {
-      movie: "17661, 32430",
       poster: https://theposterdb.com/api/assets/308481
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "17661, 32430" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Father%20O%27Malley&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Father%20O%27Malley%22

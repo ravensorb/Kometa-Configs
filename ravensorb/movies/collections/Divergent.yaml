@@ -1,13 +1,12 @@
 collections:
   "Divergent":
     variables: {
-      movie: "157350, 262500, 262504",
       poster: https://theposterdb.com/api/assets/163697
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "157350, 262500, 262504" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Divergent&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Divergent

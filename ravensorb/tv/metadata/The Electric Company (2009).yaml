@@ -1,0 +1,20 @@
+metadata:
+    "The Electric Company (2009)":
+        year: 2009
+        title: "The Electric Company (2009)"
+        sort_title: "Electric Company (2009)"
+        match:
+          mapping_id: 112181
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0995011, tmdb://16202, tvdb://112181
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Electric%20Company%20%282009%29&category=Shows&year_filter=equals&yone=2009&tmdb_id=16202&imdb_id=tt0995011&tvdb_id=112181
+        # tmdb: https://www.themoviedb.org/tv/16202
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2009&query=112181
+        # imdb: https://www.imdb.com/title/tt0995011
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/

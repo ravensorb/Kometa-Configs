@@ -5,13 +5,12 @@ collections:
       sort_prefix: "LOTR",
       sort_order: "01",
       sort_separator: " - ",
-      movie: "120, 121, 122, 123, 1361, 1362",
       poster: https://theposterdb.com/api/assets/52722
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "120, 121, 122, 123, 1361, 1362, 453779" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Lord%20Of%20The%20Rings&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Lord%20Of%20The%20Rings%22

@@ -1,13 +1,12 @@
 collections:
   "Die Hard":
     variables: {
-      movie: "1571, 1572, 1573, 47964, 562",
       poster: https://theposterdb.com/api/assets/164773
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "1571, 1572, 1573, 47964, 562" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Die%20Hard&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Die%20Hard%22

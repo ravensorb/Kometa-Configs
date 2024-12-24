@@ -1,0 +1,34 @@
+metadata:
+    "Matchmaker Mysteries: A Killer Engagement (2019)":
+        year: 2019
+        title: "Matchmaker Mysteries: A Killer Engagement"
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: tvdb://131761
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Matchmaker%20Mysteries%3A%20A%20Killer%20Engagement&category=Movies&year_filter=equals&yone=2019&tvdb_id=131761
+        # tmdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2019&query=131761
+        # imdb: 
+
+    "MatchMaker Mysteries: A Fatal Romance (2020)":
+        year: 2020
+        title: "MatchMaker Mysteries: A Fatal Romance"
+        match:
+          mapping_id: 681630
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt11686340, tmdb://681630
+        # tpdb: https://theposterdb.com/search/advanced/results?term=MatchMaker%20Mysteries%3A%20A%20Fatal%20Romance&category=Movies&year_filter=equals&yone=2020&tmdb_id=681630&imdb_id=tt11686340
+        # tmdb: https://www.themoviedb.org/movie/681630
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt11686340
+
+    "MatchMaker Mysteries: The Art of the Kill (2021)":
+        year: 2021
+        title: "MatchMaker Mysteries: The Art of the Kill"
+        match:
+          mapping_id: 799360
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt14192916, tmdb://799360
+        # tpdb: https://theposterdb.com/search/advanced/results?term=MatchMaker%20Mysteries%3A%20The%20Art%20of%20the%20Kill&category=Movies&year_filter=equals&yone=2021&tmdb_id=799360&imdb_id=tt14192916
+        # tmdb: https://www.themoviedb.org/movie/799360
+        # tvdb: 
+        # imdb: https://www.imdb.com/title/tt14192916

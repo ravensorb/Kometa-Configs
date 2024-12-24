@@ -1,0 +1,13 @@
+metadata:
+    "The Shop Around the Corner (1940)":
+        year: 1940
+        title: "The Shop Around the Corner"
+        sort_title: "Shop Around the Corner"
+        match:
+          mapping_id: 20334
+        url_poster: https://theposterdb.com/api/assets/248959
+        # IDs: imdb://tt0033045, tmdb://20334, tvdb://5928
+        # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Shop%20Around%20the%20Corner&category=Movies&year_filter=equals&yone=1940&tmdb_id=20334&imdb_id=tt0033045&tvdb_id=5928
+        # tmdb: https://www.themoviedb.org/movie/20334
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=1940&query=5928
+        # imdb: https://www.imdb.com/title/tt0033045

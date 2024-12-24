@@ -1,0 +1,12 @@
+metadata:
+    "Sumuru (2003)":
+        year: 2003
+        title: "Sumuru"
+        match:
+          mapping_id: 58295
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0338470, tmdb://58295, tvdb://38814
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Sumuru&category=Movies&year_filter=equals&yone=2003&tmdb_id=58295&imdb_id=tt0338470&tvdb_id=38814
+        # tmdb: https://www.themoviedb.org/movie/58295
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2003&query=38814
+        # imdb: https://www.imdb.com/title/tt0338470

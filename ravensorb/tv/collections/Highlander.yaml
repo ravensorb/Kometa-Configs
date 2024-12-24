@@ -1,13 +1,12 @@
 collections:
   "Highlander":
     variables: {
-      show: "75021, 75160",
       poster: https://theposterdb.com/api/assets/162044
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "75021, 75160" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Highlander&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Highlander

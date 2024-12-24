@@ -2,13 +2,12 @@ collections:
   "Pink Panther (Steve Martin)":
     variables: {
       label: "Pink Panther",
-      movie: "12096, 15159",
       poster: https://theposterdb.com/api/assets/213323
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "12096, 15159" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Pink%20Panther%20%28Steve%20Martin%29&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22Pink%20Panther%20%28Steve%20Martin%29%22

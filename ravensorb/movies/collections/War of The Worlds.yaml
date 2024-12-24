@@ -1,13 +1,12 @@
 collections:
   "War of The Worlds":
     variables: {
-      movie: "418931, 74, 8974",
       poster: https://theposterdb.com/api/assets/294686
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTMDBCollection, movie: "418931, 74, 8974" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=War%20of%20The%20Worlds&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22War%20of%20The%20Worlds%22

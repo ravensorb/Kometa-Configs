@@ -1,0 +1,19 @@
+metadata:
+    "Kung Fu (1972)":
+        year: 1972
+        title: "Kung Fu"
+        match:
+          mapping_id: 73069
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt0068093, tmdb://1472, tvdb://73069
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Kung%20Fu&category=Shows&year_filter=equals&yone=1972&tmdb_id=1472&imdb_id=tt0068093&tvdb_id=73069
+        # tmdb: https://www.themoviedb.org/tv/1472
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=1972&query=73069
+        # imdb: https://www.imdb.com/title/tt0068093
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/

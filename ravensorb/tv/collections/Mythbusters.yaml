@@ -1,13 +1,12 @@
 collections:
   "Mythbusters":
     variables: {
-      show: "320910, 350679, 73388",
       poster: https://theposterdb.com/api/assets/95723
     }
     template: [ 
       { name: tplCommonBase }, 
-      { name: tplCommonCollection }, 
-      { name: tplTMDBCollection },
+      { name: tplCommonCollection },
+      { name: tplTVDBCollection, show: "320910, 350679, 363058, 73388" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=Mythbusters&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=Mythbusters

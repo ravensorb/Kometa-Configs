@@ -1,0 +1,15 @@
+metadata:
+    "Match Game (2016)":
+        year: 2016
+        title: "Match Game (2016)"
+        match:
+          mapping_id: 312575
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt5672484, tmdb://67229, tvdb://312575
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Match%20Game%20%282016%29&category=Shows&year_filter=equals&yone=2016&tmdb_id=67229&imdb_id=tt5672484&tvdb_id=312575
+        # tmdb: https://www.themoviedb.org/tv/67229
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2016&query=312575
+        # imdb: https://www.imdb.com/title/tt5672484
+        # seasons:
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
