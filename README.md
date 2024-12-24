@@ -1,2 +1,3 @@
-# pmm-configs
-Plex Meta Manager Configurations
+# kometa configuration
+
+This repo contains a collection of configuration files for kometa
