@@ -2,7 +2,7 @@ collections:
   "Hallmark Mysteries":
     variables: {
       label: "Hallmark Mysteries",
-      # poster: https://theposterdb.com/api/assets/
+      poster: https://theposterdb.com/api/assets/49409
     }
     template: [ 
       { name: tplCommonBase }, 
@@ -10,11 +10,11 @@ collections:
       { name: tplTMDBCollection }, 
     ]
     # radarr_add_missing: true
-    # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Fixer%20Upper%20Mystery&category=Collections
-    # tmdb: https://www.themoviedb.org/search/collection?query=%22A%20Fixer%20Upper%20Mystery%22
-    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=A%20Fixer%20Upper%20Mystery
-    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=A%20Fixer%20Upper%20Mystery
-    # trakt: https://trakt.tv/search/lists?query=A%20Fixer%20Upper%20Mystery
+    # tpdb: https://theposterdb.com/search/advanced/results?term=Hallmark%20Mysteries&category=Collections
+    # tmdb: https://www.themoviedb.org/search/collection?query=%22Hallmark%20Mysteries%22
+    # tvdb: https://thetvdb.com/search?menu%5Btype%5D=list&query=Hallmark%20Mysteries
+    # imdb: https://www.imdb.com/find/?s=tt&ttype=ft&q=Hallmark%20Mysteries
+    # trakt: https://trakt.tv/search/lists?query=Hallmark%20Mysteries
     # collection_mode: hide
     trakt_list:
       - https://trakt.tv/users/ad76/lists/hallmark-mysteries?sort=released,asc
