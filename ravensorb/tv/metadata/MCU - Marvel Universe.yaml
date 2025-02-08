@@ -66,31 +66,6 @@ metadata:
             5:
                 url_poster: https://theposterdb.com/api/assets/357079
 
-    "Marvel's Avengers Assemble (2012)":
-        year: 2012
-        title: "Marvel's Avengers Assemble"
-        match:
-          mapping_id: 264030
-        url_poster: https://theposterdb.com/api/assets/468768
-        # IDs: imdb://tt2455546, tmdb://59427, tvdb://264030
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Avengers%20Assemble&category=Shows&year_filter=equals&yone=2012&tmdb_id=59427&imdb_id=tt2455546&tvdb_id=264030
-        # tmdb: https://www.themoviedb.org/tv/59427
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2012&query=264030
-        # imdb: https://www.imdb.com/title/tt2455546
-        seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            1:
-                url_poster: https://theposterdb.com/api/assets/468769
-            2:
-                url_poster: https://theposterdb.com/api/assets/468770
-            3:
-                url_poster: https://theposterdb.com/api/assets/468771
-            4:
-                url_poster: https://theposterdb.com/api/assets/468772
-            5:
-                url_poster: https://theposterdb.com/api/assets/468773
-
     "Marvel's Ultimate Spider-Man (2012)":
         year: 2012
         title: "Marvel's Ultimate Spider-Man"
@@ -143,6 +118,31 @@ metadata:
                 url_poster: https://theposterdb.com/api/assets/216604
             7:
                 url_poster: https://theposterdb.com/api/assets/216605
+
+    "Marvel's Avengers Assemble (2013)":
+        year: 2013
+        title: "Marvel's Avengers Assemble"
+        match:
+          mapping_id: 264030
+        url_poster: https://theposterdb.com/api/assets/468768
+        # IDs: imdb://tt2455546, tmdb://59427, tvdb://264030
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Marvel%27s%20Avengers%20Assemble&category=Shows&year_filter=equals&yone=2013&tmdb_id=59427&imdb_id=tt2455546&tvdb_id=264030
+        # tmdb: https://www.themoviedb.org/tv/59427
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2013&query=264030
+        # imdb: https://www.imdb.com/title/tt2455546
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/468769
+            2:
+                url_poster: https://theposterdb.com/api/assets/468770
+            3:
+                url_poster: https://theposterdb.com/api/assets/468771
+            4:
+                url_poster: https://theposterdb.com/api/assets/468772
+            5:
+                url_poster: https://theposterdb.com/api/assets/468773
 
     "Marvel's Agent Carter (2015)":
         year: 2015
@@ -614,6 +614,23 @@ metadata:
             1:
                 url_poster: https://theposterdb.com/api/assets/258765
 
+    "Echo (2023)":
+        year: 2023
+        title: "Echo"
+        match:
+          mapping_id: 412431
+        url_poster: https://theposterdb.com/api/assets/451058
+        # IDs: imdb://tt13966962, tmdb://122226, tvdb://412431
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Echo&category=Shows&year_filter=equals&yone=2023&tmdb_id=122226&imdb_id=tt13966962&tvdb_id=412431
+        # tmdb: https://www.themoviedb.org/tv/122226
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=412431
+        # imdb: https://www.imdb.com/title/tt13966962
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/452497
+
     "Secret Invasion (2023)":
         year: 2023
         title: "Secret Invasion"
@@ -647,23 +664,6 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/522018
-
-    "Echo (2024)":
-        year: 2024
-        title: "Echo"
-        match:
-          mapping_id: 412431
-        url_poster: https://theposterdb.com/api/assets/451058
-        # IDs: imdb://tt13966962, tmdb://122226, tvdb://412431
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Echo&category=Shows&year_filter=equals&yone=2024&tmdb_id=122226&imdb_id=tt13966962&tvdb_id=412431
-        # tmdb: https://www.themoviedb.org/tv/122226
-        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=412431
-        # imdb: https://www.imdb.com/title/tt13966962
-        seasons:
-            # 0:
-                # url_poster: https://theposterdb.com/api/assets/
-            1:
-                url_poster: https://theposterdb.com/api/assets/452497
 
     "X-Men '97 (2024)":
         year: 2024

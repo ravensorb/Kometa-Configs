@@ -5,10 +5,10 @@ metadata:
         match:
           mapping_id: 398356
         url_poster: https://theposterdb.com/api/assets/373439
-        # IDs: imdb://tt5541330, tmdb://398356
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Dearly%20Depotted&category=Movies&year_filter=equals&yone=2016&tmdb_id=398356&imdb_id=tt5541330
+        # IDs: imdb://tt5541330, tmdb://398356, tvdb://30867
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Dearly%20Depotted&category=Movies&year_filter=equals&yone=2016&tmdb_id=398356&imdb_id=tt5541330&tvdb_id=30867
         # tmdb: https://www.themoviedb.org/movie/398356
-        # tvdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=30867
         # imdb: https://www.imdb.com/title/tt5541330
 
     "Flower Shop Mystery: Mum's the Word (2016)":
@@ -17,10 +17,10 @@ metadata:
         match:
           mapping_id: 374739
         url_poster: https://theposterdb.com/api/assets/373437
-        # IDs: imdb://tt5211694, tmdb://374739
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Mum%27s%20the%20Word&category=Movies&year_filter=equals&yone=2016&tmdb_id=374739&imdb_id=tt5211694
+        # IDs: imdb://tt5211694, tmdb://374739, tvdb://27415
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Mum%27s%20the%20Word&category=Movies&year_filter=equals&yone=2016&tmdb_id=374739&imdb_id=tt5211694&tvdb_id=27415
         # tmdb: https://www.themoviedb.org/movie/374739
-        # tvdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=27415
         # imdb: https://www.imdb.com/title/tt5211694
 
     "Flower Shop Mystery: Snipped in the Bud (2016)":
@@ -29,8 +29,8 @@ metadata:
         match:
           mapping_id: 392625
         url_poster: https://theposterdb.com/api/assets/373438
-        # IDs: imdb://tt5459456, tmdb://392625
-        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Snipped%20in%20the%20Bud&category=Movies&year_filter=equals&yone=2016&tmdb_id=392625&imdb_id=tt5459456
+        # IDs: imdb://tt5459456, tmdb://392625, tvdb://35866
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Flower%20Shop%20Mystery%3A%20Snipped%20in%20the%20Bud&category=Movies&year_filter=equals&yone=2016&tmdb_id=392625&imdb_id=tt5459456&tvdb_id=35866
         # tmdb: https://www.themoviedb.org/movie/392625
-        # tvdb: 
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2016&query=35866
         # imdb: https://www.imdb.com/title/tt5459456

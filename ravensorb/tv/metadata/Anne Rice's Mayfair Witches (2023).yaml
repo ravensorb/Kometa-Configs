@@ -4,7 +4,7 @@ metadata:
         title: "Anne Rice's Mayfair Witches"
         match:
           mapping_id: 413074
-        url_poster: https://theposterdb.com/api/assets/329860
+        url_poster: https://theposterdb.com/api/assets/329862
         # IDs: imdb://tt15428778, tmdb://207863, tvdb://413074
         # tpdb: https://theposterdb.com/search/advanced/results?term=Anne%20Rice%27s%20Mayfair%20Witches&category=Shows&year_filter=equals&yone=2023&tmdb_id=207863&imdb_id=tt15428778&tvdb_id=413074
         # tmdb: https://www.themoviedb.org/tv/207863
@@ -14,4 +14,6 @@ metadata:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
-                url_poster: https://theposterdb.com/api/assets/329861
+                url_poster: https://theposterdb.com/api/assets/329863
+            2:
+                url_poster: https://theposterdb.com/api/assets/559341

@@ -167,6 +167,8 @@ metadata:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
                 url_poster: https://theposterdb.com/api/assets/432221
+            2:
+                url_poster: https://theposterdb.com/api/assets/570978
 
     "NCIS: Origins (2024)":
         year: 2024

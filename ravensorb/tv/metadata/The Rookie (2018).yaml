@@ -5,7 +5,7 @@ metadata:
         sort_title: "Rookie"
         match:
           mapping_id: 350665
-        url_poster: https://theposterdb.com/api/assets/354902
+        url_poster: https://theposterdb.com/api/assets/423621
         # IDs: imdb://tt7587890, tmdb://79744, tvdb://350665
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Rookie&category=Shows&year_filter=equals&yone=2018&tmdb_id=79744&imdb_id=tt7587890&tvdb_id=350665
         # tmdb: https://www.themoviedb.org/tv/79744
@@ -15,14 +15,16 @@ metadata:
             # 0:
                 # url_poster: https://theposterdb.com/api/assets/
             1:
-                url_poster: https://theposterdb.com/api/assets/354903
+                url_poster: https://theposterdb.com/api/assets/423622
             2:
-                url_poster: https://theposterdb.com/api/assets/354904
+                url_poster: https://theposterdb.com/api/assets/423623
             3:
-                url_poster: https://theposterdb.com/api/assets/354905
+                url_poster: https://theposterdb.com/api/assets/423624
             4:
-                url_poster: https://theposterdb.com/api/assets/354906
+                url_poster: https://theposterdb.com/api/assets/423625
             5:
-                url_poster: https://theposterdb.com/api/assets/354907
+                url_poster: https://theposterdb.com/api/assets/423626
             6:
                 url_poster: https://theposterdb.com/api/assets/454785
+            7:
+                url_poster: https://theposterdb.com/api/assets/559780
