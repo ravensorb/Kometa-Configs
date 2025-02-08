@@ -1,0 +1,49 @@
+metadata:
+    "Citadel (2023)":
+        year: 2023
+        title: "Citadel"
+        match:
+          mapping_id: 393268
+        url_poster: https://theposterdb.com/api/assets/368425
+        # IDs: imdb://tt9794044, tmdb://114922, tvdb://393268
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Citadel&category=Shows&year_filter=equals&yone=2023&tmdb_id=114922&imdb_id=tt9794044&tvdb_id=393268
+        # tmdb: https://www.themoviedb.org/tv/114922
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2023&query=393268
+        # imdb: https://www.imdb.com/title/tt9794044
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/368426
+
+    "Citadel: Honey Bunny (2024)":
+        year: 2024
+        title: "Citadel: Honey Bunny"
+        match:
+          mapping_id: 447811
+        url_poster: https://theposterdb.com/api/assets/537871
+        # IDs: imdb://tt27111295, tmdb://154084, tvdb://447811
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Citadel%3A%20Honey%20Bunny&category=Shows&year_filter=equals&yone=2024&tmdb_id=154084&imdb_id=tt27111295&tvdb_id=447811
+        # tmdb: https://www.themoviedb.org/tv/154084
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=447811
+        # imdb: https://www.imdb.com/title/tt27111295
+        seasons:
+            1:
+                url_poster: https://theposterdb.com/api/assets/537872
+
+    "Citadel: Diana (2024)":
+        year: 2024
+        title: "Citadel: Diana"
+        match:
+          mapping_id: 435360
+        url_poster: https://theposterdb.com/api/assets/533233
+        # IDs: imdb://tt22754212, tmdb://214032, tvdb://435360
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Citadel%3A%20Diana&category=Shows&year_filter=equals&yone=2024&tmdb_id=214032&imdb_id=tt22754212&tvdb_id=435360
+        # tmdb: https://www.themoviedb.org/tv/214032
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2024&query=435360
+        # imdb: https://www.imdb.com/title/tt22754212
+        seasons:
+            # 0:
+                # url_poster: https://theposterdb.com/api/assets/
+            1:
+                url_poster: https://theposterdb.com/api/assets/533234
