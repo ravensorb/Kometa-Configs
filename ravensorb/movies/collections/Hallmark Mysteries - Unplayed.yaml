@@ -1,5 +1,5 @@
 collections:
-  Hallmark Mysteries (New):
+  "Hallmark Mysteries (New)":
     smart_filter:
       sort_by: 
         - title.asc
@@ -9,5 +9,6 @@ collections:
         unplayed: true
     visible_home: true
     visible_shared: true
-    sort_title: Hallmark Mysteries (New)
+    sort_title: "Hallmark Mysteries - 00"
     summary: A collection of unwatched Hallmark Mystery movies.
+    url_poster: https://theposterdb.com/api/assets/49409
