@@ -2,6 +2,7 @@ collections:
   "Hallmark Mysteries":
     variables: {
       label: "Hallmark Mysteries",
+      item_label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_order: "00",
       sort_separator: " - ",

@@ -2,6 +2,7 @@ collections:
   "Hallmark Romance":
     variables: {
       label: "Hallmark Romance",
+      item_label: "Hallmark Romance",
       sort_prefix: "Hallmark Romance",
       sort_order: "00",
       sort_separator: " - ",
