@@ -1,9 +1,11 @@
 collections:
   Hallmark Mysteries (New):
-    smart_label:
-      sort_by: release.desc
-      label: KOMETA-U-Hallmark Mysteries
+    smart_filter:
+      sort_by: 
+        - title.asc
+        - release.desc
       all:
+        label: KOMETA-U-Hallmark Mysteries
         unplayed: true
     visible_home: true
     visible_shared: true
