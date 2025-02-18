@@ -115,3 +115,56 @@ metadata:
         # tmdb: https://www.themoviedb.org/movie/1248298
         # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2024&query=354593
         # imdb: https://www.imdb.com/title/tt31202585
+
+    "A Sprinkle of Deceit: A Hannah Swensen Mystery (2025)":
+        year: 2025
+        title: "A Sprinkle of Deceit: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2025 - A Sprinkle of Deceit"
+        match:
+          mapping_id: 1353278
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://, tmdb://1353278, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Sprinkle%20of%20Deceit%3A%20A%20Hannah%20Swensen%20Mystery&category=Movies&year_filter=equals&yone=2025&tmdb_id=1353278
+        # tmdb: https://www.themoviedb.org/movie/1353278
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2025&query=
+        # imdb: https://www.imdb.com/title/
+
+    "Cooked to Death: A Hannah Swensen Mystery (2025)":
+        year: 2025
+        title: "Cooked to Death: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2025 - Cooked to Death"
+        match:
+          mapping_id: 1414761
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://, tmdb://1414761, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Cooked%20to%20Death%3A%20A%20Hannah%20Swensen%20Mystery&category=Movies&year_filter=equals&yone=2025&tmdb_id=1414761
+        # tmdb: https://www.themoviedb.org/movie/1414761
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2025&query=
+        # imdb: https://www.imdb.com/title/
+    
+    "Reality Bites: A Hannah Swensen Mystery (2025)": 
+        year: 2025
+        title: "Reality Bites: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2025 - Reality Bites"
+        match:
+          mapping_id: 1414157
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://, tmdb://1414157, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Reality%20Bites%3A%20A%20Hannah%20Swensen%20Mystery&category=Movies&year_filter=equals&yone=2025&tmdb_id=1414157
+        # tmdb: https://www.themoviedb.org/movie/1414157
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2025&query=
+        # imdb: https://www.imdb.com/title/
+
+    "Pie To Die For: A Hannah Swensen Mystery":
+        year: 2026
+        title: "Pie To Die For: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2026 - Pie To Die For"
+        match:
+          mapping_id: 1415211
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://, tmdb://1415211, tvdb://
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Pie%20To%20Die%20For%3A%20A%20Hannah%20Swensen%20Mystery&category=Movies&year_filter=equals&yone=2026&tmdb_id=1415211
+        # tmdb: https://www.themoviedb.org/movie/1415211
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=movie&menu%5Byear%5D=2026&query=
+        # imdb: https://www.imdb.com/title/
+

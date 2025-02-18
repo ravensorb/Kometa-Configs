@@ -10,7 +10,7 @@ collections:
     template: [ 
       { name: tplCommonBase }, 
       { name: tplCommonCollection },
-      { name: tplTMDBCollection, movie: "1093396, 1151579, 1248298, 328848, 361751, 371181, 392629, 436401, 840382" }, 
+      { name: tplTMDBCollection, movie: "328848, 361751, 371181, 392629, 436401, 840382, 1093396, 1151579, 1248298, 1353278, 1414157, 1414761, 1415211" }, 
     ]
     # tpdb: https://theposterdb.com/search/advanced/results?term=A%20Hannah%20Swensen%20Mystery&category=Collections
     # tmdb: https://www.themoviedb.org/search/collection?query=%22A%20Hannah%20Swensen%20Mystery%22

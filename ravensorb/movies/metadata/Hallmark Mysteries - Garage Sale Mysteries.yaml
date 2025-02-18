@@ -5,7 +5,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2013"
         match:
           mapping_id: 221791
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278071
         # IDs: imdb://tt3106464, tmdb://221791
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery&category=Movies&year_filter=equals&yone=2013&tmdb_id=221791&imdb_id=tt3106464
         # tmdb: https://www.themoviedb.org/movie/221791
@@ -18,7 +18,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2014 - All That Glitters"
         match:
           mapping_id: 300778
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278072
         # IDs: imdb://tt3918546, tmdb://300778
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20All%20That%20Glitters&category=Movies&year_filter=equals&yone=2014&tmdb_id=300778&imdb_id=tt3918546
         # tmdb: https://www.themoviedb.org/movie/300778
@@ -31,7 +31,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2015 - The Deadly Room"
         match:
           mapping_id: 325071
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278073
         # IDs: imdb://tt4460190, tmdb://325071
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Deadly%20Room&category=Movies&year_filter=equals&yone=2015&tmdb_id=325071&imdb_id=tt4460190
         # tmdb: https://www.themoviedb.org/movie/325071
@@ -44,7 +44,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2015 - The Wedding Dress"
         match:
           mapping_id: 348630
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278074
         # IDs: imdb://tt4658324, tmdb://348630
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Wedding%20Dress&category=Movies&year_filter=equals&yone=2015&tmdb_id=348630&imdb_id=tt4658324
         # tmdb: https://www.themoviedb.org/movie/348630
@@ -57,7 +57,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2016 - Guilty Until Proven Innocent"
         match:
           mapping_id: 371182
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278075
         # IDs: imdb://tt5135532, tmdb://371182
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Guilty%20Until%20Proven%20Innocent&category=Movies&year_filter=equals&yone=2016&tmdb_id=371182&imdb_id=tt5135532
         # tmdb: https://www.themoviedb.org/movie/371182
@@ -70,7 +70,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2016 - The Novel Murders"
         match:
           mapping_id: 396390
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278076
         # IDs: imdb://tt5672502, tmdb://396390
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Novel%20Murders&category=Movies&year_filter=equals&yone=2016&tmdb_id=396390&imdb_id=tt5672502
         # tmdb: https://www.themoviedb.org/movie/396390
@@ -83,7 +83,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2017 - A Case of Murder"
         match:
           mapping_id: 465294
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278081
         # IDs: imdb://tt7235496, tmdb://465294
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20A%20Case%20of%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=465294&imdb_id=tt7235496
         # tmdb: https://www.themoviedb.org/movie/465294
@@ -96,7 +96,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2017 - Murder Most Medieval"
         match:
           mapping_id: 465291
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278080
         # IDs: imdb://tt7197596, tmdb://465291
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Murder%20Most%20Medieval&category=Movies&year_filter=equals&yone=2017&tmdb_id=465291&imdb_id=tt7197596
         # tmdb: https://www.themoviedb.org/movie/465291
@@ -109,7 +109,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2017 - Murder by Text"
         match:
           mapping_id: 465290
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278079
         # IDs: imdb://tt7235014, tmdb://465290
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Murder%20by%20Text&category=Movies&year_filter=equals&yone=2017&tmdb_id=465290&imdb_id=tt7235014
         # tmdb: https://www.themoviedb.org/movie/465290
@@ -122,7 +122,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2017 - The Art of Murder"
         match:
           mapping_id: 423671
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278077
         # IDs: imdb://tt5916786, tmdb://423671
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Art%20of%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=423671&imdb_id=tt5916786
         # tmdb: https://www.themoviedb.org/movie/423671
@@ -135,7 +135,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2017 - The Beach Murder"
         match:
           mapping_id: 465286
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278078
         # IDs: imdb://tt7235362, tmdb://465286
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Beach%20Murder&category=Movies&year_filter=equals&yone=2017&tmdb_id=465286&imdb_id=tt7235362
         # tmdb: https://www.themoviedb.org/movie/465286
@@ -148,7 +148,7 @@ metadata:
         sort_title: "Garage Sale Mysteries - 2018 - Murder In D Minor"
         match:
           mapping_id: 540489
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278085
         # IDs: imdb://tt8750664, tmdb://540489, tvdb://16950
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Murder%20In%20D%20Minor&category=Movies&year_filter=equals&yone=2018&tmdb_id=540489&imdb_id=tt8750664&tvdb_id=16950
         # tmdb: https://www.themoviedb.org/movie/540489
@@ -161,7 +161,7 @@ metadata:
         sort_title: "Garage Sale Mysteries - 2018 - Picture a Murder"
         match:
           mapping_id: 540573
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278084
         # IDs: imdb://tt8594624, tmdb://540573, tvdb://11758
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Picture%20a%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=540573&imdb_id=tt8594624&tvdb_id=11758
         # tmdb: https://www.themoviedb.org/movie/540573
@@ -174,7 +174,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2018 - Pandora's Box"
         match:
           mapping_id: 539960
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278082
         # IDs: imdb://tt8045978, tmdb://539960, tvdb://15674
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20Pandora%27s%20Box&category=Movies&year_filter=equals&yone=2018&tmdb_id=539960&imdb_id=tt8045978&tvdb_id=15674
         # tmdb: https://www.themoviedb.org/movie/539960
@@ -187,7 +187,7 @@ metadata:
         sort_title: "Garage Sale Mystery - 2018 - The Mask Murder"
         match:
           mapping_id: 540486
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278083
         # IDs: imdb://tt8080578, tmdb://540486, tvdb://15473
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mystery%3A%20The%20Mask%20Murder&category=Movies&year_filter=equals&yone=2018&tmdb_id=540486&imdb_id=tt8080578&tvdb_id=15473
         # tmdb: https://www.themoviedb.org/movie/540486
@@ -200,7 +200,7 @@ metadata:
         sort_title: "Garage Sale Mysteries - 2020 - Searched & Seized"
         match:
           mapping_id: 658780
-        # url_poster: https://theposterdb.com/api/assets/
+        url_poster: https://theposterdb.com/api/assets/278086
         # IDs: imdb://tt9760202, tmdb://658780
         # tpdb: https://theposterdb.com/search/advanced/results?term=Garage%20Sale%20Mysteries%3A%20Searched%20%26%20Seized&category=Movies&year_filter=equals&yone=2020&tmdb_id=658780&imdb_id=tt9760202
         # tmdb: https://www.themoviedb.org/movie/658780

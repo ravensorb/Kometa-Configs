@@ -5,7 +5,7 @@ collections:
       sort_prefix: "Hallmark Mysteries",
       sort_order: "02",
       sort_separator: " - ",
-      poster: https://theposterdb.com/api/assets/220013
+      poster: https://theposterdb.com/api/assets/278070
     }
     template: [ 
       { name: tplCommonBase }, 
