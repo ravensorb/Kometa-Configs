@@ -4,7 +4,7 @@ metadata:
         title: "Cars"
         match:
           mapping_id: 920
-        url_poster: https://theposterdb.com/api/assets/188637
+        url_poster: https://theposterdb.com/api/assets/535829
         # IDs: imdb://tt0317219, tmdb://920, tvdb://562
         # tpdb: https://theposterdb.com/search/advanced/results?term=Cars&category=Movies&year_filter=equals&yone=2006&tmdb_id=920&imdb_id=tt0317219&tvdb_id=562
         # tmdb: https://www.themoviedb.org/movie/920
