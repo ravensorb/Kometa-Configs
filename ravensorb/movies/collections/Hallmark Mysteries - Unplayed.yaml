@@ -2,6 +2,10 @@ collections:
   Hallmark Mysteries (New):
     smart_label:
       sort_by: release.desc
+      label: KOMETA-U-Hallmark Mysteries
       all:
-        label: KOMETA-U-Hallmark Mysteries
         unplayed: true
+    visible_home: true
+    visible_shared: true
+    sort_title: Hallmark Mysteries (New)
+    summary: A collection of unwatched Hallmark Mystery movies.
