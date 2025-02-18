@@ -4,6 +4,7 @@ collections:
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
       sort_order: "00",
+      sort_separator: " - ",
       poster: https://theposterdb.com/api/assets/49409
     }
     template: [ 
@@ -19,16 +20,21 @@ collections:
     # trakt: https://trakt.tv/search/lists?query=Hallmark%20Mysteries
     # collection_mode: hide
     trakt_list:
-      - https://trakt.tv/users/ad76/lists/hallmark-mysteries?sort=released,asc
-      - https://trakt.tv/users/mzdiobolik/lists/hallmark-mysteries?sort=title,asc
+      - https://trakt.tv/users/ravensorb/lists/hallmark-mysteries?sort=released,asc
+      # - https://trakt.tv/users/ad76/lists/hallmark-mysteries?sort=released,asc
+      # - https://trakt.tv/users/mzdiobolik/lists/hallmark-mysteries?sort=title,asc
       # - https://trakt.tv/users/norman05/lists/hallmark-mystery-movies?sort=released,asc
 
+
+https://trakt.tv/users/ravensorb/lists/hallmark-romance?sort=released,asc
 ########################################################################################################################
 ########################################################################################################################
 
 
 templates:
   tplCommonBase:
+    default:
+      radarr_add_missing: false
     optional:
       - poster
       - radarr_add_missing
