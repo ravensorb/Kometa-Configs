@@ -2,6 +2,7 @@ metadata:
     "Curious Caterer: Dying for Chocolate (2022)":
         year: 2022
         title: "Curious Caterer: Dying for Chocolate"
+        sort_title: "Curious Caterer - 2022 - Dying for Chocolate"
         match:
           mapping_id: 936897
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Curious Caterer: Fatal Vows (2023)":
         year: 2023
         title: "Curious Caterer: Fatal Vows"
+        sort_title: "Curious Caterer - 2023 - Fatal Vows"
         match:
           mapping_id: 1132282
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Curious Caterer: Grilling Season (2023)":
         year: 2023
         title: "Curious Caterer: Grilling Season"
+        sort_title: "Curious Caterer - 2023 - Grilling Season"
         match:
           mapping_id: 1068830
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Curious Caterer: Foiled Plans (2024)":
         year: 2024
         title: "Curious Caterer: Foiled Plans"
+        sort_title: "Curious Caterer - 2024 - Foiled Plans"
         match:
           mapping_id: 1255418
         # url_poster: https://theposterdb.com/api/assets/

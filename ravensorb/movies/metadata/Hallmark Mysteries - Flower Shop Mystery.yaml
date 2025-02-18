@@ -2,6 +2,7 @@ metadata:
     "Flower Shop Mystery: Dearly Depotted (2016)":
         year: 2016
         title: "Flower Shop Mystery: Dearly Depotted"
+        sort_title: "Flower Shop Mystery - 2016 - Dearly Depotted"
         match:
           mapping_id: 398356
         url_poster: https://theposterdb.com/api/assets/373439
@@ -14,6 +15,7 @@ metadata:
     "Flower Shop Mystery: Mum's the Word (2016)":
         year: 2016
         title: "Flower Shop Mystery: Mum's the Word"
+        sort_title: "Flower Shop Mystery - 2016 - Mum's the Word"
         match:
           mapping_id: 374739
         url_poster: https://theposterdb.com/api/assets/373437
@@ -26,6 +28,7 @@ metadata:
     "Flower Shop Mystery: Snipped in the Bud (2016)":
         year: 2016
         title: "Flower Shop Mystery: Snipped in the Bud"
+        sort_title: "Flower Shop Mystery - 2016 - Snipped in the Bud"
         match:
           mapping_id: 392625
         url_poster: https://theposterdb.com/api/assets/373438

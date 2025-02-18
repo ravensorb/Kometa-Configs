@@ -2,6 +2,7 @@ metadata:
     "Signed, Sealed, Delivered (2013)":
         year: 2013
         title: "Signed, Sealed, Delivered"
+        sort_title: "Signed, Sealed, Delivered - 2013"
         match:
           mapping_id: 231617
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Signed, Sealed, Delivered for Christmas (2014)":
         year: 2014
         title: "Signed, Sealed, Delivered for Christmas"
+        sort_title: "Signed, Sealed, Delivered - 2014 - Signed, Sealed, Delivered for Christmas"
         match:
           mapping_id: 308686
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Signed, Sealed, Delivered: From Paris with Love (2015)":
         year: 2015
         title: "Signed, Sealed, Delivered: From Paris with Love"
+        sort_title: "Signed, Sealed, Delivered - 2015 - From Paris with Love"
         match:
           mapping_id: 338485
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Signed, Sealed, Delivered: The Impossible Dream (2015)":
         year: 2015
         title: "Signed, Sealed, Delivered: The Impossible Dream"
+        sort_title: "Signed, Sealed, Delivered - 2015 - The Impossible Dream"
         match:
           mapping_id: 361261
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Signed, Sealed, Delivered: Truth Be Told (2015)":
         year: 2015
         title: "Signed, Sealed, Delivered: Truth Be Told"
+        sort_title: "Signed, Sealed, Delivered - 2015 - Truth Be Told"
         match:
           mapping_id: 355730
         # url_poster: https://theposterdb.com/api/assets/
@@ -62,6 +67,7 @@ metadata:
     "Signed, Sealed, Delivered: From the Heart (2016)":
         year: 2016
         title: "Signed, Sealed, Delivered: From the Heart"
+        sort_title: "Signed, Sealed, Delivered - 2016 - From the Heart"
         match:
           mapping_id: 379992
         # url_poster: https://theposterdb.com/api/assets/
@@ -74,6 +80,7 @@ metadata:
     "Signed, Sealed, Delivered: Lost Without You (2016)":
         year: 2016
         title: "Signed, Sealed, Delivered: Lost Without You"
+        sort_title: "Signed, Sealed, Delivered - 2016 - Lost Without You"
         match:
           mapping_id: 414762
         # url_poster: https://theposterdb.com/api/assets/
@@ -86,6 +93,7 @@ metadata:
     "Signed, Sealed, Delivered: One in a Million (2016)":
         year: 2016
         title: "Signed, Sealed, Delivered: One in a Million"
+        sort_title: "Signed, Sealed, Delivered - 2016 - One in a Million"
         match:
           mapping_id: 407171
         # url_poster: https://theposterdb.com/api/assets/
@@ -98,6 +106,7 @@ metadata:
     "Signed, Sealed, Delivered: Higher Ground (2017)":
         year: 2017
         title: "Signed, Sealed, Delivered: Higher Ground"
+        sort_title: "Signed, Sealed, Delivered - 2017 - Higher Ground"
         match:
           mapping_id: 438573
         # url_poster: https://theposterdb.com/api/assets/
@@ -110,6 +119,7 @@ metadata:
     "Signed, Sealed, Delivered: Home Again (2017)":
         year: 2017
         title: "Signed, Sealed, Delivered: Home Again"
+        sort_title: "Signed, Sealed, Delivered - 2017 - Home Again"
         match:
           mapping_id: 473896
         # url_poster: https://theposterdb.com/api/assets/
@@ -122,6 +132,7 @@ metadata:
     "Signed, Sealed, Delivered: The Road Less Traveled (2018)":
         year: 2018
         title: "Signed, Sealed, Delivered: The Road Less Traveled"
+        sort_title: "Signed, Sealed, Delivered - 2018 - The Road Less Traveled"
         match:
           mapping_id: 483180
         # url_poster: https://theposterdb.com/api/assets/
@@ -134,6 +145,7 @@ metadata:
     "Signed, Sealed, Delivered: To the Altar (2018)":
         year: 2018
         title: "Signed, Sealed, Delivered: To the Altar"
+        sort_title: "Signed, Sealed, Delivered - 2018 - To the Altar"
         match:
           mapping_id: 526089
         # url_poster: https://theposterdb.com/api/assets/
@@ -146,6 +158,7 @@ metadata:
     "Signed, Sealed, Delivered: The Vows We Have Made (2021)":
         year: 2021
         title: "Signed, Sealed, Delivered: The Vows We Have Made"
+        sort_title: "Signed, Sealed, Delivered - 2021 - The Vows We Have Made"
         match:
           mapping_id: 860271
         # url_poster: https://theposterdb.com/api/assets/
@@ -158,6 +171,7 @@ metadata:
     "Signed, Sealed, Delivered: A Tale of Three Letters (2024)":
         year: 2024
         title: "Signed, Sealed, Delivered: A Tale of Three Letters"
+        sort_title: "Signed, Sealed, Delivered - 2024 - A Tale of Three Letters"
         match:
           mapping_id: 1302757
         # url_poster: https://theposterdb.com/api/assets/

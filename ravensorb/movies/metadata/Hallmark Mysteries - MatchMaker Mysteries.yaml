@@ -2,6 +2,7 @@ metadata:
     "Matchmaker Mysteries: A Killer Engagement (2019)":
         year: 2019
         title: "Matchmaker Mysteries: A Killer Engagement"
+        sort_title: "Matchmaker Mysteries - 2019 - A Killer Engagement"
         # url_poster: https://theposterdb.com/api/assets/
         # IDs: tvdb://131761
         # tpdb: https://theposterdb.com/search/advanced/results?term=Matchmaker%20Mysteries%3A%20A%20Killer%20Engagement&category=Movies&year_filter=equals&yone=2019&tvdb_id=131761
@@ -12,6 +13,7 @@ metadata:
     "MatchMaker Mysteries: A Fatal Romance (2020)":
         year: 2020
         title: "MatchMaker Mysteries: A Fatal Romance"
+        sort_title: "MatchMaker Mysteries - 2020 - A Fatal Romance"
         match:
           mapping_id: 681630
         # url_poster: https://theposterdb.com/api/assets/
@@ -24,6 +26,7 @@ metadata:
     "MatchMaker Mysteries: The Art of the Kill (2021)":
         year: 2021
         title: "MatchMaker Mysteries: The Art of the Kill"
+        sort_title: "MatchMaker Mysteries - 2021 - The Art of the Kill"
         match:
           mapping_id: 799360
         # url_poster: https://theposterdb.com/api/assets/

@@ -2,6 +2,7 @@ metadata:
     "Aurora Teagarden Mystery: A Bone to Pick (2015)":
         year: 2015
         title: "Aurora Teagarden Mystery: A Bone to Pick"
+        sort_title: "Aurora Teagarden Mystery - 2015 - A Bone to Pick"
         match:
           mapping_id: 325078
         url_poster: https://theposterdb.com/api/assets/440871
@@ -14,6 +15,7 @@ metadata:
     "Real Murders: An Aurora Teagarden Mystery (2015)":
         year: 2015
         title: "Real Murders: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2015 - Real Murders"
         match:
           mapping_id: 339580
         url_poster: https://theposterdb.com/api/assets/440872
@@ -26,7 +28,7 @@ metadata:
     "The Julius House: An Aurora Teagarden Mystery (2016)":
         year: 2016
         title: "The Julius House: An Aurora Teagarden Mystery"
-        sort_title: "Julius House: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2016 - The Julius House"
         match:
           mapping_id: 414768
         url_poster: https://theposterdb.com/api/assets/440874
@@ -39,6 +41,7 @@ metadata:
     "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery (2016)":
         year: 2016
         title: "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2016 - Three Bedrooms, One Corpse"
         match:
           mapping_id: 393737
         url_poster: https://theposterdb.com/api/assets/440873
@@ -51,7 +54,7 @@ metadata:
     "A Bundle of Trouble: An Aurora Teagarden Mystery (2017)":
         year: 2017
         title: "A Bundle of Trouble: An Aurora Teagarden Mystery"
-        sort_title: "Bundle of Trouble: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2017 - A Bundle of Trouble"
         match:
           mapping_id: 455034
         url_poster: https://theposterdb.com/api/assets/440876
@@ -64,6 +67,7 @@ metadata:
     "Dead Over Heels: An Aurora Teagarden Mystery (2017)":
         year: 2017
         title: "Dead Over Heels: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2017 - Dead Over Heels"
         match:
           mapping_id: 436398
         url_poster: https://theposterdb.com/api/assets/440875
@@ -76,6 +80,7 @@ metadata:
     "Aurora Teagarden Mysteries: The Disappearing Game (2018)":
         year: 2018
         title: "Aurora Teagarden Mysteries: The Disappearing Game"
+        sort_title: "Aurora Teagarden Mysteries - 2018 - The Disappearing Game"
         match:
           mapping_id: 531158
         url_poster: https://theposterdb.com/api/assets/440879
@@ -88,6 +93,7 @@ metadata:
     "Last Scene Alive: An Aurora Teagarden Mystery (2018)":
         year: 2018
         title: "Last Scene Alive: An Aurora Teagarden Mystery"
+        sort_title: "Aurora Teagarden Mystery - 2018 - Last Scene Alive"
         match:
           mapping_id: 494466
         url_poster: https://theposterdb.com/api/assets/440877
@@ -100,6 +106,7 @@ metadata:
     "Aurora Teagarden Mysteries: A Game of Cat and Mouse (2019)":
         year: 2019
         title: "Aurora Teagarden Mysteries: A Game of Cat and Mouse"
+        sort_title: "Aurora Teagarden Mysteries - 2019 - A Game of Cat and Mouse"
         match:
           mapping_id: 590118
         url_poster: https://theposterdb.com/api/assets/440880
@@ -112,6 +119,7 @@ metadata:
     "Aurora Teagarden Mysteries: A Very Foul Play (2019)":
         year: 2019
         title: "Aurora Teagarden Mysteries: A Very Foul Play"
+        sort_title: "Aurora Teagarden Mysteries - 2019 - A Very Foul Play"
         match:
           mapping_id: 590123
         url_poster: https://theposterdb.com/api/assets/440882
@@ -124,6 +132,7 @@ metadata:
     "Aurora Teagarden Mysteries: An Inheritance to Die For (2019)":
         year: 2019
         title: "Aurora Teagarden Mysteries: An Inheritance to Die For"
+        sort_title: "Aurora Teagarden Mysteries - 2019 - An Inheritance to Die For"
         match:
           mapping_id: 590121
         url_poster: https://theposterdb.com/api/assets/440881
@@ -136,6 +145,7 @@ metadata:
     "Aurora Teagarden Mysteries: Heist and Seek (2020)":
         year: 2020
         title: "Aurora Teagarden Mysteries: Heist and Seek"
+        sort_title: "Aurora Teagarden Mysteries - 2020 - Heist and Seek"
         match:
           mapping_id: 681638
         url_poster: https://theposterdb.com/api/assets/440883
@@ -148,6 +158,7 @@ metadata:
     "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly (2020)":
         year: 2020
         title: "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly"
+        sort_title: "Aurora Teagarden Mysteries - 2020 - Reunited and It Feels So Deadly"
         match:
           mapping_id: 741755
         url_poster: https://theposterdb.com/api/assets/440884
@@ -160,6 +171,7 @@ metadata:
     "Aurora Teagarden Mysteries: Honeymoon, Honeymurder (2021)":
         year: 2021
         title: "Aurora Teagarden Mysteries: Honeymoon, Honeymurder"
+        sort_title: "Aurora Teagarden Mysteries - 2021 - Honeymoon, Honeymurder"
         match:
           mapping_id: 845929
         url_poster: https://theposterdb.com/api/assets/440887
@@ -172,6 +184,7 @@ metadata:
     "Aurora Teagarden Mysteries: How to Con a Con (2021)":
         year: 2021
         title: "Aurora Teagarden Mysteries: How to Con a Con"
+        sort_title: "Aurora Teagarden Mysteries - 2021 - How to Con a Con"
         match:
           mapping_id: 793425
         url_poster: https://theposterdb.com/api/assets/440885
@@ -184,6 +197,7 @@ metadata:
     "Aurora Teagarden Mysteries: Til Death Do Us Part (2021)":
         year: 2021
         title: "Aurora Teagarden Mysteries: Til Death Do Us Part"
+        sort_title: "Aurora Teagarden Mysteries - 2021 - Til Death Do Us Part"
         match:
           mapping_id: 793465
         url_poster: https://theposterdb.com/api/assets/440886
@@ -196,6 +210,7 @@ metadata:
     "Haunted by Murder (2022)":
         year: 2022
         title: "Haunted by Murder"
+        sort_title: "Aurora Teagarden Mysteries - 2022 - Haunted by Murder"
         match:
           mapping_id: 910765
         url_poster: https://theposterdb.com/api/assets/440888
@@ -208,6 +223,7 @@ metadata:
     "Aurora Teagarden Mysteries: Something New (2023)":
         year: 2023
         title: "Aurora Teagarden Mysteries: Something New"
+        sort_title: "Aurora Teagarden Mysteries - 2023 - Something New"
         match:
           mapping_id: 1101840
         url_poster: https://theposterdb.com/api/assets/418936

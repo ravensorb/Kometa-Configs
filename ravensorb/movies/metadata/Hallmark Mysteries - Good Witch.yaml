@@ -2,7 +2,7 @@ metadata:
     "The Good Witch (2008)":
         year: 2008
         title: "The Good Witch"
-        sort_title: "Good Witch"
+        sort_title: "Good Witch - 2008"
         match:
           mapping_id: 32790
         url_poster: https://theposterdb.com/api/assets/445968
@@ -15,7 +15,7 @@ metadata:
     "The Good Witch's Garden (2009)":
         year: 2009
         title: "The Good Witch's Garden"
-        sort_title: "Good Witch's Garden"
+        sort_title: "Good Witch - 2009 - The Good Witch's Garden"
         match:
           mapping_id: 60821
         url_poster: https://theposterdb.com/api/assets/445969
@@ -28,7 +28,7 @@ metadata:
     "The Good Witch's Gift (2010)":
         year: 2010
         title: "The Good Witch's Gift"
-        sort_title: "Good Witch's Gift"
+        sort_title: "Good Witch - 2010 - The Good Witch's Gift"
         match:
           mapping_id: 61005
         url_poster: https://theposterdb.com/api/assets/445970
@@ -41,7 +41,7 @@ metadata:
     "The Good Witch's Family (2011)":
         year: 2011
         title: "The Good Witch's Family"
-        sort_title: "Good Witch's Family"
+        sort_title: "Good Witch - 2011 - The Good Witch's Family"
         match:
           mapping_id: 81033
         url_poster: https://theposterdb.com/api/assets/445971
@@ -54,7 +54,7 @@ metadata:
     "The Good Witch's Charm (2012)":
         year: 2012
         title: "The Good Witch's Charm"
-        sort_title: "Good Witch's Charm"
+        sort_title: "Good Witch - 2012 - The Good Witch's Charm"
         match:
           mapping_id: 148656
         url_poster: https://theposterdb.com/api/assets/445972
@@ -67,7 +67,7 @@ metadata:
     "The Good Witch's Destiny (2013)":
         year: 2013
         title: "The Good Witch's Destiny"
-        sort_title: "Good Witch's Destiny"
+        sort_title: "Good Witch - 2013 - The Good Witch's Destiny"
         match:
           mapping_id: 638186
         url_poster: https://theposterdb.com/api/assets/445973
@@ -80,7 +80,7 @@ metadata:
     "The Good Witch's Wonder (2014)":
         year: 2014
         title: "The Good Witch's Wonder"
-        sort_title: "Good Witch's Wonder"
+        sort_title: "Good Witch - 2014 - The Good Witch's Wonder"
         match:
           mapping_id: 638187
         url_poster: https://theposterdb.com/api/assets/445974

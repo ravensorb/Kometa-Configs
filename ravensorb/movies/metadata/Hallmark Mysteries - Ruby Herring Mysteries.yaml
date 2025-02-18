@@ -2,6 +2,7 @@ metadata:
     "Ruby Herring Mysteries: Her Last Breath (2019)":
         year: 2019
         title: "Ruby Herring Mysteries: Her Last Breath"
+        sort_title: "Ruby Herring Mysteries - 2019 - Her Last Breath"
         match:
           mapping_id: 620741
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Ruby Herring Mysteries: Silent Witness (2019)":
         year: 2019
         title: "Ruby Herring Mysteries: Silent Witness"
+        sort_title: "Ruby Herring Mysteries - 2019 - Silent Witness"
         match:
           mapping_id: 571798
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Ruby Herring Mysteries: Prediction Murder (2020)":
         year: 2020
         title: "Ruby Herring Mysteries: Prediction Murder"
+        sort_title: "Ruby Herring Mysteries - 2020 - Prediction Murder"
         match:
           mapping_id: 681632
         # url_poster: https://theposterdb.com/api/assets/

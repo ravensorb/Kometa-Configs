@@ -2,6 +2,7 @@ metadata:
     "Chronicle Mysteries: Recovered (2019)":
         year: 2019
         title: "Chronicle Mysteries: Recovered"
+        sort_title: "Chronicle Mysteries - 2019 - Recovered"
         match:
           mapping_id: 582623
         url_poster: https://theposterdb.com/api/assets/419220
@@ -14,6 +15,7 @@ metadata:
     "Chronicle Mysteries: The Deep End (2019)":
         year: 2019
         title: "Chronicle Mysteries: The Deep End"
+        sort_title: "Chronicle Mysteries - 2019 - The Deep End"
         match:
           mapping_id: 623922
         url_poster: https://theposterdb.com/api/assets/419223
@@ -26,6 +28,7 @@ metadata:
     "Chronicle Mysteries: The Wrong Man (2019)":
         year: 2019
         title: "Chronicle Mysteries: The Wrong Man"
+        sort_title: "Chronicle Mysteries - 2019 - The Wrong Man"
         match:
           mapping_id: 582624
         url_poster: https://theposterdb.com/api/assets/419221
@@ -38,6 +41,7 @@ metadata:
     "Chronicle Mysteries: Vines That Bind (2019)":
         year: 2019
         title: "Chronicle Mysteries: Vines That Bind"
+        sort_title: "Chronicle Mysteries - 2019 - Vines That Bind"
         match:
           mapping_id: 583372
         url_poster: https://theposterdb.com/api/assets/419222
@@ -50,6 +54,7 @@ metadata:
     "Chronicle Mysteries: Helped to Death (2021)":
         year: 2021
         title: "Chronicle Mysteries: Helped to Death"
+        sort_title: "Chronicle Mysteries - 2021 - Helped to Death"
         match:
           mapping_id: 783305
         url_poster: https://theposterdb.com/api/assets/419224

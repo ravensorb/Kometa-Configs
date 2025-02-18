@@ -2,7 +2,7 @@ metadata:
     "A Beautiful Place to Die: A Martha's Vineyard Mystery (2020)":
         year: 2020
         title: "A Beautiful Place to Die: A Martha's Vineyard Mystery"
-        sort_title: "Beautiful Place to Die: A Martha's Vineyard Mystery"
+        sort_title: "A Martha's Vineyard Mystery - 2020 - A Beautiful Place to Die"
         match:
           mapping_id: 657018
         # url_poster: https://theposterdb.com/api/assets/
@@ -15,6 +15,7 @@ metadata:
     "Riddled with Deceit: A Martha's Vineyard Mystery (2020)":
         year: 2020
         title: "Riddled with Deceit: A Martha's Vineyard Mystery"
+        sort_title: "A Martha's Vineyard Mystery - 2020 - Riddled with Deceit"
         match:
           mapping_id: 661329
         # url_poster: https://theposterdb.com/api/assets/
@@ -27,6 +28,7 @@ metadata:
     "Poisoned in Paradise: A Martha's Vineyard Mystery (2021)":
         year: 2021
         title: "Poisoned in Paradise: A Martha's Vineyard Mystery"
+        sort_title: "A Martha's Vineyard Mystery - 2021 - Poisoned in Paradise"
         match:
           mapping_id: 809349
         # url_poster: https://theposterdb.com/api/assets/
@@ -39,6 +41,7 @@ metadata:
     "Ships in the Night: A Martha's Vineyard Mystery (2021)":
         year: 2021
         title: "Ships in the Night: A Martha's Vineyard Mystery"
+        sort_title: "A Martha's Vineyard Mystery - 2021 - Ships in the Night"
         match:
           mapping_id: 775162
         # url_poster: https://theposterdb.com/api/assets/

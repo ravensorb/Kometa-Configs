@@ -2,6 +2,7 @@ metadata:
     "Garage Sale Mystery (2013)":
         year: 2013
         title: "Garage Sale Mystery"
+        sort_title: "Garage Sale Mystery - 2013"
         match:
           mapping_id: 221791
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Garage Sale Mystery: All That Glitters (2014)":
         year: 2014
         title: "Garage Sale Mystery: All That Glitters"
+        sort_title: "Garage Sale Mystery - 2014 - All That Glitters"
         match:
           mapping_id: 300778
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Garage Sale Mystery: The Deadly Room (2015)":
         year: 2015
         title: "Garage Sale Mystery: The Deadly Room"
+        sort_title: "Garage Sale Mystery - 2015 - The Deadly Room"
         match:
           mapping_id: 325071
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Garage Sale Mystery: The Wedding Dress (2015)":
         year: 2015
         title: "Garage Sale Mystery: The Wedding Dress"
+        sort_title: "Garage Sale Mystery - 2015 - The Wedding Dress"
         match:
           mapping_id: 348630
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Garage Sale Mystery: Guilty Until Proven Innocent (2016)":
         year: 2016
         title: "Garage Sale Mystery: Guilty Until Proven Innocent"
+        sort_title: "Garage Sale Mystery - 2016 - Guilty Until Proven Innocent"
         match:
           mapping_id: 371182
         # url_poster: https://theposterdb.com/api/assets/
@@ -62,6 +67,7 @@ metadata:
     "Garage Sale Mystery: The Novel Murders (2016)":
         year: 2016
         title: "Garage Sale Mystery: The Novel Murders"
+        sort_title: "Garage Sale Mystery - 2016 - The Novel Murders"
         match:
           mapping_id: 396390
         # url_poster: https://theposterdb.com/api/assets/
@@ -74,6 +80,7 @@ metadata:
     "Garage Sale Mystery: A Case of Murder (2017)":
         year: 2017
         title: "Garage Sale Mystery: A Case of Murder"
+        sort_title: "Garage Sale Mystery - 2017 - A Case of Murder"
         match:
           mapping_id: 465294
         # url_poster: https://theposterdb.com/api/assets/
@@ -86,6 +93,7 @@ metadata:
     "Garage Sale Mystery: Murder Most Medieval (2017)":
         year: 2017
         title: "Garage Sale Mystery: Murder Most Medieval"
+        sort_title: "Garage Sale Mystery - 2017 - Murder Most Medieval"
         match:
           mapping_id: 465291
         # url_poster: https://theposterdb.com/api/assets/
@@ -98,6 +106,7 @@ metadata:
     "Garage Sale Mystery: Murder by Text (2017)":
         year: 2017
         title: "Garage Sale Mystery: Murder by Text"
+        sort_title: "Garage Sale Mystery - 2017 - Murder by Text"
         match:
           mapping_id: 465290
         # url_poster: https://theposterdb.com/api/assets/
@@ -110,6 +119,7 @@ metadata:
     "Garage Sale Mystery: The Art of Murder (2017)":
         year: 2017
         title: "Garage Sale Mystery: The Art of Murder"
+        sort_title: "Garage Sale Mystery - 2017 - The Art of Murder"
         match:
           mapping_id: 423671
         # url_poster: https://theposterdb.com/api/assets/
@@ -122,6 +132,7 @@ metadata:
     "Garage Sale Mystery: The Beach Murder (2017)":
         year: 2017
         title: "Garage Sale Mystery: The Beach Murder"
+        sort_title: "Garage Sale Mystery - 2017 - The Beach Murder"
         match:
           mapping_id: 465286
         # url_poster: https://theposterdb.com/api/assets/
@@ -134,6 +145,7 @@ metadata:
     "Garage Sale Mysteries: Murder In D Minor (2018)":
         year: 2018
         title: "Garage Sale Mysteries: Murder In D Minor"
+        sort_title: "Garage Sale Mysteries - 2018 - Murder In D Minor"
         match:
           mapping_id: 540489
         # url_poster: https://theposterdb.com/api/assets/
@@ -146,6 +158,7 @@ metadata:
     "Garage Sale Mysteries: Picture a Murder (2018)":
         year: 2018
         title: "Garage Sale Mysteries: Picture a Murder"
+        sort_title: "Garage Sale Mysteries - 2018 - Picture a Murder"
         match:
           mapping_id: 540573
         # url_poster: https://theposterdb.com/api/assets/
@@ -158,6 +171,7 @@ metadata:
     "Garage Sale Mystery: Pandora's Box (2018)":
         year: 2018
         title: "Garage Sale Mystery: Pandora's Box"
+        sort_title: "Garage Sale Mystery - 2018 - Pandora's Box"
         match:
           mapping_id: 539960
         # url_poster: https://theposterdb.com/api/assets/
@@ -170,6 +184,7 @@ metadata:
     "Garage Sale Mystery: The Mask Murder (2018)":
         year: 2018
         title: "Garage Sale Mystery: The Mask Murder"
+        sort_title: "Garage Sale Mystery - 2018 - The Mask Murder"
         match:
           mapping_id: 540486
         # url_poster: https://theposterdb.com/api/assets/
@@ -182,6 +197,7 @@ metadata:
     "Garage Sale Mysteries: Searched & Seized (2020)":
         year: 2020
         title: "Garage Sale Mysteries: Searched & Seized"
+        sort_title: "Garage Sale Mysteries - 2020 - Searched & Seized"
         match:
           mapping_id: 658780
         # url_poster: https://theposterdb.com/api/assets/

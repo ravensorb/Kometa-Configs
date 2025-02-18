@@ -2,6 +2,7 @@ metadata:
     "Picture Perfect Mysteries: Newlywed and Dead (2019)":
         year: 2019
         title: "Picture Perfect Mysteries: Newlywed and Dead"
+        sort_title: "Picture Perfect Mysteries - 2019 - Newlywed and Dead"
         match:
           mapping_id: 603085
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Picture Perfect Mysteries: Dead Over Diamonds (2020)":
         year: 2020
         title: "Picture Perfect Mysteries: Dead Over Diamonds"
+        sort_title: "Picture Perfect Mysteries - 2020 - Dead Over Diamonds"
         match:
           mapping_id: 661328
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Picture Perfect Mysteries: Exit, Stage Death (2020)":
         year: 2020
         title: "Picture Perfect Mysteries: Exit, Stage Death"
+        sort_title: "Picture Perfect Mysteries - 2020 - Exit, Stage Death"
         match:
           mapping_id: 733278
         # url_poster: https://theposterdb.com/api/assets/

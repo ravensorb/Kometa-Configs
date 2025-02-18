@@ -2,6 +2,7 @@ metadata:
     "Crossword Mysteries: A Puzzle to Die For (2019)":
         year: 2019
         title: "Crossword Mysteries: A Puzzle to Die For"
+        sort_title: "Crossword Mysteries - 2019 - A Puzzle to Die For"
         match:
           mapping_id: 529245
         url_poster: https://theposterdb.com/api/assets/443727
@@ -14,6 +15,7 @@ metadata:
     "Crossword Mysteries: Abracadaver (2019)":
         year: 2019
         title: "Crossword Mysteries: Abracadaver"
+        sort_title: "Crossword Mysteries - 2019 - Abracadaver"
         match:
           mapping_id: 639289
         url_poster: https://theposterdb.com/api/assets/443729
@@ -26,6 +28,7 @@ metadata:
     "Crossword Mysteries: Proposing Murder (2019)":
         year: 2019
         title: "Crossword Mysteries: Proposing Murder"
+        sort_title: "Crossword Mysteries - 2019 - Proposing Murder"
         match:
           mapping_id: 639254
         url_poster: https://theposterdb.com/api/assets/443728
@@ -38,6 +41,7 @@ metadata:
     "Crossword Mysteries: Riddle Me Dead (2021)":
         year: 2021
         title: "Crossword Mysteries: Riddle Me Dead"
+        sort_title: "Crossword Mysteries - 2021 - Riddle Me Dead"
         match:
           mapping_id: 784410
         url_poster: https://theposterdb.com/api/assets/443731
@@ -50,6 +54,7 @@ metadata:
     "Crossword Mysteries: Terminal Descent (2021)":
         year: 2021
         title: "Crossword Mysteries: Terminal Descent"
+        sort_title: "Crossword Mysteries - 2021 - Terminal Descent"
         match:
           mapping_id: 783508
         url_poster: https://theposterdb.com/api/assets/443730

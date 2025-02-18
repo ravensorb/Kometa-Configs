@@ -2,6 +2,7 @@ metadata:
     "Gourmet Detective (2015)":
         year: 2015
         title: "Gourmet Detective"
+        sort_title: "Gourmet Detective - 2015"
         match:
           mapping_id: 330161
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Gourmet Detective: A Healthy Place to Die (2015)":
         year: 2015
         title: "Gourmet Detective: A Healthy Place to Die"
+        sort_title: "Gourmet Detective - 2015 - A Healthy Place to Die"
         match:
           mapping_id: 348631
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Death al Dente: A Gourmet Detective Mystery (2016)":
         year: 2016
         title: "Death al Dente: A Gourmet Detective Mystery"
+        sort_title: "Gourmet Detective - 2016 - Death al Dente"
         match:
           mapping_id: 414767
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Gourmet Detective: Eat, Drink, and Be Buried (2017)":
         year: 2017
         title: "Gourmet Detective: Eat, Drink, and Be Buried"
+        sort_title: "Gourmet Detective - 2017 - Eat, Drink, and Be Buried"
         match:
           mapping_id: 479242
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Roux the Day: A Gourmet Detective Mystery (2020)":
         year: 2020
         title: "Roux the Day: A Gourmet Detective Mystery"
+        sort_title: "Gourmet Detective - 2020 - Roux the Day"
         match:
           mapping_id: 648597
         # url_poster: https://theposterdb.com/api/assets/

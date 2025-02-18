@@ -2,6 +2,7 @@ metadata:
     "Hailey Dean Mystery: Murder, with Love (2016)":
         year: 2016
         title: "Hailey Dean Mystery: Murder, with Love"
+        sort_title: "Hailey Dean Mysteries - 2016 - Murder, with Love"
         match:
           mapping_id: 422842
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Hailey Dean Mystery: Dating Is Murder (2017)":
         year: 2017
         title: "Hailey Dean Mystery: Dating Is Murder"
+        sort_title: "Hailey Dean Mysteries - 2017 - Dating Is Murder"
         match:
           mapping_id: 479630
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Hailey Dean Mystery: Deadly Estate (2017)":
         year: 2017
         title: "Hailey Dean Mystery: Deadly Estate"
+        sort_title: "Hailey Dean Mysteries - 2017 - Deadly Estate"
         match:
           mapping_id: 446865
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Hailey Dean Mystery: 2 + 2 = Murder (2018)":
         year: 2018
         title: "Hailey Dean Mystery: 2 + 2 = Murder"
+        sort_title: "Hailey Dean Mysteries - 2018 - 2 + 2 = Murder"
         match:
           mapping_id: 528094
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Hailey Dean Mystery: A Marriage Made for Murder (2018)":
         year: 2018
         title: "Hailey Dean Mystery: A Marriage Made for Murder"
+        sort_title: "Hailey Dean Mysteries - 2018 - A Marriage Made for Murder"
         match:
           mapping_id: 529369
         # url_poster: https://theposterdb.com/api/assets/
@@ -62,6 +67,7 @@ metadata:
     "Hailey Dean Mysteries: A Prescription for Murder (2019)":
         year: 2019
         title: "Hailey Dean Mysteries: A Prescription for Murder"
+        sort_title: "Hailey Dean Mysteries - 2019 - A Prescription for Murder"
         match:
           mapping_id: 594633
         # url_poster: https://theposterdb.com/api/assets/
@@ -74,6 +80,7 @@ metadata:
     "Hailey Dean Mysteries: Death on Duty (2019)":
         year: 2019
         title: "Hailey Dean Mysteries: Death on Duty"
+        sort_title: "Hailey Dean Mysteries - 2019 - Death on Duty"
         match:
           mapping_id: 594631
         # url_poster: https://theposterdb.com/api/assets/
@@ -86,6 +93,7 @@ metadata:
     "Hailey Dean Mysteries: Killer Sentence (2019)":
         year: 2019
         title: "Hailey Dean Mysteries: Killer Sentence"
+        sort_title: "Hailey Dean Mysteries - 2019 - Killer Sentence"
         match:
           mapping_id: 603475
         # url_poster: https://theposterdb.com/api/assets/
@@ -98,6 +106,7 @@ metadata:
     "Hailey Dean Mystery: A Will to Kill (2020)":
         year: 2020
         title: "Hailey Dean Mystery: A Will to Kill"
+        sort_title: "Hailey Dean Mysteries - 2020 - A Will to Kill"
         match:
           mapping_id: 529371
         # url_poster: https://theposterdb.com/api/assets/

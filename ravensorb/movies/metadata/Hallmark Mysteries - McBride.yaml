@@ -2,6 +2,7 @@ metadata:
     "McBride: Tune in for Murder (2005)":
         year: 2005
         title: "McBride: Tune in for Murder"
+        sort_title: "McBride - 2005 - Tune in for Murder"
         match:
           mapping_id: 256275
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "McBride: Fallen Idol (2006)":
         year: 2006
         title: "McBride: Fallen Idol"
+        sort_title: "McBride - 2006 - Fallen Idol"
         match:
           mapping_id: 133353
         # url_poster: https://theposterdb.com/api/assets/

@@ -2,6 +2,7 @@ metadata:
     "Concrete Evidence: A Fixer Upper Mystery (2017)":
         year: 2017
         title: "Concrete Evidence: A Fixer Upper Mystery"
+        sort_title: "A Fixer Upper Mystery - 2017 - Concrete Evidence"
         match:
           mapping_id: 446864
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Framed for Murder: A Fixer Upper Mystery (2017)":
         year: 2017
         title: "Framed for Murder: A Fixer Upper Mystery"
+        sort_title: "A Fixer Upper Mystery - 2017 - Framed for Murder"
         match:
           mapping_id: 435720
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Deadly Deed: A Fixer Upper Mystery (2018)":
         year: 2018
         title: "Deadly Deed: A Fixer Upper Mystery"
+        sort_title: "A Fixer Upper Mystery - 2018 - Deadly Deed"
         match:
           mapping_id: 506460
         # url_poster: https://theposterdb.com/api/assets/

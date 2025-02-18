@@ -2,6 +2,7 @@ metadata:
     "Mystery Woman: Game Time (2005)":
         year: 2005
         title: "Mystery Woman: Game Time"
+        sort_title: "Mystery Woman - 2005 - Game Time"
         match:
           mapping_id: 90867
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Mystery Woman: Mystery Weekend (2005)":
         year: 2005
         title: "Mystery Woman: Mystery Weekend"
+        sort_title: "Mystery Woman - 2005 - Mystery Weekend"
         match:
           mapping_id: 193146
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Mystery Woman: Redemption (2006)":
         year: 2006
         title: "Mystery Woman: Redemption"
+        sort_title: "Mystery Woman - 2006 - Redemption"
         match:
           mapping_id: 89258
         # url_poster: https://theposterdb.com/api/assets/

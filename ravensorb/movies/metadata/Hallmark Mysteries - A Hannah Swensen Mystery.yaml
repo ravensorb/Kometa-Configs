@@ -2,6 +2,7 @@ metadata:
     "Murder, She Baked: A Chocolate Chip Cookie Mystery (2015)":
         year: 2015
         title: "Murder, She Baked: A Chocolate Chip Cookie Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2015 - A Chocolate Chip Cookie Mystery"
         match:
           mapping_id: 328848
         url_poster: https://theposterdb.com/api/assets/419211
@@ -14,6 +15,7 @@ metadata:
     "Murder, She Baked: A Plum Pudding Mystery (2015)":
         year: 2015
         title: "Murder, She Baked: A Plum Pudding Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2015 - A Plum Pudding Mystery"
         match:
           mapping_id: 361751
         url_poster: https://theposterdb.com/api/assets/419212
@@ -26,6 +28,7 @@ metadata:
     "Murder, She Baked: A Deadly Recipe (2016)":
         year: 2016
         title: "Murder, She Baked: A Deadly Recipe"
+        sort_title: "A Hannah Swensen Mystery - 2016 - A Deadly Recipe"
         match:
           mapping_id: 392629
         url_poster: https://theposterdb.com/api/assets/419214
@@ -38,6 +41,7 @@ metadata:
     "Murder, She Baked: A Peach Cobbler Mystery (2016)":
         year: 2016
         title: "Murder, She Baked: A Peach Cobbler Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2016 - A Peach Cobbler Mystery"
         match:
           mapping_id: 371181
         url_poster: https://theposterdb.com/api/assets/419213
@@ -50,6 +54,7 @@ metadata:
     "Murder, She Baked: Just Desserts (2017)":
         year: 2017
         title: "Murder, She Baked: Just Desserts"
+        sort_title: "A Hannah Swensen Mystery - 2017 - Just Desserts"
         match:
           mapping_id: 436401
         url_poster: https://theposterdb.com/api/assets/419215
@@ -62,6 +67,7 @@ metadata:
     "Sweet Revenge: A Hannah Swensen Mystery (2021)":
         year: 2021
         title: "Sweet Revenge: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2021 - Sweet Revenge"
         match:
           mapping_id: 840382
         url_poster: https://theposterdb.com/api/assets/419216
@@ -74,7 +80,7 @@ metadata:
     "A Zest for Death: A Hannah Swensen Mystery (2023)":
         year: 2023
         title: "A Zest for Death: A Hannah Swensen Mystery"
-        sort_title: "Zest for Death: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2023 - A Zest for Death"
         match:
           mapping_id: 1151579
         url_poster: https://theposterdb.com/api/assets/419218
@@ -87,6 +93,7 @@ metadata:
     "Carrot Cake Murder: A Hannah Swensen Mystery (2023)":
         year: 2023
         title: "Carrot Cake Murder: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2023 - Carrot Cake Murder"
         match:
           mapping_id: 1093396
         url_poster: https://theposterdb.com/api/assets/419217
@@ -99,6 +106,7 @@ metadata:
     "One Bad Apple: A Hannah Swensen Mystery (2024)":
         year: 2024
         title: "One Bad Apple: A Hannah Swensen Mystery"
+        sort_title: "A Hannah Swensen Mystery - 2024 - One Bad Apple"
         match:
           mapping_id: 1248298
         url_poster: https://theposterdb.com/api/assets/479883

@@ -2,6 +2,7 @@ metadata:
     "Mystery 101 (2019)":
         year: 2019
         title: "Mystery 101"
+        sort_title: "Mystery 101 - 2019"
         match:
           mapping_id: 577091
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Mystery 101: Dead Talk (2019)":
         year: 2019
         title: "Mystery 101: Dead Talk"
+        sort_title: "Mystery 101 - 2019 - Dead Talk"
         match:
           mapping_id: 620743
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Mystery 101: Playing Dead (2019)":
         year: 2019
         title: "Mystery 101: Playing Dead"
+        sort_title: "Mystery 101 - 2019 - Playing Dead"
         match:
           mapping_id: 606462
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Mystery 101: Words Can Kill (2019)":
         year: 2019
         title: "Mystery 101: Words Can Kill"
+        sort_title: "Mystery 101 - 2019 - Words Can Kill"
         match:
           mapping_id: 620744
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Mystery 101: An Education in Murder (2020)":
         year: 2020
         title: "Mystery 101: An Education in Murder"
+        sort_title: "Mystery 101 - 2020 - An Education in Murder"
         match:
           mapping_id: 676621
         # url_poster: https://theposterdb.com/api/assets/
@@ -62,6 +67,7 @@ metadata:
     "Mystery 101: Deadly History (2021)":
         year: 2021
         title: "Mystery 101: Deadly History"
+        sort_title: "Mystery 101 - 2021 - Deadly History"
         match:
           mapping_id: 847357
         # url_poster: https://theposterdb.com/api/assets/
@@ -74,6 +80,7 @@ metadata:
     "Mystery 101: Killer Timing (2021)":
         year: 2021
         title: "Mystery 101: Killer Timing"
+        sort_title: "Mystery 101 - 2021 - Killer Timing"
         match:
           mapping_id: 793252
         # url_poster: https://theposterdb.com/api/assets/

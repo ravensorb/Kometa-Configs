@@ -2,6 +2,7 @@ metadata:
     "Jane Doe: Now You See It, Now You Don't (2005)":
         year: 2005
         title: "Jane Doe: Now You See It, Now You Don't"
+        sort_title: "Jane Doe - 2005 - Now You See It, Now You Don't"
         match:
           mapping_id: 68676
         # url_poster: https://theposterdb.com/api/assets/
@@ -14,6 +15,7 @@ metadata:
     "Jane Doe: The Wrong Face (2005)":
         year: 2005
         title: "Jane Doe: The Wrong Face"
+        sort_title: "Jane Doe - 2005 - The Wrong Face"
         match:
           mapping_id: 68678
         # url_poster: https://theposterdb.com/api/assets/
@@ -26,6 +28,7 @@ metadata:
     "Jane Doe: Til Death Do Us Part (2005)":
         year: 2005
         title: "Jane Doe: Til Death Do Us Part"
+        sort_title: "Jane Doe - 2005 - Til Death Do Us Part"
         match:
           mapping_id: 105443
         # url_poster: https://theposterdb.com/api/assets/
@@ -38,6 +41,7 @@ metadata:
     "Jane Doe: Vanishing Act (2005)":
         year: 2005
         title: "Jane Doe: Vanishing Act"
+        sort_title: "Jane Doe - 2005 - Vanishing Act"
         match:
           mapping_id: 68688
         # url_poster: https://theposterdb.com/api/assets/
@@ -50,6 +54,7 @@ metadata:
     "Jane Doe: How to Fire Your Boss (2007)":
         year: 2007
         title: "Jane Doe: How to Fire Your Boss"
+        sort_title: "Jane Doe - 2007 - How to Fire Your Boss"
         match:
           mapping_id: 105460
         # url_poster: https://theposterdb.com/api/assets/
