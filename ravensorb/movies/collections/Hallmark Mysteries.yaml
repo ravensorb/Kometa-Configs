@@ -5,7 +5,7 @@ collections:
       poster: https://theposterdb.com/api/assets/49409
     }
     template: [ 
-      { name: tplCommonBase }, 
+      { name: tplCommonBase, radarr_add_missing: true }, 
       { name: tplCommonCollection },
       { name: tplTMDBCollection }, 
     ]
@@ -29,9 +29,11 @@ templates:
   tplCommonBase:
     optional:
       - poster
+      - radarr_add_missing
     move_prefix: The
     sync_mode: sync
     url_poster: <<poster>>
+    radarr_add_missing: <<radarr_add_missing>>
 
   tplCommonCollection:
     default:
