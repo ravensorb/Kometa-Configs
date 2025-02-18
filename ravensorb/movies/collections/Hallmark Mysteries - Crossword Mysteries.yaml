@@ -3,6 +3,7 @@ collections:
     variables: {
       label: "Hallmark Mysteries",
       sort_prefix: "Hallmark Mysteries",
+      sort_order: "02",
       sort_separator: " ",
       poster: https://theposterdb.com/api/assets/443726
     }
