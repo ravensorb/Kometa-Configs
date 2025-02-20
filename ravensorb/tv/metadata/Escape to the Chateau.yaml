@@ -1,0 +1,41 @@
+metadata:
+    "Château DIY (2018)":
+        year: 2018
+        title: "Château DIY"
+        sort_title: "Chateau DIY"
+        match:
+          mapping_id: 345678
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt8159596, tmdb://92558, tvdb://345678
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Ch%C3%A2teau%20DIY&category=Shows&year_filter=equals&yone=2018&tmdb_id=92558&imdb_id=tt8159596&tvdb_id=345678
+        # tmdb: https://www.themoviedb.org/tv/92558
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2018&query=345678
+        # imdb: https://www.imdb.com/title/tt8159596
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 3:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 4:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 5:
+                # url_poster: https://theposterdb.com/api/assets/
+
+    "Escape to the Chateau: Make Do and Mend (2020)":
+        year: 2020
+        title: "Escape to the Chateau: Make Do and Mend"
+        match:
+          mapping_id: 386145
+        # url_poster: https://theposterdb.com/api/assets/
+        # IDs: imdb://tt13906912, tmdb://114622, tvdb://386145
+        # tpdb: https://theposterdb.com/search/advanced/results?term=Escape%20to%20the%20Chateau%3A%20Make%20Do%20and%20Mend&category=Shows&year_filter=equals&yone=2020&tmdb_id=114622&imdb_id=tt13906912&tvdb_id=386145
+        # tmdb: https://www.themoviedb.org/tv/114622
+        # tvdb: https://thetvdb.com/search?menu%5Btype%5D=series&menu%5Byear%5D=2020&query=386145
+        # imdb: https://www.imdb.com/title/tt13906912
+        # seasons:
+            # 1:
+                # url_poster: https://theposterdb.com/api/assets/
+            # 2:
+                # url_poster: https://theposterdb.com/api/assets/
